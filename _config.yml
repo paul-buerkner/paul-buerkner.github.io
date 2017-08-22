@@ -37,7 +37,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Paul Bürkner
-  avatar: bio-photo.jpg
+  # avatar: bio-photo.jpg
   email: paul.buerkner@email.com
   disqus-shortname:
   twitter: #username
