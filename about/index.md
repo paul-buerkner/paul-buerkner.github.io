@@ -10,7 +10,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
 I am a statistician currently working at the University of Münster, Department of Psychology.
-See [Publications](../publications) for an overview of my scientific publications.
+See [here](../publications) for an overview of my scientific publications.
 
 ## Research Interests
 
@@ -31,7 +31,7 @@ See [Publications](../publications) for an overview of my scientific publication
 ## Teaching
 
 * Each WS: Statistic I - Descriptive Statistics und Probability Theory, B.Sc. Psychology
-* Each SS: Statistik II - Inferential Statistics, B.Sc. Psychology
+* Each SS: Statistic II - Inferential Statistics, B.Sc. Psychology
 
 ## Talks and Workshops
 
