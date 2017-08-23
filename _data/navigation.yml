@@ -1,19 +1,13 @@
 # Site navigation links
 
-- title: Publications
-  url: /publications/
-
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
+- title: Publications
+  url: /publications/
 
 - title: Blog
   url: /blog/
-
-- title: Theme Setup
-  url: /theme-setup/
 
 - title: Search
   url: /search/

@@ -1,26 +1,45 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: About me
+excerpt: ""
 modified: 2014-08-08T19:44:38.564948-04:00
-image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+# image:
+#   feature: so-simple-sample-image-4.jpg
+#   credit: WeGraphics
+#   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+I am a statistican currently working at the University of Münster, Department of Psychology.
 
-## So Simple Theme is all about:
+## Research Interests
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+* Bayesian Inference
+* Multilevel Models
+* Optimal Design
+* Meta-Analysis
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+## Software Development
 
-[^1]: Example: *domain.com/category-name/post-title*
+**brms**: Bayesian Regression Models using Stan
+**bayesplot**: Plotting for Bayesian Models
+
+## Awards
+
+Award for the best lecture of the Institut of Psychology in Münster (winter semester 2016 / 2017) 
+
+## Teaching
+
+* Each winter semester: Statistic I - Descriptive Statistics und Probability Theory, B.Sc. Psychology
+* Each summer semester: Statistik II - Inferential Statistics, B.Sc. Psychology
+
+## Talks and Workshops
+
+* Bayesian Multilevel Models in R with brms (Workshop), Institute of Psychology, Bern, 19.04 - 21.04.2017
+* An Introduction to Bayesian Inference and Multilevel Models (Workshop), Institut für Psychologie, Münster, 15.03. - 17.03.2017
+* A Short Introduction to Bayesian Inference, Institut für Psychologie, Münster, 14.12.2016
+* Bayesian Regression Models using Stan, Institut für Medizinische Biometrie und Informatik, Heidelberg, 24.10.2016
+* brms: An R Package for Bayesian Multilevel Models using Stan, eRum, Poznan, 13.10.2016 
+* Bayesian Multilevel Models in R using the Package brms (Workshop), 50. DGPs Conference, Leipzig, 18.09.2016
+* brms: An R Package for Bayesian Multilevel Models using Stan, R User Meeting, Köln, 26.02.2016
+* Adaptive Designs for Logistic Models with False Answers, IWS 2015, Wien, 23.09.2015
+* Optimal Design of Non-Parametric Two-Sample Tests, FGME 2015, 17.09.2015
