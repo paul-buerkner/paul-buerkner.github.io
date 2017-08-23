@@ -5,7 +5,7 @@ excerpt: "A list of my publications"
 ---
 
 ## in press
-* Williams D. R., Carlsson R., & Bürkner, P. C. (in press). Between-litter variation in developmental studies of hormones and behavior: inflated false positives and diminished power. *Frontiers in Neuroendocrinology*.
+* Williams D. R., Carlsson R., & Bürkner, P. C. (in press). Between-litter variation in developmental studies of hormones and behavior: inflated false positives and diminished power. [*Frontiers in Neuroendocrinology*](http://www.sciencedirect.com/science/article/pii/S0091302217300468).
 * Arslan R. C., Willführ K. P., Frans E. M., Verweij K. J. H., Bürkner P. C., Myrskylä M., Voland E., Almqvist C., Brendan P., Zietsch B. P., & Penke L. (in press). Older fathers’ children have lower evolutionary fitness across four centuries and in four populations. *Proceedings of the Royal Society B*.
 * Carlsson R., Schimmack U., Williams D. R., & Bürkner, P. C. (in press). Bayes factors from pooled data are no substitute for (Bayesian) meta-analysis. *Psychological Science*.
 * Bürkner, P. C. (in press). brms: An R Package for Bayesian Multilevel Models using Stan. *Journal of Statistical Software*.
