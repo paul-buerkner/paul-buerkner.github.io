@@ -26,12 +26,12 @@ See [here](../publications) for an overview of my scientific publications.
 
 ## Awards
 
-* Award for the best lecture of the Institute of Psychology in Münster (WS 2016 / 2017) 
+* Award for the best lecture of the Institute of Psychology in Münster (2017) 
 
 ## Teaching
 
-* Each WS: Statistic I - Descriptive Statistics und Probability Theory, B.Sc. Psychology
-* Each SS: Statistic II - Inferential Statistics, B.Sc. Psychology
+* Statistic I - Descriptive Statistics und Probability Theory, B.Sc. Psychology
+* Statistic II - Inferential Statistics, B.Sc. Psychology
 
 ## Talks and Workshops
 
