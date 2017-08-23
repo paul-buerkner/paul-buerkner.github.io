@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Paul Bürkner's Website
+title: More than Bayesian Multilevel Models
 locale: en_US
-description: #Describe your website here.
+description: Paul Bürkner's Website
 logo: paul_buerkner.jpg
 search: true
 url: #http://localhost:4000
@@ -37,8 +37,8 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Paul Bürkner
-  # avatar: bio-photo.jpg
-  email: paul.buerkner@email.com
+  avatar: paul_buerkner.jpg
+  email: paul.buerkner@gmail.com
   disqus-shortname:
   twitter: paulbuerkner
   facebook: #username
