@@ -4,6 +4,9 @@ title: Publications
 excerpt: "A list of my publications"
 ---
 
+## preprints
+* Bürkner, P. C. (2017). [Bayesian Distributional Non-Linear Multilevel Modeling with the R Package brms](http://arxiv.org/abs/1705.11123). *arXiv preprint*.
+
 ## in press
 * Arslan R. C., Willführ K. P., Frans E. M., Verweij K. J. H., Bürkner P. C., Myrskylä M., Voland E., Almqvist C., Brendan P., Zietsch B. P., & Penke L. (in press). Older fathers’ children have lower evolutionary fitness across four centuries and in four populations. *Proceedings of the Royal Society B*.
 * Carlsson R., Schimmack U., Williams D. R., & Bürkner, P. C. (in press). Bayes factors from pooled data are no substitute for (Bayesian) meta-analysis. *Psychological Science*.
@@ -23,8 +26,6 @@ excerpt: "A list of my publications"
 ## 2014
 * Bürkner, P. C. & Doebler P. (2014). [Testing for Publication Bias in Diagnostic Meta-Analysis: A Simulation Study](http://onlinelibrary.wiley.com/doi/10.1002/sim.6177/full). *Statistics in Medicine*. doi: 10.1002/sim.6177
 
-## preprints
-
-* Bürkner, P. C. (2017). [Bayesian Distributional Non-Linear Multilevel Modeling with the R Package brms](http://arxiv.org/abs/1705.11123). *arXiv preprint*.
+## unpublished
 * Fleischer, C., Doebler, P., Bürkner, P. C., & Holling, H. (2017). [Adventure therapy effects on self-concept – A meta-analysis](https://osf.io/preprints/psyarxiv/c7y9a). *PsyArXiv preprint*.
 * Williams D. R. & Bürkner, P. C. (2016). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *PsyArXiv preprint*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)

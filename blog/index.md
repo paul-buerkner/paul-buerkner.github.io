@@ -5,7 +5,7 @@ excerpt: "An archive of blog posts sorted by date."
 search_omit: true
 ---
 
-Blog posts will be added in the future.
+<center>Blog posts will be added in the future.</center>
 
 <ul class="post-list">
 {% for post in site.categories.blog %} 
