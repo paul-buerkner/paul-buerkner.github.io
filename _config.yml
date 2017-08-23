@@ -3,9 +3,9 @@
 title: More than Bayesian Multilevel Models
 locale: en_US
 description: Paul Bürkner's Website
-logo: paul_buerkner.jpg
+logo: logo.png
 search: true
-url: #http://localhost:4000
+url: https://paul-buerkner.github.io/
 
 # Jekyll configuration
 
@@ -41,8 +41,8 @@ owner:
   email: paul.buerkner@gmail.com
   disqus-shortname:
   twitter: paulbuerkner
-  facebook: #username
-  github: https://github.com/paul-buerkner
+  facebook: Paul Bürkner
+  github: paul-buerkner
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
