@@ -7,3 +7,5 @@ _site
 codekit-config.json
 Gemfile.lock
 node_modules
+.Rproj.user
+paul-buerkner.github.io.Rproj
