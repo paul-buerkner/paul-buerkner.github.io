@@ -10,6 +10,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
 I am a statistican currently working at the University of Münster, Department of Psychology.
+See [Publications](publications) for an overview of my scientific publications.
 
 ## Research Interests
 
@@ -20,8 +21,8 @@ I am a statistican currently working at the University of Münster, Department o
 
 ## Software Development
 
-**brms**: Bayesian Regression Models using Stan
-**bayesplot**: Plotting for Bayesian Models
+**brms**: Bayesian Regression Models using Stan [GitHub](https://github.com/paul-buerkner/brms) [CRAN](https://CRAN.R-project.org/package=brms)
+**bayesplot**: Plotting for Bayesian Models [GitHub](https://github.com/stan-dev/bayesplot) [CRAN](https://CRAN.R-project.org/package=bayesplot)
 
 ## Awards
 
