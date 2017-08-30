@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A list of Blog posts about brms"
+title: "A list of blog posts about brms"
 modified:
 categories: blog
 excerpt:
