@@ -18,7 +18,7 @@ excerpt: "A list of my publications"
 * **Bürkner P. C.**, Williams D. R., Simmons T. C., & Woolley J. D. (2017). [Intranasal oxytocin may improve high-level social cognition in schizophrenia, but not social cognition or neurocognition in general: A multi-level Bayesian meta-analysis](https://academic.oup.com/schizophreniabulletin/article-abstract/doi/10.1093/schbul/sbx053/3861667/Intranasal-Oxytocin-May-Improve-High-Level-Social?redirectedFrom=fulltext). *Schizophrenia Bulletin*.
 * **Bürkner P. C.**, Bittner N., Holling H., & Buhlmann U. (2017). [D-Cycloserine Augmentation of Behavior Therapy for Anxiety and Obsessive-Compulsive Disorders: A Meta-Analysis](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0173660). *PLOS ONE*.
 * Williams D. R. & **Bürkner P. C.** (2017). [Data extraction and statistical errors: A quantitative critique of Gumley et al. (2014)](http://onlinelibrary.wiley.com/doi/10.1111/bjc.12130/full). *British Journal of Clinical Psychology*.
-* Williams D. R. & **Bürkner P. C.** (2017). [Effects of intranasal oxytocin on symptoms of schizophrenia: A multivariate Bayesian meta-analysis](http://www.sciencedirect.com/science/article/pii/S0306453016302128). *Psychoneuroendocrinology*. Psychoneuroendocrinology
+* Williams D. R. & **Bürkner P. C.** (2017). [Effects of intranasal oxytocin on symptoms of schizophrenia: A multivariate Bayesian meta-analysis](http://www.sciencedirect.com/science/article/pii/S0306453016302128). *Psychoneuroendocrinology*.
 
 ## 2016
 * **Bürkner P. C.**, Doebler P., & Holling H. (2016). [Optimal design of the Wilcoxon-Mann-Whitney-test](http://onlinelibrary.wiley.com/doi/10.1002/bimj.201600022/full). *Biometrical Journal*. doi: 10.1002/bimj.201600022
