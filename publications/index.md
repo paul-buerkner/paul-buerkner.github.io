@@ -8,11 +8,11 @@ excerpt: "A list of my publications"
 * **Bürkner P. C.** (2017). [Bayesian Distributional Non-Linear Multilevel Modeling with the R Package brms](http://arxiv.org/abs/1705.11123). *arXiv preprint*.
 
 ## in press
-* Johnen A., Landmeyer N. C., **Bürkner P. C.**, Wiendl H., Meutha S. G., Holling H. (in press). Distinct cognitive impairments in different disease courses of multiple sclerosis - A systematic review and meta-analysis. *Neuroscience & Biobehavioral Reviews*. 
-* Arslan R. C., Willführ K. P., Frans E. M., Verweij K. J. H., **Bürkner P. C.**, Myrskylä M., Voland E., Almqvist C., Brendan P., Zietsch B. P., & Penke L. (in press). Older fathers’ children have lower evolutionary fitness across four centuries and in four populations. *Proceedings of the Royal Society B*.
 * Carlsson R., Schimmack U., Williams D. R., & **Bürkner P. C.** (in press). Bayes factors from pooled data are no substitute for (Bayesian) meta-analysis. *Psychological Science*.
 
 ## 2017
+* Arslan R. C., Willführ K. P., Frans E. M., Verweij K. J. H., **Bürkner P. C.**, Myrskylä M., Voland E., Almqvist C., Brendan P., Zietsch B. P., & Penke L. (2017). [Older fathers’ children have lower evolutionary fitness across four centuries and in four populations](http://rspb.royalsocietypublishing.org/content/royprsb/284/1862/20171562.full.pdf). *Proceedings of the Royal Society B*.
+* Johnen A., Landmeyer N. C., **Bürkner P. C.**, Wiendl H., Meutha S. G., Holling H. (2017). [Distinct cognitive impairments in different disease courses of multiple sclerosis - A systematic review and meta-analysis](https://www.ncbi.nlm.nih.gov/pubmed/28890199). *Neuroscience & Biobehavioral Reviews*. 
 * **Bürkner P. C.** (2017). [brms: An R Package for Bayesian Multilevel Models using Stan](https://www.jstatsoft.org/article/view/v080i01). *Journal of Statistical Software*.
 * Williams D. R., Carlsson R., & **Bürkner P. C.** (2017). [Between-litter variation in developmental studies of hormones and behavior: inflated false positives and diminished power](http://www.sciencedirect.com/science/article/pii/S0091302217300468). *Frontiers in Neuroendocrinology*.
 * **Bürkner P. C.**, Williams D. R., Simmons T. C., & Woolley J. D. (2017). [Intranasal oxytocin may improve high-level social cognition in schizophrenia, but not social cognition or neurocognition in general: A multi-level Bayesian meta-analysis](https://academic.oup.com/schizophreniabulletin/article-abstract/doi/10.1093/schbul/sbx053/3861667/Intranasal-Oxytocin-May-Improve-High-Level-Social?redirectedFrom=fulltext). *Schizophrenia Bulletin*.
