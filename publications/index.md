@@ -7,10 +7,8 @@ excerpt: "A list of my publications"
 ## preprints
 * **Bürkner P. C.** (2017). [Bayesian Distributional Non-Linear Multilevel Modeling with the R Package brms](http://arxiv.org/abs/1705.11123). *arXiv preprint*.
 
-## in press
-* Carlsson R., Schimmack U., Williams D. R., & **Bürkner P. C.** (in press). Bayes factors from pooled data are no substitute for (Bayesian) meta-analysis. *Psychological Science*.
-
 ## 2017
+* Carlsson R., Schimmack U., Williams D. R., & **Bürkner P. C.** (2017). [Bayes Factors From Pooled Data Are No Substitute for Bayesian Meta-Analysis: Commentary on Scheibehenne, Jamil, and Wagenmakers (2016)](http://journals.sagepub.com/eprint/9iwbZegivfVhDZqRk4Dy/full). *Psychological Science*.
 * Arslan R. C., Willführ K. P., Frans E. M., Verweij K. J. H., **Bürkner P. C.**, Myrskylä M., Voland E., Almqvist C., Brendan P., Zietsch B. P., & Penke L. (2017). [Older fathers’ children have lower evolutionary fitness across four centuries and in four populations](http://rspb.royalsocietypublishing.org/content/royprsb/284/1862/20171562.full.pdf). *Proceedings of the Royal Society B*.
 * Johnen A., Landmeyer N. C., **Bürkner P. C.**, Wiendl H., Meutha S. G., Holling H. (2017). [Distinct cognitive impairments in different disease courses of multiple sclerosis - A systematic review and meta-analysis](https://www.ncbi.nlm.nih.gov/pubmed/28890199). *Neuroscience & Biobehavioral Reviews*. 
 * **Bürkner P. C.** (2017). [brms: An R Package for Bayesian Multilevel Models using Stan](https://www.jstatsoft.org/article/view/v080i01). *Journal of Statistical Software*.
