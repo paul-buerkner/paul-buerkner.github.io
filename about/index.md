@@ -9,7 +9,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 #   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-I am a statistician currently working at the University of Münster, Department of Psychology.
+I am a Ph.D. statistician currently working at the University of Münster, Department of Psychology.
 See [here](../publications) for an overview of my scientific publications.
 
 ## Research Interests
