@@ -7,6 +7,9 @@ excerpt: "A list of my publications"
 ## preprints
 * **Bürkner P. C.** (2017). [Bayesian Distributional Non-Linear Multilevel Modeling with the R Package brms](http://arxiv.org/abs/1705.11123). *arXiv preprint*.
 
+## in press
+* Reinhold M., **Bürkner P. C.**, Holling H. (in press). Effects of Expressive Writing on Depressive Symptoms – A Meta-Analysis. *Clinical Psychology: Science and Practice*.
+
 ## 2017
 * Carlsson R., Schimmack U., Williams D. R., & **Bürkner P. C.** (2017). [Bayes Factors From Pooled Data Are No Substitute for Bayesian Meta-Analysis: Commentary on Scheibehenne, Jamil, and Wagenmakers (2016)](http://journals.sagepub.com/eprint/9iwbZegivfVhDZqRk4Dy/full). *Psychological Science*.
 * Arslan R. C., Willführ K. P., Frans E. M., Verweij K. J. H., **Bürkner P. C.**, Myrskylä M., Voland E., Almqvist C., Brendan P., Zietsch B. P., & Penke L. (2017). [Older fathers’ children have lower evolutionary fitness across four centuries and in four populations](http://rspb.royalsocietypublishing.org/content/royprsb/284/1862/20171562.full.pdf). *Proceedings of the Royal Society B*.
