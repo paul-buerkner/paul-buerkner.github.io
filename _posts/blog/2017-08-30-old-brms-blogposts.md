@@ -13,6 +13,8 @@ Over the past two years, several people have blogged about my R package **brms**
 
 ## List of blog posts
 
+- [Bayesian Decision Theory Made Ridiculously Simple ](http://www.statsathome.com/2017/10/12/bayesian-decision-theory-made-ridiculously-simple/) by Justin Silverman
+- [Bayesian Estimation of Signal Detection Models, Part 2](https://vuorre.netlify.com/post/2017/bayesian-estimation-of-signal-detection-theory-models-part-2/) by Matti Vuorre
 - [Bayesian Estimation of Signal Detection Models, Part 1](https://vuorre.netlify.com/post/2017/bayesian-estimation-of-signal-detection-theory-models-part-1/) by Matti Vuorre
 - [More support for Bayesian analysis in the sj!-packages #rstats #rstan #brms](https://strengejacke.wordpress.com/2017/10/11/more-support-for-bayesian-analysis-in-the-sj-packages-rstats-rstan-brms/) by Daniel Luedecke
 - [R packages interfacing with Stan: brms](http://andrewgelman.com/2017/01/10/r-packages-interfacing-stan-brms/) posted on Andrew Gelmans blog 
