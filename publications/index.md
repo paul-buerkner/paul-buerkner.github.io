@@ -5,7 +5,7 @@ excerpt: "A list of my publications"
 ---
 
 ## preprints
-* **Bürkner P. C.** (2017). [Bayesian Distributional Non-Linear Multilevel Modeling with the R Package brms](http://arxiv.org/abs/1705.11123). *arXiv preprint*.
+* **Bürkner P. C.** (2017). [Advanced Bayesian Multilevel Modeling with the R Package brms](http://arxiv.org/abs/1705.11123). *arXiv preprint*.
 
 ## in press
 * Reinhold M., **Bürkner P. C.**, Holling H. (in press). Effects of Expressive Writing on Depressive Symptoms – A Meta-Analysis. *Clinical Psychology: Science and Practice*.
