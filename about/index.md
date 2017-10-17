@@ -28,6 +28,14 @@ I am a Ph.D. statistician currently working at the University of Münster (Germa
 * 2017: Gustav A. Lienert award for the best methodological dissertation (awarded by the DGPs)
 * 2017: Award for the best lecture of the Institute of Psychology in Münster
 
+## Reviewer (selected)
+
+* Behavior Research Methods
+* Biometrical Journal
+* Psychometrika
+* Psychonomic Bulletin & Review
+* Statistics in Medicine
+
 ## Teaching
 
 * Statistic I - Descriptive Statistics und Probability Theory, B.Sc. Psychology
