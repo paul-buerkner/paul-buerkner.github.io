@@ -13,6 +13,7 @@ Over the past two years, several people have blogged about my R package **brms**
 
 ## List of blog posts
 
+- [Diffusion/Wiener Model Analysis with brms – Part I: Introduction and Estimation](http://singmann.org/wiener-model-analysis-with-brms-part-i/) by Henrik Singmann
 - [Bayesian Decision Theory Made Ridiculously Simple ](http://www.statsathome.com/2017/10/12/bayesian-decision-theory-made-ridiculously-simple/) by Justin Silverman
 - [Bayesian Estimation of Signal Detection Models, Part 4](https://vuorre.netlify.com/post/2017/bayesian-estimation-of-signal-detection-theory-models-part-4/) by Matti Vuorre
 - [Bayesian Estimation of Signal Detection Models, Part 3](https://vuorre.netlify.com/post/2017/bayesian-estimation-of-signal-detection-theory-models-part-3/) by Matti Vuorre
