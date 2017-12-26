@@ -8,9 +8,11 @@ excerpt: "A list of my publications"
 * **Bürkner P. C.** (2017). [Advanced Bayesian Multilevel Modeling with the R Package brms](http://arxiv.org/abs/1705.11123). *arXiv preprint*.
 
 ## in press
-* Zhoua T., Popescu S. C., Lawing A. M., Eriksson M., Strambu B., **Bürkner P. C.** (in press). Bayesian and classical machine learning methods: A comparison for tree species classification with LiDAR waveform signatures. *Remote Sensing*. 
 * Schneider I., Kugel H., Redlich R., Grotegerd D., Bürger C., **Bürkner P. C.**, Opel N., Dohm K., Zaremba D., Meinert S., Schröder N., Straßburg A. M., Schwarte K., Schettler C., Ambrée O., Rust S., Domschke K., Arolt V., Heindel W., Baune B., Zhang W., Dannlowski U., and Hohoff C. (in press). Association of serotonin transporter gene AluJb methylation with major depression, amygdala responsiveness, 5-HTTLPR/rs25531 polymorphism, and stress. *Neuropsychopharmacology*. 
 * Reinhold M., **Bürkner P. C.**, Holling H. (in press). Effects of Expressive Writing on Depressive Symptoms – A Meta-Analysis. *Clinical Psychology: Science and Practice*.
+
+## 2018
+* Zhoua T., Popescu S. C., Lawing A. M., Eriksson M., Strambu B., **Bürkner P. C.** (in press). [Bayesian and classical machine learning methods: A comparison for tree species classification with LiDAR waveform signatures](http://www.mdpi.com/2072-4292/10/1/39). *Remote Sensing*. 
 
 ## 2017
 * Carlsson R., Schimmack U., Williams D. R., & **Bürkner P. C.** (2017). [Bayes Factors From Pooled Data Are No Substitute for Bayesian Meta-Analysis: Commentary on Scheibehenne, Jamil, and Wagenmakers (2016)](http://journals.sagepub.com/eprint/9iwbZegivfVhDZqRk4Dy/full). *Psychological Science*.
