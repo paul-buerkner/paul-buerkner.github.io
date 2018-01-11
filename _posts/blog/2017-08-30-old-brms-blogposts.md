@@ -13,6 +13,8 @@ Over the past two years, several people have blogged about my R package **brms**
 
 ## List of blog posts
 
+- [Hierarchical compartmental reserving models ](https://magesblog.com/post/hierarchical-compartmental-reserving-models/) by Markus Gesmann
+- [Diffusion/Wiener Model Analysis with brms – Part II: Model Diagnostics and Model Fit](http://singmann.org/wiener-model-analysis-with-brms-part-ii/) by Henrik Singmann
 - [Bayesian SEM with brms](http://www.imachordata.com/bayesian-sem-with-brms/) by Jarrett Byrnes
 - [Diffusion/Wiener Model Analysis with brms – Part I: Introduction and Estimation](http://singmann.org/wiener-model-analysis-with-brms-part-i/) by Henrik Singmann
 - [Bayesian Decision Theory Made Ridiculously Simple ](http://www.statsathome.com/2017/10/12/bayesian-decision-theory-made-ridiculously-simple/) by Justin Silverman
