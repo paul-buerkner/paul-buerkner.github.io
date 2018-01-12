@@ -5,10 +5,11 @@ excerpt: "A list of my publications"
 ---
 
 ## preprints
-* **Bürkner P. C.** (2017). [Advanced Bayesian Multilevel Modeling with the R Package brms](http://arxiv.org/abs/1705.11123). *arXiv preprint*.
+* **Bürkner P. C.** (in review). [Advanced Bayesian Multilevel Modeling with the R Package brms](http://arxiv.org/abs/1705.11123). *arXiv preprint*.
+* Williams D. R., Philippe Rast, & **Bürkner P. C.** (in review). [Bayesian Meta-Analysis with Weakly Informative Prior Distributions](https://psyarxiv.com/7tbrm/). *PsyArXiv preprint*.
 
 ## in press
-* Schneider I., Kugel H., Redlich R., Grotegerd D., Bürger C., **Bürkner P. C.**, Opel N., Dohm K., Zaremba D., Meinert S., Schröder N., Straßburg A. M., Schwarte K., Schettler C., Ambrée O., Rust S., Domschke K., Arolt V., Heindel W., Baune B., Zhang W., Dannlowski U., and Hohoff C. (in press). Association of serotonin transporter gene AluJb methylation with major depression, amygdala responsiveness, 5-HTTLPR/rs25531 polymorphism, and stress. *Neuropsychopharmacology*. 
+* Schneider I., Kugel H., Redlich R., Grotegerd D., Bürger C., **Bürkner P. C.**, Opel N., Dohm K., Zaremba D., Meinert S., Schröder N., Straßburg A. M., Schwarte K., Schettler C., Ambrée O., Rust S., Domschke K., Arolt V., Heindel W., Baune B., Zhang W., Dannlowski U., & Hohoff C. (in press). Association of serotonin transporter gene AluJb methylation with major depression, amygdala responsiveness, 5-HTTLPR/rs25531 polymorphism, and stress. *Neuropsychopharmacology*. 
 * Reinhold M., **Bürkner P. C.**, Holling H. (in press). Effects of Expressive Writing on Depressive Symptoms – A Meta-Analysis. *Clinical Psychology: Science and Practice*.
 
 ## 2018
