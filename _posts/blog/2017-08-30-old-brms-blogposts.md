@@ -13,6 +13,8 @@ Over the past two years, several people have blogged about my R package **brms**
 
 ## List of blog posts
 
+- [Confounded dose-response effects of treatment adherence: fitting Bayesian instrumental variable models using brms](http://rpsychologist.com/adherence-analysis-IV-brms) by Kristoffer Magnusson
+- [PK/PD reserving models](https://magesblog.com/post/2018-01-30-pkpd-reserving-models/) by Markus Gesmann
 - [Hierarchical compartmental reserving models ](https://magesblog.com/post/hierarchical-compartmental-reserving-models/) by Markus Gesmann
 - [Diffusion/Wiener Model Analysis with brms – Part II: Model Diagnostics and Model Fit](http://singmann.org/wiener-model-analysis-with-brms-part-ii/) by Henrik Singmann
 - [Bayesian SEM with brms](http://www.imachordata.com/bayesian-sem-with-brms/) by Jarrett Byrnes
