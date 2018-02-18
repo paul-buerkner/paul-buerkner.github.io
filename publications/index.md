@@ -9,10 +9,11 @@ excerpt: "A list of my publications"
 * Williams D. R., Philippe Rast, & **Bürkner P. C.** (in review). [Bayesian Meta-Analysis with Weakly Informative Prior Distributions](https://psyarxiv.com/7tbrm/). *PsyArXiv preprint*.
 
 ## in press
-* Schneider I., Kugel H., Redlich R., Grotegerd D., Bürger C., **Bürkner P. C.**, Opel N., Dohm K., Zaremba D., Meinert S., Schröder N., Straßburg A. M., Schwarte K., Schettler C., Ambrée O., Rust S., Domschke K., Arolt V., Heindel W., Baune B., Zhang W., Dannlowski U., & Hohoff C. (in press). Association of serotonin transporter gene AluJb methylation with major depression, amygdala responsiveness, 5-HTTLPR/rs25531 polymorphism, and stress. *Neuropsychopharmacology*. 
-* Reinhold M., **Bürkner P. C.**, Holling H. (in press). Effects of Expressive Writing on Depressive Symptoms – A Meta-Analysis. *Clinical Psychology: Science and Practice*.
+* Arslan R. C., Willführ K. P., Frans E. M., Verweij K. J. H., **Bürkner P. C.**, Myrskylä M., Voland E., Almqvist C., Brendan P., Zietsch B. P., & Penke L. (2017). Relaxed selection and mutation accumulation are best studied empirically: Reply to a comment by Woodley et al. *Proceedings of the Royal Society B*.
 
 ## 2018
+* Schneider I., Kugel H., Redlich R., Grotegerd D., Bürger C., **Bürkner P. C.**, Opel N., Dohm K., Zaremba D., Meinert S., Schröder N., Straßburg A. M., Schwarte K., Schettler C., Ambrée O., Rust S., Domschke K., Arolt V., Heindel W., Baune B., Zhang W., Dannlowski U., & Hohoff C. (in press). [Association of serotonin transporter gene AluJb methylation with major depression, amygdala responsiveness, 5-HTTLPR/rs25531 polymorphism, and stress](https://www.nature.com/articles/npp2017273). *Neuropsychopharmacology*. 
+* Reinhold M., **Bürkner P. C.**, Holling H. (2018). [Effects of Expressive Writing on Depressive Symptoms – A Meta-Analysis](http://onlinelibrary.wiley.com/doi/10.1111/cpsp.12224/abstract). *Clinical Psychology: Science and Practice*.
 * Zhoua T., Popescu S. C., Lawing A. M., Eriksson M., Strambu B., **Bürkner P. C.** (in press). [Bayesian and classical machine learning methods: A comparison for tree species classification with LiDAR waveform signatures](http://www.mdpi.com/2072-4292/10/1/39). *Remote Sensing*. 
 
 ## 2017
