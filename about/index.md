@@ -21,7 +21,6 @@ I am a Ph.D. statistician currently working at the University of Münster (Germa
 ## Software Development
 
 * **brms**: Bayesian Regression Models using Stan [GitHub](https://github.com/paul-buerkner/brms) [CRAN](https://CRAN.R-project.org/package=brms)
-* **bayesplot**: Plotting for Bayesian Models [GitHub](https://github.com/stan-dev/bayesplot) [CRAN](https://CRAN.R-project.org/package=bayesplot)
 
 ## Awards
 
@@ -38,8 +37,8 @@ I am a Ph.D. statistician currently working at the University of Münster (Germa
 
 ## Teaching
 
-* Statistic I - Descriptive Statistics und Probability Theory, B.Sc. Psychology
-* Statistic II - Inferential Statistics, B.Sc. Psychology
+* Statistics I - Descriptive Statistics und Probability Theory, B.Sc. Psychology
+* Statistics II - Inferential Statistics, B.Sc. Psychology
 
 ## Talks
 
@@ -53,6 +52,7 @@ I am a Ph.D. statistician currently working at the University of Münster (Germa
 
 ## Workshops
 
+* Longitudinal Multilevel Models in R, Institute of Psychology, Hamburg, 11.11. - 13.11.2017
 * Bayesian Multilevel Models in R, DPPD Conference, Munich, 03.09.2017
 * Bayesian Multilevel Models in R with brms, Deutsches Primatenzentrum (DPZ), Göttingen, 28.06. - 30.06.2017
 * Bayesian Multilevel Models in R with brms, Institute of Psychology, Bern, 19.04. - 21.04.2017
