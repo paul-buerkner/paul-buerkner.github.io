@@ -13,6 +13,7 @@ Over the past two years, several people have blogged about my R package **brms**
 
 ## List of blog posts
 
+- [Statistical Rethinking with brms, ggplot2, and the tidyverse](https://osf.io/97t6w/) by Solomon Kurz
 - [Easily made fitted and predicted values made easy](http://thestudyofthehousehold.com/post/easily-made-fitted-and-predicted-values-made-easy/) by Andrew MacDonald
 - [How to compute Bayes factors using lm, lmer, BayesFactor, brms, and JAGS/stan/pymc3](https://rpubs.com/lindeloev/bayes_factors) by Jonas Kristoffer Lindelov
 - [Confounded dose-response effects of treatment adherence: fitting Bayesian instrumental variable models using brms](http://rpsychologist.com/adherence-analysis-IV-brms) by Kristoffer Magnusson
