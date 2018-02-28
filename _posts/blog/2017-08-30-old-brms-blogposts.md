@@ -13,6 +13,7 @@ Over the past two years, several people have blogged about my R package **brms**
 
 ## List of blog posts
 
+- [Mixed effects models: Is it time to go Bayesian by default?](http://babieslearninglanguage.blogspot.de/2018/02/mixed-effects-models-is-it-time-to-go.html) by Michael Frank
 - [Statistical Rethinking with brms, ggplot2, and the tidyverse](https://osf.io/97t6w/) by Solomon Kurz
 - [Easily made fitted and predicted values made easy](http://thestudyofthehousehold.com/post/easily-made-fitted-and-predicted-values-made-easy/) by Andrew MacDonald
 - [How to compute Bayes factors using lm, lmer, BayesFactor, brms, and JAGS/stan/pymc3](https://rpubs.com/lindeloev/bayes_factors) by Jonas Kristoffer Lindelov
