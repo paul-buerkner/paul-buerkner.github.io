@@ -5,13 +5,13 @@ excerpt: "A list of my publications"
 ---
 
 ## preprints
+* **Bürkner P. C.**, & Vuorre, M. (in review). [Ordinal Regression Models in Psychological Research: A Tutorial](psyarxiv.com/x8swp). *PsyArXiv preprint*.
 * **Bürkner P. C.** (in review). [Advanced Bayesian Multilevel Modeling with the R Package brms](http://arxiv.org/abs/1705.11123). *arXiv preprint*.
 * Williams D. R., Philippe Rast, & **Bürkner P. C.** (in review). [Bayesian Meta-Analysis with Weakly Informative Prior Distributions](https://psyarxiv.com/7tbrm/). *PsyArXiv preprint*.
 
-## in press
-* Arslan R. C., Willführ K. P., Frans E. M., Verweij K. J. H., **Bürkner P. C.**, Myrskylä M., Voland E., Almqvist C., Brendan P., Zietsch B. P., & Penke L. (in press). Relaxed selection and mutation accumulation are best studied empirically: Reply to a comment by Woodley et al. *Proceedings of the Royal Society B*.
 
 ## 2018
+* Arslan R. C., Willführ K. P., Frans E. M., Verweij K. J. H., **Bürkner P. C.**, Myrskylä M., Voland E., Almqvist C., Brendan P., Zietsch B. P., & Penke L. (in press). [Relaxed selection and mutation accumulation are best studied empirically: Reply to a comment by Woodley et al.](http://rspb.royalsocietypublishing.org/content/285/1873/20180092) *Proceedings of the Royal Society B*.
 * Schneider I., Kugel H., Redlich R., Grotegerd D., Bürger C., **Bürkner P. C.**, Opel N., Dohm K., Zaremba D., Meinert S., Schröder N., Straßburg A. M., Schwarte K., Schettler C., Ambrée O., Rust S., Domschke K., Arolt V., Heindel W., Baune B., Zhang W., Dannlowski U., & Hohoff C. (2018). [Association of serotonin transporter gene AluJb methylation with major depression, amygdala responsiveness, 5-HTTLPR/rs25531 polymorphism, and stress](https://www.nature.com/articles/npp2017273). *Neuropsychopharmacology*. 
 * Reinhold M., **Bürkner P. C.**, Holling H. (2018). [Effects of Expressive Writing on Depressive Symptoms – A Meta-Analysis](http://onlinelibrary.wiley.com/doi/10.1111/cpsp.12224/abstract). *Clinical Psychology: Science and Practice*.
 * Zhoua T., Popescu S. C., Lawing A. M., Eriksson M., Strambu B., **Bürkner P. C.** (2018). [Bayesian and classical machine learning methods: A comparison for tree species classification with LiDAR waveform signatures](http://www.mdpi.com/2072-4292/10/1/39). *Remote Sensing*. 
