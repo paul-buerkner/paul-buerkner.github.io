@@ -5,7 +5,7 @@ excerpt: "A list of my publications"
 ---
 
 ## preprints
-* **Bürkner P. C.**, & Vuorre, M. (in review). [Ordinal Regression Models in Psychological Research: A Tutorial](psyarxiv.com/x8swp). *PsyArXiv preprint*.
+* **Bürkner P. C.**, & Vuorre, M. (in review). [Ordinal Regression Models in Psychological Research: A Tutorial](https://psyarxiv.com/x8swp/). *PsyArXiv preprint*.
 * **Bürkner P. C.** (in review). [Advanced Bayesian Multilevel Modeling with the R Package brms](http://arxiv.org/abs/1705.11123). *arXiv preprint*.
 * Williams D. R., Philippe Rast, & **Bürkner P. C.** (in review). [Bayesian Meta-Analysis with Weakly Informative Prior Distributions](https://psyarxiv.com/7tbrm/). *PsyArXiv preprint*.
 
