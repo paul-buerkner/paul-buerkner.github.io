@@ -6,10 +6,12 @@ excerpt: "A list of my publications"
 
 ## preprints
 * **Bürkner P. C.** & Vuorre, M. (in review). [Ordinal Regression Models in Psychological Research: A Tutorial](https://psyarxiv.com/x8swp/). *PsyArXiv preprint*.
-* **Bürkner P. C.** (in review). [Advanced Bayesian Multilevel Modeling with the R Package brms](http://arxiv.org/abs/1705.11123). *arXiv preprint*.
 * **Bürkner P. C.**, Schwabe S., & Holling H. (in review). [Optimal Designs for the Generalized Partial Credit Model](https://arxiv.org/abs/1803.06517). *arXiv preprint*.
 * Williams D. R., Philippe Rast, & **Bürkner P. C.** (in review). [Bayesian Meta-Analysis with Weakly Informative Prior Distributions](https://psyarxiv.com/7tbrm/). *PsyArXiv preprint*.
+* Williams D. R. & **Bürkner P. C.** (in review). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *PsyArXiv preprint*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
+## in press
+* **Bürkner P. C.** (in press). [Advanced Bayesian Multilevel Modeling with the R Package brms](http://arxiv.org/abs/1705.11123). *The R Journal*.
 
 ## 2018
 * Schneider I., Kugel H., Redlich R., Grotegerd D., Bürger C., **Bürkner P. C.**, Opel N., Dohm K., Zaremba D., Meinert S., Schröder N., Straßburg A. M., Schwarte K., Schettler C., Ambrée O., Rust S., Domschke K., Arolt V., Heindel W., Baune B., Zhang W., Dannlowski U., & Hohoff C. (2018). [Association of serotonin transporter gene AluJb methylation with major depression, amygdala responsiveness, 5-HTTLPR/rs25531 polymorphism, and stress](https://www.nature.com/articles/npp2017273). *Neuropsychopharmacology*. 1--9. doi:10.1038/npp.2017.273
@@ -37,4 +39,3 @@ excerpt: "A list of my publications"
 
 ## unpublished
 * Fleischer, C., Doebler, P., **Bürkner P. C.**, & Holling, H. (2017). [Adventure therapy effects on self-concept – A meta-analysis](https://osf.io/preprints/psyarxiv/c7y9a). *PsyArXiv preprint*.
-* Williams D. R. & **Bürkner P. C.** (2016). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *PsyArXiv preprint*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
