@@ -9,7 +9,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 #   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-I am a Ph.D. statistician currently working at the University of Münster (Germany), Department of Psychology. Previously, I have studied Psychology and Mathematics at the universities of Münster and Hagen. See [here](../publications) for an overview of my scientific publications.
+I am a Ph.D. statistician currently working at the University of Münster (Germany), Department of Psychology. I am the author of the R package [brms](https://github.com/paul-buerkner) and member of the [Stan Development Team](http://mc-stan.org/). Previously, I have studied Psychology and Mathematics at the universities of Münster and Hagen. See [here](../publications) for an overview of my scientific publications.
 
 ## Research Interests
 
@@ -40,8 +40,9 @@ I am a Ph.D. statistician currently working at the University of Münster (Germa
 * Statistics I - Descriptive Statistics und Probability Theory, B.Sc. Psychology
 * Statistics II - Inferential Statistics, B.Sc. Psychology
 
-## Talks
+## Talks (selected)
 
+* Why not to be afraid of priors, Bayes@Lund, 12.04.2018
 * Optimal Design and Bayesian Data Analysis, DGPs Conference: Methods and Evaluation, 20.09.2017
 * A Short Introduction to Bayesian Inference, Institut für Psychologie, Münster, 14.12.2016
 * Bayesian Regression Models using Stan, Institut für Medizinische Biometrie und Informatik, Heidelberg, 24.10.2016
@@ -50,7 +51,7 @@ I am a Ph.D. statistician currently working at the University of Münster (Germa
 * Adaptive Designs for Logistic Models with False Answers, IWS 2015, Wien, 23.09.2015
 * Optimal Design of Non-Parametric Two-Sample Tests, FGME 2015, 17.09.2015
 
-## Workshops
+## Workshops (selected)
 
 * Longitudinal Multilevel Models in R, Institute of Psychology, Hamburg, 11.11. - 13.11.2017
 * Bayesian Multilevel Models in R, DPPD Conference, Munich, 03.09.2017

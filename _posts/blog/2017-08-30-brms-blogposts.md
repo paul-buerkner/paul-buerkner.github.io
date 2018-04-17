@@ -9,7 +9,7 @@ image:
   feature:
 ---
 
-Over the past two years, several people have blogged about my R package **brms**, which allows to fit Bayesian generalized non-linear multilevel models using Stan. This post is intended to provide links to those blog posts.
+Since its foundation, several people have blogged about my R package **brms**, which allows to fit Bayesian generalized non-linear multilevel models using Stan. This post is intended to provide links to those blog posts.
 
 ## List of blog posts
 
@@ -40,5 +40,3 @@ Over the past two years, several people have blogged about my R package **brms**
 - [brms 0.8 adds non-linear regression](https://thinkinator.com/2016/02/17/brms-0-8-adds-non-linear-regression/) by Wayne Folta
 - [R Users Will Now Inevitably Become Bayesians](https://thinkinator.com/2016/01/12/r-users-will-now-inevitably-become-bayesians/) by Wayne Folta
 - [Bayesian regression models using Stan in R ](http://www.magesblog.com/2015/09/bayesian-regression-models-using-stan.html) by Markus Gesmann
-
-
