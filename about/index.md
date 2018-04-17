@@ -9,7 +9,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 #   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-I am a Ph.D. statistician currently working at the University of Münster (Germany), Department of Psychology. I am the author of the R package [brms](https://github.com/paul-buerkner) and member of the [Stan Development Team](http://mc-stan.org/). Previously, I have studied Psychology and Mathematics at the universities of Münster and Hagen. See [here](../publications) for an overview of my scientific publications.
+I am a Ph.D. statistician currently working at the University of Münster (Germany), Department of Psychology. I am the author of the R package [brms](https://github.com/paul-buerkner/brms) and member of the [Stan](http://mc-stan.org/) Development Team. Previously, I have studied Psychology and Mathematics at the universities of Münster and Hagen. See [here](../publications) for an overview of my scientific publications.
 
 ## Research Interests
 
