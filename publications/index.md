@@ -12,6 +12,7 @@ excerpt: "A list of my publications"
 
 ## in press
 * **Bürkner P. C.** (in press). [Advanced Bayesian Multilevel Modeling with the R Package brms](http://arxiv.org/abs/1705.11123). *The R Journal*.
+* Rathgeber M., **Bürkner P. C.**, Schiller E. M., & Holling H. (in press). The Efficiacy of Emotionally Focused Therapy and Behavioral Couples Therapy: A Meta-Analysis. *Journal of Marital and Family Therapy*.
 
 ## 2018
 * Schneider I., Kugel H., Redlich R., Grotegerd D., Bürger C., **Bürkner P. C.**, Opel N., Dohm K., Zaremba D., Meinert S., Schröder N., Straßburg A. M., Schwarte K., Schettler C., Ambrée O., Rust S., Domschke K., Arolt V., Heindel W., Baune B., Zhang W., Dannlowski U., & Hohoff C. (2018). [Association of serotonin transporter gene AluJb methylation with major depression, amygdala responsiveness, 5-HTTLPR/rs25531 polymorphism, and stress](https://www.nature.com/articles/npp2017273). *Neuropsychopharmacology*. 1--9. doi:10.1038/npp.2017.273
