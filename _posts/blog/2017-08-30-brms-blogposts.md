@@ -13,6 +13,7 @@ Since its foundation, several people have blogged about my R package **brms**, w
 
 ## List of blog posts
 
+- [Visualizing insect count data — a zero-inflated poisson model](http://thestudyofthehousehold.com/2018/05/26/2018-05-26-visualizing-insect-count-data-a-zero-inflated-poisson-model/) by Andrew MacDonald
 - [Fitting GAMs with brms: part 1 a simple GAM](https://www.fromthebottomoftheheap.net/2018/04/21/fitting-gams-with-brms/) by Gavin Simpson
 - [Mixed effects models: Is it time to go Bayesian by default?](http://babieslearninglanguage.blogspot.de/2018/02/mixed-effects-models-is-it-time-to-go.html) by Michael Frank
 - [Statistical Rethinking with brms, ggplot2, and the tidyverse](https://github.com/ASKurz/Statistical_Rethinking_with_brms_ggplot2_and_the_tidyverse) by Solomon Kurz
