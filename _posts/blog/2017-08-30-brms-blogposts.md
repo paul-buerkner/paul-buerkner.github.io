@@ -20,6 +20,7 @@ Since its foundation, several people have blogged about my R package **brms**, w
 - [Easily made fitted and predicted values made easy](http://thestudyofthehousehold.com/post/easily-made-fitted-and-predicted-values-made-easy/) by Andrew MacDonald
 - [How to compute Bayes factors using lm, lmer, BayesFactor, brms, and JAGS/stan/pymc3](https://rpubs.com/lindeloev/bayes_factors) by Jonas Kristoffer Lindelov
 - [Confounded dose-response effects of treatment adherence: fitting Bayesian instrumental variable models using brms](http://rpsychologist.com/adherence-analysis-IV-brms) by Kristoffer Magnusson
+- [MRP Using brms and tidybayes](https://timmastny.rbind.io/blog/multilevel-mrp-tidybayes-brms-stan/) by Tim Mastny
 - [PK/PD reserving models](https://magesblog.com/post/2018-01-30-pkpd-reserving-models/) by Markus Gesmann
 - [Hierarchical compartmental reserving models ](https://magesblog.com/post/hierarchical-compartmental-reserving-models/) by Markus Gesmann
 - [Diffusion/Wiener Model Analysis with brms – Part II: Model Diagnostics and Model Fit](http://singmann.org/wiener-model-analysis-with-brms-part-ii/) by Henrik Singmann
