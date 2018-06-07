@@ -11,7 +11,7 @@ excerpt: "A list of my publications"
 * Williams D. R. & **Bürkner P. C.** (in review). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *PsyArXiv preprint*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
 ## in press
-* Zetsche U., **Bürkner P. C.**, & Schulze L. (in press). Shedding light on the association between repetitive negative thinking and deficits in cognitive control – a meta-analysis. *Clinical Psychology Review*.
+* Zetsche U., **Bürkner P. C.**, & Schulze L. (in press). Shedding light on the association between repetitive negative thinking and deficits in cognitive control – a meta-analysis. *Clinical Psychology Review*. [preprint](https://psyarxiv.com/bz2ck/)
 * **Bürkner P. C.** (in press). [Advanced Bayesian Multilevel Modeling with the R Package brms](http://arxiv.org/abs/1705.11123). *The R Journal*.
 
 ## 2018
