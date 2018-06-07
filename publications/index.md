@@ -12,9 +12,9 @@ excerpt: "A list of my publications"
 
 ## in press
 * Zetsche U., **Bürkner P. C.**, & Schulze L. (in press). [Shedding light on the association between repetitive negative thinking and deficits in cognitive control – a meta-analysis](https://psyarxiv.com/bz2ck/). *Clinical Psychology Review*.
-* **Bürkner P. C.** (in press). [Advanced Bayesian Multilevel Modeling with the R Package brms](http://arxiv.org/abs/1705.11123). *The R Journal*.
 
 ## 2018
+* **Bürkner P. C.** (2018). [Advanced Bayesian Multilevel Modeling with the R Package brms](https://journal.r-project.org/archive/2018/RJ-2018-017/index.html). *The R Journal*.
 * Rathgeber M., **Bürkner P. C.**, Schiller E. M., & Holling H. (2018). [The Efficiacy of Emotionally Focused Therapy and Behavioral Couples Therapy: A Meta-Analysis](https://onlinelibrary.wiley.com/doi/abs/10.1111/jmft.12336). *Journal of Marital and Family Therapy*. doi:10.1111/jmft.12336
 * Schneider I., Kugel H., Redlich R., Grotegerd D., Bürger C., **Bürkner P. C.**, Opel N., Dohm K., Zaremba D., Meinert S., Schröder N., Straßburg A. M., Schwarte K., Schettler C., Ambrée O., Rust S., Domschke K., Arolt V., Heindel W., Baune B., Zhang W., Dannlowski U., & Hohoff C. (2018). [Association of serotonin transporter gene AluJb methylation with major depression, amygdala responsiveness, 5-HTTLPR/rs25531 polymorphism, and stress](https://www.nature.com/articles/npp2017273). *Neuropsychopharmacology*. 1--9. doi:10.1038/npp.2017.273
 * Reinhold M., **Bürkner P. C.**, Holling H. (2018). [Effects of Expressive Writing on Depressive Symptoms – A Meta-Analysis](http://onlinelibrary.wiley.com/doi/10.1111/cpsp.12224/abstract). *Clinical Psychology: Science and Practice*. 25(1), 1--13. doi:10.1111/cpsp.12224
