@@ -10,10 +10,8 @@ excerpt: "A list of my publications"
 * Williams D. R., Philippe Rast, & **Bürkner P. C.** (in review). [Bayesian Meta-Analysis with Weakly Informative Prior Distributions](https://psyarxiv.com/7tbrm/). *PsyArXiv preprint*.
 * Williams D. R. & **Bürkner P. C.** (in review). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *PsyArXiv preprint*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
-## in press
-* Zetsche U., **Bürkner P. C.**, & Schulze L. (in press). [Shedding light on the association between repetitive negative thinking and deficits in cognitive control – a meta-analysis](https://psyarxiv.com/bz2ck/). *Clinical Psychology Review*.
-
 ## 2018
+* Zetsche U., **Bürkner P. C.**, & Schulze L. (2018). [Shedding light on the association between repetitive negative thinking and deficits in cognitive control – a meta-analysis](https://www.sciencedirect.com/science/article/pii/S0272735817305421). *Clinical Psychology Review*. [preprint](https://psyarxiv.com/bz2ck/)
 * **Bürkner P. C.** (2018). [Advanced Bayesian Multilevel Modeling with the R Package brms](https://journal.r-project.org/archive/2018/RJ-2018-017/index.html). *The R Journal*.
 * Rathgeber M., **Bürkner P. C.**, Schiller E. M., & Holling H. (2018). [The Efficiacy of Emotionally Focused Therapy and Behavioral Couples Therapy: A Meta-Analysis](https://onlinelibrary.wiley.com/doi/abs/10.1111/jmft.12336). *Journal of Marital and Family Therapy*. doi:10.1111/jmft.12336
 * Schneider I., Kugel H., Redlich R., Grotegerd D., Bürger C., **Bürkner P. C.**, Opel N., Dohm K., Zaremba D., Meinert S., Schröder N., Straßburg A. M., Schwarte K., Schettler C., Ambrée O., Rust S., Domschke K., Arolt V., Heindel W., Baune B., Zhang W., Dannlowski U., & Hohoff C. (2018). [Association of serotonin transporter gene AluJb methylation with major depression, amygdala responsiveness, 5-HTTLPR/rs25531 polymorphism, and stress](https://www.nature.com/articles/npp2017273). *Neuropsychopharmacology*. 1--9. doi:10.1038/npp.2017.273
