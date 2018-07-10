@@ -13,7 +13,7 @@ Since its foundation, several people have blogged about my R package **brms**, w
 
 ## List of blog posts
 
-- [A series of tutorials how to run the brms package](https://www.rensvandeschoot.com/tutorials/brms/)
+- [A series of tutorials how to run the brms package](https://www.rensvandeschoot.com/tutorials/brms/) by Rens van de Schoot
 - [Models are about what changes, and what doesn't](https://magesblog.com/post/modelling-change/) by Markus Gesmann
 - [R functions for Bayesian Model Statistics and Summaries #rstats #stan #brms](https://strengejacke.wordpress.com/2018/06/06/r-functions-for-bayesian-model-statistics-and-summaries-rstats-stan-brms/) by Daniel Lüdecke
 - [Visualizing insect count data — a zero-inflated poisson model](http://thestudyofthehousehold.com/2018/05/26/2018-05-26-visualizing-insect-count-data-a-zero-inflated-poisson-model/) by Andrew MacDonald
