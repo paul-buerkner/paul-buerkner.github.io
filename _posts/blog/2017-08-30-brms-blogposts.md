@@ -13,6 +13,7 @@ Since its foundation, several people have blogged about my R package **brms**, w
 
 ## List of blog posts
 
+- [Use domain knowledge to review prior distributions](https://magesblog.com/post/2018-08-02-use-domain-knowledge-to-review-prior-predictive-distributions/) by Markus Gesmann
 - [Hierarchical loss reserving with growth curves using brms](https://magesblog.com/post/2018-07-15-hierarchical-loss-reserving-with-growth-cruves-using-brms/) by Markus Gesmann
 - [A series of tutorials how to run the brms package](https://www.rensvandeschoot.com/tutorials/brms/) by Rens van de Schoot
 - [Models are about what changes, and what doesn't](https://magesblog.com/post/modelling-change/) by Markus Gesmann
