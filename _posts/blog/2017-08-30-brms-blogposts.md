@@ -13,6 +13,7 @@ Since its foundation, several people have blogged about my R package **brms**, w
 
 ## List of blog posts
 
+- [Diffusion/Wiener Model Analysis with brms – Part III: Hypothesis Tests of Parameter Estimates](http://singmann.org/wiener-model-analysis-with-brms-part-iii/) by Henrik Singmann
 - [Estimating treatment effects and ICCs from (G)LMMs on the observed scale using Bayes, Part 1: lognormal models](http://rpsychologist.com/GLMM-part1-lognormal) by Kristoffer Magnusson
 - [Extracting and visualizing tidy draws from brms models](http://mjskay.github.io/tidybayes/articles/tidy-brms.html#ordinal-models) by Matthew Kay
 - [Use domain knowledge to review prior distributions](https://magesblog.com/post/2018-08-02-use-domain-knowledge-to-review-prior-predictive-distributions/) by Markus Gesmann
