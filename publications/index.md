@@ -5,9 +5,10 @@ excerpt: "A list of my publications"
 ---
 
 ## preprints
+**Bürkner P. C.**, Schulte N., Holling H. (in review). [On the Statistical and Practical Limitations of Thurstonian IRT Models](https://psyarxiv.com/dbwn8). *PsyArXiv preprint*.
 * **Bürkner P. C.** & Vuorre, M. (in review). [Ordinal Regression Models in Psychology: A Tutorial](https://psyarxiv.com/x8swp/). *PsyArXiv preprint*.
 * **Bürkner P. C.**, Schwabe S., & Holling H. (in review). [Optimal Designs for the Generalized Partial Credit Model](https://arxiv.org/abs/1803.06517). *arXiv preprint*.
-* Williams D. R., Philippe Rast, & **Bürkner P. C.** (in review). [Bayesian Meta-Analysis with Weakly Informative Prior Distributions](https://psyarxiv.com/7tbrm/). *PsyArXiv preprint*.
+* Williams D. R., Philippe R., & **Bürkner P. C.** (in review). [Bayesian Meta-Analysis with Weakly Informative Prior Distributions](https://psyarxiv.com/7tbrm/). *PsyArXiv preprint*.
 * Williams D. R. & **Bürkner P. C.** (in review). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *PsyArXiv preprint*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
 ## in press
