@@ -13,6 +13,7 @@ Since its foundation, several people have blogged about my R package **brms**, w
 
 ## List of blog posts
 
+- [Statistical Rethinking with brms, ggplot2, and the tidyverse](https://bookdown.org/connect/#/apps/1850/access) by Solomon Kurz
 - [Diffusion/Wiener Model Analysis with brms – Part III: Hypothesis Tests of Parameter Estimates](http://singmann.org/wiener-model-analysis-with-brms-part-iii/) by Henrik Singmann
 - [Estimating treatment effects and ICCs from (G)LMMs on the observed scale using Bayes, Part 1: lognormal models](http://rpsychologist.com/GLMM-part1-lognormal) by Kristoffer Magnusson
 - [Extracting and visualizing tidy draws from brms models](http://mjskay.github.io/tidybayes/articles/tidy-brms.html#ordinal-models) by Matthew Kay
@@ -24,7 +25,6 @@ Since its foundation, several people have blogged about my R package **brms**, w
 - [Visualizing insect count data — a zero-inflated poisson model](http://thestudyofthehousehold.com/2018/05/26/2018-05-26-visualizing-insect-count-data-a-zero-inflated-poisson-model/) by Andrew MacDonald
 - [Fitting GAMs with brms: part 1 a simple GAM](https://www.fromthebottomoftheheap.net/2018/04/21/fitting-gams-with-brms/) by Gavin Simpson
 - [Mixed effects models: Is it time to go Bayesian by default?](http://babieslearninglanguage.blogspot.de/2018/02/mixed-effects-models-is-it-time-to-go.html) by Michael Frank
-- [Statistical Rethinking with brms, ggplot2, and the tidyverse](https://github.com/ASKurz/Statistical_Rethinking_with_brms_ggplot2_and_the_tidyverse) by Solomon Kurz
 - [Easily made fitted and predicted values made easy](http://thestudyofthehousehold.com/post/easily-made-fitted-and-predicted-values-made-easy/) by Andrew MacDonald
 - [How to compute Bayes factors using lm, lmer, BayesFactor, brms, and JAGS/stan/pymc3](https://rpubs.com/lindeloev/bayes_factors) by Jonas Kristoffer Lindelov
 - [Confounded dose-response effects of treatment adherence: fitting Bayesian instrumental variable models using brms](http://rpsychologist.com/adherence-analysis-IV-brms) by Kristoffer Magnusson
