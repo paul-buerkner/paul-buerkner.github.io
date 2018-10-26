@@ -13,7 +13,7 @@ excerpt: "A list of my publications"
 * Williams D. R. & **Bürkner P. C.** (in review). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *PsyArXiv preprint*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
 ## in press
-Quante L., Kluger S., **Bürkner P. C.**, Ekman M., & Schubotz R. (in press).
+* Quante L., Kluger S., **Bürkner P. C.**, Ekman M., & Schubotz R. (in press).
 Graph measures in task-based fMRI: functional integration during read-out of
 visual and auditory information. *PLOS ONE*.
 * **Bürkner P. C.**, Schwabe S., & Holling H. (in press). Optimal Designs for the Generalized Partial Credit Model. *British Journal of Mathematical and Statistical Psychology*. [preprint](https://arxiv.org/abs/1803.06517)
