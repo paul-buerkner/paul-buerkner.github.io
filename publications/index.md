@@ -5,7 +5,8 @@ excerpt: "A list of my publications"
 ---
 
 ## preprints
-* Nalborczyk, L., **Bürkner P. C.**, & Williams D. (in review) [Pragmatism should not be a substitute for statistical literacy, a commentary on Albers, Kiers, and van Ravenzwaaij (2018)](https://psyarxiv.com/fmtkj/). *PsyArXiv preprint*.
+* **Bürkner P. C.**, Gabry J., & Vehtari A. (in review). [Leave-one-out cross-validation for non-factorizable normal models](http://arxiv.org/abs/1810.10559). *ArXiv preprint*.
+* Nalborczyk, L., **Bürkner P. C.**, & Williams D. (in review). [Pragmatism should not be a substitute for statistical literacy, a commentary on Albers, Kiers, and van Ravenzwaaij (2018)](https://psyarxiv.com/fmtkj/). *PsyArXiv preprint*.
 * **Bürkner P. C.**, Schulte N., & Holling H. (in review). [On the Statistical and Practical Limitations of Thurstonian IRT Models](https://psyarxiv.com/dbwn8). *PsyArXiv preprint*.
 * **Bürkner P. C.** & Vuorre, M. (in review). [Ordinal Regression Models in Psychology: A Tutorial](https://psyarxiv.com/x8swp/). *PsyArXiv preprint*.
 * Williams D. R., Philippe R., & **Bürkner P. C.** (in review). [Bayesian Meta-Analysis with Weakly Informative Prior Distributions](https://psyarxiv.com/7tbrm/). *PsyArXiv preprint*.
