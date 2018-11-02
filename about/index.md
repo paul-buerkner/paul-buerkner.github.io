@@ -28,6 +28,7 @@ Contributed to
 
 * **bayesplot**: Plotting Bayesian models [GitHub](https://github.com/stan-dev/bayesplot) [CRAN](https://cran.r-project.org/web/packages/bayesplot/)
 * **loo**: Approximate leave-one-out cross-validation [GitHub](https://github.com/stan-dev/loo) [CRAN](https://cran.r-project.org/web/packages/loo/)
+* **projpred**: Projection predictive variable selection [GitHub](https://github.com/stan-dev/projpred) [CRAN](https://cran.r-project.org/web/packages/projpred/)
 
 ## Awards
 
