@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: More than Bayesian Multilevel Models
+title: Paul Bürkner's Website
 locale: en_US
-description: Paul Bürkner's Website
+# description: 
 logo: logo.png
 search: true
 url: https://paul-buerkner.github.io
