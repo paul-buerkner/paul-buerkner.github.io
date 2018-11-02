@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Paul Bürkner's Website
+title: Embracing Uncertainty
 locale: en_US
-# description: 
+description: Paul Bürkner's Website
 logo: logo.png
 search: true
 url: https://paul-buerkner.github.io
