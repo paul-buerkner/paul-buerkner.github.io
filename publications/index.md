@@ -47,6 +47,3 @@ visual and auditory information. *PLOS ONE*.
 
 ## 2014
 * **Bürkner P. C.** & Doebler P. (2014). [Testing for Publication Bias in Diagnostic Meta-Analysis: A Simulation Study](http://onlinelibrary.wiley.com/doi/10.1002/sim.6177/full). *Statistics in Medicine*. 33(18), 3061--3077. doi:10.1002/sim.6177
-
-## unpublished
-* Fleischer, C., Doebler, P., **Bürkner P. C.**, & Holling, H. (2017). [Adventure therapy effects on self-concept – A meta-analysis](https://osf.io/preprints/psyarxiv/c7y9a). *PsyArXiv preprint*.
