@@ -15,13 +15,12 @@ excerpt: "A list of my publications"
 * Williams D. R. & **Bürkner P. C.** (in review). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *PsyArXiv preprint*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
 ## in press
-* Quante L., Kluger S., **Bürkner P. C.**, Ekman M., & Schubotz R. (in press).
-Graph measures in task-based fMRI: functional integration during read-out of
-visual and auditory information. *PLOS ONE*.
-* **Bürkner P. C.**, Schwabe S., & Holling H. (in press). Optimal Designs for the Generalized Partial Credit Model. *British Journal of Mathematical and Statistical Psychology*. [preprint](https://arxiv.org/abs/1803.06517)
 * Nalborczyk, L., Batailler, C., Loevenbruck H., Vilain, A., & **Bürkner P. C.** (in press). An Introduction to Bayesian Multilevel Models Using brms: A Case Study of Gender Effects on Vowel Variability in Standard Indonesian. *Journal of Speech, Language, and Hearing Research*.
 
 ## 2018
+* **Bürkner P. C.**, Schwabe S., & Holling H. (2018). [Optimal Designs for the Generalized Partial Credit Model](https://onlinelibrary.wiley.com/doi/full/10.1111/bmsp.12148). *British Journal of Mathematical and Statistical Psychology*. doi:10.1111/bmsp.12148 [preprint](https://arxiv.org/abs/1803.06517)
+* Quante L., Kluger S., **Bürkner P. C.**, Ekman M., & Schubotz R. (2018).
+[Graph measures in task-based fMRI: functional integration during read-out of visual and auditory information](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207119). *PLOS ONE*. doi:10.1371/journal.pone.0207119
 * Zetsche U., **Bürkner P. C.**, & Schulze L. (2018). [Shedding light on the association between repetitive negative thinking and deficits in cognitive control – a meta-analysis](https://www.sciencedirect.com/science/article/pii/S0272735817305421). *Clinical Psychology Review*. [preprint](https://psyarxiv.com/bz2ck/)
 * **Bürkner P. C.** (2018). [Advanced Bayesian Multilevel Modeling with the R Package brms](https://journal.r-project.org/archive/2018/RJ-2018-017/index.html). *The R Journal*.
 * Rathgeber M., **Bürkner P. C.**, Schiller E. M., & Holling H. (2018). [The Efficiacy of Emotionally Focused Therapy and Behavioral Couples Therapy: A Meta-Analysis](https://onlinelibrary.wiley.com/doi/abs/10.1111/jmft.12336). *Journal of Marital and Family Therapy*. doi:10.1111/jmft.12336
