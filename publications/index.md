@@ -18,7 +18,7 @@ excerpt: "A list of my publications"
 * Nalborczyk, L., Batailler, C., Loevenbruck H., Vilain, A., & **Bürkner P. C.** (in press). An Introduction to Bayesian Multilevel Models Using brms: A Case Study of Gender Effects on Vowel Variability in Standard Indonesian. *Journal of Speech, Language, and Hearing Research*.
 
 ## 2018
-* **Bürkner P. C.**, Schwabe S., & Holling H. (2018). [Optimal Designs for the Generalized Partial Credit Model](https://onlinelibrary.wiley.com/doi/full/10.1111/bmsp.12148). *British Journal of Mathematical and Statistical Psychology*. doi:10.1111/bmsp.12148 [preprint](https://arxiv.org/abs/1803.06517)
+* **Bürkner P. C.**, Schwabe S., & Holling H. (2018). [Optimal Designs for the Generalized Partial Credit Model](https://onlinelibrary.wiley.com/doi/full/10.1111/bmsp.12148). *British Journal of Mathematical and Statistical Psychology*. [preprint](https://arxiv.org/abs/1803.06517) doi:10.1111/bmsp.12148
 * Quante L., Kluger S., **Bürkner P. C.**, Ekman M., & Schubotz R. (2018).
 [Graph measures in task-based fMRI: functional integration during read-out of visual and auditory information](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207119). *PLOS ONE*. doi:10.1371/journal.pone.0207119
 * Zetsche U., **Bürkner P. C.**, & Schulze L. (2018). [Shedding light on the association between repetitive negative thinking and deficits in cognitive control – a meta-analysis](https://www.sciencedirect.com/science/article/pii/S0272735817305421). *Clinical Psychology Review*. [preprint](https://psyarxiv.com/bz2ck/)
