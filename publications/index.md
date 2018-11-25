@@ -15,6 +15,8 @@ excerpt: "A list of my publications"
 * Williams D. R. & **Bürkner P. C.** (in review). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *PsyArXiv preprint*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
 ## in press
+* Beisemann M., Forthmann B., **Bürkner P. C.**, Holling H. (in press). Validation of an Alternate Scoring for the Remote Associates Test. *The Journal of Creative Behavior*.
+* Johnen A., **Bürkner P. C.**, Landmeyer N. C., ..., Salmen A. (in press). Can we predict cognitive decline after initial diagnosis of multiple sclerosis? – Results from the German National early MS cohort (KKNMS). *Journal of Neurology*.
 * Nalborczyk, L., Batailler, C., Loevenbruck H., Vilain, A., & **Bürkner P. C.** (in press). An Introduction to Bayesian Multilevel Models Using brms: A Case Study of Gender Effects on Vowel Variability in Standard Indonesian. *Journal of Speech, Language, and Hearing Research*.
 
 ## 2018
