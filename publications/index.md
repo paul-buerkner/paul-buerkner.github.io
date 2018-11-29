@@ -5,8 +5,8 @@ excerpt: "A list of my publications"
 ---
 
 ## preprints
-* **Bürkner P. C.**, Charpentier, E. (in review). [Monotonic Effects: A Principled Approach for Including Ordinal Predictors in Regression Models](https://psyarxiv.com/9qkhj/). *PsyArXiv preprint*.
-* Chen G., **Bürkner P. C.**, Taylor P. A., Li Z., Yin L., Glen D. R., Kinnison J. K., Cox R. W., Pessoa L. (in review). [One Model to Rule Them All: An Integrative Approach to Matrix-Based Analyses in Neuroimaging Connectomics](https://www.biorxiv.org/content/early/2018/11/01/459545). *bioRxiv preprint*.
+* **Bürkner P. C.** & Charpentier, E. (in review). [Monotonic Effects: A Principled Approach for Including Ordinal Predictors in Regression Models](https://psyarxiv.com/9qkhj/). *PsyArXiv preprint*.
+* Chen G., **Bürkner P. C.**, Taylor P. A., Li Z., Yin L., Glen D. R., Kinnison J. K., Cox R. W., & Pessoa L. (in review). [One Model to Rule Them All: An Integrative Approach to Matrix-Based Analyses in Neuroimaging Connectomics](https://www.biorxiv.org/content/early/2018/11/01/459545). *bioRxiv preprint*.
 * **Bürkner P. C.**, Gabry J., & Vehtari A. (in review). [Leave-one-out cross-validation for non-factorizable normal models](http://arxiv.org/abs/1810.10559). *ArXiv preprint*.
 * Nalborczyk, L., **Bürkner P. C.**, & Williams D. (in review). [Pragmatism should not be a substitute for statistical literacy, a commentary on Albers, Kiers, and van Ravenzwaaij (2018)](https://psyarxiv.com/fmtkj/). *PsyArXiv preprint*.
 * **Bürkner P. C.**, Schulte N., & Holling H. (in review). [On the Statistical and Practical Limitations of Thurstonian IRT Models](https://psyarxiv.com/dbwn8). *PsyArXiv preprint*.
@@ -15,17 +15,16 @@ excerpt: "A list of my publications"
 * Williams D. R. & **Bürkner P. C.** (in review). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *PsyArXiv preprint*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
 ## in press
-* Beisemann M., Forthmann B., **Bürkner P. C.**, Holling H. (in press). Validation of an Alternate Scoring for the Remote Associates Test. *The Journal of Creative Behavior*.
-* Johnen A., **Bürkner P. C.**, Landmeyer N. C., ..., Salmen A. (in press). Can we predict cognitive decline after initial diagnosis of multiple sclerosis? – Results from the German National early MS cohort (KKNMS). *Journal of Neurology*.
+* Beisemann M., Forthmann B., **Bürkner P. C.**, & Holling H. (in press). Validation of an Alternate Scoring for the Remote Associates Test. *The Journal of Creative Behavior*.
+* Johnen A., **Bürkner P. C.**, Landmeyer N. C., ..., & Salmen A. (in press). Can we predict cognitive decline after initial diagnosis of multiple sclerosis? – Results from the German National early MS cohort (KKNMS). *Journal of Neurology*.
 * Nalborczyk, L., Batailler, C., Loevenbruck H., Vilain, A., & **Bürkner P. C.** (in press). An Introduction to Bayesian Multilevel Models Using brms: A Case Study of Gender Effects on Vowel Variability in Standard Indonesian. *Journal of Speech, Language, and Hearing Research*.
 
 ## 2018
-* **Bürkner P. C.**, Schwabe S., & Holling H. (2018). [Optimal Designs for the Generalized Partial Credit Model](https://onlinelibrary.wiley.com/doi/full/10.1111/bmsp.12148). *British Journal of Mathematical and Statistical Psychology*. [preprint](https://arxiv.org/abs/1803.06517) doi:10.1111/bmsp.12148
-* Quante L., Kluger S., **Bürkner P. C.**, Ekman M., & Schubotz R. (2018).
-[Graph measures in task-based fMRI: functional integration during read-out of visual and auditory information](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207119). *PLOS ONE*. doi:10.1371/journal.pone.0207119
+* **Bürkner P. C.**, Schwabe S., & Holling H. (2018). [Optimal Designs for the Generalized Partial Credit Model](https://onlinelibrary.wiley.com/doi/full/10.1111/bmsp.12148). *British Journal of Mathematical and Statistical Psychology*. 1--23. *[preprint](https://arxiv.org/abs/1803.06517)* doi:10.1111/bmsp.12148
+* Quante L., Kluger S., **Bürkner P. C.**, Ekman M., & Schubotz R. (2018). [Graph measures in task-based fMRI: functional integration during read-out of visual and auditory information](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207119). *PLOS ONE*. 13(11), 1--18. doi:10.1371/journal.pone.0207119
 * Zetsche U., **Bürkner P. C.**, & Schulze L. (2018). [Shedding light on the association between repetitive negative thinking and deficits in cognitive control – a meta-analysis](https://www.sciencedirect.com/science/article/pii/S0272735817305421). *Clinical Psychology Review*. [preprint](https://psyarxiv.com/bz2ck/)
-* **Bürkner P. C.** (2018). [Advanced Bayesian Multilevel Modeling with the R Package brms](https://journal.r-project.org/archive/2018/RJ-2018-017/index.html). *The R Journal*.
-* Rathgeber M., **Bürkner P. C.**, Schiller E. M., & Holling H. (2018). [The Efficiacy of Emotionally Focused Therapy and Behavioral Couples Therapy: A Meta-Analysis](https://onlinelibrary.wiley.com/doi/abs/10.1111/jmft.12336). *Journal of Marital and Family Therapy*. doi:10.1111/jmft.12336
+* **Bürkner P. C.** (2018). [Advanced Bayesian Multilevel Modeling with the R Package brms](https://journal.r-project.org/archive/2018/RJ-2018-017/index.html). *The R Journal*. 10(1), 395--411.
+* Rathgeber M., **Bürkner P. C.**, Schiller E. M., & Holling H. (2018). [The Efficiacy of Emotionally Focused Therapy and Behavioral Couples Therapy: A Meta-Analysis](https://onlinelibrary.wiley.com/doi/abs/10.1111/jmft.12336). *Journal of Marital and Family Therapy*. 1--17. doi:10.1111/jmft.12336
 * Schneider I., Kugel H., Redlich R., Grotegerd D., Bürger C., **Bürkner P. C.**, Opel N., Dohm K., Zaremba D., Meinert S., Schröder N., Straßburg A. M., Schwarte K., Schettler C., Ambrée O., Rust S., Domschke K., Arolt V., Heindel W., Baune B., Zhang W., Dannlowski U., & Hohoff C. (2018). [Association of serotonin transporter gene AluJb methylation with major depression, amygdala responsiveness, 5-HTTLPR/rs25531 polymorphism, and stress](https://www.nature.com/articles/npp2017273). *Neuropsychopharmacology*. 1--9. doi:10.1038/npp.2017.273
 * Reinhold M., **Bürkner P. C.**, Holling H. (2018). [Effects of Expressive Writing on Depressive Symptoms – A Meta-Analysis](http://onlinelibrary.wiley.com/doi/10.1111/cpsp.12224/abstract). *Clinical Psychology: Science and Practice*. 25(1), 1--13. doi:10.1111/cpsp.12224
 * Zhoua T., Popescu S. C., Lawing A. M., Eriksson M., Strambu B., **Bürkner P. C.** (2018). [Bayesian and classical machine learning methods: A comparison for tree species classification with LiDAR waveform signatures](http://www.mdpi.com/2072-4292/10/1/39). *Remote Sensing*. 10(1), 1--27, doi:10.3390/rs10010039
