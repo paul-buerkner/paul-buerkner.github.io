@@ -6,6 +6,7 @@ excerpt: "A list of my publications"
 
 ## preprints
 * **Bürkner P. C.** & Charpentier, E. (in review). [Monotonic Effects: A Principled Approach for Including Ordinal Predictors in Regression Models](https://psyarxiv.com/9qkhj/). *PsyArXiv preprint*.
+* Busch, L., Utesch, T., **Bürkner P. C.**, & Strauss, B. (in review). [A Daily Diary of the Quantified Self – The Influence of Fitness App Usage on Psychological Well-Being, Body Listening and Body Trusting](https://psyarxiv.com/cd6t8/). *PsyArXiv preprint*.
 * Chen G., **Bürkner P. C.**, Taylor P. A., Li Z., Yin L., Glen D. R., Kinnison J. K., Cox R. W., & Pessoa L. (in review). [One Model to Rule Them All: An Integrative Approach to Matrix-Based Analyses in Neuroimaging Connectomics](https://www.biorxiv.org/content/early/2018/11/01/459545). *bioRxiv preprint*.
 * **Bürkner P. C.**, Gabry J., & Vehtari A. (in review). [Leave-one-out cross-validation for non-factorizable normal models](http://arxiv.org/abs/1810.10559). *ArXiv preprint*.
 * Nalborczyk, L., **Bürkner P. C.**, & Williams D. (in review). [Pragmatism should not be a substitute for statistical literacy, a commentary on Albers, Kiers, and van Ravenzwaaij (2018)](https://psyarxiv.com/fmtkj/). *PsyArXiv preprint*.
@@ -16,11 +17,11 @@ excerpt: "A list of my publications"
 
 ## in press
 * Beisemann M., Forthmann B., **Bürkner P. C.**, & Holling H. (in press). Validation of an Alternate Scoring for the Remote Associates Test. *The Journal of Creative Behavior*.
-* Johnen A., **Bürkner P. C.**, Landmeyer N. C., ..., & Salmen A. (in press). Can we predict cognitive decline after initial diagnosis of multiple sclerosis? – Results from the German National early MS cohort (KKNMS). *Journal of Neurology*.
 * Nalborczyk, L., Batailler, C., Loevenbruck H., Vilain, A., & **Bürkner P. C.** (in press). An Introduction to Bayesian Multilevel Models Using brms: A Case Study of Gender Effects on Vowel Variability in Standard Indonesian. *Journal of Speech, Language, and Hearing Research*.
 
 ## 2018
 * **Bürkner P. C.**, Schwabe S., & Holling H. (2018). [Optimal Designs for the Generalized Partial Credit Model](https://onlinelibrary.wiley.com/doi/full/10.1111/bmsp.12148). *British Journal of Mathematical and Statistical Psychology*. 1--23. *[preprint](https://arxiv.org/abs/1803.06517)* doi:10.1111/bmsp.12148
+* Johnen A., **Bürkner P. C.**, Landmeyer N. C., ..., & Salmen A. (2018). [Can we predict cognitive decline after initial diagnosis of multiple sclerosis? – Results from the German National early MS cohort (KKNMS)](https://link.springer.com/article/10.1007/s00415-018-9142-y). *Journal of Neurology*. 1--12.
 * Quante L., Kluger S., **Bürkner P. C.**, Ekman M., & Schubotz R. (2018). [Graph measures in task-based fMRI: functional integration during read-out of visual and auditory information](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207119). *PLOS ONE*. 13(11), 1--18. doi:10.1371/journal.pone.0207119
 * Zetsche U., **Bürkner P. C.**, & Schulze L. (2018). [Shedding light on the association between repetitive negative thinking and deficits in cognitive control – a meta-analysis](https://www.sciencedirect.com/science/article/pii/S0272735817305421). *Clinical Psychology Review*. [preprint](https://psyarxiv.com/bz2ck/)
 * **Bürkner P. C.** (2018). [Advanced Bayesian Multilevel Modeling with the R Package brms](https://journal.r-project.org/archive/2018/RJ-2018-017/index.html). *The R Journal*. 10(1), 395--411.
