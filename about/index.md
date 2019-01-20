@@ -52,17 +52,20 @@ Contributed to
 
 ## Talks (selected)
 
-* Why not to be afraid of priors, Bayes@Lund, 12.04.2018
-* Optimal Design and Bayesian Data Analysis, DGPs Conference: Methods and Evaluation, 20.09.2017
+* Custom Response Distributions in brms, Stan Conference, Helsinki, 31.08.2018
+* Handling Ordinal Predictors in Regression Models via Monotonic Effects, EAM Conference, Jena, 26.07.2018
+* Why not to be afraid of priors, Bayes@Lund, Lund, 12.04.2018
+* Optimal Design and Bayesian Data Analysis, DGPs Conference: Methods and Evaluation, Tübingen, 20.09.2017
 * A Short Introduction to Bayesian Inference, Institut für Psychologie, Münster, 14.12.2016
 * Bayesian Regression Models using Stan, Institut für Medizinische Biometrie und Informatik, Heidelberg, 24.10.2016
 * brms: An R Package for Bayesian Multilevel Models using Stan, eRum, Poznan, 13.10.2016 
 * brms: An R Package for Bayesian Multilevel Models using Stan, R User Meeting, Köln, 26.02.2016
 * Adaptive Designs for Logistic Models with False Answers, IWS 2015, Wien, 23.09.2015
-* Optimal Design of Non-Parametric Two-Sample Tests, FGME 2015, 17.09.2015
+* Optimal Design of Non-Parametric Two-Sample Tests, DGPs Conference: Methods and Evaluation, 2015, Jena, 17.09.2015
 
 ## Workshops (selected)
 
+* Introducing Basic and Advanced Bayesian Modelling, Magdeburg, 30.07. - 03.08.2018
 * Advanced Bayesian Statistics, Aarhus, 04.06. - 08.06.2018
 * Introduction to Bayesian Statistical Modelling, Gent, 14.06. - 15.06.2018
 * Longitudinal Multilevel Models in R, Institute of Psychology, Hamburg, 11.11. - 13.11.2017
