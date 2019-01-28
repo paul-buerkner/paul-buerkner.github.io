@@ -11,11 +11,11 @@ excerpt: "A list of my publications"
 * Chen G., **Bürkner P. C.**, Taylor P. A., Li Z., Yin L., Glen D. R., Kinnison J. K., Cox R. W., & Pessoa L. (in review). [One Model to Rule Them All: An Integrative Approach to Matrix-Based Analyses in Neuroimaging Connectomics](https://www.biorxiv.org/content/early/2018/11/01/459545). *bioRxiv preprint*.
 * **Bürkner P. C.**, Gabry J., & Vehtari A. (in review). [Leave-one-out cross-validation for non-factorizable normal models](http://arxiv.org/abs/1810.10559). *ArXiv preprint*.
 * Nalborczyk, L., **Bürkner P. C.**, & Williams D. (in review). [Pragmatism should not be a substitute for statistical literacy, a commentary on Albers, Kiers, and van Ravenzwaaij (2018)](https://psyarxiv.com/fmtkj/). *PsyArXiv preprint*.
-* **Bürkner P. C.**, Schulte N., & Holling H. (in review). [On the Statistical and Practical Limitations of Thurstonian IRT Models](https://psyarxiv.com/dbwn8). *PsyArXiv preprint*.
 * Williams D. R., Philippe R., & **Bürkner P. C.** (in review). [Bayesian Meta-Analysis with Weakly Informative Prior Distributions](https://psyarxiv.com/7tbrm/). *PsyArXiv preprint*.
 * Williams D. R. & **Bürkner P. C.** (in review). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *PsyArXiv preprint*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
 ## in press
+* **Bürkner P. C.**, Schulte N., & Holling H. (in press). [On the Statistical and Practical Limitations of Thurstonian IRT Models](https://psyarxiv.com/dbwn8). *Educational and Psychological Measurement*.
 * **Bürkner P. C.** & Vuorre, M. (in press). [Ordinal Regression Models in Psychology: A Tutorial](https://psyarxiv.com/x8swp/). *Advances in Methods and Practices in Psychological Science*.
 * Nalborczyk, L., Batailler, C., Loevenbruck H., Vilain, A., & **Bürkner P. C.** (in press). An Introduction to Bayesian Multilevel Models Using brms: A Case Study of Gender Effects on Vowel Variability in Standard Indonesian. *Journal of Speech, Language, and Hearing Research*.
 
