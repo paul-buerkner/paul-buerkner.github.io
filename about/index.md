@@ -15,6 +15,7 @@ I am a Ph.D. statistician currently working at the University of Münster (Germa
 
 * Bayesian Inference
 * Multilevel Models
+* Ordinal Models
 * Optimal Design
 * Meta-Analysis
 
