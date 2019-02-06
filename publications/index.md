@@ -7,7 +7,7 @@ excerpt: "A list of my publications"
 ## preprints
 * **Bürkner P. C.** & Charpentier, E. (in review). [Monotonic Effects: A Principled Approach for Including Ordinal Predictors in Regression Models](https://psyarxiv.com/9qkhj/). *PsyArXiv preprint*.
 * **Bürkner P. C.**, Gabry J., & Vehtari A. (in review). [Leave-one-out cross-validation for non-factorizable normal models](http://arxiv.org/abs/1810.10559). *ArXiv preprint*.
-* Forthmann, B., **Bürkner P. C.**, Benedek, M., Szardenings, C., & Holling, H. (2018). [A New Perspective on the Multidimensionality of Divergent Thinking Tasks](https://psyarxiv.com/tvzs6/). *PsyArXiv preprint*.
+* Forthmann, B., **Bürkner P. C.**, Benedek, M., Szardenings, C., & Holling, H. (in review). [A New Perspective on the Multidimensionality of Divergent Thinking Tasks](https://psyarxiv.com/tvzs6/). *PsyArXiv preprint*.
 * Busch, L., Utesch, T., **Bürkner P. C.**, & Strauss, B. (in review). [A Daily Diary of the Quantified Self – The Influence of Fitness App Usage on Psychological Well-Being, Body Listening and Body Trusting](https://psyarxiv.com/cd6t8/). *PsyArXiv preprint*.
 * Chen G., **Bürkner P. C.**, Taylor P. A., Li Z., Yin L., Glen D. R., Kinnison J. K., Cox R. W., & Pessoa L. (in review). [One Model to Rule Them All: An Integrative Approach to Matrix-Based Analyses in Neuroimaging Connectomics](https://www.biorxiv.org/content/early/2018/11/01/459545). *bioRxiv preprint*.
 * Williams D. R., Philippe R., & **Bürkner P. C.** (in review). [Bayesian Meta-Analysis with Weakly Informative Prior Distributions](https://psyarxiv.com/7tbrm/). *PsyArXiv preprint*.
