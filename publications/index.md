@@ -5,6 +5,7 @@ excerpt: "A list of my publications"
 ---
 
 ## preprints
+* **Bürkner P. C.**, Gabry J., & Vehtari A. (in review). [Approximate leave-future-out cross-validation for time series models](https://arxiv.org/abs/1902.06281). *ArXiv preprint*.
 * **Bürkner P. C.** & Charpentier, E. (in review). [Monotonic Effects: A Principled Approach for Including Ordinal Predictors in Regression Models](https://psyarxiv.com/9qkhj/). *PsyArXiv preprint*.
 * **Bürkner P. C.**, Gabry J., & Vehtari A. (in review). [Leave-one-out cross-validation for non-factorizable normal models](http://arxiv.org/abs/1810.10559). *ArXiv preprint*.
 * Forthmann, B., **Bürkner P. C.**, Benedek, M., Szardenings, C., & Holling, H. (in review). [A New Perspective on the Multidimensionality of Divergent Thinking Tasks](https://psyarxiv.com/tvzs6/). *PsyArXiv preprint*.
