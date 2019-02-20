@@ -9,7 +9,12 @@ modified: 2014-08-08T19:44:38.564948-04:00
 #   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-I am a Ph.D. statistician currently working at the University of Münster (Germany), Department of Psychology. I am the author of the R package [brms](https://github.com/paul-buerkner/brms) and member of the [Stan](http://mc-stan.org/) Development Team. Previously, I have studied Psychology and Mathematics at the universities of Münster and Hagen. See [here](../publications) for an overview of my scientific publications.
+I am a Ph.D. statistician currently working at the University of Münster
+(Germany), Department of Psychology. I am the author of the R package
+[brms](https://github.com/paul-buerkner/brms) and member of the
+[Stan](http://mc-stan.org/) Development Team. Previously, I have studied
+Psychology and Mathematics at the Universities of Münster and Hagen. See
+[here](../publications) for an overview of my scientific publications.
 
 ## Research Interests
 
@@ -23,13 +28,21 @@ I am a Ph.D. statistician currently working at the University of Münster (Germa
 
 Author of
 
-* **brms**: Bayesian Regression Models using Stan [GitHub](https://github.com/paul-buerkner/brms) [CRAN](https://CRAN.R-project.org/package=brms)
+* **brms**: Bayesian Regression Models using Stan
+[Website](https://paul-buerkner.github.io/brms)
+[GitHub](https://github.com/paul-buerkner/brms)
 
 Contributed to
 
-* **bayesplot**: Plotting Bayesian models [GitHub](https://github.com/stan-dev/bayesplot) [CRAN](https://cran.r-project.org/web/packages/bayesplot/)
-* **loo**: Approximate leave-one-out cross-validation [GitHub](https://github.com/stan-dev/loo) [CRAN](https://cran.r-project.org/web/packages/loo/)
-* **projpred**: Projection predictive variable selection [GitHub](https://github.com/stan-dev/projpred) [CRAN](https://cran.r-project.org/web/packages/projpred/)
+* **bayesplot**: Plotting Bayesian models 
+[Website](http://mc-stan.org/bayesplot)
+[GitHub](https://github.com/stan-dev/bayesplot)
+* **loo**: Approximate leave-one-out cross-validation
+[Website](http://mc-stan.org/loo)
+[GitHub](https://github.com/stan-dev/loo)
+* **projpred**: Projection predictive variable selection
+[Website](https://mc-stan.org/projpred)
+[GitHub](https://github.com/stan-dev/projpred)
 
 ## Awards
 
