@@ -18,13 +18,13 @@ excerpt: "A list of my publications"
 * Williams D. R. & **Bürkner P. C.** (in review). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *PsyArXiv preprint*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
 ## in press
-* Nalborczyk, L., **Bürkner P. C.**, & Williams D. (in press). [Pragmatism should not be a substitute for statistical literacy, a commentary on Albers, Kiers, and van Ravenzwaaij (2018)](https://psyarxiv.com/fmtkj/). *Collabora: Psychology*.
 * Nalborczyk, L., Batailler, C., Loevenbruck H., Vilain, A., & **Bürkner P. C.** (in press). An Introduction to Bayesian Multilevel Models Using brms: A Case Study of Gender Effects on Vowel Variability in Standard Indonesian. *Journal of Speech, Language, and Hearing Research*.
 
 ## 2019
 
 * **Bürkner P. C.** & Vuorre, M. (2019). [Ordinal Regression Models in Psychology: A Tutorial](https://journals.sagepub.com/doi/10.1177/2515245918823199). *Advances in Methods and Practices in Psychological Science*. doi:10.1177/2515245918823199 [preprint](https://psyarxiv.com/x8swp/)
 * **Bürkner P. C.**, Schulte N., & Holling H. (2019). [On the Statistical and Practical Limitations of Thurstonian IRT Models](https://journals.sagepub.com/doi/10.1177/0013164419832063). *Educational and Psychological Measurement*. doi:10.1177/0013164419832063 [preprint](https://psyarxiv.com/dbwn8/)
+* Nalborczyk, L., **Bürkner P. C.**, & Williams D. (2019). [Pragmatism should not be a substitute for statistical literacy, a commentary on Albers, Kiers, and van Ravenzwaaij (2018)](https://psyarxiv.com/fmtkj/). *Collabora: Psychology*. 5(1), 1--5. doi:10.1525/collabra.197
 * Beisemann M., Forthmann B., **Bürkner P. C.**, & Holling H. (2019). [Psychometric Evaluation of an Alternate Scoring for the Remote Associates Test](https://onlinelibrary.wiley.com/doi/abs/10.1002/jocb.394). *The Journal of Creative Behavior*. 1--16. doi:10.1002/jocb.394
 
 ## 2018
