@@ -9,8 +9,8 @@ modified: 2014-08-08T19:44:38.564948-04:00
 #   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-I am a Ph.D. statistician currently working at the University of Münster
-(Germany), Department of Psychology. I am the author of the R package
+I am a Ph.D. statistician currently working at Aalto University
+(Finland), Department of Computer Science. I am the author of the R package
 [brms](https://github.com/paul-buerkner/brms) and member of the
 [Stan](http://mc-stan.org/) Development Team. Previously, I have studied
 Psychology and Mathematics at the Universities of Münster and Hagen. See
@@ -34,6 +34,9 @@ Author of
 
 Contributed to
 
+* **rstan**: R Interface to Stan 
+[Website](http://mc-stan.org/rstan)
+[GitHub](https://github.com/stan-dev/rstan)
 * **bayesplot**: Plotting Bayesian models 
 [Website](http://mc-stan.org/bayesplot)
 [GitHub](https://github.com/stan-dev/bayesplot)
@@ -66,6 +69,7 @@ Contributed to
 
 ## Talks (selected)
 
+* Bayesian Multilevel Models with brms and Stan, Multilevel Conference, Utrecht, 10.04.2019
 * Custom Response Distributions in brms, Stan Conference, Helsinki, 31.08.2018
 * Handling Ordinal Predictors in Regression Models via Monotonic Effects, EAM Conference, Jena, 26.07.2018
 * Why not to be afraid of priors, Bayes@Lund, Lund, 12.04.2018
@@ -79,6 +83,7 @@ Contributed to
 
 ## Workshops (selected)
 
+* Bayesian Multilevel Models, Multilevel Conference, Utrecht, 08.04.2019
 * Introducing Basic and Advanced Bayesian Modelling, Magdeburg, 30.07. - 03.08.2018
 * Advanced Bayesian Statistics, Aarhus, 04.06. - 08.06.2018
 * Introduction to Bayesian Statistical Modelling, Gent, 14.06. - 15.06.2018
