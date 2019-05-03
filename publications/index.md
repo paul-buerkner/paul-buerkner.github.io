@@ -5,7 +5,7 @@ excerpt: "A list of my publications"
 ---
 
 ## preprints
-* **Bürkner P. C.**, Gabry J., & Vehtari A. (in review). [Approximate leave-future-out cross-validation for time series models](https://arxiv.org/abs/1902.06281). *ArXiv preprint*.
+* **Bürkner P. C.**, Gabry J., & Vehtari A. (in review). [Approximate leave-future-out cross-validation for time series  models](https://arxiv.org/abs/1902.06281). *ArXiv preprint*.
 * **Bürkner P. C.** & Charpentier, E. (in review). [Monotonic Effects: A Principled Approach for Including Ordinal Predictors in Regression Models](https://psyarxiv.com/9qkhj/). *PsyArXiv preprint*.
 * **Bürkner P. C.**, Gabry J., & Vehtari A. (in review). [Leave-one-out cross-validation for non-factorizable normal models](http://arxiv.org/abs/1810.10559). *ArXiv preprint*.
 * Vehtari A., Gelman A., Simpson D., Carpenter B., & **Bürkner P. C.** (in review). [Rank-normalization, folding, and localization: An improved Rhat for assessing convergence of MCMC](https://arxiv.org/abs/1903.08008). *ArXiv preprint*.
@@ -25,7 +25,7 @@ excerpt: "A list of my publications"
 * **Bürkner P. C.**, Schulte N., & Holling H. (2019). [On the Statistical and Practical Limitations of Thurstonian IRT Models](https://journals.sagepub.com/doi/10.1177/0013164419832063). *Educational and Psychological Measurement*. doi:10.1177/0013164419832063 [preprint](https://psyarxiv.com/dbwn8/)
 * Nalborczyk, L., **Bürkner P. C.**, & Williams D. (2019). [Pragmatism should not be a substitute for statistical literacy, a commentary on Albers, Kiers, and van Ravenzwaaij (2018)](https://www.collabra.org/articles/10.1525/collabra.197/). *Collabora: Psychology*. 5(1), 1--5. doi:10.1525/collabra.197 [preprint](https://psyarxiv.com/fmtkj/)
 * Beisemann M., Forthmann B., **Bürkner P. C.**, & Holling H. (2019). [Psychometric Evaluation of an Alternate Scoring for the Remote Associates Test](https://onlinelibrary.wiley.com/doi/abs/10.1002/jocb.394). *The Journal of Creative Behavior*. 1--16. doi:10.1002/jocb.394
-* Forthmann, B., **Bürkner P. C.**, Benedek, M., Szardenings, C., & Holling, H. (2019). [A New Perspective on the Multidimensionality of Divergent Thinking Tasks](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00985/full). *Frontiers in Psychology*. 10, 1--9. doi:10.3389/fpsyg.2019.00985 [preprint](https://psyarxiv.com/tvzs6/)
+* Forthmann, B., **Bürkner P. C.**, Benedek, M., Szardenings, C., & Holling, H. (2019). [A New Perspective on the Multidimensionality of Divergent Thinking Tasks](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00985/full). *Frontiers in Psychology: Cognition*. 10, 1--9. doi:10.3389/fpsyg.2019.00985 [preprint](https://psyarxiv.com/tvzs6/)
 
 ## 2018
 * **Bürkner P. C.**, Schwabe S., & Holling H. (2018). [Optimal Designs for the Generalized Partial Credit Model](https://onlinelibrary.wiley.com/doi/full/10.1111/bmsp.12148). *British Journal of Mathematical and Statistical Psychology*. 1--23. doi:10.1111/bmsp.12148 [preprint](https://arxiv.org/abs/1803.06517)
