@@ -26,6 +26,8 @@ Psychology and Mathematics at the Universities of Münster and Hagen. See
 
 ## Software Development
 
+Member of the Stan Development Team
+
 Author of
 
 * **brms**: Bayesian Regression Models using Stan
@@ -69,27 +71,30 @@ Contributed to
 
 ## Talks (selected)
 
-* Bayesian Multilevel Models with brms and Stan, Multilevel Conference, Utrecht, 10.04.2019
-* Custom Response Distributions in brms, Stan Conference, Helsinki, 31.08.2018
-* Handling Ordinal Predictors in Regression Models via Monotonic Effects, EAM Conference, Jena, 26.07.2018
-* Why not to be afraid of priors, Bayes@Lund, Lund, 12.04.2018
-* Optimal Design and Bayesian Data Analysis, DGPs Conference: Methods and Evaluation, Tübingen, 20.09.2017
-* A Short Introduction to Bayesian Inference, Institut für Psychologie, Münster, 14.12.2016
-* Bayesian Regression Models using Stan, Institut für Medizinische Biometrie und Informatik, Heidelberg, 24.10.2016
-* brms: An R Package for Bayesian Multilevel Models using Stan, eRum, Poznan, 13.10.2016 
-* brms: An R Package for Bayesian Multilevel Models using Stan, R User Meeting, Köln, 26.02.2016
-* Adaptive Designs for Logistic Models with False Answers, IWS 2015, Wien, 23.09.2015
-* Optimal Design of Non-Parametric Two-Sample Tests, DGPs Conference: Methods and Evaluation, 2015, Jena, 17.09.2015
+* Bayesian Multilevel Models with brms and Stan (Invited), Multilevel Conference, Utrecht, 2019 
+* Leave-Future-Out Cross-Validation for Bayesian Time-Series Models, DagStat, Munich, 2019
+* Custom Response Distributions in brms, Stan Conference, Helsinki, 2018
+* Handling Ordinal Predictors in Regression Models via Monotonic Effects, EAM Conference, Jena, 2018
+* Why not to be afraid of priors (Invited), Bayes@Lund, Lund, 2018
+* Optimal Design and Bayesian Data Analysis (Invited), DGPs Conference: Methods and Evaluation, Tübingen, 2017 
+* A Short Introduction to Bayesian Inference, Institut für Psychologie, Münster, 2016
+* Bayesian Regression Models using Stan, Institut für Medizinische Biometrie und Informatik, Heidelberg, 2016
+* brms: An R Package for Bayesian Multilevel Models using Stan, eRum, Poznan, 2016 
+* brms: An R Package for Bayesian Multilevel Models using Stan, R User Meeting, Köln, 2016
+* Adaptive Designs for Logistic Models with False Answers, IWS, Wien, 2015
+* Optimal Design of Non-Parametric Two-Sample Tests, DGPs Conference: Methods and Evaluation, Jena, 2015
 
 ## Workshops (selected)
 
-* Bayesian Multilevel Models, Multilevel Conference, Utrecht, 08.04.2019
-* Introducing Basic and Advanced Bayesian Modelling, Magdeburg, 30.07. - 03.08.2018
-* Advanced Bayesian Statistics, Aarhus, 04.06. - 08.06.2018
-* Introduction to Bayesian Statistical Modelling, Gent, 14.06. - 15.06.2018
-* Longitudinal Multilevel Models in R, Institute of Psychology, Hamburg, 11.11. - 13.11.2017
-* Bayesian Multilevel Models in R, DPPD Conference, Munich, 03.09.2017
-* Bayesian Multilevel Models in R with brms, Deutsches Primatenzentrum (DPZ), Göttingen, 28.06. - 30.06.2017
-* Bayesian Multilevel Models in R with brms, Institute of Psychology, Bern, 19.04. - 21.04.2017
-* An Introduction to Bayesian Inference and Multilevel Models, Institut für Psychologie, Münster, 15.03. - 17.03.2017
-* Bayesian Multilevel Models in R using the Package brms, 50. DGPs Conference, Leipzig, 18.09.2016
+* Bayesian Multilevel Models, Multilevel Conference (1 day), Utrecht, 2019
+* Bayesian Data Analysis using Stan (1 day), Munich, 2019
+* Introduction to Meta-Analysis (2 days), Lausanne, 2018
+* Introducing Basic and Advanced Bayesian Modelling (4 days), Magdeburg, 2018
+* Advanced Bayesian Statistics (4 days), Aarhus, 2018
+* Introduction to Bayesian Statistical Modelling (4 days), Gent, 2018
+* Longitudinal Multilevel Models in R, Institute of Psychology (3 days), Hamburg, 2017
+* Bayesian Multilevel Models in R, DPPD Conference, Munich (1 day), 2017
+* Bayesian Multilevel Models in R with brms, Deutsches Primatenzentrum (DPZ, 3 days), Göttingen, 2017
+* Bayesian Multilevel Models in R with brms, Institute of Psychology (3 days), Bern, 2017
+* An Introduction to Bayesian Inference and Multilevel Models (3 days), Institut für Psychologie, Münster, 2017
+* Bayesian Multilevel Models in R using the Package brms (1 day), DGPs Conference, Leipzig, 2016
