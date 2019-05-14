@@ -17,12 +17,12 @@ excerpt: "A list of my publications"
 
 ## in press
 * Zetsche, U., **Bürkner P. C.**, & Renneberg, B. (in press). [Future expectations in clinical depression: biased or realistic?](https://psyarxiv.com/w96k2/). *Journal of Abnormal Psychology*.
-* Nalborczyk, L., Batailler, C., Loevenbruck H., Vilain, A., & **Bürkner P. C.** (in press). An Introduction to Bayesian Multilevel Models Using brms: A Case Study of Gender Effects on Vowel Variability in Standard Indonesian. *Journal of Speech, Language, and Hearing Research*.
 
 ## 2019
 
 * **Bürkner P. C.** & Vuorre, M. (2019). [Ordinal Regression Models in Psychology: A Tutorial](https://journals.sagepub.com/doi/10.1177/2515245918823199). *Advances in Methods and Practices in Psychological Science*. doi:10.1177/2515245918823199 [preprint](https://psyarxiv.com/x8swp/)
 * **Bürkner P. C.**, Schulte N., & Holling H. (2019). [On the Statistical and Practical Limitations of Thurstonian IRT Models](https://journals.sagepub.com/doi/10.1177/0013164419832063). *Educational and Psychological Measurement*. doi:10.1177/0013164419832063 [preprint](https://psyarxiv.com/dbwn8/)
+* Nalborczyk, L., Batailler, C., Loevenbruck H., Vilain, A., & **Bürkner P. C.** (2019). [An Introduction to Bayesian Multilevel Models Using brms: A Case Study of Gender Effects on Vowel Variability in Standard Indonesian](https://pubs.asha.org/doi/10.1044/2018_JSLHR-S-18-0006). *Journal of Speech, Language, and Hearing Research*. 
 * Nalborczyk, L., **Bürkner P. C.**, & Williams D. (2019). [Pragmatism should not be a substitute for statistical literacy, a commentary on Albers, Kiers, and van Ravenzwaaij (2018)](https://www.collabra.org/articles/10.1525/collabra.197/). *Collabora: Psychology*. 5(1), 1--5. doi:10.1525/collabra.197 [preprint](https://psyarxiv.com/fmtkj/)
 * Beisemann M., Forthmann B., **Bürkner P. C.**, & Holling H. (2019). [Psychometric Evaluation of an Alternate Scoring for the Remote Associates Test](https://onlinelibrary.wiley.com/doi/abs/10.1002/jocb.394). *The Journal of Creative Behavior*. 1--16. doi:10.1002/jocb.394
 * Forthmann, B., **Bürkner P. C.**, Benedek, M., Szardenings, C., & Holling, H. (2019). [A New Perspective on the Multidimensionality of Divergent Thinking Tasks](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00985/full). *Frontiers in Psychology: Cognition*. 10, 1--9. doi:10.3389/fpsyg.2019.00985 [preprint](https://psyarxiv.com/tvzs6/)
