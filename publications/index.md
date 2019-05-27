@@ -16,7 +16,7 @@ excerpt: "A list of my publications"
 * Williams D. R. & **Bürkner P. C.** (in review). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *PsyArXiv preprint*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
 ## in press
-* Chen G., **Bürkner P. C.**, Taylor P. A., Li Z., Yin L., Glen D. R., Kinnison J. K., Cox R. W., & Pessoa L. (in press). [One Model to Rule Them All: An Integrative Approach to Matrix-Based Analyses in Neuroimaging Connectomics](https://www.biorxiv.org/content/early/2018/11/01/459545). *bioRxiv preprint*.
+* Chen G., **Bürkner P. C.**, Taylor P. A., Li Z., Yin L., Glen D. R., Kinnison J. K., Cox R. W., & Pessoa L. (in press). [One Model to Rule Them All: An Integrative Approach to Matrix-Based Analyses in Neuroimaging Connectomics](https://www.biorxiv.org/content/early/2018/11/01/459545). *Human Brain Mapping*.
 * Zetsche, U., **Bürkner P. C.**, & Renneberg, B. (in press). [Future expectations in clinical depression: biased or realistic?](https://psyarxiv.com/w96k2/). *Journal of Abnormal Psychology*.
 
 ## 2019
