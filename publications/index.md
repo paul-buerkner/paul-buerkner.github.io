@@ -12,11 +12,11 @@ excerpt: "A list of my publications"
 * Vehtari A., Gelman A., Simpson D., Carpenter B., & **Bürkner P. C.** (in review). [Rank-normalization, folding, and localization: An improved Rhat for assessing convergence of MCMC](https://arxiv.org/abs/1903.08008). *ArXiv preprint*.
 * Hossiep R., Harnack, K., & **Bürkner P. C.** (in review). [Goal setting in distributive and integrative negotiations: a meta-analysis](https://psyarxiv.com/mkgxt). *PsyArXiv preprint*.
 * Busch, L., Utesch, T., **Bürkner P. C.**, & Strauss, B. (in review). [A Daily Diary of the Quantified Self – The Influence of Fitness App Usage on Psychological Well-Being, Body Listening and Body Trusting](https://psyarxiv.com/cd6t8/). *PsyArXiv preprint*.
-* Chen G., **Bürkner P. C.**, Taylor P. A., Li Z., Yin L., Glen D. R., Kinnison J. K., Cox R. W., & Pessoa L. (in review). [One Model to Rule Them All: An Integrative Approach to Matrix-Based Analyses in Neuroimaging Connectomics](https://www.biorxiv.org/content/early/2018/11/01/459545). *bioRxiv preprint*.
 * Williams D. R., Philippe R., & **Bürkner P. C.** (in review). [Bayesian Meta-Analysis with Weakly Informative Prior Distributions](https://psyarxiv.com/7tbrm/). *PsyArXiv preprint*.
 * Williams D. R. & **Bürkner P. C.** (in review). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *PsyArXiv preprint*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
 ## in press
+* Chen G., **Bürkner P. C.**, Taylor P. A., Li Z., Yin L., Glen D. R., Kinnison J. K., Cox R. W., & Pessoa L. (in press). [One Model to Rule Them All: An Integrative Approach to Matrix-Based Analyses in Neuroimaging Connectomics](https://www.biorxiv.org/content/early/2018/11/01/459545). *bioRxiv preprint*.
 * Zetsche, U., **Bürkner P. C.**, & Renneberg, B. (in press). [Future expectations in clinical depression: biased or realistic?](https://psyarxiv.com/w96k2/). *Journal of Abnormal Psychology*.
 
 ## 2019
