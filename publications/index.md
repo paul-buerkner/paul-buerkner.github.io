@@ -10,6 +10,7 @@ excerpt: "A list of my publications"
 * **Bürkner P. C.** & Charpentier, E. (in review). [Monotonic Effects: A Principled Approach for Including Ordinal Predictors in Regression Models](https://psyarxiv.com/9qkhj/). *PsyArXiv preprint*.
 * **Bürkner P. C.**, Gabry J., & Vehtari A. (in review). [Leave-one-out cross-validation for non-factorizable normal models](http://arxiv.org/abs/1810.10559). *ArXiv preprint*.
 * Vehtari A., Gelman A., Simpson D., Carpenter B., & **Bürkner P. C.** (in review). [Rank-normalization, folding, and localization: An improved Rhat for assessing convergence of MCMC](https://arxiv.org/abs/1903.08008). *ArXiv preprint*.
+* Paananen T., Piironen, J., **Bürkner P. C.**, & Vehtari A. (in review). [Pushing the Limits of Importance Sampling through Iterative Moment Matching](https://github.com/topipa/iter-mm-paper). *ArXiv preprint*.
 * Hossiep R., Harnack, K., & **Bürkner P. C.** (in review). [Goal setting in distributive and integrative negotiations: a meta-analysis](https://psyarxiv.com/mkgxt). *PsyArXiv preprint*.
 * Busch, L., Utesch, T., **Bürkner P. C.**, & Strauss, B. (in review). [A Daily Diary of the Quantified Self – The Influence of Fitness App Usage on Psychological Well-Being, Body Listening and Body Trusting](https://psyarxiv.com/cd6t8/). *PsyArXiv preprint*.
 * Williams D. R., Philippe R., & **Bürkner P. C.** (in review). [Bayesian Meta-Analysis with Weakly Informative Prior Distributions](https://psyarxiv.com/7tbrm/). *PsyArXiv preprint*.
