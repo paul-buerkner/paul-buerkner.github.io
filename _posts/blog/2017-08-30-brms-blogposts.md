@@ -13,6 +13,7 @@ Since its foundation, several people have blogged about my R package **brms**, w
 
 ## List of blog posts
 
+- [Bayesian power analysis: Part I. Prepare to reject H0 with simulation](https://solomonkurz.netlify.com/post/bayesian-power-analysis-part-i/) by Solomon Kurz
 - [Utility Theory for Dummies: An R Tutorial](https://lindeloev.github.io/utility-theory/) by Jonas Kristoffer Lindelov
 - [How to analyze visual analog (slider) scale data?](https://vuorre.netlify.com/post/2019/02/18/analyze-analog-scale-ratings-with-zero-one-inflated-beta-models/) by Matti Vuorre
 - [Statistical Rethinking with brms, ggplot2, and the tidyverse](https://bookdown.org/connect/#/apps/1850/access) by Solomon Kurz
