@@ -12,6 +12,7 @@ excerpt: "A list of my publications"
 * **Bürkner P. C.** (in review). [thurstonianIRT: Thurstonian IRT Models in R](https://github.com/openjournals/joss-papers/blob/joss.01641/joss.01641/10.21105.joss.01641.pdf). *JOSS Preview*.
 * Vehtari A., Gelman A., Simpson D., Carpenter B., & **Bürkner P. C.** (in review). [Rank-normalization, folding, and localization: An improved Rhat for assessing convergence of MCMC](https://arxiv.org/abs/1903.08008). *ArXiv preprint*.
 * Paananen T., Piironen, J., **Bürkner P. C.**, & Vehtari A. (in review). [Pushing the Limits of Importance Sampling through Iterative Moment Matching](http://arxiv.org/abs/1906.08850). *ArXiv preprint*.
+Dietel F., Möllmann A., **Bürkner P. C.**, Wilhelm S., & Buhlmann U. [Interpretation bias across body dysmorphic, social anxiety and generalized anxiety disorder – a multilevel, diffusion model account](https://psyarxiv.com/3hnpu/). *PsyArXiv preprint*.
 * Hossiep R., Harnack, K., & **Bürkner P. C.** (in review). [Goal setting in distributive and integrative negotiations: a meta-analysis](https://psyarxiv.com/mkgxt). *PsyArXiv preprint*.
 * Busch, L., Utesch, T., **Bürkner P. C.**, & Strauss, B. (in review). [A Daily Diary of the Quantified Self – The Influence of Fitness App Usage on Psychological Well-Being, Body Listening and Body Trusting](https://psyarxiv.com/cd6t8/). *PsyArXiv preprint*.
 * Williams D. R., Philippe R., & **Bürkner P. C.** (in review). [Bayesian Meta-Analysis with Weakly Informative Prior Distributions](https://psyarxiv.com/7tbrm/). *PsyArXiv preprint*.
