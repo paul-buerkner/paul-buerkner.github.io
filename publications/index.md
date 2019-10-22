@@ -19,7 +19,7 @@ excerpt: "A list of my publications"
 * Williams D. R. & **Bürkner P. C.** (in review). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *PsyArXiv preprint*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
 ## in press
-* **Bürkner P. C.** (in press). [thurstonianIRT: Thurstonian IRT Models in R](https://github.com/openjournals/joss-papers/blob/joss.01641/joss.01641/10.21105.joss.01641.pdf). *JOSS Preview*.
+* **Bürkner P. C.** (in press). [thurstonianIRT: Thurstonian IRT Models in R](https://github.com/openjournals/joss-papers/blob/joss.01641/joss.01641/10.21105.joss.01641.pdf). *Journal of Open Source Software*.
 * Zetsche, U., **Bürkner P. C.**, & Renneberg, B. (in press). [Future expectations in clinical depression: biased or realistic?](https://psyarxiv.com/w96k2/). *Journal of Abnormal Psychology*.
 
 ## 2019
