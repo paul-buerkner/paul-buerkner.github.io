@@ -19,13 +19,13 @@ excerpt: "A list of my publications"
 * Williams D. R. & **Bürkner P. C.** (in review). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *PsyArXiv preprint*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
 ## in press
-* **Bürkner P. C.** (in press). [thurstonianIRT: Thurstonian IRT Models in R](https://github.com/openjournals/joss-papers/blob/joss.01641/joss.01641/10.21105.joss.01641.pdf). *Journal of Open Source Software*.
 * Zetsche, U., **Bürkner P. C.**, & Renneberg, B. (in press). [Future expectations in clinical depression: biased or realistic?](https://psyarxiv.com/w96k2/). *Journal of Abnormal Psychology*.
 
 ## 2019
 
 * **Bürkner P. C.** & Vuorre, M. (2019). [Ordinal Regression Models in Psychology: A Tutorial](https://journals.sagepub.com/doi/10.1177/2515245918823199). *Advances in Methods and Practices in Psychological Science*. doi:10.1177/2515245918823199 [preprint](https://psyarxiv.com/x8swp/)
 * **Bürkner P. C.**, Schulte N., & Holling H. (2019). [On the Statistical and Practical Limitations of Thurstonian IRT Models](https://journals.sagepub.com/doi/10.1177/0013164419832063). *Educational and Psychological Measurement*. 79(5). 827--854. doi:10.1177/0013164419832063 [preprint](https://psyarxiv.com/dbwn8/)
+* **Bürkner P. C.** (2019). [thurstonianIRT: Thurstonian IRT Models in R](https://joss.theoj.org/papers/10.21105/joss.01662). *Journal of Open Source Software*.
 * Chen G., **Bürkner P. C.**, Taylor P. A., Li Z., Yin L., Glen D. R., Kinnison J. K., Cox R. W., & Pessoa L. (2019). [One Model to Rule Them All: An Integrative Approach to Matrix-Based Analyses in Neuroimaging Connectomics](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24686). *Human Brain Mapping*. 1--19. doi:10.1002/hbm.24686 [preprint](https://www.biorxiv.org/content/early/2018/11/01/459545)
 * Nalborczyk, L., Batailler, C., Loevenbruck H., Vilain, A., & **Bürkner P. C.** (2019). [An Introduction to Bayesian Multilevel Models Using brms: A Case Study of Gender Effects on Vowel Variability in Standard Indonesian](https://pubs.asha.org/doi/10.1044/2018_JSLHR-S-18-0006). *Journal of Speech, Language, and Hearing Research*. doi:10.1044/2018_JSLHR-S-18-0006 [preprint](https://psyarxiv.com/guhsa/)
 * Nalborczyk, L., **Bürkner P. C.**, & Williams D. (2019). [Pragmatism should not be a substitute for statistical literacy, a commentary on Albers, Kiers, and van Ravenzwaaij (2018)](https://www.collabra.org/articles/10.1525/collabra.197/). *Collabora: Psychology*. 5(1), 1--5. doi:10.1525/collabra.197 [preprint](https://psyarxiv.com/fmtkj/)
