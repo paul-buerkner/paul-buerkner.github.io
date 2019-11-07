@@ -59,8 +59,12 @@ Contributed to
 
 * Behavior Research Methods
 * Biometrical Journal
+* Journal of Machine Learning Research
+* Journal of Probability and Statistics
+* Journal of Statistical Software
+* Journal of the Royal Statistical Society
 * Psychometrika
-* Psychonomic Bulletin & Review
+* Psychonomic Bulletin and Review
 * Statistics in Medicine
 
 ## Teaching
