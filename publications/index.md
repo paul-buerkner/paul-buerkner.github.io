@@ -5,6 +5,7 @@ excerpt: "A list of my publications"
 ---
 
 ## preprints
+
 * **Bürkner P. C.** (in review) [Bayesian Item Response Modelling in R with brms and Stan](https://arxiv.org/abs/1905.09501). *ArXiv preprint*.
 * **Bürkner P. C.**, Gabry J., & Vehtari A. (in review). [Approximate leave-future-out cross-validation for time series  models](https://arxiv.org/abs/1902.06281). *ArXiv preprint*.
 * **Bürkner P. C.** & Charpentier, E. (in review). [Modeling Monotonic Effects of Ordinal Predictors in Regression Models](https://psyarxiv.com/9qkhj/). *PsyArXiv preprint*.
@@ -18,21 +19,20 @@ excerpt: "A list of my publications"
 * Williams D. R., Philippe R., & **Bürkner P. C.** (in review). [Bayesian Meta-Analysis with Weakly Informative Prior Distributions](https://psyarxiv.com/7tbrm/). *PsyArXiv preprint*.
 * Williams D. R. & **Bürkner P. C.** (in review). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *PsyArXiv preprint*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
-## in press
-* Zetsche, U., **Bürkner P. C.**, & Renneberg, B. (in press). [Future expectations in clinical depression: biased or realistic?](https://psyarxiv.com/w96k2/). *Journal of Abnormal Psychology*.
-
 ## 2019
 
 * **Bürkner P. C.** & Vuorre, M. (2019). [Ordinal Regression Models in Psychology: A Tutorial](https://journals.sagepub.com/doi/10.1177/2515245918823199). *Advances in Methods and Practices in Psychological Science*. doi:10.1177/2515245918823199 [preprint](https://psyarxiv.com/x8swp/)
-* **Bürkner P. C.**, Schulte N., & Holling H. (2019). [On the Statistical and Practical Limitations of Thurstonian IRT Models](https://journals.sagepub.com/doi/10.1177/0013164419832063). *Educational and Psychological Measurement*. 79(5). 827--854. doi:10.1177/0013164419832063 [preprint](https://psyarxiv.com/dbwn8/)
+* **Bürkner P. C.**, Schulte N., & Holling H. (2019). [On the Statistical and Practical Limitations of Thurstonian IRT Models](https://journals.sagepub.com/doi/10.1177/0013164419832063). *Educational and Psychological Measurement*. 79(5), 827--854. doi:10.1177/0013164419832063 [preprint](https://psyarxiv.com/dbwn8/)
 * **Bürkner P. C.** (2019). [thurstonianIRT: Thurstonian IRT Models in R](https://joss.theoj.org/papers/10.21105/joss.01662). *Journal of Open Source Software*.
 * Chen G., **Bürkner P. C.**, Taylor P. A., Li Z., Yin L., Glen D. R., Kinnison J. K., Cox R. W., & Pessoa L. (2019). [One Model to Rule Them All: An Integrative Approach to Matrix-Based Analyses in Neuroimaging Connectomics](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24686). *Human Brain Mapping*. 1--19. doi:10.1002/hbm.24686 [preprint](https://www.biorxiv.org/content/early/2018/11/01/459545)
 * Nalborczyk, L., Batailler, C., Loevenbruck H., Vilain, A., & **Bürkner P. C.** (2019). [An Introduction to Bayesian Multilevel Models Using brms: A Case Study of Gender Effects on Vowel Variability in Standard Indonesian](https://pubs.asha.org/doi/10.1044/2018_JSLHR-S-18-0006). *Journal of Speech, Language, and Hearing Research*. doi:10.1044/2018_JSLHR-S-18-0006 [preprint](https://psyarxiv.com/guhsa/)
+* Zetsche, U., **Bürkner P. C.**, & Renneberg, B. (2019). [Future expectations in clinical depression: biased or realistic?](https://psycnet.apa.org/fulltext/2019-47129-001.html). *Journal of Abnormal Psychology*. 128(7), 678--688. doi:10.1037/abn0000452 [preprint](https://psyarxiv.com/w96k2/)
 * Nalborczyk, L., **Bürkner P. C.**, & Williams D. (2019). [Pragmatism should not be a substitute for statistical literacy, a commentary on Albers, Kiers, and van Ravenzwaaij (2018)](https://www.collabra.org/articles/10.1525/collabra.197/). *Collabora: Psychology*. 5(1), 1--5. doi:10.1525/collabra.197 [preprint](https://psyarxiv.com/fmtkj/)
 * Beisemann M., Forthmann B., **Bürkner P. C.**, & Holling H. (2019). [Psychometric Evaluation of an Alternate Scoring for the Remote Associates Test](https://onlinelibrary.wiley.com/doi/abs/10.1002/jocb.394). *The Journal of Creative Behavior*. 1--16. doi:10.1002/jocb.394
 * Forthmann, B., **Bürkner P. C.**, Benedek, M., Szardenings, C., & Holling, H. (2019). [A New Perspective on the Multidimensionality of Divergent Thinking Tasks](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00985/full). *Frontiers in Psychology: Cognition*. 10, 1--9. doi:10.3389/fpsyg.2019.00985 [preprint](https://psyarxiv.com/tvzs6/)
 
 ## 2018
+
 * **Bürkner P. C.**, Schwabe S., & Holling H. (2018). [Optimal Designs for the Generalized Partial Credit Model](https://onlinelibrary.wiley.com/doi/full/10.1111/bmsp.12148). *British Journal of Mathematical and Statistical Psychology*. 1--23. doi:10.1111/bmsp.12148 [preprint](https://arxiv.org/abs/1803.06517)
 * **Bürkner P. C.** (2018). [Advanced Bayesian Multilevel Modeling with the R Package brms](https://journal.r-project.org/archive/2018/RJ-2018-017/index.html). *The R Journal*. 10(1), 395--411. doi:10.32614/RJ-2018-017
 * Johnen A., **Bürkner P. C.**, Landmeyer N. C., ..., & Salmen A. (2018). [Can we predict cognitive decline after initial diagnosis of multiple sclerosis? – Results from the German National early MS cohort (KKNMS)](https://link.springer.com/article/10.1007/s00415-018-9142-y). *Journal of Neurology*. 1--12. doi:10.1007/s00415-018-9142-y
@@ -45,6 +45,7 @@ excerpt: "A list of my publications"
 * Arslan R. C., Willführ K. P., Frans E. M., Verweij K. J. H., **Bürkner P. C.**, Myrskylä M., Voland E., Almqvist C., Brendan P., Zietsch B. P., & Penke L. (2018). [Relaxed selection and mutation accumulation are best studied empirically: Reply to a comment by Woodley et al.](http://rspb.royalsocietypublishing.org/content/285/1873/20180092) *Proceedings of the Royal Society B*. 285(1873). 1--3. doi:10.1098/rspb.2018.0092
 
 ## 2017
+
 * **Bürkner P. C.** (2017). [brms: An R Package for Bayesian Multilevel Models using Stan](https://www.jstatsoft.org/article/view/v080i01). *Journal of Statistical Software*. 80(1), 1-28. doi:10.18637/jss.v080.i01
 * **Bürkner P. C.**, Williams D. R., Simmons T. C., & Woolley J. D. (2017). [Intranasal oxytocin may improve high-level social cognition in schizophrenia, but not social cognition or neurocognition in general: A multi-level Bayesian meta-analysis](https://academic.oup.com/schizophreniabulletin/article-abstract/doi/10.1093/schbul/sbx053/3861667/Intranasal-Oxytocin-May-Improve-High-Level-Social?redirectedFrom=fulltext). *Schizophrenia Bulletin*. 43(6), 1291--1303. doi:10.1093/schbul/sbx053
 * **Bürkner P. C.**, Bittner N., Holling H., & Buhlmann U. (2017). [D-Cycloserine Augmentation of Behavior Therapy for Anxiety and Obsessive-Compulsive Disorders: A Meta-Analysis](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0173660). *PLOS ONE*. 12(3), 1--19. doi:10.1371/journal.pone.0173660
@@ -56,8 +57,10 @@ excerpt: "A list of my publications"
 * Williams D. R. & **Bürkner P. C.** (2017). [Data extraction and statistical errors: A quantitative critique of Gumley et al. (2014)](http://onlinelibrary.wiley.com/doi/10.1111/bjc.12130/full). *British Journal of Clinical Psychology*. 56(2), 208--211. doi:10.1111/bjc.12130
 
 ## 2016
+
 * **Bürkner P. C.**, Doebler P., & Holling H. (2016). [Optimal design of the Wilcoxon-Mann-Whitney-test](http://onlinelibrary.wiley.com/doi/10.1002/bimj.201600022/full). *Biometrical Journal*. 59(1), 25--40. doi:10.1002/bimj.201600022
 * Benda N., **Bürkner P. C.**, Freise F., Holling H., & Schwabe R. (2016). [Adaptive Designs for Quantal Dose-Response Experiments with False Answers](http://www.tandfonline.com/doi/abs/10.1080/15598608.2016.1213209). *Journal of Statistical Theory and Practice*. 11(3), 361--374. doi:10.1080/15598608.2016.1213209
 
 ## 2014
+
 * **Bürkner P. C.** & Doebler P. (2014). [Testing for Publication Bias in Diagnostic Meta-Analysis: A Simulation Study](http://onlinelibrary.wiley.com/doi/10.1002/sim.6177/full). *Statistics in Medicine*. 33(18), 3061--3077. doi:10.1002/sim.6177
