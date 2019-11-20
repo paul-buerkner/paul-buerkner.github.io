@@ -14,7 +14,7 @@ excerpt: "A list of my publications"
 * Dietel F., Möllmann A., **Bürkner P. C.**, Wilhelm S., & Buhlmann U. (in review) [Interpretation bias across body dysmorphic, social anxiety and generalized anxiety disorder – a multilevel, diffusion model account](https://psyarxiv.com/3hnpu/). *PsyArXiv preprint*.
 * Hossiep R., Harnack, K., & **Bürkner P. C.** (in review). [Goal setting in distributive and integrative negotiations: a meta-analysis](https://psyarxiv.com/mkgxt). *PsyArXiv preprint*.
 * Busch, L., Utesch, T., **Bürkner P. C.**, & Strauss, B. (in review). [A Daily Diary of the Quantified Self – The Influence of Fitness App Usage on Psychological Well-Being, Body Listening and Body Trusting](https://psyarxiv.com/cd6t8/). *PsyArXiv preprint*.
-* Schuler, B. A., Binnewies, C., & Bürkner, P. (in review). [The Relationship Between Job Crafting, Work Engagement, and Performance: A Meta-Analysis](https://psyarxiv.com/xpf2v/). *PsyArXiv preprint*.
+* Schuler, B. A., Binnewies, C., & **Bürkner P. C.** (in review). [The Relationship Between Job Crafting, Work Engagement, and Performance: A Meta-Analysis](https://psyarxiv.com/xpf2v/). *PsyArXiv preprint*.
 * Williams D. R., Philippe R., & **Bürkner P. C.** (in review). [Bayesian Meta-Analysis with Weakly Informative Prior Distributions](https://psyarxiv.com/7tbrm/). *PsyArXiv preprint*.
 * Williams D. R. & **Bürkner P. C.** (in review). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *PsyArXiv preprint*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
