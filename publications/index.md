@@ -10,7 +10,7 @@ excerpt: "A list of my publications"
 * **Bürkner P. C.**, Gabry J., & Vehtari A. (in review). [Approximate leave-future-out cross-validation for time series  models](https://arxiv.org/abs/1902.06281). *ArXiv preprint*.
 * **Bürkner P. C.** & Charpentier, E. (in review). [Modeling Monotonic Effects of Ordinal Predictors in Regression Models](https://psyarxiv.com/9qkhj/). *PsyArXiv preprint*.
 * **Bürkner P. C.**, Gabry J., & Vehtari A. (in review). [Leave-one-out cross-validation for non-factorizable normal models](http://arxiv.org/abs/1810.10559). *ArXiv preprint*.
-* **Bürkner P. C.** (in review) [Analysing Standard Progressive Matrics (SPM-LS) with Bayesian Item Response Models](https://psyarxiv.com/w96k2/). *PsyArXiv preprint*.
+* **Bürkner P. C.** (in review) [Analysing Standard Progressive Matrics (SPM-LS) with Bayesian Item Response Models](https://psyarxiv.com/gn5hk). *PsyArXiv preprint*.
 * Vehtari A., Gelman A., Simpson D., Carpenter B., & **Bürkner P. C.** (in review). [Rank-normalization, folding, and localization: An improved Rhat for assessing convergence of MCMC](https://arxiv.org/abs/1903.08008). *ArXiv preprint*.
 * Paananen T., Piironen, J., **Bürkner P. C.**, & Vehtari A. (in review). [Pushing the Limits of Importance Sampling through Iterative Moment Matching](http://arxiv.org/abs/1906.08850). *ArXiv preprint*.
 * Dietel F., Möllmann A., **Bürkner P. C.**, Wilhelm S., & Buhlmann U. (in review) [Interpretation bias across body dysmorphic, social anxiety and generalized anxiety disorder – a multilevel, diffusion model account](https://psyarxiv.com/3hnpu/). *PsyArXiv preprint*.
