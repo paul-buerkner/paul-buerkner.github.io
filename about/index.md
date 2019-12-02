@@ -33,6 +33,10 @@ Author of
 * **brms**: Bayesian Regression Models using Stan
 [Website](https://paul-buerkner.github.io/brms)
 [GitHub](https://github.com/paul-buerkner/brms)
+* **posterior**: Tools for Working with Posterior Distributions
+[GitHub](https://github.com/jgabry/posterior)
+* **thurstonianIRT**: Fit Thurstonian IRT models in R
+[GitHub](https://github.com/paul-buerkner/thurstonianIRT)
 
 Contributed to
 
