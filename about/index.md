@@ -61,6 +61,7 @@ Contributed to
 
 ## Reviewer (selected)
 
+* Bayesian Analysis
 * Behavior Research Methods
 * Biometrical Journal
 * Journal of Machine Learning Research
