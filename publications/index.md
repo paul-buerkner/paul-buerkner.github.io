@@ -17,7 +17,6 @@ excerpt: "A list of my publications"
 * Dietel F., Zache C., **Bürkner P. C.**, Schulte J., Möbius M., Bischof A., Wilhelm S., & Buhlmann U. (in review). [Internet-based Interpretation Bias Modification for body dissatisfaction: A three-armed randomized controlled trial](https://psyarxiv.com/y73rd/). *PsyArXiv preprint*.
 * Hossiep R., Harnack, K., & **Bürkner P. C.** (in review). [Goal setting in distributive and integrative negotiations: a meta-analysis](https://psyarxiv.com/mkgxt). *PsyArXiv preprint*.
 * Busch, L., Utesch, T., **Bürkner P. C.**, & Strauss, B. (in review). [A Daily Diary of the Quantified Self – The Influence of Fitness App Usage on Psychological Well-Being, Body Listening and Body Trusting](https://psyarxiv.com/cd6t8/). *PsyArXiv preprint*.
-* Schuler, B. A., Binnewies, C., & **Bürkner P. C.** (in review). [The Relationship Between Job Crafting, Work Engagement, and Performance: A Meta-Analysis](https://psyarxiv.com/xpf2v/). *PsyArXiv preprint*.
 * Williams D. R., Philippe R., & **Bürkner P. C.** (in review). [Bayesian Meta-Analysis with Weakly Informative Prior Distributions](https://psyarxiv.com/7tbrm/). *PsyArXiv preprint*.
 
 ## in press
@@ -71,3 +70,8 @@ excerpt: "A list of my publications"
 ## 2014
 
 * **Bürkner P. C.** & Doebler P. (2014). [Testing for Publication Bias in Diagnostic Meta-Analysis: A Simulation Study](http://onlinelibrary.wiley.com/doi/10.1002/sim.6177/full). *Statistics in Medicine*. 33(18), 3061--3077. doi:10.1002/sim.6177
+
+## unpublished
+
+* Schuler, B. A., Binnewies, C., & **Bürkner P. C.** (2019). [The Relationship Between Job Crafting, Work Engagement, and Performance: A Meta-Analysis](https://psyarxiv.com/xpf2v/). *PsyArXiv preprint*.
+* Fleischer C., Doebler P., **Bürkner P. C.** & Holling H. [Adventure therapy effects on self-concept – A meta-analysis](https://psyarxiv.com/c7y9a). *PsyArXiv preprint*.
