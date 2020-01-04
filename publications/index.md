@@ -74,4 +74,4 @@ excerpt: "A list of my publications"
 ## unpublished
 
 * Schuler, B. A., Binnewies, C., & **Bürkner P. C.** (2019). [The Relationship Between Job Crafting, Work Engagement, and Performance: A Meta-Analysis](https://psyarxiv.com/xpf2v/). *PsyArXiv preprint*.
-* Fleischer C., Doebler P., **Bürkner P. C.** & Holling H. [Adventure therapy effects on self-concept – A meta-analysis](https://psyarxiv.com/c7y9a). *PsyArXiv preprint*.
+* Fleischer C., Doebler P., **Bürkner P. C.** & Holling H. (2018). [Adventure therapy effects on self-concept – A meta-analysis](https://psyarxiv.com/c7y9a). *PsyArXiv preprint*.
