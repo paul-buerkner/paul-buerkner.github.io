@@ -21,9 +21,13 @@ excerpt: "A list of my publications"
 
 ## in press
 
-* **Bürkner P. C.** & Charpentier, E. (in press). [Modeling Monotonic Effects of Ordinal Predictors in Regression Models](https://psyarxiv.com/9qkhj/). *British Journal of Mathematical and Statistical Psychology*.
-* Deres T., **Bürkner P. C.**, Klauke B., & Buhlmann U. (in press). The Role of Stigma during the Course of Inpatient Psychotherapeutic Treatment in a German Sample. *Clinical Psychology and Psychotherapy*.
 * Williams D. R. & **Bürkner P. C.** (in press). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *Meta-Psychology*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
+
+## 2020
+
+* **Bürkner P. C.** & Charpentier, E. (2020). [Modeling Monotonic Effects of Ordinal Predictors in Regression Models](https://doi.org/10.1111/bmsp.12195). *British Journal of Mathematical and Statistical Psychology*. doi:10.1111/bmsp.12195 [prepint](https://psyarxiv.com/9qkhj/)
+* Deres T., **Bürkner P. C.**, Klauke B., & Buhlmann U. (2020). [The Role of Stigma during the Course of Inpatient Psychotherapeutic Treatment in a German Sample](https://doi.org/10.1002/cpp.2423). *Clinical Psychology and Psychotherapy*. 
+doi:10.1002/cpp.2423
 
 ## 2019
 
