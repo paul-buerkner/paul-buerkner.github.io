@@ -55,6 +55,7 @@ Contributed to
 
 ## Awards
 
+* 2020: SIPS Commendation award for brms
 * 2018: Award for the best dissertation 2017-2018 in Psychology at the University of Münster
 * 2017: Gustav A. Lienert award for the best methodological dissertation (awarded by the DGPs)
 * 2017: Award for the best lecture of the Institute of Psychology in Münster
