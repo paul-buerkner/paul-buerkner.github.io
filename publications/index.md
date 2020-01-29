@@ -9,7 +9,6 @@ excerpt: "A list of my publications"
 * **Bürkner P. C.** (in review). [Bayesian Item Response Modelling in R with brms and Stan](https://arxiv.org/abs/1905.09501). *ArXiv preprint*.
 * **Bürkner P. C.**, Gabry J., & Vehtari A. (in review). [Approximate leave-future-out cross-validation for time series  models](https://arxiv.org/abs/1902.06281). *ArXiv preprint*.
 * **Bürkner P. C.**, Gabry J., & Vehtari A. (in review). [Leave-one-out cross-validation for non-factorizable normal models](http://arxiv.org/abs/1810.10559). *ArXiv preprint*.
-* **Bürkner P. C.** (in review). [Analysing Standard Progressive Matrics (SPM-LS) with Bayesian Item Response Models](https://psyarxiv.com/gn5hk). *PsyArXiv preprint*.
 * Vehtari A., Gelman A., Simpson D., Carpenter B., & **Bürkner P. C.** (in review). [Rank-normalization, folding, and localization: An improved Rhat for assessing convergence of MCMC](https://arxiv.org/abs/1903.08008). *ArXiv preprint*.
 * Paananen T., Piironen, J., **Bürkner P. C.**, & Vehtari A. (in review). [Pushing the Limits of Importance Sampling through Iterative Moment Matching](http://arxiv.org/abs/1906.08850). *ArXiv preprint*.
 * Schulte N., Holling H., & **Bürkner P. C.** (in review). [Can High-Dimensional Questionnaires Resolve the Ipsativity Issue of Forced-Choice Response Formats?](https://psyarxiv.com/43uq8/). *PsyArXiv preprint*.
@@ -21,6 +20,7 @@ excerpt: "A list of my publications"
 
 ## in press
 
+* **Bürkner P. C.** (in press). [Analysing Standard Progressive Matrics (SPM-LS) with Bayesian Item Response Models](https://psyarxiv.com/gn5hk). *Journal of Intelligence*.
 * Williams D. R. & **Bürkner P. C.** (in press). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *Meta-Psychology*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
 ## 2020
