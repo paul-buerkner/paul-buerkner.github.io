@@ -18,11 +18,12 @@ Psychology and Mathematics at the Universities of Münster and Hagen. See
 
 ## Research Interests
 
-* Bayesian Inference
-* Multilevel Models
-* Ordinal Models
+* Bayesian Statistics
+* Bayesian Workflow
+* Model Comparison
+* Multilevel Modeling
+* Ordinal Modeling
 * Optimal Design
-* Meta-Analysis
 
 ## Software Development
 
@@ -75,9 +76,10 @@ Contributed to
 
 ## Teaching
 
-* Statistics I - Descriptive Statistics und Probability Theory, B.Sc. Psychology
-* Statistics II - Inferential Statistics, B.Sc. Psychology
+* Bayesian Data Analysis, M.Sc. Computer Science
 * Advanced Statistics II - Structural Equation Modeling and Bayesian Inference, M.Sc. Psychology
+* Statistics II - Inferential Statistics, B.Sc. Psychology
+* Statistics I - Descriptive Statistics und Probability Theory, B.Sc. Psychology
 
 ## Talks (selected)
 
