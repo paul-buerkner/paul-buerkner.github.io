@@ -20,7 +20,7 @@ excerpt: "A list of my publications"
 
 ## in press
 
-* Trempler, I., **Bürkner P. C.**, El-Sourani N., Binder E., Reker P., Fink G. R., & Schubotz R. I. (in press). Impaired context-sensitive adjustment of behaviour in Parkinson's disease patients tested on and off medication: an fMRI study. *NeuroImage*.
+* Trempler, I., **Bürkner P. C.**, El-Sourani N., Binder E., Reker P., Fink G. R., & Schubotz R. (in press). Impaired context-sensitive adjustment of behaviour in Parkinson's disease patients tested on and off medication: an fMRI study. *NeuroImage*.
 * Williams D. R. & **Bürkner P. C.** (in press). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *Meta-Psychology*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
 ## 2020
