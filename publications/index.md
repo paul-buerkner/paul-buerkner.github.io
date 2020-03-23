@@ -55,6 +55,8 @@ doi:10.1002/cpp.2423
 * Reinhold M., **Bürkner P. C.**, Holling H. (2018). [Effects of Expressive Writing on Depressive Symptoms – A Meta-Analysis](http://onlinelibrary.wiley.com/doi/10.1111/cpsp.12224/abstract). *Clinical Psychology: Science and Practice*. 25(1), 1--13. doi:10.1111/cpsp.12224
 * Zhoua T., Popescu S. C., Lawing A. M., Eriksson M., Strambu B., **Bürkner P. C.** (2018). [Bayesian and classical machine learning methods: A comparison for tree species classification with LiDAR waveform signatures](http://www.mdpi.com/2072-4292/10/1/39). *Remote Sensing*. 10(1), 1--27, doi:10.3390/rs10010039
 * Arslan R. C., Willführ K. P., Frans E. M., Verweij K. J. H., **Bürkner P. C.**, Myrskylä M., Voland E., Almqvist C., Brendan P., Zietsch B. P., & Penke L. (2018). [Relaxed selection and mutation accumulation are best studied empirically: Reply to a comment by Woodley et al.](http://rspb.royalsocietypublishing.org/content/285/1873/20180092) *Proceedings of the Royal Society B*. 285(1873). 1--3. doi:10.1098/rspb.2018.0092
+* **Bürkner, P. C.** (2018). Synthesizing Evidence. In *Diagnostic Meta-Analysis: A Useful Tool for Clinical Decision-Making* (pp. 115-124). Springer.
+* Doebler, P., **Bürkner, P. C.**, & Rücker, G. (2018). Statistical Packages for Diagnostic Meta-Analysis and Their Application. In *Diagnostic Meta-Analysis: A Useful Tool for Clinical Decision-Making* (pp. 161-181). Springer.
 
 ## 2017
 
