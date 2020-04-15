@@ -16,11 +16,11 @@ excerpt: "A list of my publications"
 * Reynolds, J. & **Bürkner P. C.** (in review). [Examining the Relationship Between Weapon Type and Relationship Type in American Homicides: A Bayesian Approach](https://psyarxiv.com/tf7je/). *PsyArXiv preprint*.
 * Stecker, J., **Bürkner P. C.**, Hellmann, J., Nestler, S., & Back, M. (in review). [Prejudice at First Sight? First Impressions of Refugees are More Strongly Influenced by Targets’ and Perceivers’ Individual Characteristics Than by Sheer Group Affiliation](https://psyarxiv.com/wt6kr). *PsyArXiv preprint*.
 * Dietel F., Möllmann A., **Bürkner P. C.**, Wilhelm S., & Buhlmann U. (in review). [Interpretation bias across body dysmorphic, social anxiety and generalized anxiety disorder – a multilevel, diffusion model account](https://psyarxiv.com/3hnpu/). *PsyArXiv preprint*.
-* Dietel F., Zache C., **Bürkner P. C.**, Schulte J., Möbius M., Bischof A., Wilhelm S., & Buhlmann U. (in review). [Internet-based Interpretation Bias Modification for body dissatisfaction: A three-armed randomized controlled trial](https://psyarxiv.com/y73rd/). *PsyArXiv preprint*.
 * Hossiep R., Harnack, K., & **Bürkner P. C.** (in review). [Goal setting in distributive and integrative negotiations: a meta-analysis](https://psyarxiv.com/mkgxt). *PsyArXiv preprint*.
 
 ## in press
 
+* Dietel F., Zache C., **Bürkner P. C.**, Schulte J., Möbius M., Bischof A., Wilhelm S., & Buhlmann U. (in press). [Internet-based Interpretation Bias Modification for body dissatisfaction: A three-armed randomized controlled trial](https://psyarxiv.com/y73rd/). *International Journal of Eating Disorders*.
 * Busch, L., Utesch, T., **Bürkner P. C.**, & Strauss, B. (in press). [A Daily Diary of the Quantified Self – The Influence of Fitness App Usage on Psychological Well-Being, Body Listening and Body Trusting](https://psyarxiv.com/cd6t8/). *Journal of Sport & Exercise Psychology*.
 * Williams D. R. & **Bürkner P. C.** (in press). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *Meta-Psychology*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
