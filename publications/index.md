@@ -11,8 +11,9 @@ excerpt: "A list of my publications"
 * **Bürkner P. C.**, Gabry J., & Vehtari A. (in review). [Efficient leave-one-out cross-validation for Bayesian non-factorized normal and Student-t models](http://arxiv.org/abs/1810.10559). *ArXiv preprint*.
 * Vehtari A., Gelman A., Simpson D., Carpenter B., & **Bürkner P. C.** (in review). [Rank-normalization, folding, and localization: An improved Rhat for assessing convergence of MCMC](https://arxiv.org/abs/1903.08008). *ArXiv preprint*.
 * Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (in review). [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](http://arxiv.org/abs/2004.11408). *ArXiv preprint*.
-* Paananen T., Piironen, J., **Bürkner P. C.**, & Vehtari A. (in review). [Pushing the Limits of Importance Sampling through Iterative Moment Matching](http://arxiv.org/abs/1906.08850). *ArXiv preprint*.
+* Paananen T., Piironen, J., **Bürkner P. C.**, & Vehtari A. (in review). [Implicitly Adaptive Importance Sampling](http://arxiv.org/abs/1906.08850). *ArXiv preprint*.
 * Pavone, F., Piironen, J., **Bürkner P. C.**, & Vehtari A. (in review). [Using reference models in variable selection](https://arxiv.org/abs/2004.13118). *ArXiv preprint*.
+* Paananen T., Catalina A., **Bürkner P. C.**, Vehtari A. (in review). [Group Heterogeneity Assessment for Multilevel Models](http://arxiv.org/abs/2005.02773). *ArXiv preprint*.
 * Radev S., D’Alessandro M., **Bürkner P. C.**, Mertens U. K., Voss A., & Köthe U. (in review). [Amortized Bayesian Model Comparison with Evidental Deep Learning](https://arxiv.org/abs/2004.10629). *ArXiv preprint*.
 * Hartmann M., Agiashvili G., **Bürkner P. C.**, &  Klami A. (in review). [Flexible Prior Elicitation via the Prior Predictive Distribution](https://arxiv.org/abs/2002.09868). *ArXiv preprint*.
 * Schulte N., Holling H., & **Bürkner P. C.** (in review). [Can High-Dimensional Questionnaires Resolve the Ipsativity Issue of Forced-Choice Response Formats?](https://psyarxiv.com/43uq8/). *PsyArXiv preprint*.
