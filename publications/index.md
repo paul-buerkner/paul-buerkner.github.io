@@ -26,16 +26,15 @@ excerpt: "A list of my publications"
 
 * Hartmann M., Agiashvili G., **Bürkner P. C.**, &  Klami A. (in press). [Flexible Prior Elicitation via the Prior Predictive Distribution](https://arxiv.org/abs/2002.09868). *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*.
 * Dietel F., Zache C., **Bürkner P. C.**, Schulte J., Möbius M., Bischof A., Wilhelm S., & Buhlmann U. (in press). [Internet-based Interpretation Bias Modification for body dissatisfaction: A three-armed randomized controlled trial](https://psyarxiv.com/y73rd/). *International Journal of Eating Disorders*.
-* Busch, L., Utesch, T., **Bürkner P. C.**, & Strauss, B. (in press). [A Daily Diary of the Quantified Self – The Influence of Fitness App Usage on Psychological Well-Being, Body Listening and Body Trusting](https://psyarxiv.com/cd6t8/). *Journal of Sport & Exercise Psychology*.
 * Williams D. R. & **Bürkner P. C.** (in press). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *Meta-Psychology*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
 ## 2020
 
 * **Bürkner P. C.** & Charpentier E. (2020). [Modeling Monotonic Effects of Ordinal Predictors in Regression Models](https://doi.org/10.1111/bmsp.12195). *British Journal of Mathematical and Statistical Psychology*. doi:10.1111/bmsp.12195 [preprint](https://psyarxiv.com/9qkhj/)
-* **Bürkner P. C.** (2020). [Analysing Standard Progressive Matrics (SPM-LS) with Bayesian Item Response Models](https://www.mdpi.com/2079-3200/8/1/5). *Journal of Intelligence*. 8(1), 1--18. [preprint](https://psyarxiv.com/gn5hk)
+* **Bürkner P. C.** (2020). [Analysing Standard Progressive Matrics (SPM-LS) with Bayesian Item Response Models](https://www.mdpi.com/2079-3200/8/1/5). *Journal of Intelligence*. 8(1), 1--18. doi:10.3390/jintelligence8010005 [preprint](https://psyarxiv.com/gn5hk)
 * Trempler, I., **Bürkner P. C.**, El-Sourani N., Binder E., Reker P., Fink G. R., & Schubotz R. (2020). [Impaired context-sensitive adjustment of behaviour in Parkinson's disease patients tested on and off medication: an fMRI study](https://doi.org/10.1016/j.neuroimage.2020.116674). *NeuroImage*. 212. 1--11. doi:10.1016/j.neuroimage.2020.116674
-* Deres T., **Bürkner P. C.**, Klauke B., & Buhlmann U. (2020). [The Role of Stigma during the Course of Inpatient Psychotherapeutic Treatment in a German Sample](https://doi.org/10.1002/cpp.2423). *Clinical Psychology and Psychotherapy*. 
-doi:10.1002/cpp.2423
+* Deres T., **Bürkner P. C.**, Klauke B., & Buhlmann U. (2020). [The Role of Stigma during the Course of Inpatient Psychotherapeutic Treatment in a German Sample](https://doi.org/10.1002/cpp.2423). *Clinical Psychology and Psychotherapy*. doi:10.1002/cpp.2423
+* Busch, L., Utesch, T., **Bürkner P. C.**, & Strauss, B. (2020). [A Daily Diary of the Quantified Self – The Influence of Fitness App Usage on Psychological Well-Being, Body Listening and Body Trusting](http://dx.doi.org/10.1123/jsep.2019-0315). *Journal of Sport & Exercise Psychology*. doi:10.1123/jsep.2019-0315 [preprint](https://psyarxiv.com/cd6t8/)
 
 ## 2019
 
