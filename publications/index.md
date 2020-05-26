@@ -24,7 +24,7 @@ excerpt: "A list of my publications"
 ## in press
 
 * Hartmann M., Agiashvili G., **Bürkner P. C.**, &  Klami A. (in press). [Flexible Prior Elicitation via the Prior Predictive Distribution](https://arxiv.org/abs/2002.09868). *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*.
-* Schulte N., Holling H., & **Bürkner P. C.** (in press). [Can High-Dimensional Questionnaires Resolve the Ipsativity Issue of Forced-Choice Response Formats?](https://psyarxiv.com/43uq8/) *Educational and Psychological Measurement*.
+* Schulte N., Holling H., & **Bürkner P. C.** (in press). [Can High-Dimensional Questionnaires Resolve the Ipsativity Issue of Forced-Choice Response Formats?](https://psyarxiv.com/43uq8/). *Educational and Psychological Measurement*.
 * Williams D. R. & **Bürkner P. C.** (in press). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *Meta-Psychology*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
 ## 2020
