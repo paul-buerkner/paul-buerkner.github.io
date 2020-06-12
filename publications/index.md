@@ -7,7 +7,6 @@ excerpt: "A list of my publications"
 ## preprints
 
 * **Bürkner P. C.** (in review). [Bayesian Item Response Modelling in R with brms and Stan](https://arxiv.org/abs/1905.09501). *ArXiv preprint*.
-* **Bürkner P. C.**, Gabry J., & Vehtari A. (in review). [Approximate leave-future-out cross-validation for time series  models](https://arxiv.org/abs/1902.06281). *ArXiv preprint*.
 * **Bürkner P. C.**, Gabry J., & Vehtari A. (in review). [Efficient leave-one-out cross-validation for Bayesian non-factorized normal and Student-t models](http://arxiv.org/abs/1810.10559). *ArXiv preprint*.
 * Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (in review). [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](http://arxiv.org/abs/2004.11408). *ArXiv preprint*.
 * Paananen T., Piironen, J., **Bürkner P. C.**, & Vehtari A. (in review). [Implicitly Adaptive Importance Sampling](http://arxiv.org/abs/1906.08850). *ArXiv preprint*.
@@ -22,6 +21,7 @@ excerpt: "A list of my publications"
 
 ## in press
 
+* **Bürkner P. C.**, Gabry J., & Vehtari A. (in press). [Approximate leave-future-out cross-validation for time series  models](https://arxiv.org/abs/1902.06281). *Journal of Statistical Computation and Simulation*.
 * Vehtari A., Gelman A., Simpson D., Carpenter B., & **Bürkner P. C.** (in press). [Rank-normalization, folding, and localization: An improved Rhat for assessing convergence of MCMC](https://arxiv.org/abs/1903.08008). *Bayesian Analysis*.
 * Hartmann M., Agiashvili G., **Bürkner P. C.**, &  Klami A. (in press). [Flexible Prior Elicitation via the Prior Predictive Distribution](https://arxiv.org/abs/2002.09868). *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*.
 * Schulte N., Holling H., & **Bürkner P. C.** (in press). [Can High-Dimensional Questionnaires Resolve the Ipsativity Issue of Forced-Choice Response Formats?](https://psyarxiv.com/43uq8/). *Educational and Psychological Measurement*.
