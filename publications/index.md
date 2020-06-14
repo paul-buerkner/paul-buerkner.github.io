@@ -13,7 +13,6 @@ excerpt: "A list of my publications"
 * Paananen T., Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). [Group Heterogeneity Assessment for Multilevel Models](http://arxiv.org/abs/2005.02773). *ArXiv preprint*.
 * Pavone, F., Piironen, J., **Bürkner P. C.**, & Vehtari A. (in review). [Using reference models in variable selection](https://arxiv.org/abs/2004.13118). *ArXiv preprint*.
 * Radev S., D’Alessandro M., **Bürkner P. C.**, Mertens U. K., Voss A., & Köthe U. (in review). [Amortized Bayesian Model Comparison with Evidental Deep Learning](https://arxiv.org/abs/2004.10629). *ArXiv preprint*.
-* Radev S., Wieschen E. M., Voss A., & **Bürkner P. C.**, (in review). [Amortized Bayesian Inference for Models of Cognition](https://arxiv.org/abs/2005.03899). *ArXiv preprint*.
 * Reynolds, J. & **Bürkner P. C.** (in review). [Examining the Relationship Between Weapon Type and Relationship Type in American Homicides: A Bayesian Approach](https://psyarxiv.com/tf7je/). *PsyArXiv preprint*.
 * Stecker, J., **Bürkner P. C.**, Hellmann, J., Nestler, S., & Back, M. (in review). [Prejudice at First Sight? First Impressions of Refugees are More Strongly Influenced by Targets’ and Perceivers’ Individual Characteristics Than by Sheer Group Affiliation](https://psyarxiv.com/wt6kr). *PsyArXiv preprint*.
 * Dietel F., Möllmann A., **Bürkner P. C.**, Wilhelm S., & Buhlmann U. (in review). [Interpretation bias across body dysmorphic, social anxiety and generalized anxiety disorder – a multilevel, diffusion model account](https://psyarxiv.com/3hnpu/). *PsyArXiv preprint*.
@@ -25,6 +24,7 @@ excerpt: "A list of my publications"
 * Vehtari A., Gelman A., Simpson D., Carpenter B., & **Bürkner P. C.** (in press). [Rank-normalization, folding, and localization: An improved Rhat for assessing convergence of MCMC](https://arxiv.org/abs/1903.08008). *Bayesian Analysis*.
 * Hartmann M., Agiashvili G., **Bürkner P. C.**, &  Klami A. (in press). [Flexible Prior Elicitation via the Prior Predictive Distribution](https://arxiv.org/abs/2002.09868). *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*.
 * Schulte N., Holling H., & **Bürkner P. C.** (in press). [Can High-Dimensional Questionnaires Resolve the Ipsativity Issue of Forced-Choice Response Formats?](https://psyarxiv.com/43uq8/). *Educational and Psychological Measurement*.
+* Radev S., Wieschen E. M., Voss A., & **Bürkner P. C.**, (in press). [Amortized Bayesian Inference for Models of Cognition](https://arxiv.org/abs/2005.03899). *International Conference on Cognitive Modelling (ICCM) Conference Proceedings*.
 * Williams D. R. & **Bürkner P. C.** (in press). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/preprints/psyarxiv/2jpdb/). *Meta-Psychology*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
 ## 2020
