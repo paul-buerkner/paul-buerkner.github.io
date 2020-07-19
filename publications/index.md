@@ -35,7 +35,7 @@ excerpt: "A list of my publications"
 * Dietel F., Zache C., **Bürkner P. C.**, Schulte J., Möbius M., Bischof A., Wilhelm S., & Buhlmann U. (2020). [Internet-based Interpretation Bias Modification for body dissatisfaction: A three-armed randomized controlled trial](http://dx.doi.org/10.1002/eat.23280). *International Journal of Eating Disorders*. doi:10.1002/eat.23280 [preprint](https://psyarxiv.com/y73rd/).
 * Deres T., **Bürkner P. C.**, Klauke B., & Buhlmann U. (2020). [The Role of Stigma during the Course of Inpatient Psychotherapeutic Treatment in a German Sample](https://doi.org/10.1002/cpp.2423). *Clinical Psychology and Psychotherapy*. doi:10.1002/cpp.2423
 * Busch, L., Utesch, T., **Bürkner P. C.**, & Strauss, B. (2020). [A Daily Diary of the Quantified Self – The Influence of Fitness App Usage on Psychological Well-Being, Body Listening and Body Trusting](http://dx.doi.org/10.1123/jsep.2019-0315). *Journal of Sport & Exercise Psychology*. doi:10.1123/jsep.2019-0315 [preprint](https://psyarxiv.com/cd6t8/)
-* Williams D. R. & **Bürkner P. C.** (2020). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://osf.io/j2qgs/). *Meta-Psychology*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
+* Williams D. R. & **Bürkner P. C.** (2020). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://open.lnu.se/index.php/metapsychology/article/view/872). *Meta-Psychology*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
 
 ## 2019
 
