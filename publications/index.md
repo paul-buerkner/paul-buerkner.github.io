@@ -25,7 +25,7 @@ excerpt: "A list of my publications"
 
 ## 2020
 
-* **Bürkner P. C.**, Gabry J., & Vehtari A. (2020). [Approximate leave-future-out cross-validation for time series  models](https://doi.org/10.1080/00949655.2020.1783262). *Journal of Statistical Computation and Simulation*. 1--25. doi:10.1080/00949655.2020.1783262 [preprint](https://arxiv.org/abs/1902.06281)
+* **Bürkner P. C.**, Gabry J., & Vehtari A. (2020). [Approximate leave-future-out cross-validation for Bayesian time series  models](https://doi.org/10.1080/00949655.2020.1783262). *Journal of Statistical Computation and Simulation*. 1--25. doi:10.1080/00949655.2020.1783262 [preprint](https://arxiv.org/abs/1902.06281)
 * **Bürkner P. C.** & Charpentier E. (2020). [Modeling Monotonic Effects of Ordinal Predictors in Regression Models](https://doi.org/10.1111/bmsp.12195). *British Journal of Mathematical and Statistical Psychology*. doi:10.1111/bmsp.12195 [preprint](https://psyarxiv.com/9qkhj/)
 * **Bürkner P. C.** (2020). [Analysing Standard Progressive Matrics (SPM-LS) with Bayesian Item Response Models](https://www.mdpi.com/2079-3200/8/1/5). *Journal of Intelligence*. 8(1), 1--18. doi:10.3390/jintelligence8010005 [preprint](https://psyarxiv.com/gn5hk)
 * Vehtari A., Gelman A., Simpson D., Carpenter B., & **Bürkner P. C.** (2020). [Rank-normalization, folding, and localization: An improved Rhat for assessing convergence of MCMC](https://projecteuclid.org/euclid.ba/1593828229). *Bayesian Analysis*. 1--28. dpi:10.1214/20-BA1221 [preprint](https://arxiv.org/abs/1903.08008)
