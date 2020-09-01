@@ -22,7 +22,6 @@ excerpt: "A list of my publications"
 ## in press
 
 * **Bürkner P. C.** (in press). [Bayesian Item Response Modelling in R with brms and Stan](https://arxiv.org/abs/1905.09501). *Journal of Statistical Software*.
-* Hartmann M., Agiashvili G., **Bürkner P. C.**, &  Klami A. (in press). [Flexible Prior Elicitation via the Prior Predictive Distribution](https://arxiv.org/abs/2002.09868). *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*.
 
 ## 2020
 
@@ -30,6 +29,7 @@ excerpt: "A list of my publications"
 * **Bürkner P. C.** & Charpentier E. (2020). [Modeling Monotonic Effects of Ordinal Predictors in Regression Models](https://doi.org/10.1111/bmsp.12195). *British Journal of Mathematical and Statistical Psychology*. doi:10.1111/bmsp.12195 [preprint](https://psyarxiv.com/9qkhj/)
 * **Bürkner P. C.** (2020). [Analysing Standard Progressive Matrics (SPM-LS) with Bayesian Item Response Models](https://www.mdpi.com/2079-3200/8/1/5). *Journal of Intelligence*. 8(1), 1--18. doi:10.3390/jintelligence8010005 [preprint](https://psyarxiv.com/gn5hk)
 * Vehtari A., Gelman A., Simpson D., Carpenter B., & **Bürkner P. C.** (2020). [Rank-normalization, folding, and localization: An improved Rhat for assessing convergence of MCMC](https://projecteuclid.org/euclid.ba/1593828229). *Bayesian Analysis*. 1--28. dpi:10.1214/20-BA1221 [preprint](https://arxiv.org/abs/1903.08008)
+* Hartmann M., Agiashvili G., **Bürkner P. C.**, &  Klami A. (2020). [Flexible Prior Elicitation via the Prior Predictive Distribution](http://www.auai.org/uai2020/proceedings/470_main_paper.pdf). *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*. [preprint](https://arxiv.org/abs/2002.09868)
 * Radev S., Wieschen E. M., Voss A., & **Bürkner P. C.**, (2020). [Amortized Bayesian Inference for Models of Cognition](https://iccm-conference.neocities.org/2020/papers/Contribution_230_final.pdf). *International Conference on Cognitive Modelling (ICCM) Conference Proceedings*. [preprint](https://arxiv.org/abs/2005.03899)
 * Schulte N., Holling H., & **Bürkner P. C.** (2020). [Can High-Dimensional Questionnaires Resolve the Ipsativity Issue of Forced-Choice Response Formats?](https://journals.sagepub.com/doi/10.1177/0013164420934861). *Educational and Psychological Measurement*. doi:10.1177/0013164420934861 [preprint](https://psyarxiv.com/43uq8/)
 * Trempler, I., **Bürkner P. C.**, El-Sourani N., Binder E., Reker P., Fink G. R., & Schubotz R. (2020). [Impaired context-sensitive adjustment of behaviour in Parkinson's disease patients tested on and off medication: an fMRI study](https://doi.org/10.1016/j.neuroimage.2020.116674). *NeuroImage*. 212. 1--11. doi:10.1016/j.neuroimage.2020.116674
