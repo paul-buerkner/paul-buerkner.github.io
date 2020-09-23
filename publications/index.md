@@ -8,7 +8,6 @@ excerpt: "A list of my publications"
 
 * **Bürkner P. C.**, Gabry J., & Vehtari A. (in review). [Efficient leave-one-out cross-validation for Bayesian non-factorized normal and Student-t models](http://arxiv.org/abs/1810.10559). *ArXiv preprint*.
 * Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (in review). [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](http://arxiv.org/abs/2004.11408). *ArXiv preprint*.
-* Paananen T., Piironen, J., **Bürkner P. C.**, & Vehtari A. (in review). [Implicitly Adaptive Importance Sampling](http://arxiv.org/abs/1906.08850). *ArXiv preprint*.
 * Paananen T., Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). [Group Heterogeneity Assessment for Multilevel Models](http://arxiv.org/abs/2005.02773). *ArXiv preprint*.
 * Pavone, F., Piironen, J., **Bürkner P. C.**, & Vehtari A. (in review). [Using reference models in variable selection](https://arxiv.org/abs/2004.13118). *ArXiv preprint*.
 * Radev S., D’Alessandro M., **Bürkner P. C.**, Mertens U. K., Voss A., & Köthe U. (in review). [Amortized Bayesian Model Comparison with Evidental Deep Learning](https://arxiv.org/abs/2004.10629). *ArXiv preprint*.
@@ -23,6 +22,7 @@ excerpt: "A list of my publications"
 ## in press
 
 * **Bürkner P. C.** (in press). [Bayesian Item Response Modelling in R with brms and Stan](https://arxiv.org/abs/1905.09501). *Journal of Statistical Software*.
+* Paananen T., Piironen, J., **Bürkner P. C.**, & Vehtari A. (in press). [Implicitly Adaptive Importance Sampling](http://arxiv.org/abs/1906.08850). *Statistics and Computing*.
 
 ## 2020
 
