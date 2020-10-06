@@ -30,7 +30,7 @@ publications.
 
 ## Software Development
 
-Member of the Stan Development Team
+Member of the [Stan Development Team](https://mc-stan.org/)
 
 Author of
 
