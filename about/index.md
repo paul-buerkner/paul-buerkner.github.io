@@ -10,14 +10,15 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
 I am a statistician currently working as an Independent Junior Research Group
-Leader at the Cluster of Excellence SimTech in Stuttgart (Germany). I am the
-author of the R package [brms](https://github.com/paul-buerkner/brms) and member
-of the [Stan](http://mc-stan.org/) Development Team. Previously, I have studied
+Leader at the Cluster of Excellence SimTech at the University of Stuttgart
+(Germany). I am the author of the R package
+[brms](https://github.com/paul-buerkner/brms) and member of the
+[Stan](http://mc-stan.org/) Development Team. Previously, I have studied
 Psychology and Mathematics at the Universities of Münster and Hagen and did my
 PhD in Münster about optimal design and Bayesian data analysis. I have also
-worked as a Postdoctoral researcher at Aalto University (Finland), Department of
-Computer Science. See [here](../publications) for an overview of my scientific
-publications.
+worked as a Postdoctoral researcher at the Department of Computer Science at
+Aalto University (Finland). See [here](../publications) for an overview of my
+scientific publications.
 
 ## Research Interests
 
