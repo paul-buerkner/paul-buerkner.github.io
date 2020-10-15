@@ -7,6 +7,7 @@ excerpt: "A list of my publications"
 ## preprints
 
 * **Bürkner P. C.**, Gabry J., & Vehtari A. (in review). [Efficient leave-one-out cross-validation for Bayesian non-factorized normal and Student-t models](http://arxiv.org/abs/1810.10559). *ArXiv preprint*.
+* Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). [Projection Predictive Inference for Generalized Linear and Additive Multilevel Models](https://arxiv.org/abs/2010.06994). *ArXiv preprint*.
 * Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (in review). [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](http://arxiv.org/abs/2004.11408). *ArXiv preprint*.
 * Paananen T., Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). [Group Heterogeneity Assessment for Multilevel Models](http://arxiv.org/abs/2005.02773). *ArXiv preprint*.
 * Pavone, F., Piironen, J., **Bürkner P. C.**, & Vehtari A. (in review). [Using reference models in variable selection](https://arxiv.org/abs/2004.13118). *ArXiv preprint*.
