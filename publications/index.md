@@ -12,6 +12,7 @@ excerpt: "A list of my publications"
 * Paananen T., Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). [Group Heterogeneity Assessment for Multilevel Models](http://arxiv.org/abs/2005.02773). *ArXiv preprint*.
 * Pavone, F., Piironen, J., **Bürkner P. C.**, & Vehtari A. (in review). [Using reference models in variable selection](https://arxiv.org/abs/2004.13118). *ArXiv preprint*.
 * Radev S., D’Alessandro M., **Bürkner P. C.**, Mertens U. K., Voss A., & Köthe U. (in review). [Amortized Bayesian Model Comparison with Evidental Deep Learning](https://arxiv.org/abs/2004.10629). *ArXiv preprint*.
+* Heck, D., Boehm, U., Böing-Messing, F., **Bürkner P. C.**, ..., Hoijtink, H. (2020). [A Review of Applications of the Bayes Factor in Psychological Research](https://psyarxiv.com/cu43g/). *PsyArXiv preprint*.
 * Kołczyńska M., **Bürkner P. C.**, Kennedy L., & Vehtari A. (in review). [Trust in state institutions in Europe, 1989-2019](https://osf.io/preprints/socarxiv/3v5g7/). *SocArXiv preprint*.
 * Kołczyńska M. & **Bürkner P. C.** (in review). [Marketplace of indicators: Inconsistencies between country trends of measures of governance](https://osf.io/preprints/socarxiv/u8gsc/). *SocArXiv preprint*. 
 * Driebe, J. C., Sidari, M., Dufner, M., von der Heiden, J. M., **Bürkner P. C.**, Penke, L., Zietsch B. P., & Arslan, R. C. (in review). [Intelligence can be detected but is not found attractive in videos and live interactions](https://psyarxiv.com/qv3eh/). *PsyArXiv preprint*.
