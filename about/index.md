@@ -75,6 +75,7 @@ Contributed to
 * Journal of Probability and Statistics
 * Journal of Statistical Software
 * Journal of the Royal Statistical Society
+* Nature Human Behaviour
 * Psychological Methods
 * Psychometrika
 * Psychonomic Bulletin and Review
