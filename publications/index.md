@@ -6,7 +6,6 @@ excerpt: "A list of my publications"
 
 ## preprints
 
-* **Bürkner P. C.**, Gabry J., & Vehtari A. (in review). [Efficient leave-one-out cross-validation for Bayesian non-factorized normal and Student-t models](http://arxiv.org/abs/1810.10559). *ArXiv preprint*.
 * Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). [Projection Predictive Inference for Generalized Linear and Additive Multilevel Models](https://arxiv.org/abs/2010.06994). *ArXiv preprint*.
 * Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (in review). [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](http://arxiv.org/abs/2004.11408). *ArXiv preprint*.
 * Paananen T., Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). [Group Heterogeneity Assessment for Multilevel Models](http://arxiv.org/abs/2005.02773). *ArXiv preprint*.
@@ -22,10 +21,11 @@ excerpt: "A list of my publications"
 * Franke, L. K., Rattel, J. A., Miedl, S. F., Danböck, S. K., **Bürkner, P. C.**, & Wilhelm, F. H. (in review). [Intrusive memories as conditioned responses to trauma cues: an empirically supported concept?](https://psyarxiv.com/t5h97/). *PsyArXiv preprint*.
 * Hossiep R., Harnack, K., & **Bürkner P. C.** (in review). [Goal setting in distributive and integrative negotiations: a meta-analysis](https://psyarxiv.com/mkgxt). *PsyArXiv preprint*.
 
-## in press
+## accepted
 
-* **Bürkner P. C.** (in press). [Bayesian Item Response Modelling in R with brms and Stan](https://arxiv.org/abs/1905.09501). *Journal of Statistical Software*.
-* Paananen T., Piironen, J., **Bürkner P. C.**, & Vehtari A. (in press). [Implicitly Adaptive Importance Sampling](http://arxiv.org/abs/1906.08850). *Statistics and Computing*.
+* **Bürkner P. C.** (accepted). [Bayesian Item Response Modelling in R with brms and Stan](https://arxiv.org/abs/1905.09501). *Journal of Statistical Software*.
+* **Bürkner P. C.**, Gabry J., & Vehtari A. (accepted). [Efficient leave-one-out cross-validation for Bayesian non-factorized normal and Student-t models](http://arxiv.org/abs/1810.10559). *Computational Statistics*.
+* Paananen T., Piironen, J., **Bürkner P. C.**, & Vehtari A. (accepted). [Implicitly Adaptive Importance Sampling](http://arxiv.org/abs/1906.08850). *Statistics and Computing*.
 
 ## 2020
 
