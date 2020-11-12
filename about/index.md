@@ -57,6 +57,8 @@ Contributed to
 * **projpred**: Projection predictive variable selection
 [Website](https://mc-stan.org/projpred)
 [GitHub](https://github.com/stan-dev/projpred)
+* **emmeans**: Estimating marginal means
+[GitHub](https://github.com/rvlenth/emmeans)
 
 ## Awards
 
