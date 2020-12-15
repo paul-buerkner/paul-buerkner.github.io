@@ -20,6 +20,7 @@ excerpt: "A list of my publications"
 * Driebe, J. C., Sidari, M., Dufner, M., von der Heiden, J. M., **Bürkner P. C.**, Penke, L., Zietsch B. P., & Arslan, R. C. (in review). [Intelligence can be detected but is not found attractive in videos and live interactions](https://psyarxiv.com/qv3eh/). *PsyArXiv preprint*.
 * Stecker J., **Bürkner P. C.**, Hellmann J., Nestler S., & Back M. (in review). [Prejudice at First Sight? First Impressions of Refugees are More Strongly Influenced by Targets’ and Perceivers’ Individual Characteristics Than by Sheer Group Affiliation](https://psyarxiv.com/wt6kr). *PsyArXiv preprint*.
 * Franke, L. K., Rattel, J. A., Miedl, S. F., Danböck, S. K., **Bürkner, P. C.**, & Wilhelm, F. H. (in review). [Intrusive memories as conditioned responses to trauma cues: an empirically supported concept?](https://psyarxiv.com/t5h97/). *PsyArXiv preprint*.
+* Kuck, N., Cafitz, L., **Bürkner, P. C.**, Nosthoff-Horstmann, L., Wilhelm, S., & Buhlmann, U. (in review). [Body dysmorphic disorder and self-esteem: A meta-analysis](https://psyarxiv.com/5g32t/). *PsyArXiv preprint*.
 * Hossiep R., Harnack, K., & **Bürkner P. C.** (in review). [Goal setting in distributive and integrative negotiations: a meta-analysis](https://psyarxiv.com/mkgxt). *PsyArXiv preprint*.
 
 ## accepted
