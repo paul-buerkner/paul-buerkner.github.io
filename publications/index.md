@@ -31,7 +31,7 @@ excerpt: "A list of my publications"
 
 ## 2021
 
-* Dietel F., Möllmann A., **Bürkner P. C.**, Wilhelm S., & Buhlmann U. (2021). [Interpretation bias across body dysmorphic, social anxiety and generalized anxiety disorder – a multilevel, diffusion model account](). *Cognitive Therapy and Research*.
+* Dietel F., Möllmann A., **Bürkner P. C.**, Wilhelm S., & Buhlmann U. (2021). [Interpretation bias across body dysmorphic, social anxiety and generalized anxiety disorder – a multilevel, diffusion model account](https://doi.org/10.1007/s10608-020-10180-7). *Cognitive Therapy and Research*.
 doi:10.1007/s10608-020-10180-7 [preprint](https://psyarxiv.com/3hnpu/)
 
 ## 2020
