@@ -28,7 +28,11 @@ excerpt: "A list of my publications"
 * **Bürkner P. C.** (accepted). [Bayesian Item Response Modelling in R with brms and Stan](https://arxiv.org/abs/1905.09501). *Journal of Statistical Software*.
 * Paananen T., Piironen, J., **Bürkner P. C.**, & Vehtari A. (accepted). [Implicitly Adaptive Importance Sampling](http://arxiv.org/abs/1906.08850). *Statistics and Computing*.
 * Reynolds J. & **Bürkner P. C.** (accepted). [Examining the Relationship Between Weapon Type and Relationship Type in American Homicides: A Bayesian Approach](https://psyarxiv.com/tf7je/). *Homicide Studies*.
-* Dietel F., Möllmann A., **Bürkner P. C.**, Wilhelm S., & Buhlmann U. (accepted). [Interpretation bias across body dysmorphic, social anxiety and generalized anxiety disorder – a multilevel, diffusion model account](https://psyarxiv.com/3hnpu/). *Cognitive Therapy and Research*.
+
+## 2021
+
+* Dietel F., Möllmann A., **Bürkner P. C.**, Wilhelm S., & Buhlmann U. (2021). [Interpretation bias across body dysmorphic, social anxiety and generalized anxiety disorder – a multilevel, diffusion model account](). *Cognitive Therapy and Research*.
+doi:10.1007/s10608-020-10180-7 [preprint](https://psyarxiv.com/3hnpu/)
 
 ## 2020
 
