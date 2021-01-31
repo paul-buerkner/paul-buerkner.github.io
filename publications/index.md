@@ -21,7 +21,6 @@ excerpt: "A list of my publications"
 * Stecker J., **Bürkner P. C.**, Hellmann J., Nestler S., & Back M. (in review). [Prejudice at First Sight? First Impressions of Refugees are More Strongly Influenced by Targets’ and Perceivers’ Individual Characteristics Than by Sheer Group Affiliation](https://psyarxiv.com/wt6kr). *PsyArXiv preprint*.
 * Franke, L. K., Rattel, J. A., Miedl, S. F., Danböck, S. K., **Bürkner, P. C.**, & Wilhelm, F. H. (in review). [Intrusive memories as conditioned responses to trauma cues: an empirically supported concept?](https://psyarxiv.com/t5h97/). *PsyArXiv preprint*.
 * Kuck, N., Cafitz, L., **Bürkner, P. C.**, Nosthoff-Horstmann, L., Wilhelm, S., & Buhlmann, U. (in review). [Body dysmorphic disorder and self-esteem: A meta-analysis](https://psyarxiv.com/5g32t/). *PsyArXiv preprint*.
-* Hossiep R., Harnack, K., & **Bürkner P. C.** (in review). [Goal setting in distributive and integrative negotiations: a meta-analysis](https://psyarxiv.com/mkgxt). *PsyArXiv preprint*.
 
 ## accepted
 
@@ -104,6 +103,7 @@ doi:10.1007/s10608-020-10180-7 [preprint](https://psyarxiv.com/3hnpu/)
 
 ## unpublished
 
+* Hossiep R., Harnack, K., & **Bürkner P. C.** (2020). [Goal setting in distributive and integrative negotiations: a meta-analysis](https://psyarxiv.com/mkgxt). *PsyArXiv preprint*.
 * Schuler, B. A., Binnewies, C., & **Bürkner P. C.** (2019). [The Relationship Between Job Crafting, Work Engagement, and Performance: A Meta-Analysis](https://psyarxiv.com/xpf2v/). *PsyArXiv preprint*.
 * Williams D. R., Philippe R., & **Bürkner P. C.** (2018). [Bayesian Meta-Analysis with Weakly Informative Prior Distributions](https://psyarxiv.com/7tbrm/). *PsyArXiv preprint*.
 * Fleischer C., Doebler P., **Bürkner P. C.** & Holling H. (2018). [Adventure therapy effects on self-concept – A meta-analysis](https://psyarxiv.com/c7y9a). *PsyArXiv preprint*.
