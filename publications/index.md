@@ -14,6 +14,7 @@ excerpt: "A list of my publications"
 * Radev S., D’Alessandro M., **Bürkner P. C.**, Mertens U. K., Voss A., & Köthe U. (in review). [Amortized Bayesian Model Comparison with Evidental Deep Learning](https://arxiv.org/abs/2004.10629). *ArXiv preprint*.
 * Heck, D., Boehm, U., Böing-Messing, F., **Bürkner P. C.**, ..., Hoijtink, H. (2020). [A Review of Applications of the Bayes Factor in Psychological Research](https://psyarxiv.com/cu43g/). *PsyArXiv preprint*.
 * Kołczyńska M., **Bürkner P. C.**, Kennedy L., & Vehtari A. (in review). [Trust in state institutions in Europe, 1989-2019](https://osf.io/preprints/socarxiv/3v5g7/). *SocArXiv preprint*.
+* Kołczyńska M. & **Bürkner P. C.** (in review). [Political trust as a cause and consequence of democracy: Longitudinal analysis of European data](https://osf.io/preprints/socarxiv/79dth/). *SocArXiv preprint*. 
 * Kołczyńska M. & **Bürkner P. C.** (in review). [Marketplace of indicators: Inconsistencies between country trends of measures of governance](https://osf.io/preprints/socarxiv/u8gsc/). *SocArXiv preprint*. 
 * Modrak M., **Bürkner P. C.**, Sieger T., ..., Leos-Barajas V., Fiser K., & Hyanek T. (in review).
 [Detailed disease progression of 213 patients hospitalized with Covid-19 in the Czech Republic: An exploratory analysis](https://www.medrxiv.org/content/10.1101/2020.12.03.20239863v1). *medRxiv preprint*.
