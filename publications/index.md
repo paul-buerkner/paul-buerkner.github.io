@@ -22,12 +22,12 @@ excerpt: "A list of my publications"
 [Detailed disease progression of 213 patients hospitalized with Covid-19 in the Czech Republic: An exploratory analysis](https://www.medrxiv.org/content/10.1101/2020.12.03.20239863v1). *medRxiv preprint*.
 * Driebe, J. C., Sidari, M., Dufner, M., von der Heiden, J. M., **Bürkner P. C.**, Penke, L., Zietsch B. P., & Arslan, R. C. (in review). [Intelligence can be detected but is not found attractive in videos and live interactions](https://psyarxiv.com/qv3eh/). *PsyArXiv preprint*.
 * Stecker J., **Bürkner P. C.**, Hellmann J., Nestler S., & Back M. (in review). [Prejudice at First Sight? First Impressions of Refugees are More Strongly Influenced by Targets’ and Perceivers’ Individual Characteristics Than by Sheer Group Affiliation](https://psyarxiv.com/wt6kr). *PsyArXiv preprint*.
-* Franke, L. K., Rattel, J. A., Miedl, S. F., Danböck, S. K., **Bürkner, P. C.**, & Wilhelm, F. H. (in review). [Intrusive memories as conditioned responses to trauma cues: an empirically supported concept?](https://psyarxiv.com/t5h97/). *PsyArXiv preprint*.
 * Kuck, N., Cafitz, L., **Bürkner, P. C.**, Nosthoff-Horstmann, L., Wilhelm, S., & Buhlmann, U. (in review). [Body dysmorphic disorder and self-esteem: A meta-analysis](https://psyarxiv.com/5g32t/). *PsyArXiv preprint*.
 
 ## accepted
 
 * **Bürkner P. C.** (accepted). [Bayesian Item Response Modelling in R with brms and Stan](https://arxiv.org/abs/1905.09501). *Journal of Statistical Software*.
+* Franke, L. K., Rattel, J. A., Miedl, S. F., Danböck, S. K., **Bürkner, P. C.**, & Wilhelm, F. H. (accepted). [Intrusive memories as conditioned responses to trauma cues: an empirically supported concept?](https://psyarxiv.com/t5h97/). *Behaviour Research and Therapy*.
 * Reynolds J. & **Bürkner P. C.** (accepted). [Examining the Relationship Between Weapon Type and Relationship Type in American Homicides: A Bayesian Approach](https://psyarxiv.com/tf7je/). *Homicide Studies*.
 
 ## 2021
