@@ -30,13 +30,13 @@ excerpt: "A list of my publications"
 * Franke, L. K., Rattel, J. A., Miedl, S. F., Danböck, S. K., **Bürkner, P. C.**, & Wilhelm, F. H. (accepted). [Intrusive memories as conditioned responses to trauma cues: an empirically supported concept?](https://psyarxiv.com/t5h97/). *Behaviour Research and Therapy*.
 * Kuck, N., Cafitz, L., **Bürkner, P. C.**, Nosthoff-Horstmann, L., Wilhelm, S., & Buhlmann, U. (accepted). [Body dysmorphic disorder and self-esteem: A meta-analysis](https://psyarxiv.com/5g32t/). *BMC Psychiatry*.
 * Reynolds J. & **Bürkner P. C.** (accepted). [Examining the Relationship Between Weapon Type and Relationship Type in American Homicides: A Bayesian Approach](https://psyarxiv.com/tf7je/). *Homicide Studies*.
-* Stecker J., **Bürkner P. C.**, Hellmann J., Nestler S., & Back M. (accepted). [First Impressions of Refugees are More Strongly Influenced by Target Cues and Perceiver Attitudes Than by Sheer Group Affiliation](https://psyarxiv.com/wt6kr). *Collabora: Psychology*.
 
 ## 2021
 
 * Paananen T., Piironen, J., **Bürkner P. C.**, & Vehtari A. (2021). [Implicitly Adaptive Importance Sampling](https://link.springer.com/article/10.1007%2Fs11222-020-09982-2). *Statistics and Computing*. [preprint](http://arxiv.org/abs/1906.08850)
 * Dietel F., Möllmann A., **Bürkner P. C.**, Wilhelm S., & Buhlmann U. (2021). [Interpretation bias across body dysmorphic, social anxiety and generalized anxiety disorder – a multilevel, diffusion model account](https://doi.org/10.1007/s10608-020-10180-7). *Cognitive Therapy and Research*.
 doi:10.1007/s10608-020-10180-7 [preprint](https://psyarxiv.com/3hnpu/)
+* Stecker J., **Bürkner P. C.**, Hellmann J., Nestler S., & Back M. (2021). [First Impressions of Refugees are More Strongly Influenced by Target Cues and Perceiver Attitudes Than by Sheer Group Affiliation](https://doi.org/10.1525/collabra.22160). *Collabora: Psychology*. [preprint](https://psyarxiv.com/wt6kr)
 
 ## 2020
 
