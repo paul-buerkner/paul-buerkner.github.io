@@ -22,11 +22,11 @@ excerpt: "A list of my publications"
 * Kołczyńska M. & **Bürkner P. C.** (in review). [Marketplace of indicators: Inconsistencies between country trends of measures of governance](https://osf.io/preprints/socarxiv/u8gsc/). *SocArXiv preprint*. 
 * Modrak M., **Bürkner P. C.**, Sieger T., ..., Leos-Barajas V., Fiser K., & Hyanek T. (in review).
 [Detailed disease progression of 213 patients hospitalized with Covid-19 in the Czech Republic: An exploratory analysis](https://www.medrxiv.org/content/10.1101/2020.12.03.20239863v1). *medRxiv preprint*.
-* Driebe, J. C., Sidari, M., Dufner, M., von der Heiden, J. M., **Bürkner P. C.**, Penke, L., Zietsch B. P., & Arslan, R. C. (in review). [Intelligence can be detected but is not found attractive in videos and live interactions](https://psyarxiv.com/qv3eh/). *PsyArXiv preprint*.
 
 ## accepted
 
 * **Bürkner P. C.** (accepted). [Bayesian Item Response Modelling in R with brms and Stan](https://arxiv.org/abs/1905.09501). *Journal of Statistical Software*.
+* Driebe, J. C., Sidari, M., Dufner, M., von der Heiden, J. M., **Bürkner P. C.**, Penke, L., Zietsch B. P., & Arslan, R. C. (accepted). [Intelligence can be detected but is not found attractive in videos and live interactions](https://psyarxiv.com/qv3eh/). *Evolution and Human Behavior*.
 * Franke, L. K., Rattel, J. A., Miedl, S. F., Danböck, S. K., **Bürkner, P. C.**, & Wilhelm, F. H. (accepted). [Intrusive memories as conditioned responses to trauma cues: an empirically supported concept?](https://psyarxiv.com/t5h97/). *Behaviour Research and Therapy*.
 * Kuck, N., Cafitz, L., **Bürkner, P. C.**, Nosthoff-Horstmann, L., Wilhelm, S., & Buhlmann, U. (accepted). [Body dysmorphic disorder and self-esteem: A meta-analysis](https://psyarxiv.com/5g32t/). *BMC Psychiatry*.
 * Hoppen L. M., Kuck N., **Bürkner P. C.**, Karin E., Wootton B. M., & Buhlmann, U. (accepted). Low intensity technology-delivered cognitive behavioral therapy for obsessive-compulsive disorder: A meta-analysis. *BMC Psychiatry*.
