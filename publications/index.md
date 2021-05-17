@@ -14,6 +14,7 @@ excerpt: "A list of my publications"
 * Paananen T., Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). [Group Heterogeneity Assessment for Multilevel Models](http://arxiv.org/abs/2005.02773). *ArXiv preprint*.
 * Pavone, F., Piironen, J., **Bürkner P. C.**, & Vehtari A. (in review). [Using reference models in variable selection](https://arxiv.org/abs/2004.13118). *ArXiv preprint*.
 * Radev S., D’Alessandro M., Mertens U. K., Voss A., Köthe U., & **Bürkner P. C.** (in review). [Amortized Bayesian Model Comparison with Evidental Deep Learning](https://arxiv.org/abs/2004.10629). *ArXiv preprint*.
+* Williams, D. R., Rodriguez, J. E., & **Bürkner P. C.** (in review). [Putting Variation into Variance: Modeling Between-Study Heterogeneity in Meta-Analysis](https://psyarxiv.com/9vkqy/). *PsyArXiv preprint*.
 * Schad D. J., Nicenboim B., **Bürkner P. C.**, Betancourt M., & Vasishth S. (in review). [Workflow Techniques for the Robust Use of Bayes Factors](https://arxiv.org/abs/2103.08744). *ArXiv preprint*.
 * Heck, D., Boehm, U., Böing-Messing, F., **Bürkner P. C.**, ..., & Hoijtink, H. (in review). [A Review of Applications of the Bayes Factor in Psychological Research](https://psyarxiv.com/cu43g/). *PsyArXiv preprint*.
 * Schulte, N., Kaup, L., **Bürkner, P. C.**, & Holling, H. (20210). [The Fakeability of Personality Measurement with Graded Paired Comparisons](https://psyarxiv.com/bs7he/). *PsyArXiv preprint*.
