@@ -16,8 +16,8 @@ involve the development, evaluation, implementation, or application of Bayesian
 methods. See [here](../publications) for an overview of my scientific
 publications. You can also find me on
 [GoogleScholar](https://scholar.google.com/citations?user=JSj6m1IAAAAJ&hl). I am
-deeply involved in open-source software development and you can find my
-major open-source contributions below. Originally, I have studied Psychology and
+deeply involved in open source software development and you can find my
+major contributions below. Originally, I have studied Psychology and
 Mathematics at the Universities of Münster and Hagen and did my PhD in Münster
 on Optimal Design and Bayesian Data Analysis. Before starting my own research
 group in Stuttgart, I have worked as a postdoctoral researcher at the Department
@@ -36,7 +36,7 @@ of Computer Science, Aalto University.
 * Optimal Design
 
 
-## Software Development
+## Open Source Software Development
 
 Member of the [Stan Development Team](https://mc-stan.org/)
 
