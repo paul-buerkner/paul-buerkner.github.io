@@ -9,17 +9,19 @@ modified: 2014-08-08T19:44:38.564948-04:00
 #   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-I am a statistician currently working as an Independent Junior Research Group
-Leader at the Cluster of Excellence SimTech at the University of Stuttgart
-(Germany). I am the author of the R package
-[brms](https://github.com/paul-buerkner/brms) and member of the
-[Stan](https://mc-stan.org/) Development Team. Previously, I have studied
-Psychology and Mathematics at the Universities of Münster and Hagen and did my
-PhD in Münster about optimal design and Bayesian data analysis. I have also
-worked as a postdoctoral researcher at the Department of Computer Science at
-Aalto University (Finland). See [here](../publications) for an overview of my
-scientific publications. You can also find me on
-[GoogleScholar](https://scholar.google.com/citations?user=JSj6m1IAAAAJ&hl).
+I am a statistician currently working as a Junior Research Group Leader for
+Bayesian Statistics at the Cluster of Excellence SimTech, University of
+Stuttgart. I am interested in a wide range of research topics most of which
+involve the development, evaluation, implementation, or application of Bayesian
+methods. See [here](../publications) for an overview of my scientific
+publications. You can also find me on
+[GoogleScholar](https://scholar.google.com/citations?user=JSj6m1IAAAAJ&hl). I am
+deeply involved in open-source software development and you can find my
+major open-source contributions below. Originally, I have studied Psychology and
+Mathematics at the Universities of Münster and Hagen and did my PhD in Münster
+on Optimal Design and Bayesian Data Analysis. Before starting my own research
+group in Stuttgart, I have worked as a postdoctoral researcher at the Department
+of Computer Science at Aalto University.
 
 
 ## Main Research Interests
