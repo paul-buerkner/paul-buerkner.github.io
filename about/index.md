@@ -16,24 +16,29 @@ Leader at the Cluster of Excellence SimTech at the University of Stuttgart
 [Stan](http://mc-stan.org/) Development Team. Previously, I have studied
 Psychology and Mathematics at the Universities of Münster and Hagen and did my
 PhD in Münster about optimal design and Bayesian data analysis. I have also
-worked as a Postdoctoral researcher at the Department of Computer Science at
+worked as a postdoctoral researcher at the Department of Computer Science at
 Aalto University (Finland). See [here](../publications) for an overview of my
-scientific publications.
+scientific publications. You can also find me on
+[GoogleScholar](https://scholar.google.com/citations?user=JSj6m1IAAAAJ&hl).
 
-## Research Interests
+
+## Main Research Interests
 
 * Bayesian Statistics
 * Bayesian Workflow
+* Prior Specification
+* Uncertainty Quantification
 * Model Comparison
 * Multilevel Modeling
 * Ordinal Modeling
 * Optimal Design
 
+
 ## Software Development
 
 Member of the [Stan Development Team](https://mc-stan.org/)
 
-Author of
+Primary Developer and Maintainer of
 
 * **brms**: Bayesian Regression Models using Stan
 [Website](https://paul-buerkner.github.io/brms)
@@ -43,6 +48,17 @@ Author of
 * **thurstonianIRT**: Fit Thurstonian IRT models in R
 [GitHub](https://github.com/paul-buerkner/thurstonianIRT)
 
+Author of
+
+* **posteriordb**: A database of Bayesian posterior inference
+[GitHub](https://github.com/stan-dev/posteriordb)
+* **loo**: Approximate leave-one-out cross-validation
+[Website](http://mc-stan.org/loo)
+[GitHub](https://github.com/stan-dev/loo)
+* **bayesian**: An Interface from brms to tidymodels
+[Website](https://hsbadr.github.io/bayesian/)
+[GitHub](https://github.com/hsbadr/bayesian)
+
 Contributed to
 
 * **rstan**: R Interface to Stan 
@@ -51,71 +67,8 @@ Contributed to
 * **bayesplot**: Plotting Bayesian models 
 [Website](http://mc-stan.org/bayesplot)
 [GitHub](https://github.com/stan-dev/bayesplot)
-* **loo**: Approximate leave-one-out cross-validation
-[Website](http://mc-stan.org/loo)
-[GitHub](https://github.com/stan-dev/loo)
 * **projpred**: Projection predictive variable selection
 [Website](https://mc-stan.org/projpred)
 [GitHub](https://github.com/stan-dev/projpred)
 * **emmeans**: Estimating marginal means
 [GitHub](https://github.com/rvlenth/emmeans)
-
-## Awards
-
-* 2020: SIPS Mission award for brms
-* 2020: SIPS Commendation award for brms
-* 2018: Award for the best dissertation 2017-2018 in Psychology at the University of Münster
-* 2017: Gustav A. Lienert award for the best methodological dissertation (awarded by the DGPs)
-* 2017: Award for the best lecture of the Institute of Psychology in Münster
-
-## Reviewer (selected)
-
-* Bayesian Analysis
-* Behavior Research Methods
-* Biometrical Journal
-* Journal of Machine Learning Research
-* Journal of Probability and Statistics
-* Journal of Statistical Software
-* Journal of the Royal Statistical Society
-* Nature Human Behaviour
-* Psychological Methods
-* Psychometrika
-* Psychonomic Bulletin and Review
-* Statistics in Medicine
-
-## Teaching
-
-* Bayesian Data Analysis, M.Sc. Computer Science
-* Advanced Statistics II - Structural Equation Modeling and Bayesian Inference, M.Sc. Psychology
-* Statistics II - Inferential Statistics, B.Sc. Psychology
-* Statistics I - Descriptive Statistics und Probability Theory, B.Sc. Psychology
-
-## Talks (selected)
-
-* Bayesian Multilevel Models with brms and Stan (Invited), Multilevel Conference, Utrecht, 2019 
-* Leave-Future-Out Cross-Validation for Bayesian Time-Series Models, DagStat, Munich, 2019
-* Custom Response Distributions in brms, Stan Conference, Helsinki, 2018
-* Handling Ordinal Predictors in Regression Models via Monotonic Effects, EAM Conference, Jena, 2018
-* Why not to be afraid of priors (Invited), Bayes@Lund, Lund, 2018
-* Optimal Design and Bayesian Data Analysis (Invited), DGPs Conference: Methods and Evaluation, Tübingen, 2017 
-* A Short Introduction to Bayesian Inference, Institut für Psychologie, Münster, 2016
-* Bayesian Regression Models using Stan, Institut für Medizinische Biometrie und Informatik, Heidelberg, 2016
-* brms: An R Package for Bayesian Multilevel Models using Stan, eRum, Poznan, 2016 
-* brms: An R Package for Bayesian Multilevel Models using Stan, R User Meeting, Köln, 2016
-* Adaptive Designs for Logistic Models with False Answers, IWS, Wien, 2015
-* Optimal Design of Non-Parametric Two-Sample Tests, DGPs Conference: Methods and Evaluation, Jena, 2015
-
-## Workshops (selected)
-
-* Bayesian Multilevel Models, Multilevel Conference (1 day), Utrecht, 2019
-* Bayesian Data Analysis using Stan (1 day), Munich, 2019
-* Introduction to Meta-Analysis (2 days), Lausanne, 2018
-* Introducing Basic and Advanced Bayesian Modelling (4 days), Magdeburg, 2018
-* Advanced Bayesian Statistics (4 days), Aarhus, 2018
-* Introduction to Bayesian Statistical Modelling (4 days), Gent, 2018
-* Longitudinal Multilevel Models in R, Institute of Psychology (3 days), Hamburg, 2017
-* Bayesian Multilevel Models in R, DPPD Conference, Munich (1 day), 2017
-* Bayesian Multilevel Models in R with brms, Deutsches Primatenzentrum (DPZ, 3 days), Göttingen, 2017
-* Bayesian Multilevel Models in R with brms, Institute of Psychology (3 days), Bern, 2017
-* An Introduction to Bayesian Inference and Multilevel Models (3 days), Institut für Psychologie, Münster, 2017
-* Bayesian Multilevel Models in R using the Package brms (1 day), DGPs Conference, Leipzig, 2016
