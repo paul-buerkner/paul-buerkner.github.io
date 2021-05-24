@@ -33,6 +33,7 @@ of Computer Science, Aalto University.
 * Model Comparison
 * Multilevel Modeling
 * Ordinal Modeling
+* Meta-Analysis
 * Optimal Design
 
 
