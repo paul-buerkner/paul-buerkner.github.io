@@ -38,7 +38,7 @@ scientific publications. You can also find me on
 
 Member of the [Stan Development Team](https://mc-stan.org/)
 
-Primary Developer and Maintainer of
+Primary Author and Maintainer of
 
 * **brms**: Bayesian Regression Models using Stan
 [Website](https://paul-buerkner.github.io/brms)
