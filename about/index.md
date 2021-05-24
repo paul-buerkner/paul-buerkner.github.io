@@ -13,7 +13,7 @@ I am a statistician currently working as an Independent Junior Research Group
 Leader at the Cluster of Excellence SimTech at the University of Stuttgart
 (Germany). I am the author of the R package
 [brms](https://github.com/paul-buerkner/brms) and member of the
-[Stan](http://mc-stan.org/) Development Team. Previously, I have studied
+[Stan](https://mc-stan.org/) Development Team. Previously, I have studied
 Psychology and Mathematics at the Universities of Münster and Hagen and did my
 PhD in Münster about optimal design and Bayesian data analysis. I have also
 worked as a postdoctoral researcher at the Department of Computer Science at
@@ -53,7 +53,7 @@ Author of
 * **posteriordb**: A database of Bayesian posterior inference
 [GitHub](https://github.com/stan-dev/posteriordb)
 * **loo**: Approximate leave-one-out cross-validation
-[Website](http://mc-stan.org/loo)
+[Website](https://mc-stan.org/loo)
 [GitHub](https://github.com/stan-dev/loo)
 * **bayesian**: An Interface from brms to tidymodels
 [Website](https://hsbadr.github.io/bayesian/)
@@ -62,10 +62,10 @@ Author of
 Contributed to
 
 * **rstan**: R Interface to Stan 
-[Website](http://mc-stan.org/rstan)
+[Website](https://mc-stan.org/rstan)
 [GitHub](https://github.com/stan-dev/rstan)
 * **bayesplot**: Plotting Bayesian models 
-[Website](http://mc-stan.org/bayesplot)
+[Website](https://mc-stan.org/bayesplot)
 [GitHub](https://github.com/stan-dev/bayesplot)
 * **projpred**: Projection predictive variable selection
 [Website](https://mc-stan.org/projpred)
