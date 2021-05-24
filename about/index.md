@@ -21,7 +21,7 @@ major open-source contributions below. Originally, I have studied Psychology and
 Mathematics at the Universities of Münster and Hagen and did my PhD in Münster
 on Optimal Design and Bayesian Data Analysis. Before starting my own research
 group in Stuttgart, I have worked as a postdoctoral researcher at the Department
-of Computer Science at Aalto University.
+of Computer Science, Aalto University.
 
 
 ## Main Research Interests
