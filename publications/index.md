@@ -28,7 +28,6 @@ excerpt: "A list of my publications"
 ## accepted
 
 * **Bürkner P. C.** (accepted). [Bayesian Item Response Modelling in R with brms and Stan](https://arxiv.org/abs/1905.09501). *Journal of Statistical Software*.
-* Driebe, J. C., Sidari, M., Dufner, M., von der Heiden, J. M., **Bürkner P. C.**, Penke, L., Zietsch B. P., & Arslan, R. C. (accepted). [Intelligence can be detected but is not found attractive in videos and live interactions](https://psyarxiv.com/qv3eh/). *Evolution and Human Behavior*.
 * Franke, L. K., Rattel, J. A., Miedl, S. F., Danböck, S. K., **Bürkner, P. C.**, & Wilhelm, F. H. (accepted). [Intrusive memories as conditioned responses to trauma cues: an empirically supported concept?](https://psyarxiv.com/t5h97/). *Behaviour Research and Therapy*.
 * Kuck, N., Cafitz, L., **Bürkner, P. C.**, Nosthoff-Horstmann, L., Wilhelm, S., & Buhlmann, U. (accepted). [Body dysmorphic disorder and self-esteem: A meta-analysis](https://psyarxiv.com/5g32t/). *BMC Psychiatry*.
 * Hoppen L. M., Kuck N., **Bürkner P. C.**, Karin E., Wootton B. M., & Buhlmann, U. (accepted). Low intensity technology-delivered cognitive behavioral therapy for obsessive-compulsive disorder: A meta-analysis. *BMC Psychiatry*.
@@ -37,6 +36,7 @@ excerpt: "A list of my publications"
 ## 2021
 
 * Paananen T., Piironen, J., **Bürkner P. C.**, & Vehtari A. (2021). [Implicitly Adaptive Importance Sampling](https://link.springer.com/article/10.1007%2Fs11222-020-09982-2). *Statistics and Computing*. [preprint](http://arxiv.org/abs/1906.08850)
+* Driebe, J. C., Sidari, M., Dufner, M., von der Heiden, J. M., **Bürkner P. C.**, Penke, L., Zietsch B. P., & Arslan, R. C. (2021). [Intelligence can be detected but is not found attractive in videos and live interactions](https://authors.elsevier.com/a/1d9q53tz48x6C5). *Evolution and Human Behavior*. [preprint](https://psyarxiv.com/qv3eh/)
 * Dietel F., Möllmann A., **Bürkner P. C.**, Wilhelm S., & Buhlmann U. (2021). [Interpretation bias across body dysmorphic, social anxiety and generalized anxiety disorder – a multilevel, diffusion model account](https://doi.org/10.1007/s10608-020-10180-7). *Cognitive Therapy and Research*.
 doi:10.1007/s10608-020-10180-7 [preprint](https://psyarxiv.com/3hnpu/)
 * Stecker J., **Bürkner P. C.**, Hellmann J., Nestler S., & Back M. (2021). [First Impressions of Refugees are More Strongly Influenced by Target Cues and Perceiver Attitudes Than by Sheer Group Affiliation](https://doi.org/10.1525/collabra.22160). *Collabora: Psychology*. [preprint](https://psyarxiv.com/wt6kr)
