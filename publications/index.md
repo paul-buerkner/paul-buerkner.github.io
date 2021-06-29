@@ -24,6 +24,7 @@ excerpt: "A list of my publications"
 * Kołczyńska M. & **Bürkner P. C.** (in review). [Marketplace of indicators: Inconsistencies between country trends of measures of governance](https://osf.io/preprints/socarxiv/u8gsc/). *SocArXiv preprint*. 
 * Winter, B. & **Bürkner P. C.** (in review). [Poisson regression for linguists: A tutorial introduction to modeling count data with brms](https://osf.io/93kaf/). *OSF preprint*.
 * Modrak M., **Bürkner P. C.**, Sieger T., ..., Leos-Barajas V., Fiser K., & Hyanek T. (in review). [Detailed disease progression of 213 patients hospitalized with Covid-19 in the Czech Republic: An exploratory analysis](https://www.medrxiv.org/content/10.1101/2020.12.03.20239863v1). *medRxiv preprint*.
+* Nohr, L., **Bürkner P. C.**, Ruiz, A. L., Ferrer, J. E. S., Capponi, D., & Buhlmann, U. (in review). [Social and cultural determinants of help-seeking in Cuba and Germany – A structural equation model approach](https://psyarxiv.com/5tqwv/). *PsyArXiv preprint*.
 
 ## accepted
 
