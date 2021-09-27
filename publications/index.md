@@ -18,7 +18,6 @@ excerpt: "A list of my publications"
 * Radev S., D’Alessandro M., Mertens U. K., Voss A., Köthe U., & **Bürkner P. C.** (in review). [Amortized Bayesian Model Comparison with Evidental Deep Learning](https://arxiv.org/abs/2004.10629). *ArXiv preprint*.
 * Williams, D. R., Rodriguez, J. E., & **Bürkner P. C.** (in review). [Putting Variation into Variance: Modeling Between-Study Heterogeneity in Meta-Analysis](https://psyarxiv.com/9vkqy/). *PsyArXiv preprint*.
 * Schad D. J., Nicenboim B., **Bürkner P. C.**, Betancourt M., & Vasishth S. (in review). [Workflow Techniques for the Robust Use of Bayes Factors](https://arxiv.org/abs/2103.08744). *ArXiv preprint*.
-* Heck, D., Boehm, U., Böing-Messing, F., **Bürkner P. C.**, ..., & Hoijtink, H. (in review). [A Review of Applications of the Bayes Factor in Psychological Research](https://psyarxiv.com/cu43g/). *PsyArXiv preprint*.
 * Schulte, N., Kaup, L., **Bürkner, P. C.**, & Holling, H. (in review). [The Fakeability of Personality Measurement with Graded Paired Comparisons](https://psyarxiv.com/bs7he/). *PsyArXiv preprint*.
 * Kołczyńska M. & **Bürkner P. C.** (in review). [Modeling public opinion over time: A simulation study of latent trend models](https://osf.io/preprints/socarxiv/gauvx/). *SocArXiv preprint*. 
 * Kołczyńska M., **Bürkner P. C.**, Kennedy L., & Vehtari A. (in review). [Trust in state institutions in Europe, 1989-2019](https://osf.io/preprints/socarxiv/3v5g7/). *SocArXiv preprint*.
@@ -33,6 +32,7 @@ excerpt: "A list of my publications"
 ## accepted
 
 * **Bürkner P. C.** (accepted). [Bayesian Item Response Modelling in R with brms and Stan](https://arxiv.org/abs/1905.09501). *Journal of Statistical Software*.
+* Heck, D., Boehm, U., Böing-Messing, F., **Bürkner P. C.**, ..., & Hoijtink, H. (accepted). [A Review of Applications of the Bayes Factor in Psychological Research](https://psyarxiv.com/cu43g/). *Psychological Methods*.
 * Modrák M., **Bürkner P. C.**, Sieger T., ..., Leos-Barajas V., Fiser K., & Hyanek T. (accepted). [Detailed disease progression of 213 patients hospitalized with Covid-19 in the Czech Republic: An exploratory analysis](https://www.medrxiv.org/content/10.1101/2020.12.03.20239863v1). *PLOS ONE*.
 * Kuck, N., Cafitz, L., **Bürkner, P. C.**, Nosthoff-Horstmann, L., Wilhelm, S., & Buhlmann, U. (accepted). [Body dysmorphic disorder and self-esteem: A meta-analysis](https://psyarxiv.com/5g32t/). *BMC Psychiatry*.
 * Hoppen L. M., Kuck N., **Bürkner P. C.**, Karin E., Wootton B. M., & Buhlmann, U. (accepted). Low intensity technology-delivered cognitive behavioral therapy for obsessive-compulsive disorder: A meta-analysis. *BMC Psychiatry*.
