@@ -22,8 +22,6 @@ excerpt: "A list of my publications"
 * Kołczyńska M. & **Bürkner P. C.** (in review). [Modeling public opinion over time: A simulation study of latent trend models](https://osf.io/preprints/socarxiv/gauvx/). *SocArXiv preprint*. 
 * Kołczyńska M., **Bürkner P. C.**, Kennedy L., & Vehtari A. (in review). [Trust in state institutions in Europe, 1989-2019](https://osf.io/preprints/socarxiv/3v5g7/). *SocArXiv preprint*.
 * Kołczyńska M. & **Bürkner P. C.** (in review). [Political trust as a cause and consequence of democracy: Longitudinal analysis of European data](https://osf.io/preprints/socarxiv/79dth/). *SocArXiv preprint*. 
-* Kołczyńska M. & **Bürkner P. C.** (in review). [Marketplace of indicators: Inconsistencies between country trends of measures of governance](https://osf.io/preprints/socarxiv/u8gsc/). *SocArXiv preprint*. 
-* Winter, B. & **Bürkner P. C.** (in review). [Poisson regression for linguists: A tutorial introduction to modeling count data with brms](https://osf.io/93kaf/). *OSF preprint*.
 * Zetsche, U., **Bürkner P. C.**, Bohländer, J., Renneberg, B., Röpke, S., & Schulze, L. (in review). [Daily affect regulation in borderline personality disorder and major depression](https://psyarxiv.com/6edcj/). *PsyArXiv preprint*.
 * Franke, L. K., Miedl, S. F., Danböck, S. K., Lohse, J., Liedlgruber, M., **Bürkner P. C.**, Pletzer B., & Wilhelm, F. H. (in review). [Estradiol during (analogue-) trauma: risk- or protective factor for intrusive re-experiencing?](https://psyarxiv.com/6rk8c/). *PsyArXiv preprint*.
 * Nohr, L., **Bürkner P. C.**, Ruiz, A. L., Ferrer, J. E. S., Capponi, D., & Buhlmann, U. (in review). [Social and cultural determinants of help-seeking in Cuba and Germany – A structural equation model approach](https://psyarxiv.com/5tqwv/). *PsyArXiv preprint*.
@@ -34,8 +32,10 @@ excerpt: "A list of my publications"
 * **Bürkner P. C.** (accepted). [Bayesian Item Response Modelling in R with brms and Stan](https://arxiv.org/abs/1905.09501). *Journal of Statistical Software*.
 * Heck, D., Boehm, U., Böing-Messing, F., **Bürkner P. C.**, ..., & Hoijtink, H. (accepted). [A Review of Applications of the Bayes Factor in Psychological Research](https://psyarxiv.com/cu43g/). *Psychological Methods*.
 * Modrák M., **Bürkner P. C.**, Sieger T., ..., Leos-Barajas V., Fiser K., & Hyanek T. (accepted). [Detailed disease progression of 213 patients hospitalized with Covid-19 in the Czech Republic: An exploratory analysis](https://www.medrxiv.org/content/10.1101/2020.12.03.20239863v1). *PLOS ONE*.
+* Kołczyńska M. & **Bürkner P. C.** (in review). [Marketplace of indicators: Inconsistencies between country trends of measures of governance](https://osf.io/preprints/socarxiv/u8gsc/). *Political Research Exchange*. 
 * Kuck, N., Cafitz, L., **Bürkner, P. C.**, Nosthoff-Horstmann, L., Wilhelm, S., & Buhlmann, U. (accepted). [Body dysmorphic disorder and self-esteem: A meta-analysis](https://psyarxiv.com/5g32t/). *BMC Psychiatry*.
 * Hoppen L. M., Kuck N., **Bürkner P. C.**, Karin E., Wootton B. M., & Buhlmann, U. (accepted). Low intensity technology-delivered cognitive behavioral therapy for obsessive-compulsive disorder: A meta-analysis. *BMC Psychiatry*.
+* Winter, B. & **Bürkner P. C.** (in review). [Poisson regression for linguists: A tutorial introduction to modeling count data with brms](https://osf.io/93kaf/). *Language and Linguistics Compass*.
 * Reynolds J. & **Bürkner P. C.** (accepted). [Examining the Relationship Between Weapon Type and Relationship Type in American Homicides: A Bayesian Approach](https://psyarxiv.com/tf7je/). *Homicide Studies*.
 
 ## 2021
