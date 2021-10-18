@@ -15,7 +15,6 @@ excerpt: "A list of my publications"
 * Säilynoja, T., **Bürkner P. C.**, & Vehtari A. (in review). [Graphical Test for Discrete Uniformity and its Applications in Goodness of Fit Evaluation and Multiple Sample Comparison](https://arxiv.org/abs/2103.10522). *ArXiv preprint*.
 * Paananen T., Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). [Group Heterogeneity Assessment for Multilevel Models](http://arxiv.org/abs/2005.02773). *ArXiv preprint*.
 * Pavone, F., Piironen, J., **Bürkner P. C.**, & Vehtari A. (in review). [Using reference models in variable selection](https://arxiv.org/abs/2004.13118). *ArXiv preprint*.
-* Radev S., D’Alessandro M., Mertens U. K., Voss A., Köthe U., & **Bürkner P. C.** (in review). [Amortized Bayesian Model Comparison with Evidental Deep Learning](https://arxiv.org/abs/2004.10629). *ArXiv preprint*.
 * Williams, D. R., Rodriguez, J. E., & **Bürkner P. C.** (in review). [Putting Variation into Variance: Modeling Between-Study Heterogeneity in Meta-Analysis](https://psyarxiv.com/9vkqy/). *PsyArXiv preprint*.
 * Schad D. J., Nicenboim B., **Bürkner P. C.**, Betancourt M., & Vasishth S. (in review). [Workflow Techniques for the Robust Use of Bayes Factors](https://arxiv.org/abs/2103.08744). *ArXiv preprint*.
 * Schulte, N., Kaup, L., **Bürkner, P. C.**, & Holling, H. (in review). [The Fakeability of Personality Measurement with Graded Paired Comparisons](https://psyarxiv.com/bs7he/). *PsyArXiv preprint*.
@@ -30,6 +29,7 @@ excerpt: "A list of my publications"
 ## accepted
 
 * **Bürkner P. C.** (accepted). [Bayesian Item Response Modelling in R with brms and Stan](https://arxiv.org/abs/1905.09501). *Journal of Statistical Software*.
+* Radev S., D’Alessandro M., Mertens U. K., Voss A., Köthe U., & **Bürkner P. C.** (accepted). [Amortized Bayesian Model Comparison with Evidental Deep Learning](https://arxiv.org/abs/2004.10629). *IEEE Transactions on Neural Networks and Learning Systems*.
 * Heck, D., Boehm, U., Böing-Messing, F., **Bürkner P. C.**, ..., & Hoijtink, H. (accepted). [A Review of Applications of the Bayes Factor in Psychological Research](https://psyarxiv.com/cu43g/). *Psychological Methods*.
 * Modrák M., **Bürkner P. C.**, Sieger T., ..., Leos-Barajas V., Fiser K., & Hyanek T. (accepted). [Detailed disease progression of 213 patients hospitalized with Covid-19 in the Czech Republic: An exploratory analysis](https://www.medrxiv.org/content/10.1101/2020.12.03.20239863v1). *PLOS ONE*.
 * Kołczyńska M. & **Bürkner P. C.** (in review). [Marketplace of indicators: Inconsistencies between country trends of measures of governance](https://osf.io/preprints/socarxiv/u8gsc/). *Political Research Exchange*. 
