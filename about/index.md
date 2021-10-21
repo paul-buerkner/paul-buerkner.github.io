@@ -30,11 +30,9 @@ of Computer Science, Aalto University.
 * Bayesian Workflow
 * Prior Specification
 * Uncertainty Quantification
+* Simulation-Based Inference
 * Model Comparison
 * Multilevel Modeling
-* Ordinal Modeling
-* Meta-Analysis
-* Optimal Design
 
 
 ## Open Source Software Development
