@@ -32,9 +32,7 @@ excerpt: "A list of my publications"
 * Radev S., D’Alessandro M., Mertens U. K., Voss A., Köthe U., & **Bürkner P. C.** (accepted). [Amortized Bayesian Model Comparison with Evidental Deep Learning](https://arxiv.org/abs/2004.10629). *IEEE Transactions on Neural Networks and Learning Systems*.
 * Heck, D., Boehm, U., Böing-Messing, F., **Bürkner P. C.**, ..., & Hoijtink, H. (accepted). [A Review of Applications of the Bayes Factor in Psychological Research](https://psyarxiv.com/cu43g/). *Psychological Methods*.
 * Kołczyńska M. & **Bürkner P. C.** (accepted). [Marketplace of indicators: Inconsistencies between country trends of measures of governance](https://osf.io/preprints/socarxiv/u8gsc/). *Political Research Exchange*. 
-* Kuck, N., Cafitz, L., **Bürkner, P. C.**, Nosthoff-Horstmann, L., Wilhelm, S., & Buhlmann, U. (accepted). [Body dysmorphic disorder and self-esteem: A meta-analysis](https://psyarxiv.com/5g32t/). *BMC Psychiatry*.
-* Hoppen L. M., Kuck N., **Bürkner P. C.**, Karin E., Wootton B. M., & Buhlmann, U. (accepted). Low intensity technology-delivered cognitive behavioral therapy for obsessive-compulsive disorder: A meta-analysis. *BMC Psychiatry*.
-* Winter, B. & **Bürkner P. C.** (in review). [Poisson regression for linguists: A tutorial introduction to modeling count data with brms](https://osf.io/93kaf/). *Language and Linguistics Compass*.
+* Winter, B. & **Bürkner P. C.** (accepted). [Poisson regression for linguists: A tutorial introduction to modeling count data with brms](https://osf.io/93kaf/). *Language and Linguistics Compass*.
 
 ## 2021
 
@@ -47,6 +45,8 @@ excerpt: "A list of my publications"
 doi:10.1007/s10608-020-10180-7 [preprint](https://psyarxiv.com/3hnpu/)
 * Stecker J., **Bürkner P. C.**, Hellmann J., Nestler S., & Back M. (2021). [First Impressions of Refugees are More Strongly Influenced by Target Cues and Perceiver Attitudes Than by Sheer Group Affiliation](https://doi.org/10.1525/collabra.22160). *Collabora: Psychology*. [preprint](https://psyarxiv.com/wt6kr)
 * Reynolds J. & **Bürkner P. C.** (2021). [Examining the Relationship Between Weapon Type and Relationship Type in American Homicides: A Bayesian Approach](https://journals.sagepub.com/doi/full/10.1177/1088767920976191). *Homicide Studies*. 25(4), 295--312. doi:10.1177/1088767920976191 [preprint](https://psyarxiv.com/tf7je/)
+* Kuck, N., Cafitz, L., **Bürkner, P. C.**, Nosthoff-Horstmann, L., Wilhelm, S., & Buhlmann, U. (2021). [Body dysmorphic disorder and self-esteem: A meta-analysis](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-021-03185-3). *BMC Psychiatry*. 21(1), 1-16. doi:10.1186/s12888-021-03185-3 [preprint](https://psyarxiv.com/5g32t/)
+* Hoppen L. M., Kuck N., **Bürkner P. C.**, Karin E., Wootton B. M., & Buhlmann, U. (2021). [Low intensity technology-delivered cognitive behavioral therapy for obsessive-compulsive disorder: A meta-analysis](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-021-03272-5). *BMC Psychiatry*. 21(1), 1-17. doi:10.1186/s12888-021-03272-5
 
 ## 2020
 
