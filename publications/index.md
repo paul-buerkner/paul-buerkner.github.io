@@ -36,7 +36,6 @@ excerpt: "A list of my publications"
 * Kuck, N., Cafitz, L., **Bürkner, P. C.**, Nosthoff-Horstmann, L., Wilhelm, S., & Buhlmann, U. (accepted). [Body dysmorphic disorder and self-esteem: A meta-analysis](https://psyarxiv.com/5g32t/). *BMC Psychiatry*.
 * Hoppen L. M., Kuck N., **Bürkner P. C.**, Karin E., Wootton B. M., & Buhlmann, U. (accepted). Low intensity technology-delivered cognitive behavioral therapy for obsessive-compulsive disorder: A meta-analysis. *BMC Psychiatry*.
 * Winter, B. & **Bürkner P. C.** (in review). [Poisson regression for linguists: A tutorial introduction to modeling count data with brms](https://osf.io/93kaf/). *Language and Linguistics Compass*.
-* Reynolds J. & **Bürkner P. C.** (accepted). [Examining the Relationship Between Weapon Type and Relationship Type in American Homicides: A Bayesian Approach](https://psyarxiv.com/tf7je/). *Homicide Studies*.
 
 ## 2021
 
@@ -47,6 +46,7 @@ excerpt: "A list of my publications"
 * Dietel F., Möllmann A., **Bürkner P. C.**, Wilhelm S., & Buhlmann U. (2021). [Interpretation bias across body dysmorphic, social anxiety and generalized anxiety disorder – a multilevel, diffusion model account](https://doi.org/10.1007/s10608-020-10180-7). *Cognitive Therapy and Research*.
 doi:10.1007/s10608-020-10180-7 [preprint](https://psyarxiv.com/3hnpu/)
 * Stecker J., **Bürkner P. C.**, Hellmann J., Nestler S., & Back M. (2021). [First Impressions of Refugees are More Strongly Influenced by Target Cues and Perceiver Attitudes Than by Sheer Group Affiliation](https://doi.org/10.1525/collabra.22160). *Collabora: Psychology*. [preprint](https://psyarxiv.com/wt6kr)
+* Reynolds J. & **Bürkner P. C.** (2021). [Examining the Relationship Between Weapon Type and Relationship Type in American Homicides: A Bayesian Approach](https://journals.sagepub.com/doi/full/10.1177/1088767920976191). *Homicide Studies*. 25(4), 295--312. doi:10.1177/1088767920976191 [preprint](https://psyarxiv.com/tf7je/)
 
 ## 2020
 
