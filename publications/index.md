@@ -29,7 +29,6 @@ excerpt: "A list of my publications"
 ## accepted
 
 * **Bürkner P. C.** (accepted). [Bayesian Item Response Modelling in R with brms and Stan](https://arxiv.org/abs/1905.09501). *Journal of Statistical Software*.
-* Radev S., D’Alessandro M., Mertens U. K., Voss A., Köthe U., & **Bürkner P. C.** (accepted). [Amortized Bayesian Model Comparison with Evidental Deep Learning](https://arxiv.org/abs/2004.10629). *IEEE Transactions on Neural Networks and Learning Systems*.
 * Schad D. J., Nicenboim B., **Bürkner P. C.**, Betancourt M., & Vasishth S. (accepted). [Workflow Techniques for the Robust Use of Bayes Factors](https://arxiv.org/abs/2103.08744). *Psychological Methods*.
 * Heck, D., Boehm, U., Böing-Messing, F., **Bürkner P. C.**, ..., & Hoijtink, H. (accepted). [A Review of Applications of the Bayes Factor in Psychological Research](https://psyarxiv.com/cu43g/). *Psychological Methods*.
 * Winter, B. & **Bürkner P. C.** (accepted). [Poisson regression for linguists: A tutorial introduction to modeling count data with brms](https://osf.io/93kaf/). *Language and Linguistics Compass*.
@@ -37,6 +36,7 @@ excerpt: "A list of my publications"
 ## 2021
 
 * Vehtari A., Gelman A., Simpson D., Carpenter B., & **Bürkner P. C.** (2021). [Rank-normalization, folding, and localization: An improved Rhat for assessing convergence of MCMC (with discussion)](https://projecteuclid.org/journalArticle/Download?urlid=10.1214%2F20-BA1221). *Bayesian Analysis*. 16(2), 667-–718. doi:10.1214/20-BA1221 [preprint](https://arxiv.org/abs/1903.08008)
+* Radev S., D’Alessandro M., Mertens U. K., Voss A., Köthe U., & **Bürkner P. C.** (2021). [Amortized Bayesian Model Comparison with Evidental Deep Learning](https://ieeexplore.ieee.org/document/9612724). *IEEE Transactions on Neural Networks and Learning Systems*. doi:10.1109/TNNLS.2021.3124052 [preprint](https://arxiv.org/abs/2004.10629)
 * Paananen T., Piironen, J., **Bürkner P. C.**, & Vehtari A. (2021). [Implicitly Adaptive Importance Sampling](https://link.springer.com/article/10.1007%2Fs11222-020-09982-2). *Statistics and Computing*. [preprint](http://arxiv.org/abs/1906.08850)
 * Driebe, J. C., Sidari, M., Dufner, M., von der Heiden, J. M., **Bürkner P. C.**, Penke, L., Zietsch B. P., & Arslan, R. C. (2021). [Intelligence can be detected but is not found attractive in videos and live interactions](https://authors.elsevier.com/a/1d9q53tz48x6C5). *Evolution and Human Behavior*. [preprint](https://psyarxiv.com/qv3eh/)
 * Kołczyńska M. & **Bürkner P. C.** (2021). [Marketplace of indicators: Inconsistencies between country trends of measures of governance](https://www.tandfonline.com/doi/full/10.1080/2474736X.2021.1989984). *Political Research Exchange*. 3(1), 1--17. [preprint](https://osf.io/preprints/socarxiv/u8gsc/)
