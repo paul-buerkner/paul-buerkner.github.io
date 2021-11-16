@@ -31,7 +31,6 @@ excerpt: "A list of my publications"
 * **Bürkner P. C.** (accepted). [Bayesian Item Response Modelling in R with brms and Stan](https://arxiv.org/abs/1905.09501). *Journal of Statistical Software*.
 * Schad D. J., Nicenboim B., **Bürkner P. C.**, Betancourt M., & Vasishth S. (accepted). [Workflow Techniques for the Robust Use of Bayes Factors](https://arxiv.org/abs/2103.08744). *Psychological Methods*.
 * Heck, D., Boehm, U., Böing-Messing, F., **Bürkner P. C.**, ..., & Hoijtink, H. (accepted). [A Review of Applications of the Bayes Factor in Psychological Research](https://psyarxiv.com/cu43g/). *Psychological Methods*.
-* Winter, B. & **Bürkner P. C.** (accepted). [Poisson regression for linguists: A tutorial introduction to modeling count data with brms](https://osf.io/93kaf/). *Language and Linguistics Compass*.
 
 ## 2021
 
@@ -48,6 +47,7 @@ doi:10.1007/s10608-020-10180-7 [preprint](https://psyarxiv.com/3hnpu/)
 * Reynolds J. & **Bürkner P. C.** (2021). [Examining the Relationship Between Weapon Type and Relationship Type in American Homicides: A Bayesian Approach](https://journals.sagepub.com/doi/full/10.1177/1088767920976191). *Homicide Studies*. 25(4), 295--312. doi:10.1177/1088767920976191 [preprint](https://psyarxiv.com/tf7je/)
 * Kuck, N., Cafitz, L., **Bürkner, P. C.**, Nosthoff-Horstmann, L., Wilhelm, S., & Buhlmann, U. (2021). [Body dysmorphic disorder and self-esteem: A meta-analysis](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-021-03185-3). *BMC Psychiatry*. 21(1), 1--16. doi:10.1186/s12888-021-03185-3 [preprint](https://psyarxiv.com/5g32t/)
 * Hoppen L. M., Kuck N., **Bürkner P. C.**, Karin E., Wootton B. M., & Buhlmann, U. (2021). [Low intensity technology-delivered cognitive behavioral therapy for obsessive-compulsive disorder: A meta-analysis](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-021-03272-5). *BMC Psychiatry*. 21(1), 1--17. doi:10.1186/s12888-021-03272-5
+* Winter, B. & **Bürkner P. C.** (2021). [Poisson regression for linguists: A tutorial introduction to modeling count data with brms](http://dx.doi.org/10.1111/lnc3.12439). *Language and Linguistics Compass*. doi:10.1111/lnc3.12439 [preprint](https://osf.io/93kaf/)
 
 ## 2020
 
