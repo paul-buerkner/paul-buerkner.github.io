@@ -6,7 +6,6 @@ excerpt: "A list of my publications"
 
 ## preprints
 
-* **Bürkner P. C.** (in review). [On the information obtainable from comparative judgments](https://psyarxiv.com/j5efn/). *PsyArXiv preprint*.
 * Gelman A., Vehtari A., Simpson D., ..., **Bürkner P. C.**, & Modrák M. (in review). [Bayesian Workflow](https://arxiv.org/abs/2011.01808). *ArXiv preprint*.
 * Mikkola P., Martin O., Chandramouli S., ..., **Bürkner P. C.**, & Klami A. (in review). [Prior knowledge elicitation: The past, present, and future](https://arxiv.org/abs/2112.01380). *ArXiv preprint*.
 * Schmitt, M., **Bürkner P. C.**, Köthe U., & Radev S. (in review). [BayesFlow can Reliably Detect Model Misspecification and Posterior Errors in Amortized Bayesian Inference](https://arxiv.org/abs/2112.08866). *ArXiv preprint*.
@@ -30,6 +29,7 @@ excerpt: "A list of my publications"
 
 ## accepted
 
+* **Bürkner P. C.** (accepted). [On the information obtainable from comparative judgments](https://psyarxiv.com/j5efn/). *Psychometrika*.
 * Schad D. J., Nicenboim B., **Bürkner P. C.**, Betancourt M., & Vasishth S. (accepted). [Workflow Techniques for the Robust Use of Bayes Factors](https://arxiv.org/abs/2103.08744). *Psychological Methods*.
 * Heck, D., Boehm, U., Böing-Messing, F., **Bürkner P. C.**, ..., & Hoijtink, H. (accepted). [A Review of Applications of the Bayes Factor in Psychological Research](https://psyarxiv.com/cu43g/). *Psychological Methods*.
 
