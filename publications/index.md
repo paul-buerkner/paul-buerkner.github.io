@@ -10,7 +10,6 @@ excerpt: "A list of my publications"
 * Mikkola P., Martin O., Chandramouli S., ..., **Bürkner P. C.**, & Klami A. (in review). [Prior knowledge elicitation: The past, present, and future](https://arxiv.org/abs/2112.01380). *ArXiv preprint*.
 * Schmitt, M., **Bürkner P. C.**, Köthe U., & Radev S. (in review). [BayesFlow can Reliably Detect Model Misspecification and Posterior Errors in Amortized Bayesian Inference](https://arxiv.org/abs/2112.08866). *ArXiv preprint*.
 * Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (in review). [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](http://arxiv.org/abs/2004.11408). *ArXiv preprint*.
-* Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). [Projection Predictive Inference for Generalized Linear and Additive Multilevel Models](https://arxiv.org/abs/2010.06994). *ArXiv preprint*.
 * Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). [Latent space projection predictive inference](https://arxiv.org/abs/2109.04702). *ArXiv preprint*.
 * Kallioinen N., Paananen T., **Bürkner P. C.**, & Vehtari A. (in review). [Detecting and diagnosing prior and likelihood sensitivity with power-scaling](https://arxiv.org/abs/2107.14054). *ArXiv preprint*.
 * Säilynoja, T., **Bürkner P. C.**, & Vehtari A. (in review). [Graphical Test for Discrete Uniformity and its Applications in Goodness of Fit Evaluation and Multiple Sample Comparison](https://arxiv.org/abs/2103.10522). *ArXiv preprint*.
@@ -30,6 +29,7 @@ excerpt: "A list of my publications"
 ## accepted
 
 * **Bürkner P. C.** (accepted). [On the information obtainable from comparative judgments](https://psyarxiv.com/j5efn/). *Psychometrika*.
+* Catalina A., **Bürkner P. C.**, & Vehtari A. (accepted). [Projection Predictive Inference for Generalized Linear and Additive Multilevel Models](https://arxiv.org/abs/2010.06994). *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
 * Schad D. J., Nicenboim B., **Bürkner P. C.**, Betancourt M., & Vasishth S. (accepted). [Workflow Techniques for the Robust Use of Bayes Factors](https://arxiv.org/abs/2103.08744). *Psychological Methods*.
 * Heck, D., Boehm, U., Böing-Messing, F., **Bürkner P. C.**, ..., & Hoijtink, H. (accepted). [A Review of Applications of the Bayes Factor in Psychological Research](https://psyarxiv.com/cu43g/). *Psychological Methods*.
 
