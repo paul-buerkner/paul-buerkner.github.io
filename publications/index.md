@@ -12,7 +12,6 @@ excerpt: "A list of my publications"
 * Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (in review). [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](http://arxiv.org/abs/2004.11408). *ArXiv preprint*.
 * Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). [Latent space projection predictive inference](https://arxiv.org/abs/2109.04702). *ArXiv preprint*.
 * Kallioinen N., Paananen T., **Bürkner P. C.**, & Vehtari A. (in review). [Detecting and diagnosing prior and likelihood sensitivity with power-scaling](https://arxiv.org/abs/2107.14054). *ArXiv preprint*.
-* Säilynoja, T., **Bürkner P. C.**, & Vehtari A. (in review). [Graphical Test for Discrete Uniformity and its Applications in Goodness of Fit Evaluation and Multiple Sample Comparison](https://arxiv.org/abs/2103.10522). *ArXiv preprint*.
 * Pavone, F., Piironen, J., **Bürkner P. C.**, & Vehtari A. (in review). [Using reference models in variable selection](https://arxiv.org/abs/2004.13118). *ArXiv preprint*.
 * Williams, D. R., Rodriguez, J. E., & **Bürkner P. C.** (in review). [Putting Variation into Variance: Modeling Between-Study Heterogeneity in Meta-Analysis](https://psyarxiv.com/9vkqy/). *PsyArXiv preprint*.
 * Rodriguez, J. E., Williams, D. R., & **Bürkner P. C.** (in review). [Heterogeneous Heterogeneity by Default: Testing Categorical Moderators in Random-effects Meta-Analysis](https://psyarxiv.com/tqcka/). *PsyArXiv preprint*.
@@ -29,6 +28,7 @@ excerpt: "A list of my publications"
 ## accepted
 
 * Catalina A., **Bürkner P. C.**, & Vehtari A. (accepted). [Projection Predictive Inference for Generalized Linear and Additive Multilevel Models](https://arxiv.org/abs/2010.06994). *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
+* Säilynoja, T., **Bürkner P. C.**, & Vehtari A. (accepted). [Graphical Test for Discrete Uniformity and its Applications in Goodness of Fit Evaluation and Multiple Sample Comparison](https://arxiv.org/abs/2103.10522). *Statistics and Computing*.
 * Schad D. J., Nicenboim B., **Bürkner P. C.**, Betancourt M., & Vasishth S. (accepted). [Workflow Techniques for the Robust Use of Bayes Factors](https://arxiv.org/abs/2103.08744). *Psychological Methods*.
 * Heck, D., Boehm, U., Böing-Messing, F., **Bürkner P. C.**, ..., & Hoijtink, H. (accepted). [A Review of Applications of the Bayes Factor in Psychological Research](https://psyarxiv.com/cu43g/). *Psychological Methods*.
 * Jordon M., Smith P., Long P., **Bürkner P. C.**, Petrokofsky G. & Willis K. (accepted). Can Regenerative Agriculture increase national soil carbon stocks? Simulated country-scale adoption of reduced tillage, cover cropping, and ley-arable integration using RothC-26.3. *Science of the Total Environment*.
