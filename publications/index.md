@@ -23,7 +23,6 @@ excerpt: "A list of my publications"
 * Franke, L. K., Miedl, S. F., Danböck, S. K., Lohse, J., Liedlgruber, M., **Bürkner P. C.**, Pletzer B., & Wilhelm, F. H. (in review). [Estradiol during (analogue-) trauma: risk- or protective factor for intrusive re-experiencing?](https://psyarxiv.com/6rk8c/). *PsyArXiv preprint*.
 * Nohr, L., **Bürkner P. C.**, Ruiz, A. L., Ferrer, J. E. S., Capponi, D., & Buhlmann, U. (in review). [Social and cultural determinants of help-seeking in Cuba and Germany – A structural equation model approach](https://psyarxiv.com/5tqwv/). *PsyArXiv preprint*.
 * Jordon M., Willis K., **Bürkner P. C.**, Haddaway N., Smith P., & Petrokofsky G. (in review). [Temperate Regenerative Agriculture; a win-win for soil carbon and crop yield?](https://www.researchsquare.com/article/rs-1064515/v1). *Research Square preprint*.
-* Malén T., Karjalainen T., Isojärvi J., Vehtari A., **Bürkner P. C.**, ..., & Nummenmaa L. (in review). [Age and sex dependent variability of type 2 dopamine receptors in the human brain: A large-scale PET cohort](https://www.biorxiv.org/content/10.1101/2021.08.10.455776v1). *bioRxiv preprint*.
 
 ## accepted
 
@@ -31,6 +30,7 @@ excerpt: "A list of my publications"
 * Säilynoja, T., **Bürkner P. C.**, & Vehtari A. (accepted). [Graphical Test for Discrete Uniformity and its Applications in Goodness of Fit Evaluation and Multiple Sample Comparison](https://arxiv.org/abs/2103.10522). *Statistics and Computing*.
 * Schad D. J., Nicenboim B., **Bürkner P. C.**, Betancourt M., & Vasishth S. (accepted). [Workflow Techniques for the Robust Use of Bayes Factors](https://arxiv.org/abs/2103.08744). *Psychological Methods*.
 * Heck, D., Boehm, U., Böing-Messing, F., **Bürkner P. C.**, ..., & Hoijtink, H. (accepted). [A Review of Applications of the Bayes Factor in Psychological Research](https://psyarxiv.com/cu43g/). *Psychological Methods*.
+* Malén T., Karjalainen T., Isojärvi J., Vehtari A., **Bürkner P. C.**, ..., & Nummenmaa L. (accepted). [Age and sex dependent variability of type 2 dopamine receptors in the human brain: A large-scale PET cohort](https://www.biorxiv.org/content/10.1101/2021.08.10.455776v1). *NeuroImage*.
 * Jordon M., Smith P., Long P., **Bürkner P. C.**, Petrokofsky G. & Willis K. (accepted). Can Regenerative Agriculture increase national soil carbon stocks? Simulated country-scale adoption of reduced tillage, cover cropping, and ley-arable integration using RothC-26.3. *Science of the Total Environment*.
 
 ## 2022
