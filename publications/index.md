@@ -128,5 +128,5 @@ doi:10.1007/s10608-020-10180-7 [preprint](https://psyarxiv.com/3hnpu/)
 * Paananen T., Catalina A., **Bürkner P. C.**, & Vehtari A. (2020). [Group Heterogeneity Assessment for Multilevel Models](http://arxiv.org/abs/2005.02773). *ArXiv preprint*.
 * Hossiep R., Harnack, K., & **Bürkner P. C.** (2020). [Goal setting in distributive and integrative negotiations: a meta-analysis](https://psyarxiv.com/mkgxt). *PsyArXiv preprint*.
 * Schuler, B. A., Binnewies, C., & **Bürkner P. C.** (2019). [The Relationship Between Job Crafting, Work Engagement, and Performance: A Meta-Analysis](https://psyarxiv.com/xpf2v/). *PsyArXiv preprint*.
-* Williams D. R., Philippe R., & **Bürkner P. C.** (2018). [Bayesian Meta-Analysis with Weakly Informative Prior Distributions](https://psyarxiv.com/7tbrm/). *PsyArXiv preprint*.
+* Williams D. R., Rast P., & **Bürkner P. C.** (2018). [Bayesian Meta-Analysis with Weakly Informative Prior Distributions](https://psyarxiv.com/7tbrm/). *PsyArXiv preprint*.
 * Fleischer C., Doebler P., **Bürkner P. C.** & Holling H. (2018). [Adventure therapy effects on self-concept – A meta-analysis](https://psyarxiv.com/c7y9a). *PsyArXiv preprint*.
