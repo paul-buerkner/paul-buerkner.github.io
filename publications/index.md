@@ -30,7 +30,6 @@ excerpt: "A list of my publications"
 * Catalina A., **Bürkner P. C.**, & Vehtari A. (accepted). [Projection Predictive Inference for Generalized Linear and Additive Multilevel Models](https://arxiv.org/abs/2010.06994). *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
 * Schad D. J., Nicenboim B., **Bürkner P. C.**, Betancourt M., & Vasishth S. (accepted). [Workflow Techniques for the Robust Use of Bayes Factors](https://arxiv.org/abs/2103.08744). *Psychological Methods*.
 * Heck, D., Boehm, U., Böing-Messing, F., **Bürkner P. C.**, ..., & Hoijtink, H. (accepted). [A Review of Applications of the Bayes Factor in Psychological Research](https://psyarxiv.com/cu43g/). *Psychological Methods*.
-* Malén T., Karjalainen T., Isojärvi J., Vehtari A., **Bürkner P. C.**, ..., & Nummenmaa L. (accepted). [Age and sex dependent variability of type 2 dopamine receptors in the human brain: A large-scale PET cohort](https://www.biorxiv.org/content/10.1101/2021.08.10.455776v1). *NeuroImage*.
 * Jordon M., Smith P., Long P., **Bürkner P. C.**, Petrokofsky G. & Willis K. (accepted). Can Regenerative Agriculture increase national soil carbon stocks? Simulated country-scale adoption of reduced tillage, cover cropping, and ley-arable integration using RothC-26.3. *Science of the Total Environment*.
 
 ## 2022
@@ -38,6 +37,7 @@ excerpt: "A list of my publications"
 * **Bürkner P. C.** (2022). [On the information obtainable from comparative judgments](https://link.springer.com/article/10.1007/s11336-022-09843-z). *Psychometrika*.
 doi:10.1007/s11336-022-09843-z [preprint](https://psyarxiv.com/j5efn/)
 * Säilynoja, T., **Bürkner P. C.**, & Vehtari A. (2022). [Graphical Test for Discrete Uniformity and its Applications in Goodness of Fit Evaluation and Multiple Sample Comparison](https://link.springer.com/article/10.1007/s11222-022-10090-6). *Statistics and Computing*. doi:10.1007/s11222-022-10090-6 [preprint](https://arxiv.org/abs/2103.10522)
+* Malén T., Karjalainen T., Isojärvi J., Vehtari A., **Bürkner P. C.**, ..., & Nummenmaa L. (accepted). [Age and sex dependent variability of type 2 dopamine receptors in the human brain: A large-scale PET cohort](https://doi.org/10.1016/j.neuroimage.2022.119149). *NeuroImage*. doi:10.1016/j.neuroimage.2022.119149 [preprint](https://www.biorxiv.org/content/10.1101/2021.08.10.455776v1)
 
 ## 2021
 
