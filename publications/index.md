@@ -37,7 +37,7 @@ excerpt: "A list of my publications"
 * **Bürkner P. C.** (2022). [On the information obtainable from comparative judgments](https://link.springer.com/article/10.1007/s11336-022-09843-z). *Psychometrika*.
 doi:10.1007/s11336-022-09843-z [preprint](https://psyarxiv.com/j5efn/)
 * Säilynoja, T., **Bürkner P. C.**, & Vehtari A. (2022). [Graphical Test for Discrete Uniformity and its Applications in Goodness of Fit Evaluation and Multiple Sample Comparison](https://link.springer.com/article/10.1007/s11222-022-10090-6). *Statistics and Computing*. doi:10.1007/s11222-022-10090-6 [preprint](https://arxiv.org/abs/2103.10522)
-* Malén T., Karjalainen T., Isojärvi J., Vehtari A., **Bürkner P. C.**, ..., & Nummenmaa L. (accepted). [Age and sex dependent variability of type 2 dopamine receptors in the human brain: A large-scale PET cohort](https://doi.org/10.1016/j.neuroimage.2022.119149). *NeuroImage*. doi:10.1016/j.neuroimage.2022.119149 [preprint](https://www.biorxiv.org/content/10.1101/2021.08.10.455776v1)
+* Malén T., Karjalainen T., Isojärvi J., Vehtari A., **Bürkner P. C.**, ..., & Nummenmaa L. (2022). [Age and sex dependent variability of type 2 dopamine receptors in the human brain: A large-scale PET cohort](https://doi.org/10.1016/j.neuroimage.2022.119149). *NeuroImage*. doi:10.1016/j.neuroimage.2022.119149 [preprint](https://www.biorxiv.org/content/10.1101/2021.08.10.455776v1)
 
 ## 2021
 
