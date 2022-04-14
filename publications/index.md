@@ -6,6 +6,7 @@ excerpt: "A list of my publications"
 
 ## preprints
 
+* **Bürkner P. C.**, Kröker I., Oladyshkin S., & Nowak W. (in review) [The sparse Polynomial Chaos expansion: a fully Bayesian approach with joint priors on the coefficients and global selection of terms](https://arxiv.org/abs/2204.06043). *ArXiv preprint*.
 * Gelman A., Vehtari A., Simpson D., ..., **Bürkner P. C.**, & Modrák M. (in review). [Bayesian Workflow](https://arxiv.org/abs/2011.01808). *ArXiv preprint*.
 * Mikkola P., Martin O., Chandramouli S., ..., **Bürkner P. C.**, & Klami A. (in review). [Prior knowledge elicitation: The past, present, and future](https://arxiv.org/abs/2112.01380). *ArXiv preprint*.
 * Schmitt, M., **Bürkner P. C.**, Köthe U., & Radev S. (in review). [BayesFlow can Reliably Detect Model Misspecification and Posterior Errors in Amortized Bayesian Inference](https://arxiv.org/abs/2112.08866). *ArXiv preprint*.
@@ -22,6 +23,7 @@ excerpt: "A list of my publications"
 * Kołczyńska M. & **Bürkner P. C.** (in review). [Political trust as a cause and consequence of democracy: Longitudinal analysis of European data](https://osf.io/preprints/socarxiv/79dth/). *SocArXiv preprint*. 
 * Zetsche, U., **Bürkner P. C.**, Bohländer, J., Renneberg, B., Röpke, S., & Schulze, L. (in review). [Daily affect regulation in borderline personality disorder and major depression](https://psyarxiv.com/6edcj/). *PsyArXiv preprint*.
 * Franke, L. K., Miedl, S. F., Danböck, S. K., Lohse, J., Liedlgruber, M., **Bürkner P. C.**, Pletzer B., & Wilhelm, F. H. (in review). [Estradiol during (analogue-) trauma: risk- or protective factor for intrusive re-experiencing?](https://psyarxiv.com/6rk8c/). *PsyArXiv preprint*.
+* Danböck, S. K., Franke, L. K., Miedl, S. F., Liedlgruber, M., **Bürkner P. C.**, & Wilhelm, F. H. (in review). [Aversive-Audiovisual and Painful-Electrical Stimulation Cause Peritraumatic Dissociation: A Functional Magnetic Resonance Imaging Study](https://psyarxiv.com/tgc7m/). *PsyArXiv preprint*.
 * Nohr, L., **Bürkner P. C.**, Ruiz, A. L., Ferrer, J. E. S., Capponi, D., & Buhlmann, U. (in review). [Social and cultural determinants of help-seeking in Cuba and Germany – A structural equation model approach](https://psyarxiv.com/5tqwv/). *PsyArXiv preprint*.
 * Jordon M., Willis K., **Bürkner P. C.**, Haddaway N., Smith P., & Petrokofsky G. (in review). [Temperate Regenerative Agriculture; a win-win for soil carbon and crop yield?](https://www.researchsquare.com/article/rs-1064515/v1). *Research Square preprint*.
 
