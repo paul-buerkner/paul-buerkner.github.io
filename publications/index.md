@@ -30,7 +30,6 @@ excerpt: "A list of my publications"
 ## accepted
 
 * Catalina A., **Bürkner P. C.**, & Vehtari A. (accepted). [Projection Predictive Inference for Generalized Linear and Additive Multilevel Models](https://arxiv.org/abs/2010.06994). *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
-* Jordon M., Smith P., Long P., **Bürkner P. C.**, Petrokofsky G. & Willis K. (accepted). Can Regenerative Agriculture increase national soil carbon stocks? Simulated country-scale adoption of reduced tillage, cover cropping, and ley-arable integration using RothC-26.3. *Science of the Total Environment*.
 
 ## 2022
 
@@ -40,6 +39,7 @@ doi:10.1007/s11336-022-09843-z [preprint](https://psyarxiv.com/j5efn/)
 * Schad D. J., Nicenboim B., **Bürkner P. C.**, Betancourt M., & Vasishth S. (2022). [Workflow Techniques for the Robust Use of Bayes Factors](https://doi.apa.org/doiLanding?doi=10.1037%2Fmet0000472). *Psychological Methods*. doi:10.1037/met0000472 [preprint](https://arxiv.org/abs/2103.08744)
 * Heck, D., Boehm, U., Böing-Messing, F., **Bürkner P. C.**, ..., & Hoijtink, H. (2022). [A Review of Applications of the Bayes Factor in Psychological Research](https://psycnet.apa.org/record/2022-40577-001). *Psychological Methods*. doi:10.1037/met0000454 [preprint](https://psyarxiv.com/cu43g/)
 * Malén T., Karjalainen T., Isojärvi J., Vehtari A., **Bürkner P. C.**, ..., & Nummenmaa L. (2022). [Age and sex dependent variability of type 2 dopamine receptors in the human brain: A large-scale PET cohort](https://doi.org/10.1016/j.neuroimage.2022.119149). *NeuroImage*. doi:10.1016/j.neuroimage.2022.119149 [preprint](https://www.biorxiv.org/content/10.1101/2021.08.10.455776v1)
+* Jordon M., Smith P., Long P., **Bürkner P. C.**, Petrokofsky G. & Willis K. (2022). [Can Regenerative Agriculture increase national soil carbon stocks? Simulated country-scale adoption of reduced tillage, cover cropping, and ley-arable integration using RothC-26.3](https://doi.org/10.1016/j.scitotenv.2022.153955). *Science of the Total Environment*. doi:10.1016/j.scitotenv.2022.153955
 * Teetzen, F., **Bürkner P. C.**, Gregersen, S., & Vincent-Höper, S. (2022). [The Mediating Effects of Work Characteristics on the Relationship between Transformational Leadership and Employee Well-Being: A Meta-Analytic Investigation](https://www.mdpi.com/1660-4601/19/5/3133). *International Journal of Environmental Research and Public Health*. doi:10.3390/ijerph19053133
 
 ## 2021
