@@ -7,7 +7,6 @@ excerpt: "A list of my publications"
 ## preprints
 
 * **Bürkner P. C.**, Kröker I., Oladyshkin S., & Nowak W. (in review). [The sparse polynomial chaos expansion: a fully Bayesian approach with joint priors on the coefficients and global selection of terms](https://arxiv.org/abs/2204.06043). *ArXiv preprint*.
-* Gelman A., Vehtari A., Simpson D., ..., **Bürkner P. C.**, & Modrák M. (in review). [Bayesian Workflow](https://arxiv.org/abs/2011.01808). *ArXiv preprint*.
 * Mikkola P., Martin O., Chandramouli S., ..., **Bürkner P. C.**, & Klami A. (in review). [Prior knowledge elicitation: The past, present, and future](https://arxiv.org/abs/2112.01380). *ArXiv preprint*.
 * Schmitt, M., **Bürkner P. C.**, Köthe U., & Radev S. (in review). [BayesFlow can Reliably Detect Model Misspecification and Posterior Errors in Amortized Bayesian Inference](https://arxiv.org/abs/2112.08866). *ArXiv preprint*.
 * Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (in review). [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](http://arxiv.org/abs/2004.11408). *ArXiv preprint*.
@@ -129,6 +128,7 @@ doi:10.1007/s10608-020-10180-7 [preprint](https://psyarxiv.com/3hnpu/)
 
 ## unpublished
 
+* Gelman A., Vehtari A., Simpson D., ..., **Bürkner P. C.**, & Modrák M. (2020). [Bayesian Workflow](https://arxiv.org/abs/2011.01808). *ArXiv preprint*.
 * Paananen T., Catalina A., **Bürkner P. C.**, & Vehtari A. (2020). [Group Heterogeneity Assessment for Multilevel Models](http://arxiv.org/abs/2005.02773). *ArXiv preprint*.
 * Hossiep R., Harnack, K., & **Bürkner P. C.** (2020). [Goal setting in distributive and integrative negotiations: a meta-analysis](https://psyarxiv.com/mkgxt). *PsyArXiv preprint*.
 * Schuler, B. A., Binnewies, C., & **Bürkner P. C.** (2019). [The Relationship Between Job Crafting, Work Engagement, and Performance: A Meta-Analysis](https://psyarxiv.com/xpf2v/). *PsyArXiv preprint*.
