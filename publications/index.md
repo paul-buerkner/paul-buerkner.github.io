@@ -4,7 +4,7 @@ title: Publications
 excerpt: "A list of my publications"
 ---
 
-## preprints
+## preprints in review
 
 * **Bürkner P. C.**, Kröker I., Oladyshkin S., & Nowak W. (in review). [The sparse polynomial chaos expansion: a fully Bayesian approach with joint priors on the coefficients and global selection of terms](https://arxiv.org/abs/2204.06043). *ArXiv preprint*.
 * Mikkola P., Martin O., Chandramouli S., ..., **Bürkner P. C.**, & Klami A. (in review). [Prior knowledge elicitation: The past, present, and future](https://arxiv.org/abs/2112.01380). *ArXiv preprint*.
@@ -68,12 +68,15 @@ doi:10.1007/s10608-020-10180-7 [preprint](https://psyarxiv.com/3hnpu/)
 * Hartmann M., Agiashvili G., **Bürkner P. C.**, &  Klami A. (2020). [Flexible Prior Elicitation via the Prior Predictive Distribution](http://www.auai.org/uai2020/proceedings/470_main_paper.pdf). *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*. [preprint](https://arxiv.org/abs/2002.09868)
 * Radev S., Wieschen E. M., Voss A., & **Bürkner P. C.** (2020). [Amortized Bayesian Inference for Models of Cognition](https://iccm-conference.neocities.org/2020/papers/Contribution_230_final.pdf). *International Conference on Cognitive Modelling (ICCM) Conference Proceedings*. [preprint](https://arxiv.org/abs/2005.03899)
 * Schulte N., Holling H., & **Bürkner P. C.** (2020). [Can High-Dimensional Questionnaires Resolve the Ipsativity Issue of Forced-Choice Response Formats?](https://journals.sagepub.com/doi/10.1177/0013164420934861). *Educational and Psychological Measurement*. doi:10.1177/0013164420934861 [preprint](https://psyarxiv.com/43uq8/)
+* Gelman A., Vehtari A., Simpson D., ..., **Bürkner P. C.**, & Modrák M. (2020). [Bayesian Workflow](https://arxiv.org/abs/2011.01808). *ArXiv preprint*.
+* Paananen T., Catalina A., **Bürkner P. C.**, & Vehtari A. (2020). [Group Heterogeneity Assessment for Multilevel Models](http://arxiv.org/abs/2005.02773). *ArXiv preprint*.
 * Trempler, I., **Bürkner P. C.**, El-Sourani N., Binder E., Reker P., Fink G. R., & Schubotz R. (2020). [Impaired context-sensitive adjustment of behaviour in Parkinson's disease patients tested on and off medication: an fMRI study](https://doi.org/10.1016/j.neuroimage.2020.116674). *NeuroImage*. 212. 1--11. doi:10.1016/j.neuroimage.2020.116674
 * Landmeyer N. C., **Bürkner P. C.**, Wiendl H., Ruck T., Hartung H. P., Holling H., Meuth S. G., & Johnen A. (2020). [Disease-modifying treatments and cognition in relapsing-remitting multiple sclerosis: A meta-analysis](https://doi.org/10.1212/WNL.0000000000009522). *Neurology*. doi:10.1212/WNL.0000000000009522 
 * Dietel F., Zache C., **Bürkner P. C.**, Schulte J., Möbius M., Bischof A., Wilhelm S., & Buhlmann U. (2020). [Internet-based Interpretation Bias Modification for body dissatisfaction: A three-armed randomized controlled trial](http://dx.doi.org/10.1002/eat.23280). *International Journal of Eating Disorders*. doi:10.1002/eat.23280 [preprint](https://psyarxiv.com/y73rd/)
 * Deres T., **Bürkner P. C.**, Klauke B., & Buhlmann U. (2020). [The Role of Stigma during the Course of Inpatient Psychotherapeutic Treatment in a German Sample](https://doi.org/10.1002/cpp.2423). *Clinical Psychology and Psychotherapy*. doi:10.1002/cpp.2423
 * Busch, L., Utesch, T., **Bürkner P. C.**, & Strauss, B. (2020). [A Daily Diary of the Quantified Self – The Influence of Fitness App Usage on Psychological Well-Being, Body Listening and Body Trusting](http://dx.doi.org/10.1123/jsep.2019-0315). *Journal of Sport & Exercise Psychology*. doi:10.1123/jsep.2019-0315 [preprint](https://psyarxiv.com/cd6t8/)
 * Williams D. R. & **Bürkner P. C.** (2020). [Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015)](https://open.lnu.se/index.php/metapsychology/article/view/872). *Meta-Psychology*. [*Retraction Watch*](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/)
+* Hossiep R., Harnack, K., & **Bürkner P. C.** (2020). [Goal setting in distributive and integrative negotiations: a meta-analysis](https://psyarxiv.com/mkgxt). *PsyArXiv preprint*.
 
 ## 2019
 
@@ -86,6 +89,7 @@ doi:10.1007/s10608-020-10180-7 [preprint](https://psyarxiv.com/3hnpu/)
 * Nalborczyk, L., **Bürkner P. C.**, & Williams D. (2019). [Pragmatism should not be a substitute for statistical literacy, a commentary on Albers, Kiers, and van Ravenzwaaij (2018)](https://www.collabra.org/articles/10.1525/collabra.197/). *Collabora: Psychology*. 5(1), 1--5. doi:10.1525/collabra.197 [preprint](https://psyarxiv.com/fmtkj/)
 * Beisemann M., Forthmann B., **Bürkner P. C.**, & Holling H. (2019). [Psychometric Evaluation of an Alternate Scoring for the Remote Associates Test](https://onlinelibrary.wiley.com/doi/abs/10.1002/jocb.394). *The Journal of Creative Behavior*. 1--16. doi:10.1002/jocb.394
 * Forthmann, B., **Bürkner P. C.**, Benedek, M., Szardenings, C., & Holling, H. (2019). [A New Perspective on the Multidimensionality of Divergent Thinking Tasks](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00985/full). *Frontiers in Psychology: Cognition*. 10, 1--9. doi:10.3389/fpsyg.2019.00985 [preprint](https://psyarxiv.com/tvzs6/)
+* Schuler, B. A., Binnewies, C., & **Bürkner P. C.** (2019). [The Relationship Between Job Crafting, Work Engagement, and Performance: A Meta-Analysis](https://psyarxiv.com/xpf2v/). *PsyArXiv preprint*.
 
 ## 2018
 
@@ -99,6 +103,8 @@ doi:10.1007/s10608-020-10180-7 [preprint](https://psyarxiv.com/3hnpu/)
 * Reinhold M., **Bürkner P. C.**, Holling H. (2018). [Effects of Expressive Writing on Depressive Symptoms – A Meta-Analysis](http://onlinelibrary.wiley.com/doi/10.1111/cpsp.12224/abstract). *Clinical Psychology: Science and Practice*. 25(1), 1--13. doi:10.1111/cpsp.12224
 * Zhoua T., Popescu S. C., Lawing A. M., Eriksson M., Strambu B., **Bürkner P. C.** (2018). [Bayesian and classical machine learning methods: A comparison for tree species classification with LiDAR waveform signatures](http://www.mdpi.com/2072-4292/10/1/39). *Remote Sensing*. 10(1), 1--27, doi:10.3390/rs10010039
 * Arslan R. C., Willführ K. P., Frans E. M., Verweij K. J. H., **Bürkner P. C.**, Myrskylä M., Voland E., Almqvist C., Brendan P., Zietsch B. P., & Penke L. (2018). [Relaxed selection and mutation accumulation are best studied empirically: Reply to a comment by Woodley et al.](http://rspb.royalsocietypublishing.org/content/285/1873/20180092) *Proceedings of the Royal Society B*. 285(1873). 1--3. doi:10.1098/rspb.2018.0092
+* Williams D. R., Rast P., & **Bürkner P. C.** (2018). [Bayesian Meta-Analysis with Weakly Informative Prior Distributions](https://psyarxiv.com/7tbrm/). *PsyArXiv preprint*.
+* Fleischer C., Doebler P., **Bürkner P. C.** & Holling H. (2018). [Adventure therapy effects on self-concept – A meta-analysis](https://psyarxiv.com/c7y9a). *PsyArXiv preprint*.
 
 <!--
 * **Bürkner, P. C.** (2018). Synthesizing Evidence. In *Diagnostic Meta-Analysis: A Useful Tool for Clinical Decision-Making* (pp. 115-124). Springer.
@@ -125,12 +131,3 @@ doi:10.1007/s10608-020-10180-7 [preprint](https://psyarxiv.com/3hnpu/)
 ## 2014
 
 * **Bürkner P. C.** & Doebler P. (2014). [Testing for Publication Bias in Diagnostic Meta-Analysis: A Simulation Study](http://onlinelibrary.wiley.com/doi/10.1002/sim.6177/full). *Statistics in Medicine*. 33(18), 3061--3077. doi:10.1002/sim.6177
-
-## unpublished
-
-* Gelman A., Vehtari A., Simpson D., ..., **Bürkner P. C.**, & Modrák M. (2020). [Bayesian Workflow](https://arxiv.org/abs/2011.01808). *ArXiv preprint*.
-* Paananen T., Catalina A., **Bürkner P. C.**, & Vehtari A. (2020). [Group Heterogeneity Assessment for Multilevel Models](http://arxiv.org/abs/2005.02773). *ArXiv preprint*.
-* Hossiep R., Harnack, K., & **Bürkner P. C.** (2020). [Goal setting in distributive and integrative negotiations: a meta-analysis](https://psyarxiv.com/mkgxt). *PsyArXiv preprint*.
-* Schuler, B. A., Binnewies, C., & **Bürkner P. C.** (2019). [The Relationship Between Job Crafting, Work Engagement, and Performance: A Meta-Analysis](https://psyarxiv.com/xpf2v/). *PsyArXiv preprint*.
-* Williams D. R., Rast P., & **Bürkner P. C.** (2018). [Bayesian Meta-Analysis with Weakly Informative Prior Distributions](https://psyarxiv.com/7tbrm/). *PsyArXiv preprint*.
-* Fleischer C., Doebler P., **Bürkner P. C.** & Holling H. (2018). [Adventure therapy effects on self-concept – A meta-analysis](https://psyarxiv.com/c7y9a). *PsyArXiv preprint*.
