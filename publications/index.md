@@ -12,7 +12,6 @@ excerpt: "A list of my publications"
 * Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (in review). [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](http://arxiv.org/abs/2004.11408). *ArXiv preprint*.
 * Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). [Latent space projection predictive inference](https://arxiv.org/abs/2109.04702). *ArXiv preprint*.
 * Kallioinen N., Paananen T., **Bürkner P. C.**, & Vehtari A. (in review). [Detecting and diagnosing prior and likelihood sensitivity with power-scaling](https://arxiv.org/abs/2107.14054). *ArXiv preprint*.
-* Pavone, F., Piironen, J., **Bürkner P. C.**, & Vehtari A. (in review). [Using reference models in variable selection](https://arxiv.org/abs/2004.13118). *ArXiv preprint*.
 * Williams, D. R., Rodriguez, J. E., & **Bürkner P. C.** (in review). [Putting Variation into Variance: Modeling Between-Study Heterogeneity in Meta-Analysis](https://psyarxiv.com/9vkqy/). *PsyArXiv preprint*.
 * Rodriguez, J. E., Williams, D. R., & **Bürkner P. C.** (in review). [Heterogeneous Heterogeneity by Default: Testing Categorical Moderators in Random-effects Meta-Analysis](https://psyarxiv.com/tqcka/). *PsyArXiv preprint*.
 * Schulte, N., Kaup, L., **Bürkner, P. C.**, & Holling, H. (in review). [The Fakeability of Personality Measurement with Graded Paired Comparisons](https://psyarxiv.com/bs7he/). *PsyArXiv preprint*.
@@ -29,6 +28,7 @@ excerpt: "A list of my publications"
 ## accepted
 
 * Catalina A., **Bürkner P. C.**, & Vehtari A. (accepted). [Projection Predictive Inference for Generalized Linear and Additive Multilevel Models](https://arxiv.org/abs/2010.06994). *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
+* Pavone, F., Piironen, J., **Bürkner P. C.**, & Vehtari A. (accepted). [Using reference models in variable selection](https://arxiv.org/abs/2004.13118). *Computational Statistics*.
 
 ## 2022
 
