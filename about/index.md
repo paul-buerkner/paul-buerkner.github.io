@@ -23,8 +23,9 @@ on Optimal Design and Bayesian Data Analysis. Before starting my own research
 group in Stuttgart, I have worked as a postdoctoral researcher at the Department
 of Computer Science, Aalto University.
 
+See [here](../data/CV_Paul_Buerkner.pdf) for my complete CV.
 
-## Main Research Interests
+## Current Main Research Interests
 
 * Bayesian Statistics
 * Bayesian Workflow
@@ -73,3 +74,5 @@ Contributed to
 [GitHub](https://github.com/stan-dev/projpred)
 * **emmeans**: Estimating marginal means
 [GitHub](https://github.com/rvlenth/emmeans)
+* **Bayesflow**: A Python library for simulation-based Bayesian inference
+[GitHub](https://github.com/stefanradev93/BayesFlow)
