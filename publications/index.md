@@ -20,10 +20,13 @@ excerpt: "A list of my publications"
 * Kołczyńska M., **Bürkner P. C.**, Kennedy L., & Vehtari A. (in review). [Trust in state institutions in Europe, 1989-2019](https://osf.io/preprints/socarxiv/3v5g7/). *SocArXiv preprint*.
 * Kołczyńska M. & **Bürkner P. C.** (in review). [Political trust as a cause and consequence of democracy: Longitudinal analysis of European data](https://osf.io/preprints/socarxiv/79dth/). *SocArXiv preprint*. 
 * Zetsche, U., **Bürkner P. C.**, Bohländer, J., Renneberg, B., Röpke, S., & Schulze, L. (in review). [Daily affect regulation in borderline personality disorder and major depression](https://psyarxiv.com/6edcj/). *PsyArXiv preprint*.
-* Franke, L. K., Miedl, S. F., Danböck, S. K., Lohse, J., Liedlgruber, M., **Bürkner P. C.**, Pletzer B., & Wilhelm, F. H. (in review). [Estradiol during (analogue-) trauma: risk- or protective factor for intrusive re-experiencing?](https://psyarxiv.com/6rk8c/). *PsyArXiv preprint*.
 * Danböck, S. K., Franke, L. K., Miedl, S. F., Liedlgruber, M., **Bürkner P. C.**, & Wilhelm, F. H. (in review). [Aversive-Audiovisual and Painful-Electrical Stimulation Cause Peritraumatic Dissociation: A Functional Magnetic Resonance Imaging Study](https://psyarxiv.com/tgc7m/). *PsyArXiv preprint*.
 * Nohr, L., **Bürkner P. C.**, Ruiz, A. L., Ferrer, J. E. S., Capponi, D., & Buhlmann, U. (in review). [Social and cultural determinants of help-seeking in Cuba and Germany – A structural equation model approach](https://psyarxiv.com/5tqwv/). *PsyArXiv preprint*.
 * Jordon M., Willis K., **Bürkner P. C.**, Haddaway N., Smith P., & Petrokofsky G. (in review). [Temperate Regenerative Agriculture; a win-win for soil carbon and crop yield?](https://www.researchsquare.com/article/rs-1064515/v1). *Research Square preprint*.
+
+## accepted
+
+* Franke, L. K., Miedl, S. F., Danböck, S. K., Lohse, J., Liedlgruber, M., **Bürkner P. C.**, Pletzer B., & Wilhelm, F. H. (accepted). [Estradiol during (analogue-) trauma: risk- or protective factor for intrusive re-experiencing?](https://psyarxiv.com/6rk8c/). *Psychoneuroendocrinology*.
 
 ## 2022
 
