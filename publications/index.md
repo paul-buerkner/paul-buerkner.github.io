@@ -8,7 +8,7 @@ excerpt: "A list of my publications"
 
 * **Bürkner P. C.**, Kröker I., Oladyshkin S., & Nowak W. (in review). [The sparse polynomial chaos expansion: a fully Bayesian approach with joint priors on the coefficients and global selection of terms](https://arxiv.org/abs/2204.06043). *ArXiv preprint*.
 * Mikkola P., Martin O., Chandramouli S., ..., **Bürkner P. C.**, & Klami A. (in review). [Prior knowledge elicitation: The past, present, and future](https://arxiv.org/abs/2112.01380). *ArXiv preprint*.
-* Schmitt, M., **Bürkner P. C.**, Köthe U., & Radev S. (in review). [BayesFlow can Reliably Detect Model Misspecification and Posterior Errors in Amortized Bayesian Inference](https://arxiv.org/abs/2112.08866). *ArXiv preprint*.
+* Schmitt, M., **Bürkner P. C.**, Köthe U., & Radev S. (in review). [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](https://arxiv.org/abs/2112.08866). *ArXiv preprint*.
 * Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (in review). [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](http://arxiv.org/abs/2004.11408). *ArXiv preprint*.
 * Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). [Latent space projection predictive inference](https://arxiv.org/abs/2109.04702). *ArXiv preprint*.
 * Kallioinen N., Paananen T., **Bürkner P. C.**, & Vehtari A. (in review). [Detecting and diagnosing prior and likelihood sensitivity with power-scaling](https://arxiv.org/abs/2107.14054). *ArXiv preprint*.
