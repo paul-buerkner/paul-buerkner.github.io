@@ -24,10 +24,6 @@ excerpt: "A list of my publications"
 * Nohr, L., **Bürkner P. C.**, Ruiz, A. L., Ferrer, J. E. S., Capponi, D., & Buhlmann, U. (in review). [Social and cultural determinants of help-seeking in Cuba and Germany – A structural equation model approach](https://psyarxiv.com/5tqwv/). *PsyArXiv preprint*.
 * Jordon M., Willis K., **Bürkner P. C.**, Haddaway N., Smith P., & Petrokofsky G. (in review). [Temperate Regenerative Agriculture; a win-win for soil carbon and crop yield?](https://www.researchsquare.com/article/rs-1064515/v1). *Research Square preprint*.
 
-## accepted
-
-* Franke, L. K., Miedl, S. F., Danböck, S. K., Lohse, J., Liedlgruber, M., **Bürkner P. C.**, Pletzer B., & Wilhelm, F. H. (accepted). [Estradiol during (analogue-) trauma: risk- or protective factor for intrusive re-experiencing?](https://psyarxiv.com/6rk8c/). *Psychoneuroendocrinology*.
-
 ## 2022
 
 * **Bürkner P. C.** (2022). [On the information obtainable from comparative judgments](https://link.springer.com/article/10.1007/s11336-022-09843-z). *Psychometrika*.
@@ -38,6 +34,7 @@ doi:10.1007/s11336-022-09843-z [preprint](https://psyarxiv.com/j5efn/)
 * Schad D. J., Nicenboim B., **Bürkner P. C.**, Betancourt M., & Vasishth S. (2022). [Workflow Techniques for the Robust Use of Bayes Factors](https://doi.apa.org/doiLanding?doi=10.1037%2Fmet0000472). *Psychological Methods*. doi:10.1037/met0000472 [preprint](https://arxiv.org/abs/2103.08744)
 * Heck, D., Boehm, U., Böing-Messing, F., **Bürkner P. C.**, ..., & Hoijtink, H. (2022). [A Review of Applications of the Bayes Factor in Psychological Research](https://psycnet.apa.org/record/2022-40577-001). *Psychological Methods*. doi:10.1037/met0000454 [preprint](https://psyarxiv.com/cu43g/)
 * Malén T., Karjalainen T., Isojärvi J., Vehtari A., **Bürkner P. C.**, ..., & Nummenmaa L. (2022). [Age and sex dependent variability of type 2 dopamine receptors in the human brain: A large-scale PET cohort](https://doi.org/10.1016/j.neuroimage.2022.119149). *NeuroImage*. doi:10.1016/j.neuroimage.2022.119149 [preprint](https://www.biorxiv.org/content/10.1101/2021.08.10.455776v1)
+* Franke, L. K., Miedl, S. F., Danböck, S. K., Lohse, J., Liedlgruber, M., **Bürkner P. C.**, Pletzer B., & Wilhelm, F. H. (2022). [Estradiol during (analogue-)trauma: risk- or protective factor for intrusive re-experiencing?](https://doi.org/10.1016/j.psyneuen.2022.105819). *Psychoneuroendocrinology*. doi:10.1016/j.psyneuen.2022.105819 [preprint](https://psyarxiv.com/6rk8c/)
 * Jordon M., Smith P., Long P., **Bürkner P. C.**, Petrokofsky G. & Willis K. (2022). [Can Regenerative Agriculture increase national soil carbon stocks? Simulated country-scale adoption of reduced tillage, cover cropping, and ley-arable integration using RothC-26.3](https://doi.org/10.1016/j.scitotenv.2022.153955). *Science of the Total Environment*. doi:10.1016/j.scitotenv.2022.153955
 * Teetzen, F., **Bürkner P. C.**, Gregersen, S., & Vincent-Höper, S. (2022). [The Mediating Effects of Work Characteristics on the Relationship between Transformational Leadership and Employee Well-Being: A Meta-Analytic Investigation](https://www.mdpi.com/1660-4601/19/5/3133). *International Journal of Environmental Research and Public Health*. doi:10.3390/ijerph19053133
 
