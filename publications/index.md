@@ -24,6 +24,10 @@ excerpt: "A list of my publications"
 * Nohr, L., **Bürkner P. C.**, Ruiz, A. L., Ferrer, J. E. S., Capponi, D., & Buhlmann, U. (in review). [Social and cultural determinants of help-seeking in Cuba and Germany – A structural equation model approach](https://psyarxiv.com/5tqwv/). *PsyArXiv preprint*.
 * Jordon M., Willis K., **Bürkner P. C.**, Haddaway N., Smith P., & Petrokofsky G. (in review). [Temperate Regenerative Agriculture; a win-win for soil carbon and crop yield?](https://www.researchsquare.com/article/rs-1064515/v1). *Research Square preprint*.
 
+## accepted
+
+* Jordon M., Willis K., **Bürkner P. C.**, & Petrokofsky G. (accepted). Rotational grazing and multispecies herbal leys increase productivity in temperate pastoral systems – a meta-analysis *Agriculture, Ecosystems and Environment* 
+
 ## 2022
 
 * **Bürkner P. C.** (2022). [On the information obtainable from comparative judgments](https://link.springer.com/article/10.1007/s11336-022-09843-z). *Psychometrika*.
