@@ -26,7 +26,7 @@ excerpt: "A list of my publications"
 
 ## accepted
 
-* Jordon M., Willis K., **Bürkner P. C.**, & Petrokofsky G. (accepted). Rotational grazing and multispecies herbal leys increase productivity in temperate pastoral systems – a meta-analysis. *Agriculture, Ecosystems and Environment* 
+* Jordon M., Willis K., **Bürkner P. C.**, & Petrokofsky G. (accepted). Rotational grazing and multispecies herbal leys increase productivity in temperate pastoral systems – a meta-analysis. *Agriculture, Ecosystems & Environment*.
 
 ## 2022
 
