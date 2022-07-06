@@ -23,6 +23,7 @@ excerpt: "A list of my publications"
 * Danböck, S. K., Franke, L. K., Miedl, S. F., Liedlgruber, M., **Bürkner P. C.**, & Wilhelm, F. H. (in review). [Aversive-Audiovisual and Painful-Electrical Stimulation Cause Peritraumatic Dissociation: A Functional Magnetic Resonance Imaging Study](https://psyarxiv.com/tgc7m/). *PsyArXiv preprint*.
 * Nohr, L., **Bürkner P. C.**, Ruiz, A. L., Ferrer, J. E. S., Capponi, D., & Buhlmann, U. (in review). [Social and cultural determinants of help-seeking in Cuba and Germany – A structural equation model approach](https://psyarxiv.com/5tqwv/). *PsyArXiv preprint*.
 * Jordon M., Willis K., **Bürkner P. C.**, Haddaway N., Smith P., & Petrokofsky G. (in review). [Temperate Regenerative Agriculture; a win-win for soil carbon and crop yield?](https://www.researchsquare.com/article/rs-1064515/v1). *Research Square preprint*.
+* Seaton F. M., Robinson D. A., Monteith D., Lebron I., **Bürkner P. C.**, Tomlinson S., Emmett B. A., Smart S. M. (in review). [Fifty years of reduction in sulphur deposition drives recovery in soil pH and plant communities](https://www.biorxiv.org/content/10.1101/2022.07.04.498654v1). *bioRxiv preprint*.
 
 ## accepted
 
