@@ -27,6 +27,8 @@ excerpt: "A list of my publications"
 
 ## accepted
 
+* Pluhackova K., Schittny V., **Bürkner P. C.**, Siligan C., & Horner A. (accepted).
+Multiple Pore Lining Residues modulate Water Permeability of GlpF. *Protein Science*.
 * Jordon M., Willis K., **Bürkner P. C.**, & Petrokofsky G. (accepted). Rotational grazing and multispecies herbal leys increase productivity in temperate pastoral systems – a meta-analysis. *Agriculture, Ecosystems & Environment*.
 * Jordon M., Willis K., **Bürkner P. C.**, Haddaway N., Smith P., & Petrokofsky G. (accepted). [Temperate Regenerative Agriculture; a win-win for soil carbon and crop yield?](https://www.researchsquare.com/article/rs-1064515/v1). *Environmental Research Letters*.
 * Nohe C., Hüffmeier J., **Bürkner P. C.**, Mazei J., Sondern D., Runte A., Sieber F., & Hertel G. (accepted). Unethical Choice in Negotiations: A Meta-Analysis on Gender Differences and Their Moderators. *Organizational Behavior and Human Decision Processes*.
