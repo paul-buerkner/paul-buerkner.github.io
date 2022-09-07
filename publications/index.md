@@ -6,6 +6,7 @@ excerpt: "A list of my publications"
 
 ## preprints in review
 
+* **Bürkner P. C.**, Scholz M., & Radev S. (in review). [Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy](http://arxiv.org/abs/2209.02439). *ArXiv preprint*.
 * **Bürkner P. C.**, Kröker I., Oladyshkin S., & Nowak W. (in review). [The sparse polynomial chaos expansion: a fully Bayesian approach with joint priors on the coefficients and global selection of terms](https://arxiv.org/abs/2204.06043). *ArXiv preprint*.
 * Aguilar J. E. & **Bürkner P. C.** (in review). [Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2-D2-M2 prior](https://arxiv.org/abs/2208.07132). *ArXiv preprint*.
 * Mikkola P., Martin O., Chandramouli S., ..., **Bürkner P. C.**, & Klami A. (in review). [Prior knowledge elicitation: The past, present, and future](https://arxiv.org/abs/2112.01380). *ArXiv preprint*.
