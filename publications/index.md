@@ -29,6 +29,7 @@ excerpt: "A list of my publications"
 ## accepted
 
 * Pluhackova K., Schittny V., **Bürkner P. C.**, Siligan C., & Horner A. (accepted). Multiple Pore Lining Residues modulate Water Permeability of GlpF. *Protein Science*.
+* George J. P., **Bürkner P. C.**, Sanders T., Neumann M., Cammalleri C., Vogt J., & Lang M. (accepted). Long-term forest monitoring unravels constant mortality rise in European forests. *Plant Biology*.
 * Nohe C., Hüffmeier J., **Bürkner P. C.**, Mazei J., Sondern D., Runte A., Sieber F., & Hertel G. (accepted). Unethical Choice in Negotiations: A Meta-Analysis on Gender Differences and Their Moderators. *Organizational Behavior and Human Decision Processes*.
 
 ## 2022
