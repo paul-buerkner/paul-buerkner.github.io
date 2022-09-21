@@ -28,7 +28,6 @@ excerpt: "A list of my publications"
 
 ## accepted
 
-* Pluhackova K., Schittny V., **Bürkner P. C.**, Siligan C., & Horner A. (accepted). Multiple Pore Lining Residues modulate Water Permeability of GlpF. *Protein Science*.
 * George J. P., **Bürkner P. C.**, Sanders T., Neumann M., Cammalleri C., Vogt J., & Lang M. (accepted). Long-term forest monitoring unravels constant mortality rise in European forests. *Plant Biology*.
 * Nohe C., Hüffmeier J., **Bürkner P. C.**, Mazei J., Sondern D., Runte A., Sieber F., & Hertel G. (accepted). Unethical Choice in Negotiations: A Meta-Analysis on Gender Differences and Their Moderators. *Organizational Behavior and Human Decision Processes*.
 
@@ -42,6 +41,7 @@ doi:10.1007/s11336-022-09843-z [preprint](https://psyarxiv.com/j5efn/)
 * Schad D. J., Nicenboim B., **Bürkner P. C.**, Betancourt M., & Vasishth S. (2022). [Workflow Techniques for the Robust Use of Bayes Factors](https://doi.apa.org/doiLanding?doi=10.1037%2Fmet0000472). *Psychological Methods*. doi:10.1037/met0000472 [preprint](https://arxiv.org/abs/2103.08744)
 * Heck, D., Boehm, U., Böing-Messing, F., **Bürkner P. C.**, ..., & Hoijtink, H. (2022). [A Review of Applications of the Bayes Factor in Psychological Research](https://psycnet.apa.org/record/2022-40577-001). *Psychological Methods*. doi:10.1037/met0000454 [preprint](https://psyarxiv.com/cu43g/)
 * Malén T., Karjalainen T., Isojärvi J., Vehtari A., **Bürkner P. C.**, ..., & Nummenmaa L. (2022). [Age and sex dependent variability of type 2 dopamine receptors in the human brain: A large-scale PET cohort](https://doi.org/10.1016/j.neuroimage.2022.119149). *NeuroImage*. doi:10.1016/j.neuroimage.2022.119149 [preprint](https://www.biorxiv.org/content/10.1101/2021.08.10.455776v1)
+* Pluhackova K., Schittny V., **Bürkner P. C.**, Siligan C., & Horner A. (2022). [Multiple Pore Lining Residues modulate Water Permeability of GlpF](http://dx.doi.org/10.1002/pro.4431). *Protein Science*. doi:10.1002/pro.4431
 * Franke, L. K., Miedl, S. F., Danböck, S. K., Lohse, J., Liedlgruber, M., **Bürkner P. C.**, Pletzer B., & Wilhelm, F. H. (2022). [Estradiol during (analogue-)trauma: risk- or protective factor for intrusive re-experiencing?](https://doi.org/10.1016/j.psyneuen.2022.105819). *Psychoneuroendocrinology*. doi:10.1016/j.psyneuen.2022.105819 [preprint](https://psyarxiv.com/6rk8c/)
 * Jordon M., Smith P., Long P., **Bürkner P. C.**, Petrokofsky G. & Willis K. (2022). [Can Regenerative Agriculture increase national soil carbon stocks? Simulated country-scale adoption of reduced tillage, cover cropping, and ley-arable integration using RothC-26.3](https://doi.org/10.1016/j.scitotenv.2022.153955). *Science of the Total Environment*. doi:10.1016/j.scitotenv.2022.153955
 * Jordon M., Willis K., **Bürkner P. C.**, & Petrokofsky G. (2022). [Rotational grazing and multispecies herbal leys increase productivity in temperate pastoral systems – a meta-analysis](https://www.sciencedirect.com/science/article/pii/S0167880922002249). *Agriculture, Ecosystems & Environment*. doi:10.1016/j.agee.2022.108075
