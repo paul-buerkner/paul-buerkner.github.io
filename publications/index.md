@@ -29,7 +29,6 @@ excerpt: "A list of my publications"
 ## accepted
 
 * George J. P., **Bürkner P. C.**, Sanders T., Neumann M., Cammalleri C., Vogt J., & Lang M. (accepted). Long-term forest monitoring unravels constant mortality rise in European forests. *Plant Biology*.
-* Nohe C., Hüffmeier J., **Bürkner P. C.**, Mazei J., Sondern D., Runte A., Sieber F., & Hertel G. (accepted). Unethical Choice in Negotiations: A Meta-Analysis on Gender Differences and Their Moderators. *Organizational Behavior and Human Decision Processes*.
 
 ## 2022
 
@@ -46,6 +45,7 @@ doi:10.1007/s11336-022-09843-z [preprint](https://psyarxiv.com/j5efn/)
 * Jordon M., Smith P., Long P., **Bürkner P. C.**, Petrokofsky G. & Willis K. (2022). [Can Regenerative Agriculture increase national soil carbon stocks? Simulated country-scale adoption of reduced tillage, cover cropping, and ley-arable integration using RothC-26.3](https://doi.org/10.1016/j.scitotenv.2022.153955). *Science of the Total Environment*. doi:10.1016/j.scitotenv.2022.153955
 * Jordon M., Willis K., **Bürkner P. C.**, & Petrokofsky G. (2022). [Rotational grazing and multispecies herbal leys increase productivity in temperate pastoral systems – a meta-analysis](https://www.sciencedirect.com/science/article/pii/S0167880922002249). *Agriculture, Ecosystems & Environment*. doi:10.1016/j.agee.2022.108075
 * Jordon M., Willis K., **Bürkner P. C.**, Haddaway N., Smith P., & Petrokofsky G. (2022). [Temperate Regenerative Agriculture; a win-win for soil carbon and crop yield?](https://iopscience.iop.org/article/10.1088/1748-9326/ac8609/meta). *Environmental Research Letters*. doi:10.1088/1748-9326/ac8609 [preprint](https://www.researchsquare.com/article/rs-1064515/v1)
+* Nohe C., Hüffmeier J., **Bürkner P. C.**, Mazei J., Sondern D., Runte A., Sieber F., & Hertel G. (2022). [Unethical Choice in Negotiations: A Meta-Analysis on Gender Differences and Their Moderators](https://www.sciencedirect.com/science/article/pii/S0749597822000784). *Organizational Behavior and Human Decision Processes*.
 * Teetzen, F., **Bürkner P. C.**, Gregersen, S., & Vincent-Höper, S. (2022). [The Mediating Effects of Work Characteristics on the Relationship between Transformational Leadership and Employee Well-Being: A Meta-Analytic Investigation](https://www.mdpi.com/1660-4601/19/5/3133). *International Journal of Environmental Research and Public Health*. doi:10.3390/ijerph19053133
 
 ## 2021
