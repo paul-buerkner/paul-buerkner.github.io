@@ -21,7 +21,6 @@ excerpt: "A list of my publications"
 * Kołczyńska M. & **Bürkner P. C.** (in review). [Modeling public opinion over time: A simulation study of latent trend models](https://osf.io/preprints/socarxiv/gauvx/). *SocArXiv preprint*. 
 * Kołczyńska M., **Bürkner P. C.**, Kennedy L., & Vehtari A. (in review). [Trust in state institutions in Europe, 1989-2019](https://osf.io/preprints/socarxiv/3v5g7/). *SocArXiv preprint*.
 * Kołczyńska M. & **Bürkner P. C.** (in review). [Political trust as a cause and consequence of democracy: Longitudinal analysis of European data](https://osf.io/preprints/socarxiv/79dth/). *SocArXiv preprint*. 
-* Seaton F. M., Robinson D. A., Monteith D., Lebron I., **Bürkner P. C.**, Tomlinson S., Emmett B. A., Smart S. M. (in review). [Fifty years of reduction in sulphur deposition drives recovery in soil pH and plant communities](https://www.biorxiv.org/content/10.1101/2022.07.04.498654v1). *bioRxiv preprint*.
 * Zetsche, U., **Bürkner P. C.**, Bohländer, J., Renneberg, B., Röpke, S., & Schulze, L. (in review). [Daily affect regulation in borderline personality disorder and major depression](https://psyarxiv.com/6edcj/). *PsyArXiv preprint*.
 * Danböck, S. K., Franke, L. K., Miedl, S. F., Liedlgruber, M., **Bürkner P. C.**, & Wilhelm, F. H. (in review). [Aversive-Audiovisual and Painful-Electrical Stimulation Cause Peritraumatic Dissociation: A Functional Magnetic Resonance Imaging Study](https://psyarxiv.com/tgc7m/). *PsyArXiv preprint*.
 * Nohr, L., **Bürkner P. C.**, Ruiz, A. L., Ferrer, J. E. S., Capponi, D., & Buhlmann, U. (in review). [Social and cultural determinants of help-seeking in Cuba and Germany – A structural equation model approach](https://psyarxiv.com/5tqwv/). *PsyArXiv preprint*.
@@ -30,6 +29,7 @@ excerpt: "A list of my publications"
 
 * Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (accepted). [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](http://arxiv.org/abs/2004.11408). *Statistics and Computing*.
 * George J. P., **Bürkner P. C.**, Sanders T., Neumann M., Cammalleri C., Vogt J., & Lang M. (accepted). Long-term forest monitoring unravels constant mortality rise in European forests. *Plant Biology*.
+* Seaton F. M., Robinson D. A., Monteith D., Lebron I., **Bürkner P. C.**, Tomlinson S., Emmett B. A., Smart S. M. (accepted). [Fifty years of reduction in sulphur deposition drives recovery in soil pH and plant communities](https://www.biorxiv.org/content/10.1101/2022.07.04.498654v1). *Journal of Ecology*.
 
 ## 2022
 
