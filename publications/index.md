@@ -14,6 +14,7 @@ excerpt: "A list of my publications"
 * Schmitt, M., **Bürkner P. C.**, Köthe U., & Radev S. T. (in review). [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](https://arxiv.org/abs/2112.08866). *ArXiv preprint*.
 * Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). [Latent space projection predictive inference](https://arxiv.org/abs/2109.04702). *ArXiv preprint*.
 * Kallioinen N., Paananen T., **Bürkner P. C.**, & Vehtari A. (in review). [Detecting and diagnosing prior and likelihood sensitivity with power-scaling](https://arxiv.org/abs/2107.14054). *ArXiv preprint*.
+* Perini L., **Bürkner P. C.**, & Klami A. (in review). [Estimating the Contamination Factor’s Distribution in Unsupervised Anomaly Detection](http://arxiv.org/abs/2210.10487). *ArXiv preprint*.
 * Mikkola P., Martin O., Chandramouli S., ..., **Bürkner P. C.**, & Klami A. (in review). [Prior knowledge elicitation: The past, present, and future](https://arxiv.org/abs/2112.01380). *ArXiv preprint*.
 * Williams, D. R., Rodriguez, J. E., & **Bürkner P. C.** (in review). [Putting Variation into Variance: Modeling Between-Study Heterogeneity in Meta-Analysis](https://psyarxiv.com/9vkqy/). *PsyArXiv preprint*.
 * Rodriguez, J. E., Williams, D. R., & **Bürkner P. C.** (in review). [Heterogeneous Heterogeneity by Default: Testing Categorical Moderators in Random-effects Meta-Analysis](https://psyarxiv.com/tqcka/). *PsyArXiv preprint*.
