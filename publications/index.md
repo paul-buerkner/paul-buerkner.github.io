@@ -12,6 +12,7 @@ excerpt: "A list of my publications"
 * Scholz M. & **Bürkner P. C.** (in review). [Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models](https://arxiv.org/abs/2210.06927). *ArXiv preprint*.
 * Schmitt, M., Radev, S. T., & **Bürkner P. C.** (in review). [Meta-Uncertainty in Bayesian Model Comparison](http://arxiv.org/abs/2210.07278). *ArXiv preprint*.
 * Schmitt, M., **Bürkner P. C.**, Köthe U., & Radev S. T. (in review). [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](https://arxiv.org/abs/2112.08866). *ArXiv preprint*.
+* Modrák M., Moon A. H., Kim S., **Bürkner P. C.**, Huurre N., Faltejsková K., Gelman A., & Vehtari A. (in review). [Simulation-Based Calibration Checking for Bayesian Computation: The Choice of Test Quantities Shapes Sensitivity](https://arxiv.org/abs/2211.02383). *ArXiv preprint*.
 * Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). [Latent space projection predictive inference](https://arxiv.org/abs/2109.04702). *ArXiv preprint*.
 * Kallioinen N., Paananen T., **Bürkner P. C.**, & Vehtari A. (in review). [Detecting and diagnosing prior and likelihood sensitivity with power-scaling](https://arxiv.org/abs/2107.14054). *ArXiv preprint*.
 * Perini L., **Bürkner P. C.**, & Klami A. (in review). [Estimating the Contamination Factor’s Distribution in Unsupervised Anomaly Detection](http://arxiv.org/abs/2210.10487). *ArXiv preprint*.
