@@ -32,6 +32,7 @@ excerpt: "A list of my publications"
 
 * Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (accepted). [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](http://arxiv.org/abs/2004.11408). *Statistics and Computing*.
 * Seaton F. M., Robinson D. A., Monteith D., Lebron I., **Bürkner P. C.**, Tomlinson S., Emmett B. A., Smart S. M. (accepted). [Fifty years of reduction in sulphur deposition drives recovery in soil pH and plant communities](https://www.biorxiv.org/content/10.1101/2022.07.04.498654v1). *Journal of Ecology*.
+* Morina N., Seidemann J., Andor T., Sondern L.,  **Bürkner P. C.**, Drenckhan I., & Buhlmann U. (accepted). The effectiveness of cognitive behavioral therapy for social anxiety disorder in routine clinical practice. *Clinical Psychology & Psychotherapy*. 
 
 ## 2022
 
