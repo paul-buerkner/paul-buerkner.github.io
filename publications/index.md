@@ -32,7 +32,6 @@ excerpt: "A list of my publications"
 
 * Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (accepted). [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](http://arxiv.org/abs/2004.11408). *Statistics and Computing*.
 * Seaton F. M., Robinson D. A., Monteith D., Lebron I., **Bürkner P. C.**, Tomlinson S., Emmett B. A., Smart S. M. (accepted). [Fifty years of reduction in sulphur deposition drives recovery in soil pH and plant communities](https://www.biorxiv.org/content/10.1101/2022.07.04.498654v1). *Journal of Ecology*.
-* Morina N., Seidemann J., Andor T., Sondern L.,  **Bürkner P. C.**, Drenckhan I., & Buhlmann U. (accepted). The effectiveness of cognitive behavioral therapy for social anxiety disorder in routine clinical practice. *Clinical Psychology & Psychotherapy*. 
 
 ## 2022
 
@@ -51,6 +50,7 @@ doi:10.1007/s11336-022-09843-z [preprint](https://psyarxiv.com/j5efn/)
 * Jordon M., Willis K., **Bürkner P. C.**, & Petrokofsky G. (2022). [Rotational grazing and multispecies herbal leys increase productivity in temperate pastoral systems – a meta-analysis](https://www.sciencedirect.com/science/article/pii/S0167880922002249). *Agriculture, Ecosystems & Environment*. doi:10.1016/j.agee.2022.108075
 * Jordon M., Willis K., **Bürkner P. C.**, Haddaway N., Smith P., & Petrokofsky G. (2022). [Temperate Regenerative Agriculture; a win-win for soil carbon and crop yield?](https://iopscience.iop.org/article/10.1088/1748-9326/ac8609/meta). *Environmental Research Letters*. doi:10.1088/1748-9326/ac8609 [preprint](https://www.researchsquare.com/article/rs-1064515/v1)
 * Nohe C., Hüffmeier J., **Bürkner P. C.**, Mazei J., Sondern D., Runte A., Sieber F., & Hertel G. (2022). [Unethical Choice in Negotiations: A Meta-Analysis on Gender Differences and Their Moderators](https://www.sciencedirect.com/science/article/pii/S0749597822000784). *Organizational Behavior and Human Decision Processes*.
+* Morina N., Seidemann J., Andor T., Sondern L.,  **Bürkner P. C.**, Drenckhan I., & Buhlmann U. (2022). The effectiveness of cognitive behavioral therapy for social anxiety disorder in routine clinical practice. *Clinical Psychology & Psychotherapy*. 
 * Teetzen, F., **Bürkner P. C.**, Gregersen, S., & Vincent-Höper, S. (2022). [The Mediating Effects of Work Characteristics on the Relationship between Transformational Leadership and Employee Well-Being: A Meta-Analytic Investigation](https://www.mdpi.com/1660-4601/19/5/3133). *International Journal of Environmental Research and Public Health*. doi:10.3390/ijerph19053133
 
 ## 2021
