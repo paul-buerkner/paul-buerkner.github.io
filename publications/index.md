@@ -15,6 +15,7 @@ excerpt: "A list of my publications"
 * Modrák M., Moon A. H., Kim S., **Bürkner P. C.**, Huurre N., Faltejsková K., Gelman A., & Vehtari A. (in review). [Simulation-Based Calibration Checking for Bayesian Computation: The Choice of Test Quantities Shapes Sensitivity](https://arxiv.org/abs/2211.02383). *ArXiv preprint*.
 * Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). [Latent space projection predictive inference](https://arxiv.org/abs/2109.04702). *ArXiv preprint*.
 * Kallioinen N., Paananen T., **Bürkner P. C.**, & Vehtari A. (in review). [Detecting and diagnosing prior and likelihood sensitivity with power-scaling](https://arxiv.org/abs/2107.14054). *ArXiv preprint*.
+* Schumacher L, **Bürkner P. C.**, Voss A., Köthe U., Radev S. T. (in review). [Neural Superstatistics: A Bayesian Method for Estimating Dynamic Models of Cognition](https://arxiv.org/abs/2211.13165). *ArXiv preprint*.
 * Perini L., **Bürkner P. C.**, & Klami A. (in review). [Estimating the Contamination Factor’s Distribution in Unsupervised Anomaly Detection](http://arxiv.org/abs/2210.10487). *ArXiv preprint*.
 * Mikkola P., Martin O., Chandramouli S., ..., **Bürkner P. C.**, & Klami A. (in review). [Prior knowledge elicitation: The past, present, and future](https://arxiv.org/abs/2112.01380). *ArXiv preprint*.
 * Williams, D. R., Rodriguez, J. E., & **Bürkner P. C.** (in review). [Putting Variation into Variance: Modeling Between-Study Heterogeneity in Meta-Analysis](https://psyarxiv.com/9vkqy/). *PsyArXiv preprint*.
