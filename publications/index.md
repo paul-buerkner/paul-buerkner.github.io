@@ -137,9 +137,9 @@ doi:10.1007/s10608-020-10180-7 [preprint](https://psyarxiv.com/3hnpu/)
 
 ## 2016
 
-* **Bürkner P. C.**, Doebler P., & Holling H. (2016). [Optimal design of the Wilcoxon-Mann-Whitney-test](http://onlinelibrary.wiley.com/doi/10.1002/bimj.201600022/full). *Biometrical Journal*. 59(1), 25--40. doi:10.1002/bimj.201600022
+* **Bürkner P. C.**, Doebler P., & Holling H. (2016). [Optimal design of the Wilcoxon-Mann-Whitney-test](http://onlinelibrary.wiley.com/doi/10.1002/bimj.201600022/full). *Biometrical Journal*. 59(1), 25--40. doi:10.1002/bimj.201600022 [preprint](https://arxiv.org/abs/2211.12556)
 * Benda N., **Bürkner P. C.**, Freise F., Holling H., & Schwabe R. (2016). [Adaptive Designs for Quantal Dose-Response Experiments with False Answers](http://www.tandfonline.com/doi/abs/10.1080/15598608.2016.1213209). *Journal of Statistical Theory and Practice*. 11(3), 361--374. doi:10.1080/15598608.2016.1213209
 
 ## 2014
 
-* **Bürkner P. C.** & Doebler P. (2014). [Testing for Publication Bias in Diagnostic Meta-Analysis: A Simulation Study](http://onlinelibrary.wiley.com/doi/10.1002/sim.6177/full). *Statistics in Medicine*. 33(18), 3061--3077. doi:10.1002/sim.6177
+* **Bürkner P. C.** & Doebler P. (2014). [Testing for Publication Bias in Diagnostic Meta-Analysis: A Simulation Study](http://onlinelibrary.wiley.com/doi/10.1002/sim.6177/full). *Statistics in Medicine*. 33(18), 3061--3077. doi:10.1002/sim.6177 [preprint](https://arxiv.org/abs/2211.12538)
