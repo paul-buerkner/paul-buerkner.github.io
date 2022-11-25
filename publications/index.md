@@ -32,7 +32,6 @@ excerpt: "A list of my publications"
 ## accepted
 
 * Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (accepted). [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](http://arxiv.org/abs/2004.11408). *Statistics and Computing*.
-* Seaton F. M., Robinson D. A., Monteith D., Lebron I., **Bürkner P. C.**, Tomlinson S., Emmett B. A., Smart S. M. (accepted). [Fifty years of reduction in sulphur deposition drives recovery in soil pH and plant communities](https://www.biorxiv.org/content/10.1101/2022.07.04.498654v1). *Journal of Ecology*.
 
 ## 2022
 
@@ -46,6 +45,7 @@ doi:10.1007/s11336-022-09843-z [preprint](https://psyarxiv.com/j5efn/)
 * Malén T., Karjalainen T., Isojärvi J., Vehtari A., **Bürkner P. C.**, ..., & Nummenmaa L. (2022). [Age and sex dependent variability of type 2 dopamine receptors in the human brain: A large-scale PET cohort](https://doi.org/10.1016/j.neuroimage.2022.119149). *NeuroImage*. doi:10.1016/j.neuroimage.2022.119149 [preprint](https://www.biorxiv.org/content/10.1101/2021.08.10.455776v1)
 * Pluhackova K., Schittny V., **Bürkner P. C.**, Siligan C., & Horner A. (2022). [Multiple Pore Lining Residues modulate Water Permeability of GlpF](http://dx.doi.org/10.1002/pro.4431). *Protein Science*. doi:10.1002/pro.4431
 * George J. P., **Bürkner P. C.**, Sanders T., Neumann M., Cammalleri C., Vogt J., & Lang M. (2022). [Long-term forest monitoring unravels constant mortality rise in European forests](https://onlinelibrary.wiley.com/doi/10.1111/plb.13469). *Plant Biology*.
+* Seaton F. M., Robinson D. A., Monteith D., Lebron I., **Bürkner P. C.**, Tomlinson S., Emmett B. A., Smart S. M. (2022). [Fifty years of reduction in sulphur deposition drives recovery in soil pH and plant communities](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.14039). *Journal of Ecology*. doi:10.1111/1365-2745.14039 [preprint](https://www.biorxiv.org/content/10.1101/2022.07.04.498654v1)
 * Franke, L. K., Miedl, S. F., Danböck, S. K., Lohse, J., Liedlgruber, M., **Bürkner P. C.**, Pletzer B., & Wilhelm, F. H. (2022). [Estradiol during (analogue-)trauma: risk- or protective factor for intrusive re-experiencing?](https://doi.org/10.1016/j.psyneuen.2022.105819). *Psychoneuroendocrinology*. doi:10.1016/j.psyneuen.2022.105819 [preprint](https://psyarxiv.com/6rk8c/)
 * Jordon M., Smith P., Long P., **Bürkner P. C.**, Petrokofsky G. & Willis K. (2022). [Can Regenerative Agriculture increase national soil carbon stocks? Simulated country-scale adoption of reduced tillage, cover cropping, and ley-arable integration using RothC-26.3](https://doi.org/10.1016/j.scitotenv.2022.153955). *Science of the Total Environment*. doi:10.1016/j.scitotenv.2022.153955
 * Jordon M., Willis K., **Bürkner P. C.**, & Petrokofsky G. (2022). [Rotational grazing and multispecies herbal leys increase productivity in temperate pastoral systems – a meta-analysis](https://www.sciencedirect.com/science/article/pii/S0167880922002249). *Agriculture, Ecosystems & Environment*. doi:10.1016/j.agee.2022.108075
