@@ -28,13 +28,10 @@ excerpt: "A list of my publications"
 * Danböck, S. K., Franke, L. K., Miedl, S. F., Liedlgruber, M., **Bürkner P. C.**, & Wilhelm, F. H. (in review). [Aversive-Audiovisual and Painful-Electrical Stimulation Cause Peritraumatic Dissociation: A Functional Magnetic Resonance Imaging Study](https://psyarxiv.com/tgc7m/). *PsyArXiv preprint*.
 * Nohr, L., **Bürkner P. C.**, Ruiz, A. L., Ferrer, J. E. S., Capponi, D., & Buhlmann, U. (in review). [Social and cultural determinants of help-seeking in Cuba and Germany – A structural equation model approach](https://psyarxiv.com/5tqwv/). *PsyArXiv preprint*.
 
-## accepted
-
-* Arslan, R. C., Blake, K., Botzet, L., **Bürkner, P. C.**, DeBruine, L. M., Fiers, T., ..., & Stern, J. (accepted). [Not within spitting distance: salivary immunoassays of estradiol have subpar validity for cycle phase](https://psyarxiv.com/5r8mg/). *Psychoneuroendocrinology*.
-
 ## 2023
 
 * Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (2023). [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](https://doi.org/10.1007/s11222-022-10167-2). *Statistics and Computing*. doi:10.1007/s11222-022-10167-2 [preprint](http://arxiv.org/abs/2004.11408)
+* Arslan, R. C., Blake, K., Botzet, L., **Bürkner, P. C.**, DeBruine, L. M., Fiers, T., ..., & Stern, J. (2023). [Not within spitting distance: salivary immunoassays of estradiol have subpar validity for cycle phase](https://doi.org/10.1016/j.psyneuen.2022.105994). *Psychoneuroendocrinology*. doi:10.1016/j.psyneuen.2022.105994 [preprint](https://psyarxiv.com/5r8mg/)
 
 ## 2022
 
