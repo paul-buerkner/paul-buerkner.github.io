@@ -30,8 +30,11 @@ excerpt: "A list of my publications"
 
 ## accepted
 
-* Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (accepted). [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](http://arxiv.org/abs/2004.11408). *Statistics and Computing*.
 * Arslan, R. C., Blake, K., Botzet, L., **Bürkner, P. C.**, DeBruine, L. M., Fiers, T., ..., & Stern, J. (accepted). [Not within spitting distance: salivary immunoassays of estradiol have subpar validity for cycle phase](https://psyarxiv.com/5r8mg/). *Psychoneuroendocrinology*.
+
+## 2023
+
+* Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (2023). [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](https://doi.org/10.1007/s11222-022-10167-2). *Statistics and Computing*. doi:10.1007/s11222-022-10167-2 [preprint](http://arxiv.org/abs/2004.11408)
 
 ## 2022
 
