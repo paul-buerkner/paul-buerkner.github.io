@@ -24,6 +24,7 @@ excerpt: "A list of my publications"
 * Kołczyńska M., **Bürkner P. C.**, Kennedy L., & Vehtari A. (in review). [Trust in state institutions in Europe, 1989-2019](https://osf.io/preprints/socarxiv/3v5g7/). *SocArXiv preprint*.
 * Kołczyńska M. & **Bürkner P. C.** (in review). [Political trust as a cause and consequence of democracy: Longitudinal analysis of European data](https://osf.io/preprints/socarxiv/79dth/). *SocArXiv preprint*. 
 * Danböck, S. K., Franke, L. K., Miedl, S. F., Liedlgruber, M., **Bürkner P. C.**, & Wilhelm, F. H. (in review). [Aversive-Audiovisual and Painful-Electrical Stimulation Cause Peritraumatic Dissociation: A Functional Magnetic Resonance Imaging Study](https://psyarxiv.com/tgc7m/). *PsyArXiv preprint*.
+* Bolzenkötter, T., **Bürkner P. C.**, Zetsche, U., & Schulze, L. (in review). [Assessing the short-term effects of detached mindfulness on repetitive negative thinking and affect: A randomized controlled trial in daily life](https://psyarxiv.com/y4snz/). *PsyArXiv preprint*.
 * Nohr, L., **Bürkner P. C.**, Ruiz, A. L., Ferrer, J. E. S., Capponi, D., & Buhlmann, U. (in review). [Social and cultural determinants of help-seeking in Cuba and Germany – A structural equation model approach](https://psyarxiv.com/5tqwv/). *PsyArXiv preprint*.
 
 ## accepted
