@@ -10,7 +10,6 @@ excerpt: "A list of my publications"
 * **Bürkner P. C.**, Kröker I., Oladyshkin S., & Nowak W. (in review). [A fully Bayesian sparse polynomial chaos expansion approach with joint priors on the coefficients and global selection of terms](https://arxiv.org/abs/2204.06043). *ArXiv preprint*.
 * Aguilar J. E. & **Bürkner P. C.** (in review). [Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior](https://arxiv.org/abs/2208.07132). *ArXiv preprint*.
 * Scholz M. & **Bürkner P. C.** (in review). [Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models](https://arxiv.org/abs/2210.06927). *ArXiv preprint*.
-* Schmitt, M., Radev, S. T., & **Bürkner P. C.** (in review). [Meta-Uncertainty in Bayesian Model Comparison](http://arxiv.org/abs/2210.07278). *ArXiv preprint*.
 * Schmitt, M., **Bürkner P. C.**, Köthe U., & Radev S. T. (in review). [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](https://arxiv.org/abs/2112.08866). *ArXiv preprint*.
 * Modrák M., Moon A. H., Kim S., **Bürkner P. C.**, Huurre N., Faltejsková K., Gelman A., & Vehtari A. (in review). [Simulation-Based Calibration Checking for Bayesian Computation: The Choice of Test Quantities Shapes Sensitivity](https://arxiv.org/abs/2211.02383). *ArXiv preprint*.
 * Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). [Latent space projection predictive inference](https://arxiv.org/abs/2109.04702). *ArXiv preprint*.
@@ -34,6 +33,7 @@ excerpt: "A list of my publications"
 
 ## 2023
 
+* Schmitt, M., Radev, S. T., & **Bürkner P. C.** (accepted). [Meta-Uncertainty in Bayesian Model Comparison](http://arxiv.org/abs/2210.07278). *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
 * Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (2023). [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](https://doi.org/10.1007/s11222-022-10167-2). *Statistics and Computing*. doi:10.1007/s11222-022-10167-2 [preprint](http://arxiv.org/abs/2004.11408)
 * Arslan, R. C., Blake, K., Botzet, L., **Bürkner, P. C.**, DeBruine, L. M., Fiers, T., ..., & Stern, J. (2023). [Not within spitting distance: salivary immunoassays of estradiol have subpar validity for cycle phase](https://doi.org/10.1016/j.psyneuen.2022.105994). *Psychoneuroendocrinology*. doi:10.1016/j.psyneuen.2022.105994 [preprint](https://psyarxiv.com/5r8mg/)
 
