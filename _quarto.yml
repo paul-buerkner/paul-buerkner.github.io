@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Paul Bürkner"
+  image: images/paul-buerkner-small.png
+  cookie-consent: true
+  search: 
+    location: navbar
+    type: textbox
+  navbar:
+    background: primary
+    pinned: true
+    left:
+      - href: index.qmd
+        text: About me
+      - research/index.qmd
+      - publications/index.qmd
+      - software/index.qmd
+    right:
+    - icon: github
+      href: https://github.com/paul-buerkner
+    - icon: google
+      href: https://scholar.google.com/citations?user=JSj6m1IAAAAJ&hl
+    - icon: twitter
+      href: https://twitter.com/paulbuerkner
+    - icon: mastodon
+      href: https://fosstodon.org/@paul_buerkner
+    - icon: envelope
+      aria-label: email
+      href: "mailto:paul.buerkner@gmail.com"
+  page-footer: 
+    left: "Copyright 2023, Paul Bürkner" 
+    right: 
+      - text: Impressum
+        href: impressum/index.qmd
+
+format:
+  html:
+    fontsize: 1.1em
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css

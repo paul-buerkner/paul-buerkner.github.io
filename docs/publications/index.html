@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.269">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Paul Bürkner - Publications</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "textbox",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({
+  "notice_banner_type":"simple",
+  "consent_type":"implied",
+  "palette":"light",
+  "language":"en",
+  "page_load_consent_levels":["strictly-necessary","functionality","tracking","targeting"],
+  "notice_banner_reject_button_hide":false,
+  "preferences_center_close_button_hide":false,
+  "website_name":""
+  });
+});
+</script> 
+  
+
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="nav-fixed fullcontent">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Paul Bürkner</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html">
+ <span class="menu-text">About me</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../research/index.html">
+ <span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../publications/index.html" aria-current="page">
+ <span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../software/index.html">
+ <span class="menu-text">Software</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/paul-buerkner"><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://scholar.google.com/citations?user=JSj6m1IAAAAJ&amp;hl"><i class="bi bi-google" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/paulbuerkner"><i class="bi bi-twitter" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://fosstodon.org/@paul_buerkner"><i class="bi bi-mastodon" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:paul.buerkner@gmail.com"><i class="bi bi-envelope" role="img" aria-label="email">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+              <div class="quarto-toggle-container">
+                  <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+              </div>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Publications</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<section id="preprints-in-review" class="level2">
+<h2 class="anchored" data-anchor-id="preprints-in-review">preprints in review</h2>
+<ul>
+<li><strong>Bürkner P. C.</strong>, Scholz M., &amp; Radev S. T. (in review). <a href="http://arxiv.org/abs/2209.02439">Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy</a>. <em>ArXiv preprint</em>.</li>
+<li><strong>Bürkner P. C.</strong>, Kröker I., Oladyshkin S., &amp; Nowak W. (in review). <a href="https://arxiv.org/abs/2204.06043">A fully Bayesian sparse polynomial chaos expansion approach with joint priors on the coefficients and global selection of terms</a>. <em>ArXiv preprint</em>.</li>
+<li>Aguilar J. E. &amp; <strong>Bürkner P. C.</strong> (in review). <a href="https://arxiv.org/abs/2208.07132">Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior</a>. <em>ArXiv preprint</em>.</li>
+<li>Scholz M. &amp; <strong>Bürkner P. C.</strong> (in review). <a href="https://arxiv.org/abs/2210.06927">Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models</a>. <em>ArXiv preprint</em>.</li>
+<li>Schmitt, M., <strong>Bürkner P. C.</strong>, Köthe U., &amp; Radev S. T. (in review). <a href="https://arxiv.org/abs/2112.08866">Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks</a>. <em>ArXiv preprint</em>.</li>
+<li>Modrák M., Moon A. H., Kim S., <strong>Bürkner P. C.</strong>, Huurre N., Faltejsková K., Gelman A., &amp; Vehtari A. (in review). <a href="https://arxiv.org/abs/2211.02383">Simulation-Based Calibration Checking for Bayesian Computation: The Choice of Test Quantities Shapes Sensitivity</a>. <em>ArXiv preprint</em>.</li>
+<li>Catalina A., <strong>Bürkner P. C.</strong>, &amp; Vehtari A. (in review). <a href="https://arxiv.org/abs/2109.04702">Latent space projection predictive inference</a>. <em>ArXiv preprint</em>.</li>
+<li>Kallioinen N., Paananen T., <strong>Bürkner P. C.</strong>, &amp; Vehtari A. (in review). <a href="https://arxiv.org/abs/2107.14054">Detecting and diagnosing prior and likelihood sensitivity with power-scaling</a>. <em>ArXiv preprint</em>.</li>
+<li>Schumacher L, <strong>Bürkner P. C.</strong>, Voss A., Köthe U., Radev S. T. (in review). <a href="https://arxiv.org/abs/2211.13165">Neural Superstatistics: A Bayesian Method for Estimating Dynamic Models of Cognition</a>. <em>ArXiv preprint</em>.</li>
+<li>Perini L., <strong>Bürkner P. C.</strong>, &amp; Klami A. (in review). <a href="http://arxiv.org/abs/2210.10487">Estimating the Contamination Factor’s Distribution in Unsupervised Anomaly Detection</a>. <em>ArXiv preprint</em>.</li>
+<li>Mikkola P., Martin O., Chandramouli S., …, <strong>Bürkner P. C.</strong>, &amp; Klami A. (in review). <a href="https://arxiv.org/abs/2112.01380">Prior knowledge elicitation: The past, present, and future</a>. <em>ArXiv preprint</em>.</li>
+<li>Lingel, H., <strong>Bürkner P. C.</strong>, Melchers, K. G., &amp; Schulte, N. (in review). <a href="https://psyarxiv.com/8rt3j">Measuring Personality When Stakes Are High: Are Graded Paired Comparisons a More Reliable Alternative to Traditional Forced-Choice Methods?</a>. <em>PsyArXiv preprint</em>.</li>
+<li>Schulte, N., Kaup, L., <strong>Bürkner, P. C.</strong>, &amp; Holling, H. (in review). <a href="https://psyarxiv.com/bs7he/">The Fakeability of Personality Measurement with Graded Paired Comparisons</a>. <em>PsyArXiv preprint</em>.</li>
+<li>Kołczyńska M. &amp; <strong>Bürkner P. C.</strong> (in review). <a href="https://osf.io/preprints/socarxiv/gauvx/">Modeling public opinion over time: A simulation study of latent trend models</a>. <em>SocArXiv preprint</em>.</li>
+<li>Kołczyńska M., <strong>Bürkner P. C.</strong>, Kennedy L., &amp; Vehtari A. (in review). <a href="https://osf.io/preprints/socarxiv/3v5g7/">Trust in state institutions in Europe, 1989-2019</a>. <em>SocArXiv preprint</em>.</li>
+<li>Kołczyńska M. &amp; <strong>Bürkner P. C.</strong> (in review). <a href="https://osf.io/preprints/socarxiv/79dth/">Political trust as a cause and consequence of democracy: Longitudinal analysis of European data</a>. <em>SocArXiv preprint</em>.</li>
+<li>Danböck, S. K., Franke, L. K., Miedl, S. F., Liedlgruber, M., <strong>Bürkner P. C.</strong>, &amp; Wilhelm, F. H. (in review). <a href="https://psyarxiv.com/tgc7m/">Aversive-Audiovisual and Painful-Electrical Stimulation Cause Peritraumatic Dissociation: A Functional Magnetic Resonance Imaging Study</a>. <em>PsyArXiv preprint</em>.</li>
+<li>Bolzenkötter, T., <strong>Bürkner P. C.</strong>, Zetsche, U., &amp; Schulze, L. (in review). <a href="https://psyarxiv.com/y4snz/">Assessing the short-term effects of detached mindfulness on repetitive negative thinking and affect: A randomized controlled trial in daily life</a>. <em>PsyArXiv preprint</em>.</li>
+<li>Nohr, L., <strong>Bürkner P. C.</strong>, Ruiz, A. L., Ferrer, J. E. S., Capponi, D., &amp; Buhlmann, U. (in review). <a href="https://psyarxiv.com/5tqwv/">Social and cultural determinants of help-seeking in Cuba and Germany – A structural equation model approach</a>. <em>PsyArXiv preprint</em>.</li>
+</ul>
+</section>
+<section id="accepted" class="level2">
+<h2 class="anchored" data-anchor-id="accepted">accepted</h2>
+<ul>
+<li>Schmitt, M., Radev, S. T., &amp; <strong>Bürkner P. C.</strong> (accepted). <a href="http://arxiv.org/abs/2210.07278">Meta-Uncertainty in Bayesian Model Comparison</a>. <em>Artificial Intelligence and Statistics (AISTATS) Conference Proceedings</em>.</li>
+<li>Rodriguez, J. E., Williams, D. R., &amp; <strong>Bürkner P. C.</strong> (accepted). <a href="https://psyarxiv.com/tqcka/">Heterogeneous Heterogeneity by Default: Testing Categorical Moderators in Random-effects Meta-Analysis</a>. <em>British Journal of Mathematical and Statistical Psychology</em>.</li>
+<li>Zetsche, U., <strong>Bürkner P. C.</strong>, Bohländer, J., Renneberg, B., Röpke, S., &amp; Schulze, L. (accepted). <a href="https://psyarxiv.com/6edcj/">Daily Emotion Regulation in Major Depression and Borderline Personality Disorder</a>. <em>Clinical Psychological Science</em>.</li>
+</ul>
+</section>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section">2023</h2>
+<ul>
+<li>Riutort-Mayol G., <strong>Bürkner P. C.</strong>, Andersen M. R., Solin A., &amp; Vehtari A. (2023). <a href="https://doi.org/10.1007/s11222-022-10167-2">Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming</a>. <em>Statistics and Computing</em>. doi:10.1007/s11222-022-10167-2 <a href="http://arxiv.org/abs/2004.11408">preprint</a></li>
+<li>Arslan, R. C., Blake, K., Botzet, L., <strong>Bürkner, P. C.</strong>, DeBruine, L. M., Fiers, T., …, &amp; Stern, J. (2023). <a href="https://doi.org/10.1016/j.psyneuen.2022.105994">Not within spitting distance: salivary immunoassays of estradiol have subpar validity for cycle phase</a>. <em>Psychoneuroendocrinology</em>. doi:10.1016/j.psyneuen.2022.105994 <a href="https://psyarxiv.com/5r8mg/">preprint</a></li>
+</ul>
+</section>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">2022</h2>
+<ul>
+<li><strong>Bürkner P. C.</strong> (2022). <a href="https://link.springer.com/article/10.1007/s11336-022-09843-z">On the information obtainable from comparative judgments</a>. <em>Psychometrika</em>. doi:10.1007/s11336-022-09843-z <a href="https://psyarxiv.com/j5efn/">preprint</a></li>
+<li>Säilynoja, T., <strong>Bürkner P. C.</strong>, &amp; Vehtari A. (2022). <a href="https://link.springer.com/article/10.1007/s11222-022-10090-6">Graphical Test for Discrete Uniformity and its Applications in Goodness of Fit Evaluation and Multiple Sample Comparison</a>. <em>Statistics and Computing</em>. doi:10.1007/s11222-022-10090-6 <a href="https://arxiv.org/abs/2103.10522">preprint</a></li>
+<li>Catalina A., <strong>Bürkner P. C.</strong>, &amp; Vehtari A. (2022). <a href="https://proceedings.mlr.press/v151/catalina22a/catalina22a.pdf">Projection Predictive Inference for Generalized Linear and Additive Multilevel Models</a>. <em>Artificial Intelligence and Statistics (AISTATS) Conference Proceedings</em>. <a href="https://arxiv.org/abs/2010.06994">preprint</a></li>
+<li>Pavone, F., Piironen, J., <strong>Bürkner P. C.</strong>, &amp; Vehtari A. (2022). <a href="https://link.springer.com/article/10.1007/s00180-022-01231-6">Using reference models in variable selection</a>. <em>Computational Statistics</em>. doi:10.1007/s00180-022-01231-6 <a href="https://arxiv.org/abs/2004.13118">preprint</a></li>
+<li>Schad D. J., Nicenboim B., <strong>Bürkner P. C.</strong>, Betancourt M., &amp; Vasishth S. (2022). <a href="https://doi.apa.org/doiLanding?doi=10.1037%2Fmet0000472">Workflow Techniques for the Robust Use of Bayes Factors</a>. <em>Psychological Methods</em>. doi:10.1037/met0000472 <a href="https://arxiv.org/abs/2103.08744">preprint</a></li>
+<li>Heck, D., Boehm, U., Böing-Messing, F., <strong>Bürkner P. C.</strong>, …, &amp; Hoijtink, H. (2022). <a href="https://psycnet.apa.org/record/2022-40577-001">A Review of Applications of the Bayes Factor in Psychological Research</a>. <em>Psychological Methods</em>. doi:10.1037/met0000454 <a href="https://psyarxiv.com/cu43g/">preprint</a></li>
+<li>Malén T., Karjalainen T., Isojärvi J., Vehtari A., <strong>Bürkner P. C.</strong>, …, &amp; Nummenmaa L. (2022). <a href="https://doi.org/10.1016/j.neuroimage.2022.119149">Age and sex dependent variability of type 2 dopamine receptors in the human brain: A large-scale PET cohort</a>. <em>NeuroImage</em>. doi:10.1016/j.neuroimage.2022.119149 <a href="https://www.biorxiv.org/content/10.1101/2021.08.10.455776v1">preprint</a></li>
+<li>Pluhackova K., Schittny V., <strong>Bürkner P. C.</strong>, Siligan C., &amp; Horner A. (2022). <a href="http://dx.doi.org/10.1002/pro.4431">Multiple Pore Lining Residues modulate Water Permeability of GlpF</a>. <em>Protein Science</em>. doi:10.1002/pro.4431</li>
+<li>George J. P., <strong>Bürkner P. C.</strong>, Sanders T., Neumann M., Cammalleri C., Vogt J., &amp; Lang M. (2022). <a href="https://onlinelibrary.wiley.com/doi/10.1111/plb.13469">Long-term forest monitoring unravels constant mortality rise in European forests</a>. <em>Plant Biology</em>.</li>
+<li>Seaton F. M., Robinson D. A., Monteith D., Lebron I., <strong>Bürkner P. C.</strong>, Tomlinson S., Emmett B. A., Smart S. M. (2022). <a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.14039">Fifty years of reduction in sulphur deposition drives recovery in soil pH and plant communities</a>. <em>Journal of Ecology</em>. doi:10.1111/1365-2745.14039 <a href="https://www.biorxiv.org/content/10.1101/2022.07.04.498654v1">preprint</a></li>
+<li>Franke, L. K., Miedl, S. F., Danböck, S. K., Lohse, J., Liedlgruber, M., <strong>Bürkner P. C.</strong>, Pletzer B., &amp; Wilhelm, F. H. (2022). <a href="https://doi.org/10.1016/j.psyneuen.2022.105819">Estradiol during (analogue-)trauma: risk- or protective factor for intrusive re-experiencing?</a>. <em>Psychoneuroendocrinology</em>. doi:10.1016/j.psyneuen.2022.105819 <a href="https://psyarxiv.com/6rk8c/">preprint</a></li>
+<li>Jordon M., Smith P., Long P., <strong>Bürkner P. C.</strong>, Petrokofsky G. &amp; Willis K. (2022). <a href="https://doi.org/10.1016/j.scitotenv.2022.153955">Can Regenerative Agriculture increase national soil carbon stocks? Simulated country-scale adoption of reduced tillage, cover cropping, and ley-arable integration using RothC-26.3</a>. <em>Science of the Total Environment</em>. doi:10.1016/j.scitotenv.2022.153955</li>
+<li>Jordon M., Willis K., <strong>Bürkner P. C.</strong>, &amp; Petrokofsky G. (2022). <a href="https://www.sciencedirect.com/science/article/pii/S0167880922002249">Rotational grazing and multispecies herbal leys increase productivity in temperate pastoral systems – a meta-analysis</a>. <em>Agriculture, Ecosystems &amp; Environment</em>. doi:10.1016/j.agee.2022.108075</li>
+<li>Jordon M., Willis K., <strong>Bürkner P. C.</strong>, Haddaway N., Smith P., &amp; Petrokofsky G. (2022). <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac8609/meta">Temperate Regenerative Agriculture; a win-win for soil carbon and crop yield?</a>. <em>Environmental Research Letters</em>. doi:10.1088/1748-9326/ac8609 <a href="https://www.researchsquare.com/article/rs-1064515/v1">preprint</a></li>
+<li>Nohe C., Hüffmeier J., <strong>Bürkner P. C.</strong>, Mazei J., Sondern D., Runte A., Sieber F., &amp; Hertel G. (2022). <a href="https://www.sciencedirect.com/science/article/pii/S0749597822000784">Unethical Choice in Negotiations: A Meta-Analysis on Gender Differences and Their Moderators</a>. <em>Organizational Behavior and Human Decision Processes</em>.</li>
+<li>Morina N., Seidemann J., Andor T., Sondern L., <strong>Bürkner P. C.</strong>, Drenckhan I., &amp; Buhlmann U. (2022). The effectiveness of cognitive behavioral therapy for social anxiety disorder in routine clinical practice. <em>Clinical Psychology &amp; Psychotherapy</em>.</li>
+<li>Teetzen, F., <strong>Bürkner P. C.</strong>, Gregersen, S., &amp; Vincent-Höper, S. (2022). <a href="https://www.mdpi.com/1660-4601/19/5/3133">The Mediating Effects of Work Characteristics on the Relationship between Transformational Leadership and Employee Well-Being: A Meta-Analytic Investigation</a>. <em>International Journal of Environmental Research and Public Health</em>. doi:10.3390/ijerph19053133</li>
+</ul>
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2021</h2>
+<ul>
+<li><strong>Bürkner P. C.</strong> (2021). <a href="https://www.jstatsoft.org/article/view/v100i05">Bayesian Item Response Modelling in R with brms and Stan</a>. <em>Journal of Statistical Software</em>. 100(5), 1–54. doi:10.18637/jss.v100.i05 <a href="https://arxiv.org/abs/1905.09501">preprint</a></li>
+<li>Vehtari A., Gelman A., Simpson D., Carpenter B., &amp; <strong>Bürkner P. C.</strong> (2021). <a href="https://projecteuclid.org/journalArticle/Download?urlid=10.1214%2F20-BA1221">Rank-normalization, folding, and localization: An improved Rhat for assessing convergence of MCMC (with discussion)</a>. <em>Bayesian Analysis</em>. 16(2), 667–718. doi:10.1214/20-BA1221 <a href="https://arxiv.org/abs/1903.08008">preprint</a></li>
+<li>Radev S. T., D’Alessandro M., Mertens U. K., Voss A., Köthe U., &amp; <strong>Bürkner P. C.</strong> (2021). <a href="https://ieeexplore.ieee.org/document/9612724">Amortized Bayesian Model Comparison with Evidental Deep Learning</a>. <em>IEEE Transactions on Neural Networks and Learning Systems</em>. doi:10.1109/TNNLS.2021.3124052 <a href="https://arxiv.org/abs/2004.10629">preprint</a></li>
+<li>Paananen T., Piironen, J., <strong>Bürkner P. C.</strong>, &amp; Vehtari A. (2021). <a href="https://link.springer.com/article/10.1007%2Fs11222-020-09982-2">Implicitly Adaptive Importance Sampling</a>. <em>Statistics and Computing</em>. <a href="http://arxiv.org/abs/1906.08850">preprint</a></li>
+<li>Williams, D. R., Rodriguez, J. E., &amp; <strong>Bürkner P. C.</strong> (2021). <a href="https://psyarxiv.com/9vkqy/">Putting Variation into Variance: Modeling Between-Study Heterogeneity in Meta-Analysis</a>. <em>PsyArXiv preprint</em>.</li>
+<li>Driebe, J. C., Sidari, M., Dufner, M., von der Heiden, J. M., <strong>Bürkner P. C.</strong>, Penke, L., Zietsch B. P., &amp; Arslan, R. C. (2021). <a href="https://authors.elsevier.com/a/1d9q53tz48x6C5">Intelligence can be detected but is not found attractive in videos and live interactions</a>. <em>Evolution and Human Behavior</em>. <a href="https://psyarxiv.com/qv3eh/">preprint</a></li>
+<li>Kołczyńska M. &amp; <strong>Bürkner P. C.</strong> (2021). <a href="https://www.tandfonline.com/doi/full/10.1080/2474736X.2021.1989984">Marketplace of indicators: Inconsistencies between country trends of measures of governance</a>. <em>Political Research Exchange</em>. 3(1), 1–17. <a href="https://osf.io/preprints/socarxiv/u8gsc/">preprint</a></li>
+<li>Modrák M., <strong>Bürkner P. C.</strong>, Sieger T., …, Leos-Barajas V., Fiser K., &amp; Hyanek T. (2021). <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245103">Detailed disease progression of 213 patients hospitalized with Covid-19 in the Czech Republic: An exploratory analysis</a>. <em>PLOS ONE</em>. doi:10.1371/journal.pone.0245103 <a href="https://www.medrxiv.org/content/10.1101/2020.12.03.20239863v1">preprint</a></li>
+<li>Franke, L. K., Rattel, J. A., Miedl, S. F., Danböck, S. K., <strong>Bürkner, P. C.</strong>, &amp; Wilhelm, F. H. (2021). <a href="https://doi.org/10.1016/j.brat.2021.103848">Intrusive memories as conditioned responses to trauma cues: an empirically supported concept?</a>. <em>Behaviour Research and Therapy</em>. <a href="https://psyarxiv.com/t5h97/">preprint</a></li>
+<li>Dietel F., Möllmann A., <strong>Bürkner P. C.</strong>, Wilhelm S., &amp; Buhlmann U. (2021). <a href="https://doi.org/10.1007/s10608-020-10180-7">Interpretation bias across body dysmorphic, social anxiety and generalized anxiety disorder – a multilevel, diffusion model account</a>. <em>Cognitive Therapy and Research</em>. doi:10.1007/s10608-020-10180-7 <a href="https://psyarxiv.com/3hnpu/">preprint</a></li>
+<li>Stecker J., <strong>Bürkner P. C.</strong>, Hellmann J., Nestler S., &amp; Back M. (2021). <a href="https://doi.org/10.1525/collabra.22160">First Impressions of Refugees are More Strongly Influenced by Target Cues and Perceiver Attitudes Than by Sheer Group Affiliation</a>. <em>Collabora: Psychology</em>. <a href="https://psyarxiv.com/wt6kr">preprint</a></li>
+<li>Reynolds J. &amp; <strong>Bürkner P. C.</strong> (2021). <a href="https://journals.sagepub.com/doi/full/10.1177/1088767920976191">Examining the Relationship Between Weapon Type and Relationship Type in American Homicides: A Bayesian Approach</a>. <em>Homicide Studies</em>. 25(4), 295–312. doi:10.1177/1088767920976191 <a href="https://psyarxiv.com/tf7je/">preprint</a></li>
+<li>Kuck, N., Cafitz, L., <strong>Bürkner, P. C.</strong>, Nosthoff-Horstmann, L., Wilhelm, S., &amp; Buhlmann, U. (2021). <a href="https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-021-03185-3">Body dysmorphic disorder and self-esteem: A meta-analysis</a>. <em>BMC Psychiatry</em>. 21(1), 1–16. doi:10.1186/s12888-021-03185-3 <a href="https://psyarxiv.com/5g32t/">preprint</a></li>
+<li>Hoppen L. M., Kuck N., <strong>Bürkner P. C.</strong>, Karin E., Wootton B. M., &amp; Buhlmann, U. (2021). <a href="https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-021-03272-5">Low intensity technology-delivered cognitive behavioral therapy for obsessive-compulsive disorder: A meta-analysis</a>. <em>BMC Psychiatry</em>. 21(1), 1–17. doi:10.1186/s12888-021-03272-5</li>
+<li>Winter, B. &amp; <strong>Bürkner P. C.</strong> (2021). <a href="http://dx.doi.org/10.1111/lnc3.12439">Poisson regression for linguists: A tutorial introduction to modeling count data with brms</a>. <em>Language and Linguistics Compass</em>. doi:10.1111/lnc3.12439 <a href="https://osf.io/93kaf/">preprint</a></li>
+</ul>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3">2020</h2>
+<ul>
+<li><strong>Bürkner P. C.</strong>, Gabry J., &amp; Vehtari A. (2020). <a href="https://doi.org/10.1080/00949655.2020.1783262">Approximate leave-future-out cross-validation for Bayesian time series models</a>. <em>Journal of Statistical Computation and Simulation</em>. 90(14), 2499–2523. doi:10.1080/00949655.2020.1783262 <a href="https://arxiv.org/abs/1902.06281">preprint</a></li>
+<li><strong>Bürkner P. C.</strong>, Gabry J., &amp; Vehtari A. (2020). <a href="https://link.springer.com/article/10.1007/s00180-020-01045-4">Efficient leave-one-out cross-validation for Bayesian non-factorized normal and Student-t models</a>. <em>Computational Statistics</em>. <a href="http://arxiv.org/abs/1810.10559">preprint</a></li>
+<li><strong>Bürkner P. C.</strong> &amp; Charpentier E. (2020). <a href="https://doi.org/10.1111/bmsp.12195">Modelling monotonic effects of ordinal predictors in Bayesian regression models</a>. <em>British Journal of Mathematical and Statistical Psychology</em>. doi:10.1111/bmsp.12195 <a href="https://psyarxiv.com/9qkhj/">preprint</a></li>
+<li><strong>Bürkner P. C.</strong> (2020). <a href="https://www.mdpi.com/2079-3200/8/1/5">Analysing Standard Progressive Matrics (SPM-LS) with Bayesian Item Response Models</a>. <em>Journal of Intelligence</em>. 8(1), 1–18. doi:10.3390/jintelligence8010005 <a href="https://psyarxiv.com/gn5hk">preprint</a></li>
+<li>Hartmann M., Agiashvili G., <strong>Bürkner P. C.</strong>, &amp; Klami A. (2020). <a href="http://www.auai.org/uai2020/proceedings/470_main_paper.pdf">Flexible Prior Elicitation via the Prior Predictive Distribution</a>. <em>Uncertainty in Artificial Intelligence (UAI) Conference Proceedings</em>. <a href="https://arxiv.org/abs/2002.09868">preprint</a></li>
+<li>Radev S. T., Wieschen E. M., Voss A., &amp; <strong>Bürkner P. C.</strong> (2020). <a href="https://iccm-conference.neocities.org/2020/papers/Contribution_230_final.pdf">Amortized Bayesian Inference for Models of Cognition</a>. <em>International Conference on Cognitive Modelling (ICCM) Conference Proceedings</em>. <a href="https://arxiv.org/abs/2005.03899">preprint</a></li>
+<li>Schulte N., Holling H., &amp; <strong>Bürkner P. C.</strong> (2020). <a href="https://journals.sagepub.com/doi/10.1177/0013164420934861">Can High-Dimensional Questionnaires Resolve the Ipsativity Issue of Forced-Choice Response Formats?</a>. <em>Educational and Psychological Measurement</em>. doi:10.1177/0013164420934861 <a href="https://psyarxiv.com/43uq8/">preprint</a></li>
+<li>Gelman A., Vehtari A., Simpson D., …, <strong>Bürkner P. C.</strong>, &amp; Modrák M. (2020). <a href="https://arxiv.org/abs/2011.01808">Bayesian Workflow</a>. <em>ArXiv preprint</em>.</li>
+<li>Paananen T., Catalina A., <strong>Bürkner P. C.</strong>, &amp; Vehtari A. (2020). <a href="http://arxiv.org/abs/2005.02773">Group Heterogeneity Assessment for Multilevel Models</a>. <em>ArXiv preprint</em>.</li>
+<li>Trempler, I., <strong>Bürkner P. C.</strong>, El-Sourani N., Binder E., Reker P., Fink G. R., &amp; Schubotz R. (2020). <a href="https://doi.org/10.1016/j.neuroimage.2020.116674">Impaired context-sensitive adjustment of behaviour in Parkinson’s disease patients tested on and off medication: an fMRI study</a>. <em>NeuroImage</em>. 212. 1–11. doi:10.1016/j.neuroimage.2020.116674</li>
+<li>Landmeyer N. C., <strong>Bürkner P. C.</strong>, Wiendl H., Ruck T., Hartung H. P., Holling H., Meuth S. G., &amp; Johnen A. (2020). <a href="https://doi.org/10.1212/WNL.0000000000009522">Disease-modifying treatments and cognition in relapsing-remitting multiple sclerosis: A meta-analysis</a>. <em>Neurology</em>. doi:10.1212/WNL.0000000000009522</li>
+<li>Dietel F., Zache C., <strong>Bürkner P. C.</strong>, Schulte J., Möbius M., Bischof A., Wilhelm S., &amp; Buhlmann U. (2020). <a href="http://dx.doi.org/10.1002/eat.23280">Internet-based Interpretation Bias Modification for body dissatisfaction: A three-armed randomized controlled trial</a>. <em>International Journal of Eating Disorders</em>. doi:10.1002/eat.23280 <a href="https://psyarxiv.com/y73rd/">preprint</a></li>
+<li>Deres T., <strong>Bürkner P. C.</strong>, Klauke B., &amp; Buhlmann U. (2020). <a href="https://doi.org/10.1002/cpp.2423">The Role of Stigma during the Course of Inpatient Psychotherapeutic Treatment in a German Sample</a>. <em>Clinical Psychology and Psychotherapy</em>. doi:10.1002/cpp.2423</li>
+<li>Busch, L., Utesch, T., <strong>Bürkner P. C.</strong>, &amp; Strauss, B. (2020). <a href="http://dx.doi.org/10.1123/jsep.2019-0315">A Daily Diary of the Quantified Self – The Influence of Fitness App Usage on Psychological Well-Being, Body Listening and Body Trusting</a>. <em>Journal of Sport &amp; Exercise Psychology</em>. doi:10.1123/jsep.2019-0315 <a href="https://psyarxiv.com/cd6t8/">preprint</a></li>
+<li>Williams D. R. &amp; <strong>Bürkner P. C.</strong> (2020). <a href="https://open.lnu.se/index.php/metapsychology/article/view/872">Coding errors lead to unsupported conclusions: A critique of Hofmann et al.&nbsp;(2015)</a>. <em>Meta-Psychology</em>. <a href="http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/"><em>Retraction Watch</em></a></li>
+<li>Hossiep R., Harnack, K., &amp; <strong>Bürkner P. C.</strong> (2020). <a href="https://psyarxiv.com/mkgxt">Goal setting in distributive and integrative negotiations: a meta-analysis</a>. <em>PsyArXiv preprint</em>.</li>
+</ul>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4">2019</h2>
+<ul>
+<li><strong>Bürkner P. C.</strong>, Schulte N., &amp; Holling H. (2019). <a href="https://journals.sagepub.com/doi/10.1177/0013164419832063">On the Statistical and Practical Limitations of Thurstonian IRT Models</a>. <em>Educational and Psychological Measurement</em>. 79(5), 827–854. doi:10.1177/0013164419832063 <a href="https://psyarxiv.com/dbwn8/">preprint</a></li>
+<li><strong>Bürkner P. C.</strong> &amp; Vuorre, M. (2019). <a href="https://journals.sagepub.com/doi/10.1177/2515245918823199">Ordinal Regression Models in Psychology: A Tutorial</a>. <em>Advances in Methods and Practices in Psychological Science</em>. 2(1), 77–101. doi:10.1177/2515245918823199 <a href="https://psyarxiv.com/x8swp/">preprint</a></li>
+<li><strong>Bürkner P. C.</strong> (2019). <a href="https://joss.theoj.org/papers/10.21105/joss.01662">thurstonianIRT: Thurstonian IRT Models in R</a>. <em>Journal of Open Source Software</em>. 1–2. doi:10.21105/joss.01662</li>
+<li>Chen G., <strong>Bürkner P. C.</strong>, Taylor P. A., Li Z., Yin L., Glen D. R., Kinnison J. K., Cox R. W., &amp; Pessoa L. (2019). <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24686">An Integrative Approach to Matrix-Based Analyses in Neuroimaging Connectomics</a>. <em>Human Brain Mapping</em>. 1–19. doi:10.1002/hbm.24686 <a href="https://www.biorxiv.org/content/early/2018/11/01/459545">preprint</a></li>
+<li>Nalborczyk, L., Batailler, C., Loevenbruck H., Vilain, A., &amp; <strong>Bürkner P. C.</strong> (2019). <a href="https://pubs.asha.org/doi/10.1044/2018_JSLHR-S-18-0006">An Introduction to Bayesian Multilevel Models Using brms: A Case Study of Gender Effects on Vowel Variability in Standard Indonesian</a>. <em>Journal of Speech, Language, and Hearing Research</em>. 62(5), 1225–1242. doi:10.1044/2018_JSLHR-S-18-0006 <a href="https://psyarxiv.com/guhsa/">preprint</a></li>
+<li>Zetsche, U., <strong>Bürkner P. C.</strong>, &amp; Renneberg, B. (2019). <a href="https://psycnet.apa.org/fulltext/2019-47129-001.html">Future expectations in clinical depression: biased or realistic?</a>. <em>Journal of Abnormal Psychology</em>. 128(7), 678–688. doi:10.1037/abn0000452 <a href="https://psyarxiv.com/w96k2/">preprint</a></li>
+<li>Nalborczyk, L., <strong>Bürkner P. C.</strong>, &amp; Williams D. (2019). <a href="https://www.collabra.org/articles/10.1525/collabra.197/">Pragmatism should not be a substitute for statistical literacy, a commentary on Albers, Kiers, and van Ravenzwaaij (2018)</a>. <em>Collabora: Psychology</em>. 5(1), 1–5. doi:10.1525/collabra.197 <a href="https://psyarxiv.com/fmtkj/">preprint</a></li>
+<li>Beisemann M., Forthmann B., <strong>Bürkner P. C.</strong>, &amp; Holling H. (2019). <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jocb.394">Psychometric Evaluation of an Alternate Scoring for the Remote Associates Test</a>. <em>The Journal of Creative Behavior</em>. 1–16. doi:10.1002/jocb.394</li>
+<li>Forthmann, B., <strong>Bürkner P. C.</strong>, Benedek, M., Szardenings, C., &amp; Holling, H. (2019). <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00985/full">A New Perspective on the Multidimensionality of Divergent Thinking Tasks</a>. <em>Frontiers in Psychology: Cognition</em>. 10, 1–9. doi:10.3389/fpsyg.2019.00985 <a href="https://psyarxiv.com/tvzs6/">preprint</a></li>
+<li>Schuler, B. A., Binnewies, C., &amp; <strong>Bürkner P. C.</strong> (2019). <a href="https://psyarxiv.com/xpf2v/">The Relationship Between Job Crafting, Work Engagement, and Performance: A Meta-Analysis</a>. <em>PsyArXiv preprint</em>.</li>
+</ul>
+</section>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5">2018</h2>
+<ul>
+<li><strong>Bürkner P. C.</strong>, Schwabe S., &amp; Holling H. (2018). <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/bmsp.12148">Optimal Designs for the Generalized Partial Credit Model</a>. <em>British Journal of Mathematical and Statistical Psychology</em>. 1–23. doi:10.1111/bmsp.12148 <a href="https://arxiv.org/abs/1803.06517">preprint</a></li>
+<li><strong>Bürkner P. C.</strong> (2018). <a href="https://journal.r-project.org/archive/2018/RJ-2018-017/index.html">Advanced Bayesian Multilevel Modeling with the R Package brms</a>. <em>The R Journal</em>. 10(1), 395–411. doi:10.32614/RJ-2018-017</li>
+<li>Johnen A., <strong>Bürkner P. C.</strong>, Landmeyer N. C., …, &amp; Salmen A. (2018). <a href="https://link.springer.com/article/10.1007/s00415-018-9142-y">Can we predict cognitive decline after initial diagnosis of multiple sclerosis? – Results from the German National early MS cohort (KKNMS)</a>. <em>Journal of Neurology</em>. 1–12. doi:10.1007/s00415-018-9142-y</li>
+<li>Quante L., Kluger S., <strong>Bürkner P. C.</strong>, Ekman M., &amp; Schubotz R. (2018). <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207119">Graph measures in task-based fMRI: functional integration during read-out of visual and auditory information</a>. <em>PLOS ONE</em>. 13(11), 1–18. doi:10.1371/journal.pone.0207119</li>
+<li>Zetsche U., <strong>Bürkner P. C.</strong>, &amp; Schulze L. (2018). <a href="https://www.sciencedirect.com/science/article/pii/S0272735817305421">Shedding light on the association between repetitive negative thinking and deficits in cognitive control – a meta-analysis</a>. <em>Clinical Psychology Review</em>. 36, 56–65. doi:10.1016/j.cpr.2018.06.001 <a href="https://psyarxiv.com/bz2ck/">preprint</a></li>
+<li>Rathgeber M., <strong>Bürkner P. C.</strong>, Schiller E. M., &amp; Holling H. (2018). <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jmft.12336">The Efficacy of Emotionally Focused Therapy and Behavioral Couples Therapy: A Meta-Analysis</a>. <em>Journal of Marital and Family Therapy</em>. 1–17. doi:10.1111/jmft.12336</li>
+<li>Schneider I., Kugel H., Redlich R., Grotegerd D., Bürger C., <strong>Bürkner P. C.</strong>, …, Dannlowski U., &amp; Hohoff C. (2018). <a href="https://www.nature.com/articles/npp2017273">Association of serotonin transporter gene AluJb methylation with major depression, amygdala responsiveness, 5-HTTLPR/rs25531 polymorphism, and stress</a>. <em>Neuropsychopharmacology</em>. 1–9. doi:10.1038/npp.2017.273</li>
+<li>Reinhold M., <strong>Bürkner P. C.</strong>, Holling H. (2018). <a href="http://onlinelibrary.wiley.com/doi/10.1111/cpsp.12224/abstract">Effects of Expressive Writing on Depressive Symptoms – A Meta-Analysis</a>. <em>Clinical Psychology: Science and Practice</em>. 25(1), 1–13. doi:10.1111/cpsp.12224</li>
+<li>Zhou T., Popescu S. C., Lawing A. M., Eriksson M., Strambu B., <strong>Bürkner P. C.</strong> (2018). <a href="http://www.mdpi.com/2072-4292/10/1/39">Bayesian and classical machine learning methods: A comparison for tree species classification with LiDAR waveform signatures</a>. <em>Remote Sensing</em>. 10(1), 1–27, doi:10.3390/rs10010039</li>
+<li>Schulze L., <strong>Bürkner P. C.</strong>, Bohländer J., &amp; Zetsche U. (2018). <a href="https://bmjopen.bmj.com/content/8/10/e022694">Cognitive control and daily affect regulation in major depression and borderline personality disorder: protocol for an experimental ambulatory assessment study in Berlin, Germany</a>. <em>BMJ Open</em>. doi:10.1136/bmjopen-2018-022694</li>
+<li>Arslan R. C., Willführ K. P., Frans E. M., Verweij K. J. H., <strong>Bürkner P. C.</strong>, Myrskylä M., Voland E., Almqvist C., Brendan P., Zietsch B. P., &amp; Penke L. (2018). <a href="http://rspb.royalsocietypublishing.org/content/285/1873/20180092">Relaxed selection and mutation accumulation are best studied empirically: Reply to a comment by Woodley et al.</a> <em>Proceedings of the Royal Society B</em>. 285(1873). 1–3. doi:10.1098/rspb.2018.0092</li>
+<li>Williams D. R., Rast P., &amp; <strong>Bürkner P. C.</strong> (2018). <a href="https://psyarxiv.com/7tbrm/">Bayesian Meta-Analysis with Weakly Informative Prior Distributions</a>. <em>PsyArXiv preprint</em>.</li>
+<li>Fleischer C., Doebler P., <strong>Bürkner P. C.</strong> &amp; Holling H. (2018). <a href="https://psyarxiv.com/c7y9a">Adventure therapy effects on self-concept – A meta-analysis</a>. <em>PsyArXiv preprint</em>.</li>
+</ul>
+<!--
+* **Bürkner, P. C.** (2018). Synthesizing Evidence. In *Diagnostic Meta-Analysis: A Useful Tool for Clinical Decision-Making* (pp. 115-124). Springer.
+* Doebler, P., **Bürkner, P. C.**, & Rücker, G. (2018). Statistical Packages for Diagnostic Meta-Analysis and Their Application. In *Diagnostic Meta-Analysis: A Useful Tool for Clinical Decision-Making* (pp. 161-181). Springer.
+-->
+</section>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6">2017</h2>
+<ul>
+<li><strong>Bürkner P. C.</strong> (2017). <a href="https://www.jstatsoft.org/article/view/v080i01">brms: An R Package for Bayesian Multilevel Models using Stan</a>. <em>Journal of Statistical Software</em>. 80(1), 1-28. doi:10.18637/jss.v080.i01</li>
+<li><strong>Bürkner P. C.</strong>, Williams D. R., Simmons T. C., &amp; Woolley J. D. (2017). <a href="https://academic.oup.com/schizophreniabulletin/article-abstract/doi/10.1093/schbul/sbx053/3861667/Intranasal-Oxytocin-May-Improve-High-Level-Social?redirectedFrom=fulltext">Intranasal oxytocin may improve high-level social cognition in schizophrenia, but not social cognition or neurocognition in general: A multi-level Bayesian meta-analysis</a>. <em>Schizophrenia Bulletin</em>. 43(6), 1291–1303. doi:10.1093/schbul/sbx053</li>
+<li><strong>Bürkner P. C.</strong>, Bittner N., Holling H., &amp; Buhlmann U. (2017). <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0173660">D-Cycloserine Augmentation of Behavior Therapy for Anxiety and Obsessive-Compulsive Disorders: A Meta-Analysis</a>. <em>PLOS ONE</em>. 12(3), 1–19. doi:10.1371/journal.pone.0173660</li>
+<li>Carlsson R., Schimmack U., Williams D. R., &amp; <strong>Bürkner P. C.</strong> (2017). <a href="http://journals.sagepub.com/eprint/9iwbZegivfVhDZqRk4Dy/full">Bayes Factors From Pooled Data Are No Substitute for Bayesian Meta-Analysis: Commentary on Scheibehenne, Jamil, and Wagenmakers (2016)</a>. <em>Psychological Science</em>. 28(11), 1694–1697. doi:10.1177/0956797616684682</li>
+<li>Arslan R. C., Willführ K. P., Frans E. M., Verweij K. J. H., <strong>Bürkner P. C.</strong>, Myrskylä M., Voland E., Almqvist C., Brendan P., Zietsch B. P., &amp; Penke L. (2017). <a href="http://rspb.royalsocietypublishing.org/content/royprsb/284/1862/20171562.full.pdf">Older fathers’ children have lower evolutionary fitness across four centuries and in four populations</a>. <em>Proceedings of the Royal Society B</em>. 284(1862), 1–9. doi:10.1098/rspb.2017.1562</li>
+<li>Johnen A., Landmeyer N. C., <strong>Bürkner P. C.</strong>, Wiendl H., Meuth S. G., &amp; Holling H. (2017). <a href="https://www.ncbi.nlm.nih.gov/pubmed/28890199">Distinct cognitive impairments in different disease courses of multiple sclerosis - A systematic review and meta-analysis</a>. <em>Neuroscience &amp; Biobehavioral Reviews</em>. 83, 568–578. doi:10.1016/j.neubiorev.2017.09.005</li>
+<li>Williams D. R., Carlsson R., &amp; <strong>Bürkner P. C.</strong> (2017). <a href="http://www.sciencedirect.com/science/article/pii/S0091302217300468">Between-litter variation in developmental studies of hormones and behavior: inflated false positives and diminished power</a>. <em>Frontiers in Neuroendocrinology</em>. 47, 154–166. doi:10.1016/j.yfrne.2017.08.003</li>
+<li>Williams D. R. &amp; <strong>Bürkner P. C.</strong> (2017). <a href="http://www.sciencedirect.com/science/article/pii/S0306453016302128">Effects of intranasal oxytocin on symptoms of schizophrenia: A multivariate Bayesian meta-analysis</a>. <em>Psychoneuroendocrinology</em>. 75, 141–151. doi:10.1016/j.psyneuen.2016.10.013</li>
+<li>Williams D. R. &amp; <strong>Bürkner P. C.</strong> (2017). <a href="http://onlinelibrary.wiley.com/doi/10.1111/bjc.12130/full">Data extraction and statistical errors: A quantitative critique of Gumley et al.&nbsp;(2014)</a>. <em>British Journal of Clinical Psychology</em>. 56(2), 208–211. doi:10.1111/bjc.12130</li>
+</ul>
+</section>
+<section id="section-7" class="level2">
+<h2 class="anchored" data-anchor-id="section-7">2016</h2>
+<ul>
+<li><strong>Bürkner P. C.</strong>, Doebler P., &amp; Holling H. (2016). <a href="http://onlinelibrary.wiley.com/doi/10.1002/bimj.201600022/full">Optimal design of the Wilcoxon-Mann-Whitney-test</a>. <em>Biometrical Journal</em>. 59(1), 25–40. doi:10.1002/bimj.201600022 <a href="https://arxiv.org/abs/2211.12556">preprint</a></li>
+<li>Benda N., <strong>Bürkner P. C.</strong>, Freise F., Holling H., &amp; Schwabe R. (2016). <a href="http://www.tandfonline.com/doi/abs/10.1080/15598608.2016.1213209">Adaptive Designs for Quantal Dose-Response Experiments with False Answers</a>. <em>Journal of Statistical Theory and Practice</em>. 11(3), 361–374. doi:10.1080/15598608.2016.1213209</li>
+</ul>
+</section>
+<section id="section-8" class="level2">
+<h2 class="anchored" data-anchor-id="section-8">2014</h2>
+<ul>
+<li><strong>Bürkner P. C.</strong> &amp; Doebler P. (2014). <a href="http://onlinelibrary.wiley.com/doi/10.1002/sim.6177/full">Testing for Publication Bias in Diagnostic Meta-Analysis: A Simulation Study</a>. <em>Statistics in Medicine</em>. 33(18), 3061–3077. doi:10.1002/sim.6177 <a href="https://arxiv.org/abs/2211.12538">preprint</a></li>
+</ul>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  let localAlternateSentinel = 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">Copyright 2023, Paul Bürkner</div>   
+      <div class="nav-footer-center"><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="../impressum/index.html">Impressum</a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+</body></html>
