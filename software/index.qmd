@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Software
-excerpt: "My open source software development"
+excerpt: "Open source software contributions"
 ---
 
-I am deeply involved in open source software development and you can find my major contributions below.
+Here you can find my major contribution to open source software development.
 
 Member of the [Stan Development Team](https://mc-stan.org/)
 
