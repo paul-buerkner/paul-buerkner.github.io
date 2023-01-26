@@ -12,7 +12,7 @@ Development team member of
 
 Lead author and maintainer of
 
-- **brms**: Bayesian Regression Models using Stan [Website](https://paul-buerkner.github.io/brms) [GitHub](https://github.com/paul-buerkner/brms) [Blog-Posts](../data/brms-blogposts.html)
+- **brms**: Bayesian Regression Models using Stan [Website](https://paul-buerkner.github.io/brms) [GitHub](https://github.com/paul-buerkner/brms) [Blog-Posts](../software/brms-blogposts.html)
 - **posterior**: Tools for Working with Posterior Distributions [GitHub](https://github.com/jgabry/posterior)
 - **thurstonianIRT**: Fit Thurstonian IRT models in R [GitHub](https://github.com/paul-buerkner/thurstonianIRT)
 
