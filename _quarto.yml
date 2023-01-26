@@ -19,7 +19,7 @@ website:
       - text: Research 
         href: research/index.qmd
       - text: Lab
-        href: Lab/index.qmd
+        href: lab/index.qmd
       - text: Projects
         href: projects/index.qmd
       - text: Publications
