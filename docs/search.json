@@ -1,24 +1,31 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Paul Bürkner",
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
     "section": "",
-    "text": "I am a statistician with a background in psychology and mathematics currently working as a Junior Research Group Leader for Bayesian Statistics at the Cluster of Excellence SimTech, University of Stuttgart. Soon, I will become Full Professor for Computational Statistics at the Department of Statistics, TU Dortmund University.\nI am interested in a wide range of research topics most of which involve the development, evaluation, implementation, or application of Bayesian methods methods. To learn more about my work, check out the links at the top. For a more complete overview, please see my CV."
+    "text": "This page is under construction."
   },
   {
-    "objectID": "index.html#current-main-research-interests",
-    "href": "index.html#current-main-research-interests",
-    "title": "About me",
-    "section": "Current Main Research Interests",
-    "text": "Current Main Research Interests\n\nBayesian Statistics\nBayesian Workflow\nUncertainty Quantification\nSimulation-Based Inference\nPrior Specification\nModel Comparison\nMultilevel Modeling"
+    "objectID": "research/index.html#main-research-interests",
+    "href": "research/index.html#main-research-interests",
+    "title": "Research",
+    "section": "Main Research Interests",
+    "text": "Main Research Interests\n\nBayesian Statistics\nBayesian Workflow\nUncertainty Quantification\nSimulation-Based Inference\nPrior Specification\nModel Comparison\nMultilevel Modeling"
   },
   {
-    "objectID": "index.html#open-source-software-development",
-    "href": "index.html#open-source-software-development",
-    "title": "About me",
-    "section": "Open Source Software Development",
-    "text": "Open Source Software Development\nMember of the Stan Development Team\nLead Author and Maintainer of\n\nbrms: Bayesian Regression Models using Stan Website GitHub Blog-Posts\nposterior: Tools for Working with Posterior Distributions GitHub\nthurstonianIRT: Fit Thurstonian IRT models in R GitHub\n\nAuthor of\n\nposteriordb: A database of Bayesian posterior inference GitHub\nloo: Approximate leave-one-out cross-validation Website GitHub\nbayesian: An Interface from brms to tidymodels Website GitHub\n\nContributed to\n\nBayesflow: A Python library for simulation-based Bayesian inference GitHub\nrstan: R Interface to Stan Website GitHub\nbayesplot: Plotting Bayesian models Website GitHub\nprojpred: Projection predictive variable selection Website GitHub\nemmeans: Estimating marginal means GitHub"
+    "objectID": "research/index.html#research-group",
+    "href": "research/index.html#research-group",
+    "title": "Research",
+    "section": "Research Group",
+    "text": "Research Group"
+  },
+  {
+    "objectID": "research/index.html#projects",
+    "href": "research/index.html#projects",
+    "title": "Research",
+    "section": "Projects",
+    "text": "Projects"
   },
   {
     "objectID": "publications/index.html",
@@ -98,25 +105,18 @@
     "text": "2014\n\nBürkner P. C. & Doebler P. (2014). Testing for Publication Bias in Diagnostic Meta-Analysis: A Simulation Study. Statistics in Medicine. 33(18), 3061–3077. doi:10.1002/sim.6177 preprint"
   },
   {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "About me",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Paul Bürkner",
     "section": "",
-    "text": "I am a statistician currently working as a Junior Research Group Leader for Bayesian Statistics at the Cluster of Excellence SimTech, University of Stuttgart. I am interested in a wide range of research topics most of which involve the development, evaluation, implementation, or application of Bayesian methods. See here for an overview of my scientific publications. You can also find me on GoogleScholar. I am deeply involved in open source software development and you can find my major contributions below. Originally, I have studied Psychology and Mathematics at the Universities of Münster and Hagen and did my PhD in Münster on Optimal Design and Bayesian Data Analysis. Before starting my own research group in Stuttgart, I have worked as a postdoctoral researcher at the Department of Computer Science, Aalto University.\nSee here for my complete CV."
+    "text": "I am a statistician with a background in psychology and mathematics currently working as a Junior Research Group Leader for Bayesian Statistics at the Cluster of Excellence SimTech, University of Stuttgart. Soon, I will become Full Professor for Computational Statistics at the Department of Statistics, TU Dortmund University.\nI am interested in a wide range of research topics most of which involve the development, evaluation, implementation, or application of Bayesian methods methods. To learn more about my work, check out the links at the top. For a complete overview, please see my CV."
   },
   {
-    "objectID": "about/index.html#current-main-research-interests",
-    "href": "about/index.html#current-main-research-interests",
-    "title": "About me",
-    "section": "Current Main Research Interests",
-    "text": "Current Main Research Interests\n\nBayesian Statistics\nBayesian Workflow\nPrior Specification\nUncertainty Quantification\nSimulation-Based Inference\nModel Comparison\nMultilevel Modeling"
-  },
-  {
-    "objectID": "about/index.html#open-source-software-development",
-    "href": "about/index.html#open-source-software-development",
-    "title": "About me",
-    "section": "Open Source Software Development",
-    "text": "Open Source Software Development\nMember of the Stan Development Team\nLead Author and Maintainer of\n\nbrms: Bayesian Regression Models using Stan Website GitHub\nposterior: Tools for Working with Posterior Distributions GitHub\nthurstonianIRT: Fit Thurstonian IRT models in R GitHub\n\nAuthor of\n\nposteriordb: A database of Bayesian posterior inference GitHub\nloo: Approximate leave-one-out cross-validation Website GitHub\nbayesian: An Interface from brms to tidymodels Website GitHub\n\nContributed to\n\nrstan: R Interface to Stan Website GitHub\nbayesplot: Plotting Bayesian models Website GitHub\nprojpred: Projection predictive variable selection Website GitHub\nemmeans: Estimating marginal means GitHub\nBayesflow: A Python library for simulation-based Bayesian inference GitHub"
+    "objectID": "software/index.html",
+    "href": "software/index.html",
+    "title": "Software",
+    "section": "",
+    "text": "Here you can find my major contributions to open source software.\nDevelopment team member of\n\nStan: A probabilistic programming language Website\n\nLead author and maintainer of\n\nbrms: Bayesian Regression Models using Stan Website GitHub Blog-Posts\nposterior: Tools for Working with Posterior Distributions GitHub\nthurstonianIRT: Fit Thurstonian IRT models in R GitHub\n\nAuthor of\n\nposteriordb: A database of Bayesian posterior inference GitHub\nloo: Approximate leave-one-out cross-validation Website GitHub\nbayesian: An Interface from brms to tidymodels Website GitHub\n\nContributed to\n\nBayesflow: A Python library for simulation-based Bayesian inference GitHub\nrstan: R Interface to Stan Website GitHub\nbayesplot: Plotting Bayesian models Website GitHub\nprojpred: Projection predictive variable selection Website GitHub\nemmeans: Estimating marginal means GitHub"
   },
   {
     "objectID": "impressum/index.html",
@@ -138,47 +138,5 @@
     "title": "A list of blog posts about brms",
     "section": "List of blog posts",
     "text": "List of blog posts\n\nWhat Explains Union Density? A Replication of an Old Article with the brms Package by Steven Miller.\nBayesian power analysis: Part I. Prepare to reject H0 with simulation by Solomon Kurz\nUtility Theory for Dummies: An R Tutorial by Jonas Kristoffer Lindelov\nHow to analyze visual analog (slider) scale data? by Matti Vuorre\nStatistical Rethinking with brms, ggplot2, and the tidyverse by Solomon Kurz\nDiffusion/Wiener Model Analysis with brms – Part III: Hypothesis Tests of Parameter Estimates by Henrik Singmann\nEstimating treatment effects and ICCs from (G)LMMs on the observed scale using Bayes, Part 1: lognormal models by Kristoffer Magnusson\nExtracting and visualizing tidy draws from brms models by Matthew Kay\nUse domain knowledge to review prior distributions by Markus Gesmann\nHierarchical loss reserving with growth curves using brms by Markus Gesmann\nA series of tutorials how to run the brms package by Rens van de Schoot\nModels are about what changes, and what doesn’t by Markus Gesmann\nR functions for Bayesian Model Statistics and Summaries #rstats #stan #brms by Daniel Lüdecke\nFitting GAMs with brms: part 1 a simple GAM by Gavin Simpson\nMixed effects models: Is it time to go Bayesian by default? by Michael Frank\nEasily made fitted and predicted values made easy by Andrew MacDonald\nHow to compute Bayes factors using lm, lmer, BayesFactor, brms, and JAGS/stan/pymc3 by Jonas Kristoffer Lindelov\nConfounded dose-response effects of treatment adherence: fitting Bayesian instrumental variable models using brms by Kristoffer Magnusson\nMRP Using brms and tidybayes by Tim Mastny\nPK/PD reserving models by Markus Gesmann\nHierarchical compartmental reserving models by Markus Gesmann\nDiffusion/Wiener Model Analysis with brms – Part II: Model Diagnostics and Model Fit by Henrik Singmann\nBayesian SEM with brms by Jarrett Byrnes\nDiffusion/Wiener Model Analysis with brms – Part I: Introduction and Estimation by Henrik Singmann\nBayesian Decision Theory Made Ridiculously Simple by Justin Silverman\nBayesian Estimation of Signal Detection Models, Part 4 by Matti Vuorre\nBayesian Estimation of Signal Detection Models, Part 3 by Matti Vuorre\nBayesian Estimation of Signal Detection Models, Part 2 by Matti Vuorre\nBayesian Estimation of Signal Detection Models, Part 1 by Matti Vuorre\nThree methods for computing the intra-class correlation in multilevel logistic regression by Ladislas Nalborczyk\nMore support for Bayesian analysis in the sj!-packages #rstats #rstan #brms by Daniel Luedecke\nR packages interfacing with Stan: brms posted on Andrew Gelmans blog\nBayesian mixed effects (aka multi-level) ordinal regression models with brms by Kevin Stadler\nBayes factors with brms by Matti Vuorre\nHow to Compare Two Groups with Robust Bayesian Estimation Using R, Stan and brms by Matti Vuorre\nBetter forest plots from meta-analytic models estimated with brms by Matti Vuorre\nMeta-analysis is a special case of Bayesian multilevel modeling by Matti Vuorre\nbrms continuous its streak by Wayne Folta\nbrms 0.8 adds non-linear regression by Wayne Folta\nR Users Will Now Inevitably Become Bayesians by Wayne Folta\nBayesian regression models using Stan in R by Markus Gesmann"
-  },
-  {
-    "objectID": "software/index.html",
-    "href": "software/index.html",
-    "title": "Software",
-    "section": "",
-    "text": "Here you can find my major contributions to open source software.\nDevelopment team member of\n\nStan: A probabilistic programming language Website\n\nLead author and maintainer of\n\nbrms: Bayesian Regression Models using Stan Website GitHub Blog-Posts\nposterior: Tools for Working with Posterior Distributions GitHub\nthurstonianIRT: Fit Thurstonian IRT models in R GitHub\n\nAuthor of\n\nposteriordb: A database of Bayesian posterior inference GitHub\nloo: Approximate leave-one-out cross-validation Website GitHub\nbayesian: An Interface from brms to tidymodels Website GitHub\n\nContributed to\n\nBayesflow: A Python library for simulation-based Bayesian inference GitHub\nrstan: R Interface to Stan Website GitHub\nbayesplot: Plotting Bayesian models Website GitHub\nprojpred: Projection predictive variable selection Website GitHub\nemmeans: Estimating marginal means GitHub"
-  },
-  {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
-    "section": "",
-    "text": "This page is under construction."
-  },
-  {
-    "objectID": "research/index.html#research-group",
-    "href": "research/index.html#research-group",
-    "title": "Research",
-    "section": "Research Group",
-    "text": "Research Group"
-  },
-  {
-    "objectID": "research/index.html#current-projects",
-    "href": "research/index.html#current-projects",
-    "title": "Research",
-    "section": "Current Projects",
-    "text": "Current Projects"
-  },
-  {
-    "objectID": "research/index.html#main-research-interests",
-    "href": "research/index.html#main-research-interests",
-    "title": "Research",
-    "section": "Main Research Interests",
-    "text": "Main Research Interests\n\nBayesian Statistics\nBayesian Workflow\nUncertainty Quantification\nSimulation-Based Inference\nPrior Specification\nModel Comparison\nMultilevel Modeling"
-  },
-  {
-    "objectID": "research/index.html#projects",
-    "href": "research/index.html#projects",
-    "title": "Research",
-    "section": "Projects",
-    "text": "Projects"
   }
 ]

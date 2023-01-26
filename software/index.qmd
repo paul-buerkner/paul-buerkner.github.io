@@ -8,7 +8,7 @@ Here you can find my major contributions to open source software.
 
 Development team member of 
 
-- **Stan**: A probabilistic programming language [Website](mc-stan.org/)
+- **Stan**: A probabilistic programming language [Website](https://mc-stan.org/)
 
 Lead author and maintainer of
 
