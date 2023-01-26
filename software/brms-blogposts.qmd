@@ -2,7 +2,7 @@
 title: "A list of blog posts about brms"
 ---
 
-Since its foundation, several people have blogged about my R package **brms**, which allows to fit Bayesian multilevel models using Stan. This list is intended to provide links to those blog posts. I have not actively curated it in the past couple of years, but I hope it is still useful. 
+Since its foundation, several people have blogged about my R package **brms**, which allows to fit Bayesian multilevel models using Stan. This list is intended to provide links to those blog posts. I have not actively maintained it in the past couple of years, but I hope it is still useful. 
 
 ## List of blog posts
 

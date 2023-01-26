@@ -109,14 +109,14 @@
     "href": "index.html",
     "title": "Paul Bürkner",
     "section": "",
-    "text": "I am a statistician with a background in psychology and mathematics currently working as a Junior Research Group Leader for Bayesian Statistics at the Cluster of Excellence SimTech, University of Stuttgart. Soon, I will become Full Professor for Computational Statistics at the Department of Statistics, TU Dortmund University.\nI am interested in a wide range of research topics most of which involve the development, evaluation, implementation, or application of Bayesian methods. To learn more about my work, check out the links at the top."
+    "text": "I am a statistician with a background in psychology and mathematics currently working as a Junior Research Group Leader for Bayesian Statistics at the Cluster of Excellence SimTech, University of Stuttgart. Soon, I will become Full Professor for Computational Statistics at the Department of Statistics, TU Dortmund University.\nI work on a wide range of research topics most of which involve the development, evaluation, implementation, or application of Bayesian methods. To learn more about my work, check out the links at the top."
   },
   {
     "objectID": "software/brms-blogposts.html",
     "href": "software/brms-blogposts.html",
     "title": "A list of blog posts about brms",
     "section": "",
-    "text": "Since its foundation, several people have blogged about my R package brms, which allows to fit Bayesian multilevel models using Stan. This list is intended to provide links to those blog posts. I have not actively curated it in the past couple of years, but I hope it is still useful."
+    "text": "Since its foundation, several people have blogged about my R package brms, which allows to fit Bayesian multilevel models using Stan. This list is intended to provide links to those blog posts. I have not actively maintained it in the past couple of years, but I hope it is still useful."
   },
   {
     "objectID": "software/brms-blogposts.html#list-of-blog-posts",
