@@ -14,12 +14,17 @@ website:
     background: primary
     pinned: true
     left:
-      - href: index.qmd
-        text: About me
+      - text: About
+        href: index.qmd
       - research/index.qmd
       - publications/index.qmd
       - software/index.qmd
+      - text: CV
+        href: cv/index.qmd
     right:
+    - icon: envelope
+      aria-label: email
+      href: "mailto:paul.buerkner@gmail.com"
     - icon: github
       href: https://github.com/paul-buerkner
     - icon: google
@@ -28,9 +33,6 @@ website:
       href: https://twitter.com/paulbuerkner
     - icon: mastodon
       href: https://fosstodon.org/@paul_buerkner
-    - icon: envelope
-      aria-label: email
-      href: "mailto:paul.buerkner@gmail.com"
   page-footer: 
     left: "Copyright 2023, Paul Bürkner" 
     right: 
