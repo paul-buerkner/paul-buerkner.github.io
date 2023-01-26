@@ -4,28 +4,42 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "This page is under construction."
+    "text": "Probabilistic (Bayesian) approaches to statistics and machine learning have become increasingly popular in recent years due to new developments in probabilistic programming languages and associated learning algorithms as well as a steady increase in overall computing power. Probabilistic programming languages make it easier to specify and fit Bayesian models, but this still leaves us with many options regarding constructing, evaluating, and using these models, along with many remaining challenges in computation. My overarching scientific goal for the upcoming years is to develop a principled Bayesian workflow for data analysis that comprises the whole scientific process from design of studies, data gathering and cleaning over model building, calibration, fitting and evaluation, to the post-processing and statistical decision making. As such, we are working on a wide range of research topics related to the development, evaluation, implementation, or application of Bayesian methods. Some of my current core research areas are detailed below."
   },
   {
-    "objectID": "research/index.html#main-research-interests",
-    "href": "research/index.html#main-research-interests",
+    "objectID": "research/index.html#uncertainty-quantification",
+    "href": "research/index.html#uncertainty-quantification",
     "title": "Research",
-    "section": "Main Research Interests",
-    "text": "Main Research Interests\n\nBayesian Statistics\nBayesian Workflow\nUncertainty Quantification\nSimulation-Based Inference\nPrior Specification\nModel Comparison\nMultilevel Modeling"
+    "section": "Uncertainty Quantification",
+    "text": "Uncertainty Quantification\nIn experiments and observational studies, scientists gather data to learn more about the world. However, what we can learn from a single data set is always limited, and we are inevitably left with some remaining uncertainty. It is of high importance to take this uncertainty into account when drawing conclusions if we want to make real scientific progress. Formalizing and quantifying uncertainty is thus at the heart of statistical methods aiming to obtain insights from data. In my lab, all projects, in one way or the other, deal with uncertainty quantification and propagation, primarily through sampling-based methods."
   },
   {
-    "objectID": "research/index.html#research-group",
-    "href": "research/index.html#research-group",
+    "objectID": "research/index.html#prior-specification",
+    "href": "research/index.html#prior-specification",
     "title": "Research",
-    "section": "Research Group",
-    "text": "Research Group"
+    "section": "Prior Specification",
+    "text": "Prior Specification\nSpecification of prior distributions for a Bayesian model is a central part of the Bayesian workflow for data analysis, but it is often difficult even for statistical experts. Prior elicitation transforms domain knowledge of various kinds into well-defined prior distributions, and offers a solution to the prior specification problem, in principle. In practice, however, we are still far from having usable prior elicitation tools that could significantly influence the way we build probabilistic models especially for high-dimensional problems. We are approaching this challenge from two perspectives, (a) by developing intuitive joint prior distributions that yield sensible prior predictions even in high-dimensional spaces and (b) by building prior elicitation tools that transform expert knowledge in the data space into prior distributions on the model parameters that are consistent with that knowledge while satisfying additional probabilistic constraints."
   },
   {
-    "objectID": "research/index.html#projects",
-    "href": "research/index.html#projects",
+    "objectID": "research/index.html#simulation-based-inference",
+    "href": "research/index.html#simulation-based-inference",
     "title": "Research",
-    "section": "Projects",
-    "text": "Projects"
+    "section": "Simulation-Based Inference",
+    "text": "Simulation-Based Inference\nFor complex physical or cognitive models, the data generating process cannot be fully expressed analytically. Rather, we only have access to a simulator that generates data from said process and we thus must rely on Simulation-based inference for learning about such models from data. Neural density estimators have proven remarkably powerful in performing efficient simulation-based Bayesian inference in various research domains. However, there remain several open challenges regarding their accuracy, scalability, and robustness of these methods, challenges that my lab aims to solve in the upcoming years."
+  },
+  {
+    "objectID": "research/index.html#model-comparison",
+    "href": "research/index.html#model-comparison",
+    "title": "Research",
+    "section": "Model Comparison",
+    "text": "Model Comparison\nNumerous research questions in basic science are concerned with comparing multiple scientific theories to understand which of them is more likely to be true, or at least closer to the truth. To compare these theories, scientists translate them into statistical models and then investigate how well the models’ predictions match the gathered real-world data. Even if the goal is purely predictive, model comparison is very important for predictive model selection or averaging. In my lab, we are exploring Bayesian model comparison approaches from both theory-driven and predictive perspectives and even seek to find ways to combine both perspectives."
+  },
+  {
+    "objectID": "research/index.html#maschine-assisted-bayesian-workflow",
+    "href": "research/index.html#maschine-assisted-bayesian-workflow",
+    "title": "Research",
+    "section": "Maschine-Assisted Bayesian Workflow",
+    "text": "Maschine-Assisted Bayesian Workflow\nBuilding Bayesian models in a principled way remains a highly complex task requiring a lot of expertise and cognitive resources. Ideally, subject matter experts do not have to solve everything by themselves but have statisticians or data scientists by their side to assist them. Of course, the latter are not always available for every data-analysis project. As a remedy we are developing a machine-assisted workflow for building interpretable, robust, and well-predicting Bayesian models. This first requires more research on the theoretical foundations of Bayesian model building. With this in hand, machines will be trained to provide automatic model evaluation and modeling recommendations that guide the user through the model building process. While leaving the modeling choices up to the user, the machine subsequently learns from the user’s decisions to improve its recommendations on the fly."
   },
   {
     "objectID": "publications/index.html",
@@ -105,11 +119,25 @@
     "text": "2014\n\nBürkner P. C. & Doebler P. (2014). Testing for Publication Bias in Diagnostic Meta-Analysis: A Simulation Study. Statistics in Medicine. 33(18), 3061–3077. doi:10.1002/sim.6177 preprint"
   },
   {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Research Projects",
+    "section": "",
+    "text": "This page is under construction."
+  },
+  {
+    "objectID": "lab/index.html",
+    "href": "lab/index.html",
+    "title": "Lab Members",
+    "section": "",
+    "text": "This page is under construction."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Paul Bürkner",
     "section": "",
-    "text": "I am a statistician with a background in psychology and mathematics currently working as a Junior Research Group Leader for Bayesian Statistics at the Cluster of Excellence SimTech, University of Stuttgart. Soon, I will become Full Professor for Computational Statistics at the Department of Statistics, TU Dortmund University.\nI work on a wide range of research topics most of which involve the development, evaluation, implementation, or application of Bayesian methods. To learn more about my work, check out the links at the top."
+    "text": "I am a statistician with a focus on probabilistic (Bayesian) methods currently working as a Junior Research Group Leader for Bayesian Statistics at the Cluster of Excellence SimTech, University of Stuttgart. Soon, I will become Full Professor for Computational Statistics at the Department of Statistics, TU Dortmund University. Having originally studied psychology and mathematics, my core research is nowadays located somewhere between statistics and machine learning, with applications in almost all quantitative sciences.\nThe Bayesian approach to data analysis provides a powerful way to handle uncertainty in all observations, model parameters, and model structure using probability theory. Thus, it should not come as a surprise that Bayesian methods are increasingly used in statistical and computational inference in both science and industry. Probabilistic programming languages make it easier to specify and fit Bayesian models, but this still leaves us with many options regarding constructing, evaluating, and using these models, along with many remaining challenges in computation. In my lab, we are working on a wide range of research topics related to the development, evaluation, implementation, or application of Bayesian methods. This includes, among others, uncertainty quantification, prior specification, simulation-based inference, as well as model evaluation and comparison. If you are a scientist who wants to collaborate with me or a student who wants to write their thesis on some of the above topics, please reach out to me!"
   },
   {
     "objectID": "software/brms-blogposts.html",

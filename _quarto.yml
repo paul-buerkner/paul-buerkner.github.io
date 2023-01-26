@@ -14,11 +14,18 @@ website:
     background: primary
     pinned: true
     left:
-      - text: About
-        href: index.qmd
-      - research/index.qmd
-      - publications/index.qmd
-      - software/index.qmd
+      # - text: About
+      #   href: index.qmd
+      - text: Research 
+        href: research/index.qmd
+      - text: Lab
+        href: Lab/index.qmd
+      - text: Projects
+        href: projects/index.qmd
+      - text: Publications
+        href: publications/index.qmd
+      - text: Software
+        href: software/index.qmd
       - text: CV
         href: cv/index.qmd
     right:
