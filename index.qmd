@@ -10,6 +10,8 @@ format:
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-3}
+<br /> 
+<br /> 
 ![](images/paul-buerkner-small-round.png){fig-alt="A portrait of the website author, Paul Bürkner."}
 :::
 
