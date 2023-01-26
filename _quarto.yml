@@ -5,7 +5,7 @@ project:
 website:
   title: "Paul Bürkner"
   image: images/paul-buerkner-small.png
-  cookie-consent: true
+  # cookie-consent: true
   search: 
     location: navbar
     type: textbox
