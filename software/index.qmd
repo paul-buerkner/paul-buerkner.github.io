@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Software
+title: Open Source Software
 excerpt: "Open source software contributions"
 ---
 
-Here you can find my major contributions to open source software.
+In addition to doing research and managing a lab, I am deeply involved in 
+open source software development. You can find my major contributions below.
 
 Development team member of 
 

@@ -17,11 +17,15 @@ format:
 ::: {.g-col-12 .g-col-md-9}
 ## What I Do
 
+<!-- TODO: add more internal and external links -->
+
 I am a statistician with a focus on probabilistic (Bayesian) methods currently working as a Junior Research Group Leader for Bayesian Statistics at the Cluster of Excellence SimTech, University of Stuttgart. Soon, I will become Full Professor for Computational Statistics at the Department of Statistics, TU Dortmund University. Having originally studied psychology and mathematics, my core research is nowadays located somewhere between statistics and machine learning, with applications in almost all quantitative sciences.
 
 :::
 :::
 
-The Bayesian approach to data analysis provides a powerful way to handle uncertainty in all observations, model parameters, and model structure using probability theory. Thus, it should not come as a surprise that Bayesian methods are increasingly used in statistical and computational inference in both science and industry. Probabilistic programming languages make it easier to specify and fit Bayesian models, but this still leaves us with many options regarding constructing, evaluating, and using these models, along with many remaining challenges in computation. In [my lab](../lab), we are working on a wide range of [research topics](../research/) related to the development, evaluation, implementation, or application of Bayesian methods. This includes, among others, uncertainty quantification, prior specification, simulation-based inference, as well as model evaluation and comparison. If you are a scientist who wants to collaborate with me or a student who wants to write their thesis on some of the above topics, please reach out to me! 
+The Bayesian approach to data analysis provides a powerful way to handle uncertainty in all observations, model parameters, and model structure using probability theory. Thus, it should not come as a surprise that Bayesian methods are increasingly used in statistical and computational inference in both science and industry. Probabilistic programming languages make it easier to specify and fit Bayesian models, but this still leaves us with many options regarding constructing, evaluating, and using these models, along with many remaining challenges in computation. In [my lab](../lab), we are working on a wide range of [research topics](../research/) related to the development, evaluation, implementation, or application of Bayesian methods. This includes, among others, uncertainty quantification, prior specification, simulation-based inference, as well as model evaluation and comparison. 
+
+If you are a scientist who wants to collaborate with me, a PhD or PostDoc candidate interested in my research, or a student looking for a thesis topic, please [reach out to me](mailto:paul.buerkner@gmail.com)! 
 
 <!-- TODO: include a paragraph about brms? -->

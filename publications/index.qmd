@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Publications
-excerpt: "A list of my publications"
+title: Scientific Publications
+excerpt: "A list of my scientific publications"
 ---
 
-## preprints in review
+## Preprints in Review
 
 -   **Bürkner P. C.**, Scholz M., & Radev S. T. (in review). [Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy](http://arxiv.org/abs/2209.02439). *ArXiv preprint*.
 -   **Bürkner P. C.**, Kröker I., Oladyshkin S., & Nowak W. (in review). [A fully Bayesian sparse polynomial chaos expansion approach with joint priors on the coefficients and global selection of terms](https://arxiv.org/abs/2204.06043). *ArXiv preprint*.
@@ -26,7 +26,7 @@ excerpt: "A list of my publications"
 -   Bolzenkötter, T., **Bürkner P. C.**, Zetsche, U., & Schulze, L. (in review). [Assessing the short-term effects of detached mindfulness on repetitive negative thinking and affect: A randomized controlled trial in daily life](https://psyarxiv.com/y4snz/). *PsyArXiv preprint*.
 -   Nohr, L., **Bürkner P. C.**, Ruiz, A. L., Ferrer, J. E. S., Capponi, D., & Buhlmann, U. (in review). [Social and cultural determinants of help-seeking in Cuba and Germany -- A structural equation model approach](https://psyarxiv.com/5tqwv/). *PsyArXiv preprint*.
 
-## accepted
+## Accepted
 
 -   Schmitt, M., Radev, S. T., & **Bürkner P. C.** (accepted). [Meta-Uncertainty in Bayesian Model Comparison](http://arxiv.org/abs/2210.07278). *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
 -   Rodriguez, J. E., Williams, D. R., & **Bürkner P. C.** (accepted). [Heterogeneous Heterogeneity by Default: Testing Categorical Moderators in Random-effects Meta-Analysis](https://psyarxiv.com/tqcka/). *British Journal of Mathematical and Statistical Psychology*.
