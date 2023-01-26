@@ -4,11 +4,13 @@ title: Software
 excerpt: "Open source software contributions"
 ---
 
-Here you can find my major contribution to open source software development.
+Here you can find my major contributions to open source software.
 
-Member of the [Stan Development Team](https://mc-stan.org/)
+Development team member of 
 
-Lead Author and Maintainer of
+- **Stan**: A probabilistic programming language [Website](mc-stan.org/)
+
+Lead author and maintainer of
 
 - **brms**: Bayesian Regression Models using Stan [Website](https://paul-buerkner.github.io/brms) [GitHub](https://github.com/paul-buerkner/brms) [Blog-Posts](../data/brms-blogposts.html)
 - **posterior**: Tools for Working with Posterior Distributions [GitHub](https://github.com/jgabry/posterior)
