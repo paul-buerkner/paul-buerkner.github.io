@@ -18,8 +18,8 @@ website:
       #   href: index.qmd
       - text: Research 
         href: research/index.qmd
-      - text: Lab
-        href: lab/index.qmd
+      - text: People
+        href: people/index.qmd
       - text: Publications
         href: publications/index.qmd
       - text: Software

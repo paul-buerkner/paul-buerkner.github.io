@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lab Members
-excerpt: "Current members of my lab"
+title: People
+excerpt: "People working in my lab"
 ---
 
 <br /> 
