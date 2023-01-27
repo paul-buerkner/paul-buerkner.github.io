@@ -13,7 +13,7 @@ excerpt: "Current members of my lab"
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/missing-profile-picture-round.jpg){fig-alt="A portrait of Javier Aguilar."}
+![](../images/missing-profile-picture-round.png){fig-alt="A portrait of Javier Aguilar."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Javier Aguilar
@@ -36,7 +36,7 @@ excerpt: "Current members of my lab"
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/missing-profile-picture-round.jpg){fig-alt="A portrait of Florence Bockting."}
+![](../images/missing-profile-picture-round.png){fig-alt="A portrait of Florence Bockting."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Florence Bockting
@@ -57,7 +57,7 @@ excerpt: "Current members of my lab"
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/missing-profile-picture-round.jpg){fig-alt="A portrait of Luna Fazio."}
+![](../images/missing-profile-picture-round.png){fig-alt="A portrait of Luna Fazio."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Luna Fazio
@@ -78,7 +78,7 @@ excerpt: "Current members of my lab"
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/missing-profile-picture-round.jpg){fig-alt="A portrait of Soham Mukherjee."}
+![](../images/missing-profile-picture-round.png){fig-alt="A portrait of Soham Mukherjee."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Soham Mukherjee
@@ -101,7 +101,7 @@ excerpt: "Current members of my lab"
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/missing-profile-picture-round.jpg){fig-alt="A portrait of Philipp Reiser."}
+![](../images/missing-profile-picture-round.png){fig-alt="A portrait of Philipp Reiser."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Philipp Reiser
@@ -180,7 +180,7 @@ excerpt: "Current members of my lab"
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/missing-profile-picture-round.jpg){fig-alt="A portrait of Stefan Radev."}
+![](../images/missing-profile-picture-round.png){fig-alt="A portrait of Stefan Radev."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Stefan Radev
