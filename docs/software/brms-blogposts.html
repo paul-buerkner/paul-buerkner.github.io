@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.269">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Paul Bürkner - A list of blog posts about brms</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "textbox",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="nav-fixed fullcontent">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Paul Bürkner</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../research/index.html">
+ <span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../lab/index.html">
+ <span class="menu-text">Lab</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../projects/index.html">
+ <span class="menu-text">Projects</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../publications/index.html">
+ <span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../software/index.html">
+ <span class="menu-text">Software</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../cv/index.html">
+ <span class="menu-text">CV</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:paul.buerkner@gmail.com"><i class="bi bi-envelope" role="img" aria-label="email">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/paul-buerkner"><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://scholar.google.com/citations?user=JSj6m1IAAAAJ&amp;hl"><i class="bi bi-google" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/paulbuerkner"><i class="bi bi-twitter" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://fosstodon.org/@paul_buerkner"><i class="bi bi-mastodon" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+              <div class="quarto-toggle-container">
+                  <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+              </div>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">A list of blog posts about brms</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<p>Since its foundation, several people have blogged about my R package <strong>brms</strong>, which allows to fit Bayesian multilevel models using Stan. This list is intended to provide links to those blog posts. I have not actively maintained it in the past couple of years, but I hope it is still useful.</p>
+<section id="list-of-blog-posts" class="level2">
+<h2 class="anchored" data-anchor-id="list-of-blog-posts">List of blog posts</h2>
+<ul>
+<li><a href="http://svmiller.com/blog/2019/08/what-explains-union-density-brms-replication/">What Explains Union Density? A Replication of an Old Article with the brms Package</a> by Steven Miller.</li>
+<li><a href="https://solomonkurz.netlify.com/post/bayesian-power-analysis-part-i/">Bayesian power analysis: Part I. Prepare to reject H0 with simulation</a> by Solomon Kurz</li>
+<li><a href="https://lindeloev.github.io/utility-theory/">Utility Theory for Dummies: An R Tutorial</a> by Jonas Kristoffer Lindelov</li>
+<li><a href="https://vuorre.netlify.com/post/2019/02/18/analyze-analog-scale-ratings-with-zero-one-inflated-beta-models/">How to analyze visual analog (slider) scale data?</a> by Matti Vuorre</li>
+<li><a href="https://bookdown.org/connect/#/apps/1850/access">Statistical Rethinking with brms, ggplot2, and the tidyverse</a> by Solomon Kurz</li>
+<li><a href="http://singmann.org/wiener-model-analysis-with-brms-part-iii/">Diffusion/Wiener Model Analysis with brms – Part III: Hypothesis Tests of Parameter Estimates</a> by Henrik Singmann</li>
+<li><a href="http://rpsychologist.com/GLMM-part1-lognormal">Estimating treatment effects and ICCs from (G)LMMs on the observed scale using Bayes, Part 1: lognormal models</a> by Kristoffer Magnusson</li>
+<li><a href="http://mjskay.github.io/tidybayes/articles/tidy-brms.html#ordinal-models">Extracting and visualizing tidy draws from brms models</a> by Matthew Kay</li>
+<li><a href="https://magesblog.com/post/2018-08-02-use-domain-knowledge-to-review-prior-predictive-distributions/">Use domain knowledge to review prior distributions</a> by Markus Gesmann</li>
+<li><a href="https://magesblog.com/post/2018-07-15-hierarchical-loss-reserving-with-growth-cruves-using-brms/">Hierarchical loss reserving with growth curves using brms</a> by Markus Gesmann</li>
+<li><a href="https://www.rensvandeschoot.com/tutorials/brms/">A series of tutorials how to run the brms package</a> by Rens van de Schoot</li>
+<li><a href="https://magesblog.com/post/modelling-change/">Models are about what changes, and what doesn’t</a> by Markus Gesmann</li>
+<li><a href="https://strengejacke.wordpress.com/2018/06/06/r-functions-for-bayesian-model-statistics-and-summaries-rstats-stan-brms/">R functions for Bayesian Model Statistics and Summaries #rstats #stan #brms</a> by Daniel Lüdecke</li>
+<li><a href="https://www.fromthebottomoftheheap.net/2018/04/21/fitting-gams-with-brms/">Fitting GAMs with brms: part 1 a simple GAM</a> by Gavin Simpson</li>
+<li><a href="http://babieslearninglanguage.blogspot.de/2018/02/mixed-effects-models-is-it-time-to-go.html">Mixed effects models: Is it time to go Bayesian by default?</a> by Michael Frank</li>
+<li><a href="http://thestudyofthehousehold.com/2018/02/13/2018-02-13-easily-made-fitted-and-predicted-values-made-easy/index.html">Easily made fitted and predicted values made easy</a> by Andrew MacDonald</li>
+<li><a href="https://rpubs.com/lindeloev/bayes_factors">How to compute Bayes factors using lm, lmer, BayesFactor, brms, and JAGS/stan/pymc3</a> by Jonas Kristoffer Lindelov</li>
+<li><a href="http://rpsychologist.com/adherence-analysis-IV-brms">Confounded dose-response effects of treatment adherence: fitting Bayesian instrumental variable models using brms</a> by Kristoffer Magnusson</li>
+<li><a href="https://timmastny.rbind.io/blog/multilevel-mrp-tidybayes-brms-stan/">MRP Using brms and tidybayes</a> by Tim Mastny</li>
+<li><a href="https://magesblog.com/post/2018-01-30-pkpd-reserving-models/">PK/PD reserving models</a> by Markus Gesmann</li>
+<li><a href="https://magesblog.com/post/hierarchical-compartmental-reserving-models/">Hierarchical compartmental reserving models</a> by Markus Gesmann</li>
+<li><a href="http://singmann.org/wiener-model-analysis-with-brms-part-ii/">Diffusion/Wiener Model Analysis with brms – Part II: Model Diagnostics and Model Fit</a> by Henrik Singmann</li>
+<li><a href="http://www.imachordata.com/bayesian-sem-with-brms/">Bayesian SEM with brms</a> by Jarrett Byrnes</li>
+<li><a href="http://singmann.org/wiener-model-analysis-with-brms-part-i/">Diffusion/Wiener Model Analysis with brms – Part I: Introduction and Estimation</a> by Henrik Singmann</li>
+<li><a href="http://www.statsathome.com/2017/10/12/bayesian-decision-theory-made-ridiculously-simple/">Bayesian Decision Theory Made Ridiculously Simple</a> by Justin Silverman</li>
+<li><a href="https://vuorre.netlify.com/post/2017/10/30/bayesian-estimation-of-signal-detection-theory-models-part-4/">Bayesian Estimation of Signal Detection Models, Part 4</a> by Matti Vuorre</li>
+<li><a href="https://vuorre.netlify.com/post/2017/10/16/bayesian-estimation-of-signal-detection-theory-models-part-3/">Bayesian Estimation of Signal Detection Models, Part 3</a> by Matti Vuorre</li>
+<li><a href="https://vuorre.netlify.com/post/2017/10/12/bayesian-estimation-of-signal-detection-theory-models-part-2/">Bayesian Estimation of Signal Detection Models, Part 2</a> by Matti Vuorre</li>
+<li><a href="https://vuorre.netlify.com/post/2017/10/09/bayesian-estimation-of-signal-detection-theory-models-part-1/">Bayesian Estimation of Signal Detection Models, Part 1</a> by Matti Vuorre</li>
+<li><a href="http://www.barelysignificant.com/post/icc/">Three methods for computing the intra-class correlation in multilevel logistic regression</a> by Ladislas Nalborczyk</li>
+<li><a href="https://strengejacke.wordpress.com/2017/10/11/more-support-for-bayesian-analysis-in-the-sj-packages-rstats-rstan-brms/">More support for Bayesian analysis in the sj!-packages #rstats #rstan #brms</a> by Daniel Luedecke</li>
+<li><a href="http://andrewgelman.com/2017/01/10/r-packages-interfacing-stan-brms/">R packages interfacing with Stan: brms</a> posted on Andrew Gelmans blog</li>
+<li><a href="http://kevinstadler.github.io/blog/bayesian-ordinal-regression-with-random-effects-using-brms/">Bayesian mixed effects (aka multi-level) ordinal regression models with brms</a> by Kevin Stadler</li>
+<li><a href="https://vuorre.netlify.com/post/2017/03/21/bayes-factors-with-brms/">Bayes factors with brms</a> by Matti Vuorre</li>
+<li><a href="https://vuorre.netlify.com/post/2017/01/02/how-to-compare-two-groups-with-robust-bayesian-estimation-using-r-stan-and-brms/">How to Compare Two Groups with Robust Bayesian Estimation Using R, Stan and brms</a> by Matti Vuorre</li>
+<li><a href="https://vuorre.netlify.com/post/2017/01/19/better-forest-plots-from-meta-analytic-models-estimated-with-brms/">Better forest plots from meta-analytic models estimated with brms</a> by Matti Vuorre</li>
+<li><a href="https://vuorre.netlify.com/post/2016/09/29/meta-analysis-is-a-special-case-of-bayesian-multilevel-modeling/">Meta-analysis is a special case of Bayesian multilevel modeling</a> by Matti Vuorre</li>
+<li><a href="https://thinkinator.com/2016/11/20/brms-continues-its-streak/">brms continuous its streak</a> by Wayne Folta</li>
+<li><a href="https://thinkinator.com/2016/02/17/brms-0-8-adds-non-linear-regression/">brms 0.8 adds non-linear regression</a> by Wayne Folta</li>
+<li><a href="https://thinkinator.com/2016/01/12/r-users-will-now-inevitably-become-bayesians/">R Users Will Now Inevitably Become Bayesians</a> by Wayne Folta</li>
+<li><a href="http://www.magesblog.com/2015/09/bayesian-regression-models-using-stan.html">Bayesian regression models using Stan in R</a> by Markus Gesmann</li>
+</ul>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  let localAlternateSentinel = 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">Copyright 2023, Paul Bürkner</div>   
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="../impressum/index.html">Impressum</a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+</body></html>

@@ -1,0 +1,232 @@
+---
+layout: page
+title: Lab Members
+excerpt: "Current members of my lab"
+---
+
+<br /> 
+
+## Principal Investigator
+
+<!-- Paul Bürkner -->
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+<br /> 
+![](../images/paul-buerkner-round.png){fig-alt="A portrait of Paul Bürkner."}
+:::
+::: {.g-col-12 .g-col-md-9}
+### Paul Bürkner
+---
+
+*Background*: Statistics, Mathematics, and Psychology
+
+*Position*: Junior Research Group Leader for Bayesian Statistics
+
+*Links*:
+[Personal Website](https://paul-buerkner.github.io/),
+[University Website](https://www.simtech.uni-stuttgart.de/exc/people/Buerkner/), 
+[GitHub](https://github.com/paul-buerkner),
+[Email](mailto:paul.buerkner@gmail.com)
+:::
+:::
+
+---
+
+
+## PhD Students
+
+<!-- Javier Aguilar -->
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+<br /> 
+![](../images/missing-profile-picture-round.png){fig-alt="A portrait of Javier Aguilar."}
+:::
+::: {.g-col-12 .g-col-md-9}
+### Javier Aguilar
+---
+
+*Background*: Mathematics and Statistics
+
+*Project*: Intuitive Joint Priors for Bayesian Multilevel Models
+
+*Links*: 
+[University Website](https://www.simtech.uni-stuttgart.de/exc/people/Aguilar/), 
+[GitHub](https://github.com/jear2412)
+:::
+:::
+
+---
+
+<!-- Florence Bockting -->
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+<br /> 
+![](../images/missing-profile-picture-round.png){fig-alt="A portrait of Florence Bockting."}
+:::
+::: {.g-col-12 .g-col-md-9}
+### Florence Bockting
+---
+
+*Background*: Psychology
+
+*Project*: Simulation-Based Prior Distributions for Bayesian Models
+
+*Links*: [GitHub](https://github.com/FloB2)
+:::
+:::
+
+---
+
+<!-- Luna Fazio -->
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+<br /> 
+![](../images/missing-profile-picture-round.png){fig-alt="A portrait of Luna Fazio."}
+:::
+::: {.g-col-12 .g-col-md-9}
+### Luna Fazio
+---
+
+*Background*: Biology and Statistics
+
+*Project*: Bayesian Distributional Latent Variable Models
+
+*Links*: [GitHub](https://github.com/bmfazio)
+:::
+:::
+
+---
+
+<!-- Soham Mukherjee -->
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+<br /> 
+![](../images/missing-profile-picture-round.png){fig-alt="A portrait of Soham Mukherjee."}
+:::
+::: {.g-col-12 .g-col-md-9}
+### Soham Mukherjee
+---
+
+*Background*: Statistics
+
+*Project*: Probabilistic Models of Single-Cell Data
+
+*Links*: [Linkedin](https://www.linkedin.com/in/soham-mukherjee-33a397146)
+
+*Co-Supervisor*: [Prof. Manfred Claassen](https://claassenlab.github.io/people/manfred-claassen/)
+:::
+:::
+
+---
+
+<!-- Philipp Reiser -->
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+<br /> 
+![](../images/philipp-reiser-round.png){fig-alt="A portrait of Philipp Reiser."}
+:::
+::: {.g-col-12 .g-col-md-9}
+### Philipp Reiser
+---
+
+*Background*: Physics and Computer Science (Robotics, Cognition, Intelligence)
+
+*Project*: Data-Integrated Training of Surrogate Models for Uncertainty Quantification and Diagnostics of Complex Biological Systems Models
+
+*Links*: 
+[University Website](https://www.simtech.uni-stuttgart.de/exc/people/Reiser-00005/),
+[GitHub](https://github.com/philippreiser)
+
+*Co-Supervisor*: [Dr. Anneli Guthke](https://www.simtech.uni-stuttgart.de/exc/people/Guthke/)
+:::
+:::
+
+---
+
+
+<!-- Marvin Schmitt -->
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+<br /> 
+![](../images/marvin-schmitt-round.png){fig-alt="A portrait of Marvin Schmitt."}
+:::
+::: {.g-col-12 .g-col-md-9}
+### Marvin Schmitt
+---
+
+*Background*: Psychology and Computer Science
+
+*Project*: Meta-Uncertainty in Bayesian Model Comparison
+
+*Links*: 
+[Personal Website](https://www.marvinschmitt.com/), 
+[University Website](https://www.simtech.uni-stuttgart.de/exc/people/Schmitt-00009/), 
+[GitHub](https://github.com/marvinschmitt)
+:::
+:::
+
+---
+
+<!-- Maximilian Scholz -->
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+<br /> 
+![](../images/maximilian-scholz-round.png){fig-alt="A portrait of Maximilian Scholz."}
+:::
+::: {.g-col-12 .g-col-md-9}
+### Maximilian Scholz
+---
+
+*Background*: Computer- and Software Engineering
+
+*Project*: Machine Learning for Bayesian Model Building
+
+*Links*: 
+[Personal Website](https://www.scholzmx.com/), 
+[University Website](https://www.simtech.uni-stuttgart.de/exc/people/Scholz-00007/), 
+[GitHub](https://github.com/sims1253)
+:::
+:::
+
+---
+
+
+<br /> 
+<br /> 
+
+## PostDocs
+
+<!-- Stefan Radev -->
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+<br /> 
+![](../images/missing-profile-picture-round.png){fig-alt="A portrait of Stefan Radev."}
+:::
+::: {.g-col-12 .g-col-md-9}
+### Stefan Radev
+---
+
+*Background*: Computer Science and Psychology
+
+*Project*: Simulation-Based Bayesian Inference with Deep Learning
+
+*Links*: 
+[University Website](https://www.uni-mannheim.de/smip/team/phd-candidates/cohort-2018/dr-stefan-radev/), 
+[GitHub](https://github.com/stefanradev93),
+[Linkedin](https://de.linkedin.com/in/stefan-radev-21b713187)
+
+*Co-Supervisor*: [Prof. Ullrich Köthe](https://hci.iwr.uni-heidelberg.de/vislearn/people/ullrich-koethe/)
+:::
+:::
+
+---
+
