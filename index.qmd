@@ -11,7 +11,7 @@ format:
 
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](images/paul-buerkner-small-round.png){fig-alt="A portrait of the website author, Paul Bürkner."}
+![](images/paul-buerkner-round.png){fig-alt="A portrait of the website author, Paul Bürkner."}
 :::
 
 ::: {.g-col-12 .g-col-md-9}
@@ -19,7 +19,7 @@ format:
 
 <!-- TODO: add more internal and external links -->
 
-I am a statistician with a focus on probabilistic (Bayesian) methods currently working as a Junior Research Group Leader for Bayesian Statistics at the Cluster of Excellence SimTech, University of Stuttgart. Soon, I will become Full Professor for Computational Statistics at the Department of Statistics, TU Dortmund University. Having originally studied psychology and mathematics, my core research is nowadays located somewhere between statistics and machine learning, with applications in almost all quantitative sciences.
+I am a statistician with a focus on probabilistic (Bayesian) methods currently working as a Junior Research Group Leader for Bayesian Statistics at the Cluster of Excellence SimTech, University of Stuttgart. Soon, I will become Full Professor for Computational Statistics at the Department of Statistics, TU Dortmund University. Having originally studied psychology and mathematics, my [core research](../research/) is nowadays located somewhere between statistics and machine learning, with applications in almost all quantitative sciences.
 
 :::
 :::
