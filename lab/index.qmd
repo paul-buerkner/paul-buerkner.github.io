@@ -73,8 +73,6 @@ excerpt: "Current members of my lab"
 *Background*: Psychology
 
 *Project*: Simulation-Based Prior Distributions for Bayesian Models
-
-*Links*: [GitHub](https://github.com/FloB2)
 :::
 :::
 
