@@ -104,7 +104,7 @@ excerpt: "Current members of my lab"
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/missing-profile-picture-round.png){fig-alt="A portrait of Soham Mukherjee."}
+![](../images/soham-mukherjee-round.png){fig-alt="A portrait of Soham Mukherjee."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Soham Mukherjee
@@ -112,9 +112,11 @@ excerpt: "Current members of my lab"
 
 *Background*: Statistics
 
-*Project*: Probabilistic Models of Single-Cell Data
+*Project*: Probabilistic Models for scRNA Sequencing Data
 
-*Links*: [Linkedin](https://www.linkedin.com/in/soham-mukherjee-33a397146)
+*Links*: 
+[University Website](https://claassenlab.github.io/people/soham-mukherjee/),
+[Linkedin](https://www.linkedin.com/in/soham-mukherjee-33a397146)
 
 *Co-Supervisor*: [Prof. Manfred Claassen](https://claassenlab.github.io/people/manfred-claassen/)
 :::
