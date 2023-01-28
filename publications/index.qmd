@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Scientific Publications
 excerpt: "A list of my scientific publications"
+toc-location: right
 ---
 
 ## Preprints in Review

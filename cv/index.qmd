@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Curriculum vitae
 excerpt: My current CV
 date: 2023-01-26

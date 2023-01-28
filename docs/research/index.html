@@ -64,7 +64,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -141,12 +141,24 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#uncertainty-quantification" id="toc-uncertainty-quantification" class="nav-link active" data-scroll-target="#uncertainty-quantification">Uncertainty Quantification</a></li>
+  <li><a href="#prior-specification" id="toc-prior-specification" class="nav-link" data-scroll-target="#prior-specification">Prior Specification</a></li>
+  <li><a href="#sbi" id="toc-sbi" class="nav-link" data-scroll-target="#sbi">Simulation-Based Inference</a></li>
+  <li><a href="#model-comparison" id="toc-model-comparison" class="nav-link" data-scroll-target="#model-comparison">Model Comparison</a></li>
+  <li><a href="#machine-workflow" id="toc-machine-workflow" class="nav-link" data-scroll-target="#machine-workflow">Maschine-Assisted Bayesian Workflow</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -170,7 +182,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="uncertainty-quantification" class="level2">
 <h2 class="anchored" data-anchor-id="uncertainty-quantification">Uncertainty Quantification</h2>
 <p>In experiments and observational studies, scientists gather data to learn more about the world. However, what we can learn from a single data set is always limited, and we are inevitably left with some remaining uncertainty. It is of high importance to take this uncertainty into account when drawing conclusions if we want to make real scientific progress. Formalizing and quantifying uncertainty is thus at the heart of statistical methods aiming to obtain insights from data. In my lab, all projects, in one way or the other, deal with uncertainty quantification and propagation, primarily through sampling-based methods.</p>
-<p>Associated projects:</p>
+<p>Current projects:</p>
 <!-- - [Amortized Bayesian Inference for Multilevel Models](../projects#amortized-mlms) -->
 <ul>
 <li><a href="../projects#bdlvms">Bayesian Distributional Latent Variable Models</a></li>
@@ -181,7 +193,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="prior-specification" class="level2">
 <h2 class="anchored" data-anchor-id="prior-specification">Prior Specification</h2>
 <p>Specification of prior distributions for a Bayesian model is a central part of the Bayesian workflow for data analysis, but it is often difficult even for statistical experts. Prior elicitation transforms domain knowledge of various kinds into well-defined prior distributions, and offers a solution to the prior specification problem, in principle. In practice, however, we are still far from having usable prior elicitation tools that could significantly influence the way we build probabilistic models especially for high-dimensional problems. We are approaching this challenge from two perspectives, (a) by developing intuitive joint prior distributions that yield sensible prior predictions even in high-dimensional spaces and (b) by building prior elicitation tools that transform expert knowledge in the data space into prior distributions on the model parameters that are consistent with that knowledge while satisfying additional probabilistic constraints.</p>
-<p>Associated projects:</p>
+<p>Current projects:</p>
 <ul>
 <li><a href="../projects#sbpriors">Simulation-Based Prior Distributions</a></li>
 <li><a href="../projects#joint-priors-mlms">Intuitive Joint Priors for Bayesian Multilevel Models</a></li>
@@ -190,7 +202,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="sbi" class="level2">
 <h2 class="anchored" data-anchor-id="sbi">Simulation-Based Inference</h2>
 <p>For complex physical or cognitive models, the data generating process cannot be fully expressed analytically. Rather, we only have access to a simulator that generates data from said process and we thus must rely on Simulation-based inference for learning about such models from data. Neural density estimators have proven remarkably powerful in performing efficient simulation-based Bayesian inference in various research domains. However, there remain several open challenges regarding their accuracy, scalability, and robustness of these methods, challenges that my lab aims to solve in the upcoming years.</p>
-<p>Associated projects:</p>
+<p>Current projects:</p>
 <!-- - [Amortized Bayesian Inference for Multilevel Models](../projects#amortized-mlms) -->
 <ul>
 <li><a href="../projects#sbpriors">Simulation-Based Prior Distributions</a></li>
@@ -199,7 +211,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="model-comparison" class="level2">
 <h2 class="anchored" data-anchor-id="model-comparison">Model Comparison</h2>
 <p>Numerous research questions in basic science are concerned with comparing multiple scientific theories to understand which of them is more likely to be true, or at least closer to the truth. To compare these theories, scientists translate them into statistical models and then investigate how well the models’ predictions match the gathered real-world data. Even if the goal is purely predictive, model comparison is very important for predictive model selection or averaging. In my lab, we are exploring Bayesian model comparison approaches from both theory-driven and predictive perspectives and even seek to find ways to combine both perspectives.</p>
-<p>Associated projects:</p>
+<p>Current projects:</p>
 <ul>
 <li><a href="../projects#mu-bmb">Meta-Uncertainty in Bayesian Model Comparison</a></li>
 <li><a href="../projects#ml4bmb">Machine Learning for Bayesian Model Building</a></li>
@@ -208,7 +220,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="machine-workflow" class="level2">
 <h2 class="anchored" data-anchor-id="machine-workflow">Maschine-Assisted Bayesian Workflow</h2>
 <p>Building Bayesian models in a principled way remains a highly complex task requiring a lot of expertise and cognitive resources. Ideally, subject matter experts do not have to solve everything by themselves but have statisticians or data scientists by their side to assist them. Of course, the latter are not always available for every data-analysis project. As a remedy we are developing a machine-assisted workflow for building interpretable, robust, and well-predicting Bayesian models. This first requires more research on the theoretical foundations of Bayesian model building. With this in hand, machines will be trained to provide automatic model evaluation and modeling recommendations that guide the user through the model building process. While leaving the modeling choices up to the user, the machine subsequently learns from the user’s decisions to improve its recommendations on the fly.</p>
-<p>Associated projects:</p>
+<p>Current projects:</p>
 <ul>
 <li><a href="../projects#bdlvms">Bayesian Distributional Latent Variable Models</a></li>
 <li><a href="../projects#ml4bmb">Machine Learning for Bayesian Model Building</a></li>

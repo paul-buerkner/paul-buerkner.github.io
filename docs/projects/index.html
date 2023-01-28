@@ -65,7 +65,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -142,12 +142,25 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#bdlvms" id="toc-bdlvms" class="nav-link active" data-scroll-target="#bdlvms">Bayesian Distributional Latent Variable Models</a></li>
+  <li><a href="#sbpriors" id="toc-sbpriors" class="nav-link" data-scroll-target="#sbpriors">Simulation-Based Prior Distributions for Bayesian Models</a></li>
+  <li><a href="#bio-surrogate-models" id="toc-bio-surrogate-models" class="nav-link" data-scroll-target="#bio-surrogate-models">Data-Integrated Training of Surrogate Models for Uncertainty Quantification of Complex Biological Systems Models</a></li>
+  <li><a href="#mu-bmb" id="toc-mu-bmb" class="nav-link" data-scroll-target="#mu-bmb">Meta-Uncertainty in Bayesian Model Comparison</a></li>
+  <li><a href="#joint-priors-mlms" id="toc-joint-priors-mlms" class="nav-link" data-scroll-target="#joint-priors-mlms">Intuitive Joint Priors for Bayesian Multilevel Models</a></li>
+  <li><a href="#ml4bmb" id="toc-ml4bmb" class="nav-link" data-scroll-target="#ml4bmb">Machine Learning for Bayesian Model Building</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -166,6 +179,7 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<!-- TODO: add some nice pictures -->
 <!--
 ## Amortized Bayesian Inference for Multilevel Models {#amortized-mlms}
 
@@ -180,11 +194,23 @@ Project Members: TBD
 Funders: [German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp)
 
 Funding Period: 2023 -- 2026
-
 -->
 <section id="bdlvms" class="level2">
 <h2 class="anchored" data-anchor-id="bdlvms">Bayesian Distributional Latent Variable Models</h2>
-<p>Description will be added soon.</p>
+<p>In psychology and related sciences, a lot of research is concerned with studying latent variables, that is, constructs which are not directly observable. Statistical methods for modeling latent variables based on manifest (observable) indicators are thus crucial to the scientific progress in those fields. Two major interconnected statistical areas dealing with latent variables exist, namely, Item Response Theory (IRT) and Structural Equation Modeling (SEM). Although the two fields are closely connected, the frontiers of IRT and SEM have developed in somewhat different directions.</p>
+<!--
+IRT has focused on building increasingly complex measurement models of
+psychological data. They are often represented as distributional models, where
+not only the location but also other response distribution parameters such as
+scale or shape are related to item or person characteristics. Such
+distributional models have gained considerable momentum in various fields, such
+as cognitive psychology, where individuals' responses are determined by multiple
+underlying processes. In comparison, SEM research has focused more strongly on
+extending the structural model part which enables increasingly complex
+regression models involving latent endogenous and/or exogenous variables.
+-->
+<p>A combination of these two major frontiers would enable researchers to tackle a lot of advanced psychological research questions at the intersection of psychometrics, personnel psychology, cognitive psychology, and applied psychology. In order for us to gain better insights into behavioral and cognitive processes, their mathematical approximations should match the processes’ complexity in both overall distributional form and its components that are expressed as complex functions of predicting variables.</p>
+<p>This project aims to develop a framework for Bayesian distributional latent variable models that combines the principles of IRT and SEM with the flexibility of distributional regression powered by modern Bayesian estimation methods.</p>
 <p>Overarching Topics: <a href="../resarch#uncertainty-quantification">Uncertainty Quantification</a>, <a href="../resarch#machine-workflow">Maschine-Assisted Bayesian Workflow</a></p>
 <p>Project Members: <a href="../people#luna-fazio">Luna Fazio</a></p>
 <p>Funders: <a href="https://www.dfg.de/en/index.jsp">German Research Foundation (DFG)</a></p>
@@ -192,7 +218,7 @@ Funding Period: 2023 -- 2026
 <!-- -->
 </section>
 <section id="sbpriors" class="level2">
-<h2 class="anchored" data-anchor-id="sbpriors">Simulation-Based Prior Distributions</h2>
+<h2 class="anchored" data-anchor-id="sbpriors">Simulation-Based Prior Distributions for Bayesian Models</h2>
 <p>Data-driven statistical modeling plays a crucial role in almost all quantitative sciences. Despite continuous increases in the amount of available data, the addition of further information sources, such as expert knowledge, often remains an irreplaceable part of setting up high-fidelity models. Grounded in probability theory, Bayesian statistics provides a principled approach to including expert knowledge in the form of prior distributions, a process called prior elicitation. However, prior elicitation for high-dimensional Bayesian models is infeasible with existing methods due to practical and computational challenges. With the goal of solving these challenges, we propose to develop simulation-based priors for high-dimensional Bayesian models that allow to incorporate prior information elicited on any model-implied quantities. We expect the developed methods to have a major impact on all fields applying probabilistic modeling by making the use of expert knowledge practical, robust, and computationally feasible.</p>
 <p>Overarching Topics: <a href="../resarch#prior-specification">Prior Specification</a>, <a href="../resarch#sbi">Simulation-Based Inference</a></p>
 <p>Project Members: <a href="../people#florence-bockting">Florence Bockting</a></p>
@@ -201,11 +227,13 @@ Funding Period: 2023 -- 2026
 <!-- -->
 </section>
 <section id="bio-surrogate-models" class="level2">
-<h2 class="anchored" data-anchor-id="bio-surrogate-models">Data-Integrated Training of Surrogate Models for Uncertainty Quantification and Diagnostics of Complex Biological Systems Models</h2>
-<p>Description will be added soon.</p>
+<h2 class="anchored" data-anchor-id="bio-surrogate-models">Data-Integrated Training of Surrogate Models for Uncertainty Quantification of Complex Biological Systems Models</h2>
+<p>Uncertainty estimation is crucial to assess the predictive power and limitations of biological systems models. However, in the case of high-dimensional parameter spaces and/or complex functional relationships, physics-based simulation models are often computationally too demanding for rigorous Bayesian uncertainty quantification. Surrogate models allow for such analyses with much lower effort. They are typically trained such that they fit the simulation reference best.</p>
+<p>What is left unexplored is the possibility of surrogate models to actually fit observed data better than the reference model. This phenomenon occurs when structural misspecification of the physics-constrained reference model limits its performance, but at the same time, the more flexible data-driven surrogate model can better capture the relation of output and input data. Such situations offer huge potential for diagnostic evaluation of the modelling approach toward deeper system understanding and model improvement.</p>
+<p>We aim at developing (1) a weighted data-integrated surrogate training approach for improved prediction skill, (2) a diagnostic approach for structural error detection in the reference model, and (3) an uncertainty propagation analysis that accounts for the approximation error introduced by this novel as well as any type of surrogate.</p>
 <p>Overarching Topics: <a href="../resarch#uncertainty-quantification">Uncertainty Quantification</a></p>
 <p>Project Members: <a href="../people#philipp-reiser">Philipp Reiser</a></p>
-<p>Co-Supervisors: <a href="https://www.simtech.uni-stuttgart.de/exc/people/Guthke/">Dr.&nbsp;Anneli Guthke</a></p>
+<p>Co-Supervisors: <a href="https://www.simtech.uni-stuttgart.de/exc/people/Guthke/">Anneli Guthke</a></p>
 <p>Funders: <a href="https://www.simtech.uni-stuttgart.de/">Cluster of Excellence SimTech</a></p>
 <p>Funding Period: 2022 – 2025</p>
 <!-- -->

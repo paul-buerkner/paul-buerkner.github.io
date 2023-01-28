@@ -1,8 +1,11 @@
 ---
-layout: page
 title: Open Source Software
 excerpt: "Open source software contributions"
 ---
+
+<!-- TODO: add more details in general -->
+
+<!-- TODO: add more details about brms -->
 
 In addition to doing research and managing a lab, I am deeply involved in 
 open source software development. You can find my major contributions below.
