@@ -19,11 +19,11 @@ excerpt: "People working in my lab"
 ### Paul Bürkner
 ---
 
-*Background*: Statistics, Mathematics, and Psychology
+Background: Statistics, Mathematics, and Psychology
 
-*Position*: Junior Research Group Leader for Bayesian Statistics
+Position: Junior Research Group Leader for Bayesian Statistics
 
-*Links*:
+Links:
 [Personal Website](https://paul-buerkner.github.io/),
 [University Website](https://www.simtech.uni-stuttgart.de/exc/people/Buerkner/), 
 [GitHub](https://github.com/paul-buerkner),
@@ -49,16 +49,16 @@ excerpt: "People working in my lab"
 ### Stefan Radev
 ---
 
-*Background*: Computer Science and Psychology
+Background: Computer Science and Psychology
 
-*Project*: Simulation-Based Bayesian Inference with Deep Learning
+Project: Simulation-Based Bayesian Inference with Deep Learning
 
-*Links*: 
+Links: 
 [University Website](https://www.uni-mannheim.de/smip/team/phd-candidates/cohort-2018/dr-stefan-radev/), 
 [GitHub](https://github.com/stefanradev93),
 [Linkedin](https://de.linkedin.com/in/stefan-radev-21b713187)
 
-*Co-Supervisor*: [Prof. Ullrich Köthe](https://hci.iwr.uni-heidelberg.de/vislearn/people/ullrich-koethe/)
+Co-Supervisor: [Prof. Ullrich Köthe](https://hci.iwr.uni-heidelberg.de/vislearn/people/ullrich-koethe/)
 :::
 :::
 
@@ -77,14 +77,14 @@ excerpt: "People working in my lab"
 ![](../images/missing-profile-picture-round.png){fig-alt="A portrait of Javier Aguilar."}
 :::
 ::: {.g-col-12 .g-col-md-9}
-### Javier Aguilar
+### Javier Aguilar {#javier-aguilar}
 ---
 
-*Background*: Mathematics and Statistics
+Background: Mathematics and Statistics
 
-*Project*: Intuitive Joint Priors for Bayesian Multilevel Models
+Project: Intuitive Joint Priors for Bayesian Multilevel Models
 
-*Links*: 
+Links: 
 [University Website](https://www.simtech.uni-stuttgart.de/exc/people/Aguilar/), 
 [GitHub](https://github.com/jear2412)
 :::
@@ -100,12 +100,12 @@ excerpt: "People working in my lab"
 ![](../images/missing-profile-picture-round.png){fig-alt="A portrait of Florence Bockting."}
 :::
 ::: {.g-col-12 .g-col-md-9}
-### Florence Bockting
+### Florence Bockting {#florence-bockting}
 ---
 
-*Background*: Psychology
+Background: Psychology
 
-*Project*: Simulation-Based Prior Distributions for Bayesian Models
+Project: Simulation-Based Prior Distributions for Bayesian Models
 :::
 :::
 
@@ -119,14 +119,14 @@ excerpt: "People working in my lab"
 ![](../images/missing-profile-picture-round.png){fig-alt="A portrait of Luna Fazio."}
 :::
 ::: {.g-col-12 .g-col-md-9}
-### Luna Fazio
+### Luna Fazio {#luna-fazio}
 ---
 
-*Background*: Biology and Statistics
+Background: Biology and Statistics
 
-*Project*: Bayesian Distributional Latent Variable Models
+Project: Bayesian Distributional Latent Variable Models
 
-*Links*: [GitHub](https://github.com/bmfazio)
+Links: [GitHub](https://github.com/bmfazio)
 :::
 :::
 
@@ -140,18 +140,18 @@ excerpt: "People working in my lab"
 ![](../images/soham-mukherjee-round.png){fig-alt="A portrait of Soham Mukherjee."}
 :::
 ::: {.g-col-12 .g-col-md-9}
-### Soham Mukherjee
+### Soham Mukherjee {#soham-mukherjee}
 ---
 
-*Background*: Statistics
+Background: Statistics
 
-*Project*: Probabilistic Models for scRNA Sequencing Data
+Project: Probabilistic Models for scRNA Sequencing Data
 
-*Links*: 
+Links: 
 [University Website](https://claassenlab.github.io/people/soham-mukherjee/),
 [Linkedin](https://www.linkedin.com/in/soham-mukherjee-33a397146)
 
-*Co-Supervisor*: [Prof. Manfred Claassen](https://claassenlab.github.io/people/manfred-claassen/)
+Co-Supervisor: [Prof. Manfred Claassen](https://claassenlab.github.io/people/manfred-claassen/)
 :::
 :::
 
@@ -165,18 +165,18 @@ excerpt: "People working in my lab"
 ![](../images/philipp-reiser-round.png){fig-alt="A portrait of Philipp Reiser."}
 :::
 ::: {.g-col-12 .g-col-md-9}
-### Philipp Reiser
+### Philipp Reiser {#philipp-reiser}
 ---
 
-*Background*: Physics and Computer Science (Robotics, Cognition, Intelligence)
+Background: Physics and Computer Science (Robotics, Cognition, Intelligence)
 
-*Project*: Data-Integrated Training of Surrogate Models for Uncertainty Quantification and Diagnostics of Complex Biological Systems Models
+Project: Data-Integrated Training of Surrogate Models for Uncertainty Quantification and Diagnostics of Complex Biological Systems Models
 
-*Links*: 
+Links: 
 [University Website](https://www.simtech.uni-stuttgart.de/exc/people/Reiser-00005/),
 [GitHub](https://github.com/philippreiser)
 
-*Co-Supervisor*: [Dr. Anneli Guthke](https://www.simtech.uni-stuttgart.de/exc/people/Guthke/)
+Co-Supervisor: [Dr. Anneli Guthke](https://www.simtech.uni-stuttgart.de/exc/people/Guthke/)
 :::
 :::
 
@@ -191,14 +191,14 @@ excerpt: "People working in my lab"
 ![](../images/marvin-schmitt-round.png){fig-alt="A portrait of Marvin Schmitt."}
 :::
 ::: {.g-col-12 .g-col-md-9}
-### Marvin Schmitt
+### Marvin Schmitt {#marvin-schmitt}
 ---
 
-*Background*: Psychology and Computer Science
+Background: Psychology and Computer Science
 
-*Project*: Meta-Uncertainty in Bayesian Model Comparison
+Project: Meta-Uncertainty in Bayesian Model Comparison
 
-*Links*: 
+Links: 
 [Personal Website](https://www.marvinschmitt.com/), 
 [University Website](https://www.simtech.uni-stuttgart.de/exc/people/Schmitt-00009/), 
 [GitHub](https://github.com/marvinschmitt)
@@ -215,14 +215,14 @@ excerpt: "People working in my lab"
 ![](../images/maximilian-scholz-round.png){fig-alt="A portrait of Maximilian Scholz."}
 :::
 ::: {.g-col-12 .g-col-md-9}
-### Maximilian Scholz
+### Maximilian Scholz {#maximilian-scholz}
 ---
 
-*Background*: Computer- and Software Engineering
+Background: Computer- and Software Engineering
 
-*Project*: Machine Learning for Bayesian Model Building
+Project: Machine Learning for Bayesian Model Building
 
-*Links*: 
+Links: 
 [Personal Website](https://www.scholzmx.com/), 
 [University Website](https://www.simtech.uni-stuttgart.de/exc/people/Scholz-00007/), 
 [GitHub](https://github.com/sims1253)

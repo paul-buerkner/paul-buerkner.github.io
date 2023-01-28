@@ -20,6 +20,8 @@ website:
         href: research/index.qmd
       - text: People
         href: people/index.qmd
+      - text: Projects
+        href: projects/index.qmd
       - text: Publications
         href: publications/index.qmd
       - text: Software

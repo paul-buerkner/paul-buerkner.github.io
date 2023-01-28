@@ -1,0 +1,160 @@
+---
+layout: page
+title: Projects
+excerpt: "An overview of my projects"
+---
+
+<!--
+## Amortized Bayesian Inference for Multilevel Models {#amortized-mlms}
+
+Description will be added soon.
+
+Overarching Topics: 
+[Simulation-Based Inference](../resarch#sbi),
+[Uncertainty Quantification](../resarch#uncertainty-quantification)
+
+Project Members: TBD
+
+Funders: [German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp)
+
+Funding Period: 2023 -- 2026
+
+-->
+
+
+## Bayesian Distributional Latent Variable Models {#bdlvms}
+
+Description will be added soon.
+
+Overarching Topics: 
+[Uncertainty Quantification](../resarch#uncertainty-quantification), 
+[Maschine-Assisted Bayesian Workflow](../resarch#machine-workflow)
+
+Project Members: [Luna Fazio](../people#luna-fazio)
+
+Funders: [German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp)
+
+Funding Period: 2022 -- 2025
+
+<!-- -->
+
+## Simulation-Based Prior Distributions {#sbpriors}
+
+Data-driven statistical modeling plays a crucial role in almost all quantitative sciences. Despite continuous increases in the amount of available data, the addition of further information sources, such as expert knowledge, often remains an irreplaceable part of setting up high-fidelity models. Grounded in probability theory, Bayesian statistics provides a principled approach to including expert knowledge in the form of prior distributions, a process called prior elicitation. However, prior elicitation for high-dimensional Bayesian models is infeasible with existing methods due to practical and computational challenges. With the goal of solving these challenges, we propose to develop simulation-based priors for high-dimensional Bayesian models that allow to incorporate prior information elicited on any model-implied quantities. We expect the developed methods to have a major impact on all fields applying probabilistic modeling by making the use of expert knowledge practical, robust, and computationally feasible.
+
+Overarching Topics: 
+[Prior Specification](../resarch#prior-specification),
+[Simulation-Based Inference](../resarch#sbi)
+
+Project Members: [Florence Bockting](../people#florence-bockting)
+
+Funders: [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/)
+
+Funding Period: 2022 -- 2025
+
+<!-- -->
+
+## Data-Integrated Training of Surrogate Models for Uncertainty Quantification and Diagnostics of Complex Biological Systems Models {#bio-surrogate-models}
+
+Description will be added soon.
+
+Overarching Topics: 
+[Uncertainty Quantification](../resarch#uncertainty-quantification)
+
+Project Members: [Philipp Reiser](../people#philipp-reiser)
+
+Co-Supervisors: [Dr. Anneli Guthke](https://www.simtech.uni-stuttgart.de/exc/people/Guthke/)
+
+Funders: [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/)
+
+Funding Period: 2022 -- 2025
+
+<!-- -->
+
+## Meta-Uncertainty in Bayesian Model Comparison {#mu-bmb}
+
+What we can learn from a single data set in experiments and observational
+studies is always limited, and we are inevitably left with some remaining
+uncertainty. It is of utmost importance to take this uncertainty into account
+when drawing conclusions if we want to make real scientific progress.
+Formalizing and quantifying uncertainty is thus at the heart of statistical
+methods aiming to obtain insights from data.
+
+To compare schientific theories, scientists translate them into statistical
+models and then investigate how well the models' predictions match the gathered
+realworld data. One widely applied approach to compare statistical models is
+Bayesian model comparison (BMC). Relying on BMC, researchers obtain the
+probability that each of the competing models is true (or is closest to the
+truth) given the data. These probabilities are measures of uncertainty and, yet,
+are also uncertain themselves. This is what we call meta-uncertainty
+(uncertainty over uncertainties). Meta-uncertainty affects the conclusions we
+can draw from model comparisons and, consequently, the conclusions we can draw
+about the underlying scientific theories.
+
+This project contributes to this endeavor by developing and evaluating methods
+for quantifying meta-uncertainty in BMC. Building upon mathematical theory of
+meta-uncertainty, we will utilize extensive model simulations as an additional
+source of information, which enable us to quantify so-far implicit yet important
+assumptions of BMC. What is more, we will be able to differentiate between a
+closed world, where the true model is assumed to be within the set of considered
+models, and an open world, where the true model may not be within that set – a
+critical distinction in the context of model comparison procedures.
+
+Overarching Topics: 
+[Model Comparison](../resarch#model-comparison),
+[Uncertainty Quantification](../resarch#uncertainty-quantification)
+
+Project Members: [Marvin Schmitt](../people#marvin-schmitt)
+
+Funders: [Cyber Valley Research Fund](https://cyber-valley.de/en/research-fund)
+
+Funding Period: 2022 -- 2025
+
+Publications: 
+
+-   Schmitt, M., Radev, S. T., & Bürkner P. C. (2023). [Meta-Uncertainty in Bayesian Model Comparison](http://arxiv.org/abs/2210.07278). *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
+- Schmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (in review). [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](https://arxiv.org/abs/2112.08866). *ArXiv preprint*.
+
+<!-- -->
+
+## Intuitive Joint Priors for Bayesian Multilevel Models {#joint-priors-mlms}
+
+Regression models are ubiquitous in the quantitative sciences making up a big part of all statistical analysis performed on data. In psychology, data often contains multilevel structure, for example, because of natural groupings of individuals or repeated measurement of the same individuals. Multilevel models (MLMs) are designed specifically to account for the nested structure in multilevel data and are a widely applied class of regression models in psychology and beyond. From a Bayesian perspective, the widespread success of MLMs can be explained by the fact that they impose joint priors over a set of parameters with shared hyper-parameters, rather than separate independent priors for each parameter. However, in almost all state-of-the-art approaches, different additive regression terms in MLMs, corresponding to different parameter sets, still receive mutually independent priors. As more and more terms are being added to the model while the number of observations remains constant, such models will overfit the data. This is highly problematic as it leads to unreliable or uninterpretable estimates, bad out-of-sample predictions, and inflated Type I error rates.
+
+The primary objective of the proposed project is to develop, evaluate, implement, and apply intuitive joint priors for Bayesian MLMs. Extending existing approaches, we propose to derive a prior on the coefficient of determination $R^2$ (known as proportion of explained variance) and decompose it into individual variance components. Such $R^2$ priors share several desirable properties with other shrinkage priors, which enable the estimation, interpretation, and selection of regression terms and prevent overfitting.
+
+Overarching Topics: 
+[Prior Specification](../resarch#prior-specification)
+
+Project Members: [Javiler Aguilar](../people#javier-aguilar)
+
+Funders: 
+[German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp),
+[University of Stuttgart](https://www.uni-stuttgart.de/en/)
+
+Funding Period: 2022 -- 2025
+
+Publications:
+
+-   Aguilar J. E. & Bürkner P. C. (in review). [Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior](https://arxiv.org/abs/2208.07132). *ArXiv preprint*.
+
+<!-- -->
+
+## Machine Learning for Bayesian Model Building {#ml4bmb}
+
+The Bayesian approach to data analysis provides a consistent and flexible way to handle uncertainty in all observations, model parameters, and model structure using probability theory. However, building Bayesian models in a principled way remains a highly complex task requiring a lot of expertise and cognitive resources. In this project, we will develop a machine assisted workflow for building interpretable, robust, and well-predicting Bayesian models. Based on statistical theory, we will develop a framework for simulating realistic data with known modeling challenges using generative adversarial networks. Subsequently, using neural network architectures tuned to the structure of the fitted Bayesian models, machines will be trained on the simulated data to provide automatic model evaluation and modeling recommendations that guide the user through the model building process using interactive visualizations. While leaving the modeling choices up to the user, the machine learns from the user's decisions to improve its recommendations on the fly.
+
+Overarching Topics: 
+[Maschine-Assisted Bayesian Workflow](../resarch#machine-workflow), 
+[Model Comparison](../resarch#model-comparison)
+
+Project Members: [Maximilian Scholz](../people#maximilian-scholz)
+
+Funders: [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/)
+
+Funding Period: 2021 -- 2024
+
+Publications:
+
+- Scholz M. & Bürkner P. C. (in review). [Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models](https://arxiv.org/abs/2210.06927). *ArXiv preprint*.
+- Bürkner P. C., Scholz M., & Radev S. T. (in review). [Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy](http://arxiv.org/abs/2209.02439). *ArXiv preprint*.

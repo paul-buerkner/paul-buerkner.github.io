@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Paul Bürkner - Open Source Software</title>
+<title>Paul Bürkner - Projects</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -60,6 +60,7 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -89,7 +90,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">People</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../projects/index.html">
+    <a class="nav-link active" href="../projects/index.html" aria-current="page">
  <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
@@ -97,7 +98,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../software/index.html" aria-current="page">
+    <a class="nav-link" href="../software/index.html">
  <span class="menu-text">Software</span></a>
   </li>  
   <li class="nav-item">
@@ -150,7 +151,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Open Source Software</h1>
+<h1 class="title">Projects</h1>
 </div>
 
 
@@ -165,33 +166,95 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>In addition to doing research and managing a lab, I am deeply involved in open source software development. You can find my major contributions below.</p>
-<p>Development team member of</p>
+<!--
+## Amortized Bayesian Inference for Multilevel Models {#amortized-mlms}
+
+Description will be added soon.
+
+Overarching Topics: 
+[Simulation-Based Inference](../resarch#sbi),
+[Uncertainty Quantification](../resarch#uncertainty-quantification)
+
+Project Members: TBD
+
+Funders: [German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp)
+
+Funding Period: 2023 -- 2026
+
+-->
+<section id="bdlvms" class="level2">
+<h2 class="anchored" data-anchor-id="bdlvms">Bayesian Distributional Latent Variable Models</h2>
+<p>Description will be added soon.</p>
+<p>Overarching Topics: <a href="../resarch#uncertainty-quantification">Uncertainty Quantification</a>, <a href="../resarch#machine-workflow">Maschine-Assisted Bayesian Workflow</a></p>
+<p>Project Members: <a href="../people#luna-fazio">Luna Fazio</a></p>
+<p>Funders: <a href="https://www.dfg.de/en/index.jsp">German Research Foundation (DFG)</a></p>
+<p>Funding Period: 2022 – 2025</p>
+<!-- -->
+</section>
+<section id="sbpriors" class="level2">
+<h2 class="anchored" data-anchor-id="sbpriors">Simulation-Based Prior Distributions</h2>
+<p>Data-driven statistical modeling plays a crucial role in almost all quantitative sciences. Despite continuous increases in the amount of available data, the addition of further information sources, such as expert knowledge, often remains an irreplaceable part of setting up high-fidelity models. Grounded in probability theory, Bayesian statistics provides a principled approach to including expert knowledge in the form of prior distributions, a process called prior elicitation. However, prior elicitation for high-dimensional Bayesian models is infeasible with existing methods due to practical and computational challenges. With the goal of solving these challenges, we propose to develop simulation-based priors for high-dimensional Bayesian models that allow to incorporate prior information elicited on any model-implied quantities. We expect the developed methods to have a major impact on all fields applying probabilistic modeling by making the use of expert knowledge practical, robust, and computationally feasible.</p>
+<p>Overarching Topics: <a href="../resarch#prior-specification">Prior Specification</a>, <a href="../resarch#sbi">Simulation-Based Inference</a></p>
+<p>Project Members: <a href="../people#florence-bockting">Florence Bockting</a></p>
+<p>Funders: <a href="https://www.simtech.uni-stuttgart.de/">Cluster of Excellence SimTech</a></p>
+<p>Funding Period: 2022 – 2025</p>
+<!-- -->
+</section>
+<section id="bio-surrogate-models" class="level2">
+<h2 class="anchored" data-anchor-id="bio-surrogate-models">Data-Integrated Training of Surrogate Models for Uncertainty Quantification and Diagnostics of Complex Biological Systems Models</h2>
+<p>Description will be added soon.</p>
+<p>Overarching Topics: <a href="../resarch#uncertainty-quantification">Uncertainty Quantification</a></p>
+<p>Project Members: <a href="../people#philipp-reiser">Philipp Reiser</a></p>
+<p>Co-Supervisors: <a href="https://www.simtech.uni-stuttgart.de/exc/people/Guthke/">Dr.&nbsp;Anneli Guthke</a></p>
+<p>Funders: <a href="https://www.simtech.uni-stuttgart.de/">Cluster of Excellence SimTech</a></p>
+<p>Funding Period: 2022 – 2025</p>
+<!-- -->
+</section>
+<section id="mu-bmb" class="level2">
+<h2 class="anchored" data-anchor-id="mu-bmb">Meta-Uncertainty in Bayesian Model Comparison</h2>
+<p>What we can learn from a single data set in experiments and observational studies is always limited, and we are inevitably left with some remaining uncertainty. It is of utmost importance to take this uncertainty into account when drawing conclusions if we want to make real scientific progress. Formalizing and quantifying uncertainty is thus at the heart of statistical methods aiming to obtain insights from data.</p>
+<p>To compare schientific theories, scientists translate them into statistical models and then investigate how well the models’ predictions match the gathered realworld data. One widely applied approach to compare statistical models is Bayesian model comparison (BMC). Relying on BMC, researchers obtain the probability that each of the competing models is true (or is closest to the truth) given the data. These probabilities are measures of uncertainty and, yet, are also uncertain themselves. This is what we call meta-uncertainty (uncertainty over uncertainties). Meta-uncertainty affects the conclusions we can draw from model comparisons and, consequently, the conclusions we can draw about the underlying scientific theories.</p>
+<p>This project contributes to this endeavor by developing and evaluating methods for quantifying meta-uncertainty in BMC. Building upon mathematical theory of meta-uncertainty, we will utilize extensive model simulations as an additional source of information, which enable us to quantify so-far implicit yet important assumptions of BMC. What is more, we will be able to differentiate between a closed world, where the true model is assumed to be within the set of considered models, and an open world, where the true model may not be within that set – a critical distinction in the context of model comparison procedures.</p>
+<p>Overarching Topics: <a href="../resarch#model-comparison">Model Comparison</a>, <a href="../resarch#uncertainty-quantification">Uncertainty Quantification</a></p>
+<p>Project Members: <a href="../people#marvin-schmitt">Marvin Schmitt</a></p>
+<p>Funders: <a href="https://cyber-valley.de/en/research-fund">Cyber Valley Research Fund</a></p>
+<p>Funding Period: 2022 – 2025</p>
+<p>Publications:</p>
 <ul>
-<li><strong>Stan</strong>: A probabilistic programming language [<a href="https://mc-stan.org/">Website</a>]</li>
+<li>Schmitt, M., Radev, S. T., &amp; Bürkner P. C. (2023). <a href="http://arxiv.org/abs/2210.07278">Meta-Uncertainty in Bayesian Model Comparison</a>. <em>Artificial Intelligence and Statistics (AISTATS) Conference Proceedings</em>.</li>
+<li>Schmitt, M., Bürkner P. C., Köthe U., &amp; Radev S. T. (in review). <a href="https://arxiv.org/abs/2112.08866">Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks</a>. <em>ArXiv preprint</em>.</li>
 </ul>
-<p>Lead author and maintainer of</p>
+<!-- -->
+</section>
+<section id="joint-priors-mlms" class="level2">
+<h2 class="anchored" data-anchor-id="joint-priors-mlms">Intuitive Joint Priors for Bayesian Multilevel Models</h2>
+<p>Regression models are ubiquitous in the quantitative sciences making up a big part of all statistical analysis performed on data. In psychology, data often contains multilevel structure, for example, because of natural groupings of individuals or repeated measurement of the same individuals. Multilevel models (MLMs) are designed specifically to account for the nested structure in multilevel data and are a widely applied class of regression models in psychology and beyond. From a Bayesian perspective, the widespread success of MLMs can be explained by the fact that they impose joint priors over a set of parameters with shared hyper-parameters, rather than separate independent priors for each parameter. However, in almost all state-of-the-art approaches, different additive regression terms in MLMs, corresponding to different parameter sets, still receive mutually independent priors. As more and more terms are being added to the model while the number of observations remains constant, such models will overfit the data. This is highly problematic as it leads to unreliable or uninterpretable estimates, bad out-of-sample predictions, and inflated Type I error rates.</p>
+<p>The primary objective of the proposed project is to develop, evaluate, implement, and apply intuitive joint priors for Bayesian MLMs. Extending existing approaches, we propose to derive a prior on the coefficient of determination <span class="math inline">\(R^2\)</span> (known as proportion of explained variance) and decompose it into individual variance components. Such <span class="math inline">\(R^2\)</span> priors share several desirable properties with other shrinkage priors, which enable the estimation, interpretation, and selection of regression terms and prevent overfitting.</p>
+<p>Overarching Topics: <a href="../resarch#prior-specification">Prior Specification</a></p>
+<p>Project Members: <a href="../people#javier-aguilar">Javiler Aguilar</a></p>
+<p>Funders: <a href="https://www.dfg.de/en/index.jsp">German Research Foundation (DFG)</a>, <a href="https://www.uni-stuttgart.de/en/">University of Stuttgart</a></p>
+<p>Funding Period: 2022 – 2025</p>
+<p>Publications:</p>
 <ul>
-<li><strong>brms</strong>: Bayesian Regression Models using Stan [<a href="https://paul-buerkner.github.io/brms">Website</a>, <a href="https://github.com/paul-buerkner/brms">GitHub</a>, <a href="../software/brms-blogposts.html">Blog-Posts</a>]</li>
-<li><strong>posterior</strong>: Tools for Working with Posterior Distributions [<a href="https://github.com/jgabry/posterior">GitHub</a>]</li>
-<li><strong>thurstonianIRT</strong>: Fit Thurstonian IRT models in R [<a href="https://github.com/paul-buerkner/thurstonianIRT">GitHub</a>]</li>
+<li>Aguilar J. E. &amp; Bürkner P. C. (in review). <a href="https://arxiv.org/abs/2208.07132">Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior</a>. <em>ArXiv preprint</em>.</li>
 </ul>
-<p>Author of</p>
+<!-- -->
+</section>
+<section id="ml4bmb" class="level2">
+<h2 class="anchored" data-anchor-id="ml4bmb">Machine Learning for Bayesian Model Building</h2>
+<p>The Bayesian approach to data analysis provides a consistent and flexible way to handle uncertainty in all observations, model parameters, and model structure using probability theory. However, building Bayesian models in a principled way remains a highly complex task requiring a lot of expertise and cognitive resources. In this project, we will develop a machine assisted workflow for building interpretable, robust, and well-predicting Bayesian models. Based on statistical theory, we will develop a framework for simulating realistic data with known modeling challenges using generative adversarial networks. Subsequently, using neural network architectures tuned to the structure of the fitted Bayesian models, machines will be trained on the simulated data to provide automatic model evaluation and modeling recommendations that guide the user through the model building process using interactive visualizations. While leaving the modeling choices up to the user, the machine learns from the user’s decisions to improve its recommendations on the fly.</p>
+<p>Overarching Topics: <a href="../resarch#machine-workflow">Maschine-Assisted Bayesian Workflow</a>, <a href="../resarch#model-comparison">Model Comparison</a></p>
+<p>Project Members: <a href="../people#maximilian-scholz">Maximilian Scholz</a></p>
+<p>Funders: <a href="https://www.simtech.uni-stuttgart.de/">Cluster of Excellence SimTech</a></p>
+<p>Funding Period: 2021 – 2024</p>
+<p>Publications:</p>
 <ul>
-<li><strong>BayesFlow</strong>: A Python library for simulation-based Bayesian inference [<a href="https://github.com/stefanradev93/BayesFlow">GitHub</a>]</li>
-<li><strong>posteriordb</strong>: A database of Bayesian posterior inference [<a href="https://github.com/stan-dev/posteriordb">GitHub</a>]</li>
-<li><strong>loo</strong>: Approximate leave-one-out cross-validation [<a href="https://mc-stan.org/loo">Website</a>, <a href="https://github.com/stan-dev/loo">GitHub</a>]</li>
-<li><strong>bayesian</strong>: An Interface from brms to tidymodels [<a href="https://hsbadr.github.io/bayesian/">Website</a>, <a href="https://github.com/hsbadr/bayesian">GitHub</a>]</li>
-</ul>
-<p>Contributed to</p>
-<ul>
-<li><strong>rstan</strong>: R Interface to Stan [<a href="https://mc-stan.org/rstan">Website</a>, <a href="https://github.com/stan-dev/rstan">GitHub</a>]</li>
-<li><strong>bayesplot</strong>: Plotting Bayesian models [<a href="https://mc-stan.org/bayesplot">Website</a>, <a href="https://github.com/stan-dev/bayesplot">GitHub</a>]</li>
-<li><strong>projpred</strong>: Projection predictive variable selection [<a href="https://mc-stan.org/projpred">Website</a>, <a href="https://github.com/stan-dev/projpred">GitHub</a>]</li>
-<li><strong>emmeans</strong>: Estimating marginal means [<a href="https://github.com/rvlenth/emmeans">GitHub</a>]</li>
+<li>Scholz M. &amp; Bürkner P. C. (in review). <a href="https://arxiv.org/abs/2210.06927">Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models</a>. <em>ArXiv preprint</em>.</li>
+<li>Bürkner P. C., Scholz M., &amp; Radev S. T. (in review). <a href="http://arxiv.org/abs/2209.02439">Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy</a>. <em>ArXiv preprint</em>.</li>
 </ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
