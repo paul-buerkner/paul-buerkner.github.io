@@ -6,7 +6,7 @@ date: 2023-01-26
 published-title: CV last updated
 engine: knitr 
 cv:
-  pdf: "CV_Paul_Buerkner.pdf"
+  pdf: "cv_paul_buerkner.pdf"
 ---
 
 ```{css echo=FALSE}

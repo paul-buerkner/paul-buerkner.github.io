@@ -43,7 +43,7 @@ excerpt: "People working in my lab"
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/missing-profile-picture-round.png){fig-alt="A portrait of Stefan Radev."}
+![](../images/stefan-radev-round.png){fig-alt="A portrait of Stefan Radev."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Stefan Radev
