@@ -138,6 +138,8 @@ Funding Period: 2022 -- 2025
 
 ## Meta-Uncertainty in Bayesian Model Comparison {#mu-bmb}
 
+![](../images/meta_uncertainty_banner.png){fig-alt="An illustration of meta-uncertainty."}
+
 What we can learn from a single data set in experiments and observational
 studies is always limited, and we are inevitably left with some remaining
 uncertainty. It is of utmost importance to take this uncertainty into account
