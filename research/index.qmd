@@ -7,11 +7,32 @@ page-layout: full
 
 <!-- TODO: add some nice pictures -->
 
-Probabilistic (Bayesian) approaches to statistics and machine learning have become increasingly popular in recent years due to new developments in probabilistic programming languages and associated learning algorithms as well as a steady increase in overall computing power. Probabilistic programming languages make it easier to specify and fit Bayesian models, but this still leaves us with many options regarding constructing, evaluating, and using these models, along with many remaining challenges in computation. My overarching scientific goal for the upcoming years is to develop a principled Bayesian workflow for data analysis that comprises the whole scientific process from design of studies, data gathering and cleaning over model building, calibration, fitting and evaluation, to the post-processing and statistical decision making. As such, we are working on a wide range of research topics related to the development, evaluation, implementation, or application of Bayesian methods. Some of my current core research areas are detailed below.
+Probabilistic (Bayesian) approaches to statistics and machine learning have
+become increasingly popular in recent years due to new developments in
+probabilistic programming languages and associated learning algorithms as well
+as a steady increase in overall computing power. Probabilistic programming
+languages make it easier to specify and fit Bayesian models, but this still
+leaves us with many options regarding constructing, evaluating, and using these
+models, along with many remaining challenges in computation. My overarching
+scientific goal for the upcoming years is to develop a principled Bayesian
+workflow for data analysis that comprises the whole scientific process from
+design of studies, data gathering and cleaning over model building, calibration,
+fitting and evaluation, to the post-processing and statistical decision making.
+As such, we are working on a wide range of research topics related to the
+development, evaluation, implementation, or application of Bayesian methods.
+Some of my current core research areas are detailed below.
 
 ## Uncertainty Quantification {#uncertainty-quantification}
 
-In experiments and observational studies, scientists gather data to learn more about the world. However, what we can learn from a single data set is always limited, and we are inevitably left with some remaining uncertainty. It is of high importance to take this uncertainty into account when drawing conclusions if we want to make real scientific progress. Formalizing and quantifying uncertainty is thus at the heart of statistical methods aiming to obtain insights from data. In my lab, all projects, in one way or the other, deal with uncertainty quantification and propagation, primarily through sampling-based methods.
+In experiments and observational studies, scientists gather data to learn more
+about the world. However, what we can learn from a single data set is always
+limited, and we are inevitably left with some remaining uncertainty. It is of
+high importance to take this uncertainty into account when drawing conclusions
+if we want to make real scientific progress. Formalizing and quantifying
+uncertainty is thus at the heart of statistical methods aiming to obtain
+insights from data. In my lab, all projects, in one way or the other, deal with
+uncertainty quantification and propagation, primarily through sampling-based
+methods.
 
 Current projects:
 
@@ -23,7 +44,19 @@ Current projects:
 
 ## Prior Specification {#prior-specification}
 
-Specification of prior distributions for a Bayesian model is a central part of the Bayesian workflow for data analysis, but it is often difficult even for statistical experts. Prior elicitation transforms domain knowledge of various kinds into well-defined prior distributions, and offers a solution to the prior specification problem, in principle. In practice, however, we are still far from having usable prior elicitation tools that could significantly influence the way we build probabilistic models especially for high-dimensional problems. We are approaching this challenge from two perspectives, (a) by developing intuitive joint prior distributions that yield sensible prior predictions even in high-dimensional spaces and (b) by building prior elicitation tools that transform expert knowledge in the data space into prior distributions on the model parameters that are consistent with that knowledge while satisfying additional probabilistic constraints.
+Specification of prior distributions for a Bayesian model is a central part of
+the Bayesian workflow for data analysis, but it is often difficult even for
+statistical experts. Prior elicitation transforms domain knowledge of various
+kinds into well-defined prior distributions, and offers a solution to the prior
+specification problem, in principle. In practice, however, we are still far from
+having usable prior elicitation tools that could significantly influence the way
+we build probabilistic models especially for high-dimensional problems. We are
+approaching this challenge from two perspectives, (a) by developing intuitive
+joint prior distributions that yield sensible prior predictions even in
+high-dimensional spaces and (b) by building prior elicitation tools that
+transform expert knowledge in the data space into prior distributions on the
+model parameters that are consistent with that knowledge while satisfying
+additional probabilistic constraints.
 
 Current projects:
 
@@ -32,7 +65,14 @@ Current projects:
 
 ## Simulation-Based Inference {#sbi}
 
-For complex physical or cognitive models, the data generating process cannot be fully expressed analytically. Rather, we only have access to a simulator that generates data from said process and we thus must rely on Simulation-based inference for learning about such models from data. Neural density estimators have proven remarkably powerful in performing efficient simulation-based Bayesian inference in various research domains. However, there remain several open challenges regarding their accuracy, scalability, and robustness of these methods, challenges that my lab aims to solve in the upcoming years.
+For complex physical or cognitive models, the data generating process cannot be
+fully expressed analytically. Rather, we only have access to a simulator that
+generates data from said process and we thus must rely on Simulation-based
+inference for learning about such models from data. Neural density estimators
+have proven remarkably powerful in performing efficient simulation-based
+Bayesian inference in various research domains. However, there remain several
+open challenges regarding their accuracy, scalability, and robustness of these
+methods, challenges that my lab aims to solve in the upcoming years.
 
 Current projects:
 
@@ -41,7 +81,15 @@ Current projects:
 
 ## Model Comparison {#model-comparison}
 
-Numerous research questions in basic science are concerned with comparing multiple scientific theories to understand which of them is more likely to be true, or at least closer to the truth. To compare these theories, scientists translate them into statistical models and then investigate how well the models' predictions match the gathered real-world data. Even if the goal is purely predictive, model comparison is very important for predictive model selection or averaging. In my lab, we are exploring Bayesian model comparison approaches from both theory-driven and predictive perspectives and even seek to find ways to combine both perspectives.
+Numerous research questions in basic science are concerned with comparing
+multiple scientific theories to understand which of them is more likely to be
+true, or at least closer to the truth. To compare these theories, scientists
+translate them into statistical models and then investigate how well the models'
+predictions match the gathered real-world data. Even if the goal is purely
+predictive, model comparison is very important for predictive model selection or
+averaging. In my lab, we are exploring Bayesian model comparison approaches from
+both theory-driven and predictive perspectives and even seek to find ways to
+combine both perspectives.
 
 Current projects:
 
@@ -50,7 +98,18 @@ Current projects:
 
 ## Maschine-Assisted Bayesian Workflow {#machine-workflow}
 
-Building Bayesian models in a principled way remains a highly complex task requiring a lot of expertise and cognitive resources. Ideally, subject matter experts do not have to solve everything by themselves but have statisticians or data scientists by their side to assist them. Of course, the latter are not always available for every data-analysis project. As a remedy we are developing a machine-assisted workflow for building interpretable, robust, and well-predicting Bayesian models. This first requires more research on the theoretical foundations of Bayesian model building. With this in hand, machines will be trained to provide automatic model evaluation and modeling recommendations that guide the user through the model building process. While leaving the modeling choices up to the user, the machine subsequently learns from the user's decisions to improve its recommendations on the fly.
+Building Bayesian models in a principled way remains a highly complex task
+requiring a lot of expertise and cognitive resources. Ideally, subject matter
+experts do not have to solve everything by themselves but have statisticians or
+data scientists by their side to assist them. Of course, the latter are not
+always available for every data-analysis project. As a remedy we are developing
+a machine-assisted workflow for building interpretable, robust, and
+well-predicting Bayesian models. This first requires more research on the
+theoretical foundations of Bayesian model building. With this in hand, machines
+will be trained to provide automatic model evaluation and modeling
+recommendations that guide the user through the model building process. While
+leaving the modeling choices up to the user, the machine subsequently learns
+from the user's decisions to improve its recommendations on the fly.
 
 Current projects:
 
