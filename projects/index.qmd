@@ -193,16 +193,15 @@ constant, such models will overfit the data. This is highly problematic as it
 leads to unreliable or uninterpretable estimates, bad out-of-sample predictions,
 and inflated Type I error rates.
 
-The primary objective of our project is to
-develop, evaluate, implement, and apply intuitive joint priors for Bayesian
-MLMs. We hypothesize that our developed priors will enable the reliable and
-interpretable estimation of much more complex Bayesian MLMs than was previously
-possible.
+To solve these challenges, this project aims to develop, evaluate, implement,
+and apply intuitive joint priors for Bayesian MLMs. We hypothesize that our
+developed priors will enable the reliable and interpretable estimation of much
+more complex Bayesian MLMs than was previously possible.
 
 Overarching Topics: 
 [Prior Specification](../research#prior-specification)
 
-Project Members: [Javiler Aguilar](../people#javier-aguilar)
+Project Members: [Javier Aguilar](../people#javier-aguilar)
 
 Funders: 
 [German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp),
