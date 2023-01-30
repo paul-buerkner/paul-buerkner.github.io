@@ -60,7 +60,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -198,17 +197,6 @@ Funding Period: 2023 -- 2026
 <section id="bdlvms" class="level2">
 <h2 class="anchored" data-anchor-id="bdlvms">Bayesian Distributional Latent Variable Models</h2>
 <p>In psychology and related sciences, a lot of research is concerned with studying latent variables, that is, constructs which are not directly observable. Statistical methods for modeling latent variables based on manifest (observable) indicators are thus crucial to the scientific progress in those fields. Two major interconnected statistical areas dealing with latent variables exist, namely, Item Response Theory (IRT) and Structural Equation Modeling (SEM). Although the two fields are closely connected, the frontiers of IRT and SEM have developed in somewhat different directions.</p>
-<!--
-IRT has focused on building increasingly complex measurement models of
-psychological data. They are often represented as distributional models, where
-not only the location but also other response distribution parameters such as
-scale or shape are related to item or person characteristics. Such
-distributional models have gained considerable momentum in various fields, such
-as cognitive psychology, where individuals' responses are determined by multiple
-underlying processes. In comparison, SEM research has focused more strongly on
-extending the structural model part which enables increasingly complex
-regression models involving latent endogenous and/or exogenous variables.
--->
 <p>A combination of these two major frontiers would enable researchers to tackle a lot of advanced psychological research questions at the intersection of psychometrics, personnel psychology, cognitive psychology, and applied psychology. In order for us to gain better insights into behavioral and cognitive processes, their mathematical approximations should match the processes’ complexity in both overall distributional form and its components that are expressed as complex functions of predicting variables.</p>
 <p>This project aims to develop a framework for Bayesian distributional latent variable models that combines the principles of IRT and SEM with the flexibility of distributional regression powered by modern Bayesian estimation methods.</p>
 <p>Overarching Topics: <a href="../research#uncertainty-quantification">Uncertainty Quantification</a>, <a href="../research#machine-workflow">Maschine-Assisted Bayesian Workflow</a></p>
@@ -258,8 +246,8 @@ regression models involving latent endogenous and/or exogenous variables.
 <section id="joint-priors-mlms" class="level2">
 <h2 class="anchored" data-anchor-id="joint-priors-mlms">Intuitive Joint Priors for Bayesian Multilevel Models</h2>
 <p><img src="../images/coef_r2d2_marginal.png" class="img-fluid" alt="Marginal densities of the R2D2 prior's coefficients."></p>
-<p>Regression models are ubiquitous in the quantitative sciences making up a big part of all statistical analysis performed on data. In psychology, data often contains multilevel structure, for example, because of natural groupings of individuals or repeated measurement of the same individuals. Multilevel models (MLMs) are designed specifically to account for the nested structure in multilevel data and are a widely applied class of regression models in psychology and beyond. From a Bayesian perspective, the widespread success of MLMs can be explained by the fact that they impose joint priors over a set of parameters with shared hyper-parameters, rather than separate independent priors for each parameter. However, in almost all state-of-the-art approaches, different additive regression terms in MLMs, corresponding to different parameter sets, still receive mutually independent priors. As more and more terms are being added to the model while the number of observations remains constant, such models will overfit the data. This is highly problematic as it leads to unreliable or uninterpretable estimates, bad out-of-sample predictions, and inflated Type I error rates.</p>
-<p>This project aims to develop, evaluate, implement, and apply intuitive joint priors for Bayesian MLMs. Extending existing approaches, we propose to derive a prior on the coefficient of determination <span class="math inline">\(R^2\)</span> (known as proportion of explained variance) and decompose it into individual variance components. Such <span class="math inline">\(R^2\)</span> priors share several desirable properties with other shrinkage priors, which enable the estimation, interpretation, and selection of regression terms and prevent overfitting.</p>
+<p>Regression models are ubiquitous in the quantitative sciences making up a big part of all statistical analysis performed on data. In the quantitative sciences, data often contains multilevel structure, for example, because of natural groupings of individuals or repeated measurement of the same individuals. Multilevel models (MLMs) are designed specifically to account for the nested structure in multilevel data and are a widely applied class of regression models. From a Bayesian perspective, the widespread success of MLMs can be explained by the fact that they impose joint priors over a set of parameters with shared hyper-parameters, rather than separate independent priors for each parameter. However, in almost all state-of-the-art approaches, different additive regression terms in MLMs, corresponding to different parameter sets, still receive mutually independent priors. As more and more terms are being added to the model while the number of observations remains constant, such models will overfit the data. This is highly problematic as it leads to unreliable or uninterpretable estimates, bad out-of-sample predictions, and inflated Type I error rates.</p>
+<p>The primary objective of our project is to develop, evaluate, implement, and apply intuitive joint priors for Bayesian MLMs. We hypothesize that our developed priors will enable the reliable and interpretable estimation of much more complex Bayesian MLMs than was previously possible.</p>
 <p>Overarching Topics: <a href="../research#prior-specification">Prior Specification</a></p>
 <p>Project Members: <a href="../people#javier-aguilar">Javiler Aguilar</a></p>
 <p>Funders: <a href="https://www.dfg.de/en/index.jsp">German Research Foundation (DFG)</a>, <a href="https://www.uni-stuttgart.de/en/">University of Stuttgart</a></p>

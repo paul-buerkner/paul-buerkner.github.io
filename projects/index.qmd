@@ -35,18 +35,6 @@ namely, Item Response Theory (IRT) and Structural Equation Modeling (SEM).
 Although the two fields are closely connected, the frontiers of IRT and SEM have
 developed in somewhat different directions.
 
-<!--
-IRT has focused on building increasingly complex measurement models of
-psychological data. They are often represented as distributional models, where
-not only the location but also other response distribution parameters such as
-scale or shape are related to item or person characteristics. Such
-distributional models have gained considerable momentum in various fields, such
-as cognitive psychology, where individuals' responses are determined by multiple
-underlying processes. In comparison, SEM research has focused more strongly on
-extending the structural model part which enables increasingly complex
-regression models involving latent endogenous and/or exogenous variables.
--->
-
 A combination of these two major frontiers would enable researchers to tackle a
 lot of advanced psychological research questions at the intersection of
 psychometrics, personnel psychology, cognitive psychology, and applied
@@ -189,13 +177,13 @@ Publications:
 ![](../images/coef_r2d2_marginal.png){fig-alt="Marginal densities of the R2D2 prior's coefficients."}
 
 Regression models are ubiquitous in the quantitative sciences making up a big
-part of all statistical analysis performed on data. In psychology, data often
-contains multilevel structure, for example, because of natural groupings of
-individuals or repeated measurement of the same individuals. Multilevel models
-(MLMs) are designed specifically to account for the nested structure in
-multilevel data and are a widely applied class of regression models in
-psychology and beyond. From a Bayesian perspective, the widespread success of
-MLMs can be explained by the fact that they impose joint priors over a set of
+part of all statistical analysis performed on data. In the quantitative
+sciences, data often contains multilevel structure, for example, because of
+natural groupings of individuals or repeated measurement of the same
+individuals. Multilevel models (MLMs) are designed specifically to account for
+the nested structure in multilevel data and are a widely applied class of
+regression models. From a Bayesian perspective, the widespread success of MLMs
+can be explained by the fact that they impose joint priors over a set of
 parameters with shared hyper-parameters, rather than separate independent priors
 for each parameter. However, in almost all state-of-the-art approaches,
 different additive regression terms in MLMs, corresponding to different
@@ -205,13 +193,11 @@ constant, such models will overfit the data. This is highly problematic as it
 leads to unreliable or uninterpretable estimates, bad out-of-sample predictions,
 and inflated Type I error rates.
 
-This project aims to develop, evaluate, implement, and apply intuitive joint
-priors for Bayesian MLMs. Extending existing approaches, we propose to derive a
-prior on the coefficient of determination $R^2$ (known as proportion of
-explained variance) and decompose it into individual variance components. Such
-$R^2$ priors share several desirable properties with other shrinkage priors,
-which enable the estimation, interpretation, and selection of regression terms
-and prevent overfitting.
+The primary objective of our project is to
+develop, evaluate, implement, and apply intuitive joint priors for Bayesian
+MLMs. We hypothesize that our developed priors will enable the reliable and
+interpretable estimation of much more complex Bayesian MLMs than was previously
+possible.
 
 Overarching Topics: 
 [Prior Specification](../research#prior-specification)
