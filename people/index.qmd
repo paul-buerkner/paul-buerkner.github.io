@@ -13,7 +13,7 @@ toc-location: right
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/paul-buerkner-round.png){fig-alt="A portrait of Paul Bürkner."}
+![](../images/paul-buerkner-round.png){width=100% fig-alt="A portrait of Paul Bürkner."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Paul Bürkner
@@ -43,7 +43,7 @@ Links:
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/stefan-radev-round.png){fig-alt="A portrait of Stefan Radev."}
+![](../images/stefan-radev-round.png){width=100% fig-alt="A portrait of Stefan Radev."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Stefan Radev
@@ -74,7 +74,7 @@ Co-Supervisor: [Ullrich Köthe](https://hci.iwr.uni-heidelberg.de/vislearn/peopl
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/missing-profile-picture-round.png){fig-alt="A portrait of Javier Aguilar."}
+![](../images/missing-profile-picture-round.png){width=100% fig-alt="A portrait of Javier Aguilar."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Javier Aguilar {#javier-aguilar}
@@ -97,7 +97,7 @@ Links:
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/missing-profile-picture-round.png){fig-alt="A portrait of Florence Bockting."}
+![](../images/missing-profile-picture-round.png){width=100% fig-alt="A portrait of Florence Bockting."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Florence Bockting {#florence-bockting}
@@ -116,7 +116,7 @@ Project: [Simulation-Based Prior Distributions for Bayesian Models](../projects#
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/missing-profile-picture-round.png){fig-alt="A portrait of Luna Fazio."}
+![](../images/missing-profile-picture-round.png){width=100% fig-alt="A portrait of Luna Fazio."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Luna Fazio {#luna-fazio}
@@ -137,7 +137,7 @@ Links: [GitHub](https://github.com/bmfazio)
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/soham-mukherjee-round.png){fig-alt="A portrait of Soham Mukherjee."}
+![](../images/soham-mukherjee-round.png){width=100% fig-alt="A portrait of Soham Mukherjee."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Soham Mukherjee {#soham-mukherjee}
@@ -162,7 +162,7 @@ Co-Supervisor: [Manfred Claassen](https://claassenlab.github.io/people/manfred-c
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/philipp-reiser-round.png){fig-alt="A portrait of Philipp Reiser."}
+![](../images/philipp-reiser-round.png){width=100% fig-alt="A portrait of Philipp Reiser."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Philipp Reiser {#philipp-reiser}
@@ -188,7 +188,7 @@ Co-Supervisor: [Anneli Guthke](https://www.simtech.uni-stuttgart.de/exc/people/G
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/marvin-schmitt-round.png){fig-alt="A portrait of Marvin Schmitt."}
+![](../images/marvin-schmitt-round.png){width=100% fig-alt="A portrait of Marvin Schmitt."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Marvin Schmitt {#marvin-schmitt}
@@ -212,7 +212,7 @@ Links:
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/maximilian-scholz-round.png){fig-alt="A portrait of Maximilian Scholz."}
+![](../images/maximilian-scholz-round.png){width=100% fig-alt="A portrait of Maximilian Scholz."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Maximilian Scholz {#maximilian-scholz}
