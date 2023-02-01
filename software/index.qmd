@@ -77,14 +77,23 @@ Links:
 :::
 :::
 
-**Stan**  is a state-of-the-art platform for statistical modeling and high-performance statistical computation. Thousands of users rely on Stan for statistical modeling, data analysis, and prediction in the social, biological, and physical sciences, engineering, and business.
-Users specify log density functions in Stan’s probabilistic programming language and get 
-full Bayesian statistical inference with MCMC sampling in addition to other inference
-algorithms.
-Stan’s math library provides differentiable probability functions & linear algebra (C++ autodiff). Additional R packages provide expression-based linear modeling, posterior visualization, Bayesian cross-validation, and much more.
+**Stan**  is a state-of-the-art platform for statistical modeling and 
+high-performance statistical computation. Thousands of users rely on Stan for
+statistical modeling, data analysis, and prediction in the social, biological, 
+and physical sciences, engineering, and business.
+Users specify log density functions in Stan’s probabilistic programming language
+and get full Bayesian statistical inference with MCMC sampling as well as access
+to other inference algorithms. Stan’s math library provides differentiable
+probability functions & linear algebra (C++ autodiff). Additional R packages
+provide expression-based linear modeling, posterior visualization, Bayesian
+cross-validation, and much more.
 
-Stan interfaces with the most popular data analysis languages (R, Python, Julia) as well as the command line. It runs on all major platforms (Linux, Mac, Windows). 
-Stan is freedom-respecting, open-source software (new BSD core, some interfaces GPLv3).  Stan is associated with [NumFOCUS](https://numfocus.org/), a nonprofit supporting open code and reproducible science, through which you can help support Stan.
+Stan interfaces with the most popular data analysis languages (R, Python, Julia)
+as well as the command line. It runs on all major platforms (Linux, Mac,
+Windows). Stan is freedom-respecting, open-source software (new BSD core, some
+interfaces GPLv3).  Stan is associated with [NumFOCUS](https://numfocus.org/), a
+nonprofit supporting open code and reproducible science, through which you can
+help support Stan.
 
 References:
 
@@ -98,8 +107,8 @@ libraries.
 
 Lead author of 
 
-- **brms**: Bayesian Regression Models using Stan [[Website](https://paul-buerkner.github.io/brms), [GitHub](https://github.com/paul-buerkner/brms), [Blog-Posts](../software/brms-blogposts.html)]
-- **posterior**: Tools for Working with Posterior Distributions [[GitHub](https://github.com/jgabry/posterior)]
+- **brms**: Bayesian regression models using Stan [[Website](https://paul-buerkner.github.io/brms), [GitHub](https://github.com/paul-buerkner/brms), [Blog-Posts](../software/brms-blogposts.html)]
+- **posterior**: Tools for working with posterior distributions [[GitHub](https://github.com/jgabry/posterior)]
 
 Author of
 
@@ -148,7 +157,7 @@ within the next couple of years.
 References: 
 
 - Radev, S. T., Mertens, U. K., Voss, A., Ardizzone, L., & Köthe, U. (2020). [BayesFlow: Learning complex stochastic models with invertible neural networks](https://ieeexplore.ieee.org/document/9298920). *IEEE Transactions on Neural Networks and Learning Systems*. Available for free on [ArXiv](https://arxiv.org/abs/2003.06281). doi:10.1109/TNNLS.2020.3042395
-- Radev S. T., D'Alessandro M., Mertens U. K., Voss A., Köthe U., & **Bürkner P. C.** (2021). [Amortized Bayesian Model Comparison with Evidental Deep Learning](https://ieeexplore.ieee.org/document/9612724). *IEEE Transactions on Neural Networks and Learning Systems*. Available for free on [ArXiv](https://arxiv.org/abs/2004.10629). doi:10.1109/TNNLS.2021.3124052 
+- Radev S. T., D'Alessandro M., Mertens U. K., Voss A., Köthe U., & Bürkner P. C. (2021). [Amortized Bayesian Model Comparison with Evidental Deep Learning](https://ieeexplore.ieee.org/document/9612724). *IEEE Transactions on Neural Networks and Learning Systems*. Available for free on [ArXiv](https://arxiv.org/abs/2004.10629). doi:10.1109/TNNLS.2021.3124052 
 - Schmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (2022). [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](https://arxiv.org/abs/2112.08866). *ArXiv preprint*.
 - Elsemüller L., Schnuerch M., Bürkner P. C., & Radev S. T. (2023). [A Deep Learning Method for Comparing Bayesian Hierarchical Models](https://arxiv.org/abs/2301.11873). *ArXiv preprint*.
 
@@ -161,11 +170,11 @@ Lead author of
 
 Author of 
 
-- **bayesian**: An Interface from brms to tidymodels [[Website](https://hsbadr.github.io/bayesian/), [GitHub](https://github.com/hsbadr/bayesian)]
+- **bayesian**: An interface from brms to tidymodels [[Website](https://hsbadr.github.io/bayesian/), [GitHub](https://github.com/hsbadr/bayesian)]
 
 Contributed to:
 
-- **bayesim**: Simulations from Bayesian models [[GitHub](https://github.com/sims1253/bayesim)]
+- **bayesim**: Simulations for Bayesian models [[GitHub](https://github.com/sims1253/bayesim)]
 - **emmeans**: Estimating marginal means [[GitHub](https://github.com/rvlenth/emmeans)]
 
 
