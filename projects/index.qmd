@@ -5,8 +5,6 @@ toc-location: right
 page-layout: full
 ---
 
-<!-- TODO: add some nice pictures -->
-
 <!--
 ## Amortized Bayesian Inference for Multilevel Models {#amortized-mlms}
 

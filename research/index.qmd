@@ -5,8 +5,6 @@ toc-location: right
 page-layout: full
 ---
 
-<!-- TODO: add some nice pictures -->
-
 Probabilistic (Bayesian) approaches to statistics and machine learning have
 become increasingly popular in recent years due to new developments in
 probabilistic programming languages and associated learning algorithms as well

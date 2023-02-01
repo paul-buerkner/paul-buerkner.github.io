@@ -1,36 +1,172 @@
 ---
 title: Open Source Software
 excerpt: "Open source software contributions"
+toc-location: right
+page-layout: full
 ---
 
-<!-- TODO: add more details in general -->
-
-<!-- TODO: add more details about brms -->
-
 In addition to doing research and managing a lab, I am deeply involved in 
-open source software development. You can find my major contributions below.
+open source software development. While I mostly program in R myself,
+my lab uses a flexible combination of R, Python, and C++. I also hope
+to add Julia to the list soon. Below, you can find an overview of my most
+important open source software contributions.
 
-Development team member of 
 
-- **Stan**: A probabilistic programming language [[Website](https://mc-stan.org/)]
+## brms {#brms}
 
-Lead author and maintainer of
+::: {.grid}
+::: {.g-col-12 .g-col-md-2}
+![](../images/brms.png){width=100% fig-alt="The brms logo."}
+:::
+::: {.g-col-12 .g-col-md-10}
+
+brms: Bayesian Regression Models Using Stan
+
+My role: Lead author and maintainer
+
+Links:
+[Website](https://paul-buerkner.github.io/brms),
+[GitHub](https://github.com/paul-buerkner/brms), 
+[Forums](https://discourse.mc-stan.org/),
+[Blog-Posts](../software/brms-blogposts.html)
+
+:::
+:::
+
+**brms** is an R package to fit Bayesian generalized (non-)linear
+multilevel models using [**Stan**](#stan). The formula syntax provides a
+powerful combination of intuitiveness and flexibility. A wide range of response
+distributions are supported, allowing users to fit many differents kinds of
+models including linear, robust linear, count data, survival, response times,
+ordinal, zero-inflated, and even self-defined mixture models all in a multilevel
+context. Further modeling options include theory- and data-driven
+non-linear functions, auto-correlation structures, censored data, missing value
+imputation, and quite a few more. In addition, all parameters of the response
+distribution can be predicted in order to perform distributional regression.
+Multivariate models (i.e., models with multiple response variables) can be fit
+as well. Prior specifications are flexible and explicitly encourage users to
+apply prior distributions that actually reflect their knowledge. Model fit can
+easily be assessed and compared with posterior predictive checks,
+cross-validation, and Bayes factors.
+
+References:
+
+- Bürkner P. C. (2017). [brms: An R Package for Bayesian Multilevel Models using Stan](https://www.jstatsoft.org/article/view/v080i01). *Journal of Statistical Software*. doi:10.18637/jss.v080.i01
+- Bürkner P. C. (2018). [Advanced Bayesian Multilevel Modeling with the R Package brms](https://journal.r-project.org/archive/2018/RJ-2018-017/index.html). *The R Journal*. doi:10.32614/RJ-2018-017
+- Bürkner P. C. (2021). [Bayesian Item Response Modelling in R with brms and Stan](https://www.jstatsoft.org/article/view/v100i05). *Journal of Statistical Software*. doi:10.18637/jss.v100.i05
+
+
+
+## Stan {#stan}
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-2}
+![](../images/stan.png){width=100% fig-alt="The Stan logo."}
+:::
+::: {.g-col-12 .g-col-md-10}
+
+Stan: A Probabilistic Programming Language
+
+My role: Development team member
+
+Links:
+[Website](https://mc-stan.org/),
+[GitHub](https://github.com/stan-dev/),
+[Forums](https://discourse.mc-stan.org/)
+
+:::
+:::
+
+**Stan**  is a state-of-the-art platform for statistical modeling and high-performance statistical computation. Thousands of users rely on Stan for statistical modeling, data analysis, and prediction in the social, biological, and physical sciences, engineering, and business.
+Users specify log density functions in Stan’s probabilistic programming language and get 
+full Bayesian statistical inference with MCMC sampling in addition to other inference
+algorithms.
+Stan’s math library provides differentiable probability functions & linear algebra (C++ autodiff). Additional R packages provide expression-based linear modeling, posterior visualization, Bayesian cross-validation, and much more.
+
+Stan interfaces with the most popular data analysis languages (R, Python, Julia) as well as the command line. It runs on all major platforms (Linux, Mac, Windows). 
+Stan is freedom-respecting, open-source software (new BSD core, some interfaces GPLv3).  Stan is associated with [NumFOCUS](https://numfocus.org/), a nonprofit supporting open code and reproducible science, through which you can help support Stan.
+
+References:
+
+- Stan Development Team (current year). [Stan Modeling Language Users Guide and Reference  Manual (current version)](https://mc-stan.org/users/documentation/). https://mc-stan.org
+- Carpenter B., Gelman A., Hoffman M. D., Lee D., Goodrich B., Betancourt M., Brubaker M., Guo J., Li P., and Riddell A. (2017). [Stan: A probabilistic programming language](https://www.jstatsoft.org/article/view/v076i01). *Journal of Statistical Software*. doi:10.18637/jss.v076.i01.
+
+### Stan-related libraries
+
+Within the Stan universe, I have worked on many different software
+libraries.
+
+Lead author of 
 
 - **brms**: Bayesian Regression Models using Stan [[Website](https://paul-buerkner.github.io/brms), [GitHub](https://github.com/paul-buerkner/brms), [Blog-Posts](../software/brms-blogposts.html)]
 - **posterior**: Tools for Working with Posterior Distributions [[GitHub](https://github.com/jgabry/posterior)]
-- **thurstonianIRT**: Fit Thurstonian IRT models in R [[GitHub](https://github.com/paul-buerkner/thurstonianIRT)]
 
 Author of
 
-- **BayesFlow**: A Python library for simulation-based Bayesian inference [[GitHub](https://github.com/stefanradev93/BayesFlow)]
 - **posteriordb**: A database of Bayesian posterior inference [[GitHub](https://github.com/stan-dev/posteriordb)]
 - **loo**: Approximate leave-one-out cross-validation [[Website](https://mc-stan.org/loo), [GitHub](https://github.com/stan-dev/loo)]
-- **bayesian**: An Interface from brms to tidymodels [[Website](https://hsbadr.github.io/bayesian/), [GitHub](https://github.com/hsbadr/bayesian)]
 
 Contributed to
 
 - **rstan**: R Interface to Stan [[Website](https://mc-stan.org/rstan), [GitHub](https://github.com/stan-dev/rstan)]
 - **bayesplot**: Plotting Bayesian models [[Website](https://mc-stan.org/bayesplot), [GitHub](https://github.com/stan-dev/bayesplot)]
 - **projpred**: Projection predictive variable selection [[Website](https://mc-stan.org/projpred), [GitHub](https://github.com/stan-dev/projpred)]
+
+
+## BayesFlow {#bayesflow}
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-2}
+![](../images/empty-logo-round.png){width=100% fig-alt="The BayesFlow logo."}
+:::
+::: {.g-col-12 .g-col-md-10}
+
+BayesFlow: Simulation-Based Bayesian Inference 
+
+My role: Development team member
+
+Links:
+[GitHub](https://github.com/stefanradev93/BayesFlow)
+
+:::
+:::
+
+
+**BayesFlow** is a Python library for efficient simulation-based Bayesian
+Inference. It enables users to create specialized neural networks for amortized
+Bayesian inference, which repays users with rapid statistical inference after a
+potentially longer simulation-based training phase. A cornerstone idea of
+amortized Bayesian inference is to employ generative neural networks for
+parameter estimation, model comparison, and model validation when working with
+intractable simulators whose behavior as a whole is too complex to be described
+analytically.
+
+Both the BayesFlow library itself and its community are quickly growing. Our
+goal is to make it the gold-standard simulation-based inference library
+within the next couple of years.
+
+References: 
+
+- Radev, S. T., Mertens, U. K., Voss, A., Ardizzone, L., & Köthe, U. (2020). [BayesFlow: Learning complex stochastic models with invertible neural networks](https://ieeexplore.ieee.org/document/9298920). *IEEE Transactions on Neural Networks and Learning Systems*. Available for free on [ArXiv](https://arxiv.org/abs/2003.06281). doi:10.1109/TNNLS.2020.3042395
+- Radev S. T., D'Alessandro M., Mertens U. K., Voss A., Köthe U., & **Bürkner P. C.** (2021). [Amortized Bayesian Model Comparison with Evidental Deep Learning](https://ieeexplore.ieee.org/document/9612724). *IEEE Transactions on Neural Networks and Learning Systems*. Available for free on [ArXiv](https://arxiv.org/abs/2004.10629). doi:10.1109/TNNLS.2021.3124052 
+- Schmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (2022). [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](https://arxiv.org/abs/2112.08866). *ArXiv preprint*.
+- Elsemüller L., Schnuerch M., Bürkner P. C., & Radev S. T. (2023). [A Deep Learning Method for Comparing Bayesian Hierarchical Models](https://arxiv.org/abs/2301.11873). *ArXiv preprint*.
+
+
+## Other Software
+
+Lead author of
+
+- **thurstonianIRT**: Fit Thurstonian IRT models in R [[GitHub](https://github.com/paul-buerkner/thurstonianIRT)]
+
+Author of 
+
+- **bayesian**: An Interface from brms to tidymodels [[Website](https://hsbadr.github.io/bayesian/), [GitHub](https://github.com/hsbadr/bayesian)]
+
+Contributed to:
+
+- **bayesim**: Simulations from Bayesian models [[GitHub](https://github.com/sims1253/bayesim)]
 - **emmeans**: Estimating marginal means [[GitHub](https://github.com/rvlenth/emmeans)]
+
+
 
