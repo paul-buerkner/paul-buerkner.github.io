@@ -170,6 +170,7 @@ Lead author of
 
 Author of 
 
+- **ggsimplex**: Simplex visualizations with ggplot2 [[GitHub](https://github.com/marvinschmitt/ggsimplex)]
 - **bayesian**: An interface from brms to tidymodels [[Website](https://hsbadr.github.io/bayesian/), [GitHub](https://github.com/hsbadr/bayesian)]
 
 Contributed to:
