@@ -133,9 +133,9 @@ when drawing conclusions if we want to make real scientific progress.
 Formalizing and quantifying uncertainty is thus at the heart of statistical
 methods aiming to obtain insights from data.
 
-To compare schientific theories, scientists translate them into statistical
+To compare scientific theories, scientists translate them into statistical
 models and then investigate how well the models' predictions match the gathered
-realworld data. One widely applied approach to compare statistical models is
+real-world data. One widely applied approach to compare statistical models is
 Bayesian model comparison (BMC). Relying on BMC, researchers obtain the
 probability that each of the competing models is true (or is closest to the
 truth) given the data. These probabilities are measures of uncertainty and, yet,
