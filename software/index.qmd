@@ -126,7 +126,7 @@ Contributed to
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-2}
-![](../images/bayesflow.png){width=100% fig-alt="The BayesFlow logo."}
+![](../images/empty-logo-round.png){width=100% fig-alt="The BayesFlow logo."}
 :::
 ::: {.g-col-12 .g-col-md-10}
 
