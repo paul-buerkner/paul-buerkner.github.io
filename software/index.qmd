@@ -174,11 +174,9 @@ Author of
 
 - **ggsimplex**: Simplex visualizations with ggplot2 [[GitHub](https://github.com/marvinschmitt/ggsimplex)]
 - **bayesim**: Simulations for Bayesian models [[GitHub](https://github.com/sims1253/bayesim)]
+- **bayesfam**: Custom families for brms [[GitHub](https://github.com/sims1253/bayesfam)]
 - **bayesian**: An interface from brms to tidymodels [[Website](https://hsbadr.github.io/bayesian/), [GitHub](https://github.com/hsbadr/bayesian)]
 
 Contributed to:
 
 - **emmeans**: Estimating marginal means [[GitHub](https://github.com/rvlenth/emmeans)]
-
-
-
