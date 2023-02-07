@@ -97,7 +97,7 @@ Links:
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/missing-profile-picture-round.png){width=100% fig-alt="A portrait of Florence Bockting."}
+![](../images/florence-bockting-round.png){width=100% fig-alt="A portrait of Florence Bockting."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Florence Bockting {#florence-bockting}
