@@ -13,7 +13,7 @@ aliases:
 
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](images/paul-buerkner-round.png){fig-alt="A portrait of the website author, Paul Bürkner."}
+![](images/paul-buerkner-round.png){width=100% fig-alt="A portrait of the website author, Paul Bürkner."}
 :::
 
 ::: {.g-col-12 .g-col-md-9}
