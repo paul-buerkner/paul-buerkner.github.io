@@ -12,7 +12,6 @@ aliases:
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-3}
-<br /> 
 ![](images/paul-buerkner.png){width=100% fig-alt="A portrait of the website author, Paul Bürkner."}
 :::
 
