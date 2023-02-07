@@ -116,7 +116,7 @@ Project: [Simulation-Based Prior Distributions for Bayesian Models](../projects#
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/missing-profile-picture-round.png){width=100% fig-alt="A portrait of Luna Fazio."}
+![](../images/luna-fazio-round.png){width=100% fig-alt="A portrait of Luna Fazio."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Luna Fazio {#luna-fazio}
