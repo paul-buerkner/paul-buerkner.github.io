@@ -173,11 +173,11 @@ Lead author of
 Author of 
 
 - **ggsimplex**: Simplex visualizations with ggplot2 [[GitHub](https://github.com/marvinschmitt/ggsimplex)]
+- **bayesim**: Simulations for Bayesian models [[GitHub](https://github.com/sims1253/bayesim)]
 - **bayesian**: An interface from brms to tidymodels [[Website](https://hsbadr.github.io/bayesian/), [GitHub](https://github.com/hsbadr/bayesian)]
 
 Contributed to:
 
-- **bayesim**: Simulations for Bayesian models [[GitHub](https://github.com/sims1253/bayesim)]
 - **emmeans**: Estimating marginal means [[GitHub](https://github.com/rvlenth/emmeans)]
 
 
