@@ -13,7 +13,7 @@ toc-location: right
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/paul-buerkner.png){width=100% fig-alt="A portrait of Paul Bürkner."}
+![](../images/paul-buerkner.jpg){width=100% fig-alt="A portrait of Paul Bürkner."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Paul Bürkner
@@ -43,7 +43,7 @@ Links:
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/stefan-radev.png){width=100% fig-alt="A portrait of Stefan Radev."}
+![](../images/stefan-radev.jpg){width=100% fig-alt="A portrait of Stefan Radev."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Stefan Radev
@@ -74,7 +74,7 @@ Co-Supervisor: [Ullrich Köthe](https://hci.iwr.uni-heidelberg.de/vislearn/peopl
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/javier-aguilar.png){width=100% fig-alt="A portrait of Javier Aguilar."}
+![](../images/javier-aguilar.jpg){width=100% fig-alt="A portrait of Javier Aguilar."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Javier Aguilar {#javier-aguilar}
@@ -162,7 +162,7 @@ Co-Supervisor: [Manfred Claassen](https://claassenlab.github.io/people/manfred-c
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
 <br /> 
-![](../images/philipp-reiser.png){width=100% fig-alt="A portrait of Philipp Reiser."}
+![](../images/philipp-reiser.jpg){width=100% fig-alt="A portrait of Philipp Reiser."}
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Philipp Reiser {#philipp-reiser}
