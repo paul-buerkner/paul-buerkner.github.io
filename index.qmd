@@ -18,13 +18,12 @@ aliases:
 ::: {.g-col-12 .g-col-md-9}
 ## What I Do
 
-<!-- TODO: add more internal and external links -->
-
 I am a statistician with a focus on probabilistic (Bayesian) methods currently
-working as a Junior Research Group Leader for Bayesian Statistics at the Cluster
-of Excellence SimTech, University of Stuttgart. Soon, I will become Full
-Professor for Computational Statistics at the Department of Statistics, TU
-Dortmund University. Having originally studied psychology and mathematics, my
+working as a Junior Research Group Leader for Bayesian Statistics at the
+[Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/),
+University of Stuttgart. Soon, I will become Full Professor for Computational
+Statistics at the [Department of Statistics](https://statistik.tu-dortmund.de/en/department/),
+TU Dortmund University. Having originally studied psychology and mathematics, my
 [core research](../research/) is nowadays located somewhere between statistics
 and machine learning, with applications in almost all quantitative sciences.
 
