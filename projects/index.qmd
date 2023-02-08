@@ -254,4 +254,5 @@ Publications:
 Software:
 
 - bayesim: Simulations for Bayesian models [[GitHub](https://github.com/sims1253/bayesim)]
+- bayeshear: Metrics for evaluating Bayesian models [[GitHub](https://github.com/sims1253/bayeshear)]
 - bayesfam: Custom families for brms [[GitHub](https://github.com/sims1253/bayesfam)]
