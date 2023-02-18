@@ -22,13 +22,13 @@ toc-location: right
 -   Schulte, N., Kaup, L., **Bürkner, P. C.**, & Holling, H. (in review). [The Fakeability of Personality Measurement with Graded Paired Comparisons](https://psyarxiv.com/bs7he/). *PsyArXiv preprint*.
 -   Kołczyńska M. & **Bürkner P. C.** (in review). [Modeling public opinion over time: A simulation study of latent trend models](https://osf.io/preprints/socarxiv/gauvx/). *SocArXiv preprint*.
 -   Kołczyńska M., **Bürkner P. C.**, Kennedy L., & Vehtari A. (in review). [Trust in state institutions in Europe, 1989-2019](https://osf.io/preprints/socarxiv/3v5g7/). *SocArXiv preprint*.
--   Danböck, S. K., Franke, L. K., Miedl, S. F., Liedlgruber, M., **Bürkner P. C.**, & Wilhelm, F. H. (in review). [Aversive-Audiovisual and Painful-Electrical Stimulation Cause Peritraumatic Dissociation: A Functional Magnetic Resonance Imaging Study](https://psyarxiv.com/tgc7m/). *PsyArXiv preprint*.
 -   Bolzenkötter, T., **Bürkner P. C.**, Zetsche, U., & Schulze, L. (in review). [Assessing the short-term effects of detached mindfulness on repetitive negative thinking and affect: A randomized controlled trial in daily life](https://psyarxiv.com/y4snz/). *PsyArXiv preprint*.
 
 ## Accepted
 
 -   Schmitt, M., Radev, S. T., & **Bürkner P. C.** (accepted). [Meta-Uncertainty in Bayesian Model Comparison](http://arxiv.org/abs/2210.07278). *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
 -   Zetsche, U., **Bürkner P. C.**, Bohländer, J., Renneberg, B., Röpke, S., & Schulze, L. (accepted). [Daily Emotion Regulation in Major Depression and Borderline Personality Disorder](https://psyarxiv.com/6edcj/). *Clinical Psychological Science*.
+-   Danböck, S. K., Franke, L. K., Miedl, S. F., Liedlgruber, M., **Bürkner P. C.**, & Wilhelm, F. H. (accepted). [Experimental Manipulations and Multi-Domain Measures of Negative Affect and Pain Are Linked to Peritraumatic Dissociation](https://psyarxiv.com/tgc7m/). *Behaviour Research and Therapy*.
 
 ## 2023
 
