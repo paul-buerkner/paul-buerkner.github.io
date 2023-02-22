@@ -165,7 +165,8 @@ Funding Period: 2021 -- 2024
 
 Publications: 
 
--   Schmitt, M., Radev, S. T., & Bürkner P. C. (2023). [Meta-Uncertainty in Bayesian Model Comparison](http://arxiv.org/abs/2210.07278). *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
+- Schmitt, M., Radev, S. T., & Bürkner P. C. (2023). [Meta-Uncertainty in Bayesian Model Comparison](http://arxiv.org/abs/2210.07278). *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
+- Radev S. T., Schmitt M., Pratz V., Picchini U., Köthe U., & Bürkner P. C. (2023). [JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models](https://arxiv.org/abs/2302.09125). *ArXiv preprint*.
 - Schmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (2022). [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](https://arxiv.org/abs/2112.08866). *ArXiv preprint*.
 
 Software:
