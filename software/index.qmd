@@ -160,8 +160,8 @@ References:
 - Schumacher L., Bürkner P. C., Voss A., Köthe U., Radev S. T. (2023). [Neural Superstatistics: A Bayesian Method for Estimating Dynamic Models of Cognition](https://arxiv.org/abs/2211.13165). *ArXiv preprint*.
 - Schmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (2022). [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](https://arxiv.org/abs/2112.08866). *ArXiv preprint*.
 - Radev S. T., D'Alessandro M., Mertens U. K., Voss A., Köthe U., & Bürkner P. C. (2021). [Amortized Bayesian Model Comparison with Evidental Deep Learning](https://ieeexplore.ieee.org/document/9612724). *IEEE Transactions on Neural Networks and Learning Systems*. Available for free on [ArXiv](https://arxiv.org/abs/2004.10629). doi:10.1109/TNNLS.2021.3124052 
-- Radev, S. T., Mertens, U. K., Voss, A., Ardizzone, L., & Köthe, U. (2020). [BayesFlow: Learning complex stochastic models with invertible neural networks](https://ieeexplore.ieee.org/document/9298920). *IEEE Transactions on Neural Networks and Learning Systems*. Available for free on [ArXiv](https://arxiv.org/abs/2003.06281). doi:10.1109/TNNLS.2020.3042395
 - Radev S. T., Wieschen E. M., Voss A., & Bürkner P. C. (2020). [Amortized Bayesian Inference for Models of Cognition](https://iccm-conference.neocities.org/2020/papers/Contribution_230_final.pdf). *International Conference on Cognitive Modelling (ICCM) Conference Proceedings*. Available for free also on [ArXiv](https://arxiv.org/abs/2005.03899).
+- Radev, S. T., Mertens, U. K., Voss, A., Ardizzone, L., & Köthe, U. (2020). [BayesFlow: Learning complex stochastic models with invertible neural networks](https://ieeexplore.ieee.org/document/9298920). *IEEE Transactions on Neural Networks and Learning Systems*. Available for free on [ArXiv](https://arxiv.org/abs/2003.06281). doi:10.1109/TNNLS.2020.3042395
 
 
 ## Other Software
