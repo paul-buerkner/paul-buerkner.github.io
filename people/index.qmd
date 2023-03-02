@@ -145,7 +145,7 @@ Links: [GitHub](https://github.com/bmfazio)
 
 Background: Statistics
 
-Project: Probabilistic Models for scRNA Sequencing Data
+Project: [Probabilistic Models for Single-Cell RNA Sequencing Data](../projects#scrna-models)
 
 Links: 
 [University Website](https://claassenlab.github.io/people/soham-mukherjee/),
