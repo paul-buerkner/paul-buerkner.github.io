@@ -30,6 +30,7 @@ toc-location: right
 -   Schmitt, M., Radev, S. T., & **Bürkner P. C.** (accepted). [Meta-Uncertainty in Bayesian Model Comparison](http://arxiv.org/abs/2210.07278). *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
 -   Zetsche, U., **Bürkner P. C.**, Bohländer, J., Renneberg, B., Röpke, S., & Schulze, L. (accepted). [Daily Emotion Regulation in Major Depression and Borderline Personality Disorder](https://psyarxiv.com/6edcj/). *Clinical Psychological Science*.
 -   Danböck, S. K., Franke, L. K., Miedl, S. F., Liedlgruber, M., **Bürkner P. C.**, & Wilhelm, F. H. (accepted). [Experimental Manipulations and Multi-Domain Measures of Negative Affect and Pain Are Linked to Peritraumatic Dissociation](https://psyarxiv.com/tgc7m/). *Behaviour Research and Therapy*.
+-   Zhang, J., **Bürkner P. C.**, Kiesel A., & Dignath D. (accepted). How Emotional Stimuli Modulate Cognitive Control: A Meta-Analytic Review of Studies With Conflict Tasks. *Psychological Bulletin*.
 
 ## 2023
 
