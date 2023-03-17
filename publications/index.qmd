@@ -29,14 +29,14 @@ toc-location: right
 
 -   Schmitt, M., Radev, S. T., & **Bürkner P. C.** (accepted). [Meta-Uncertainty in Bayesian Model Comparison](http://arxiv.org/abs/2210.07278). *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
 -   Zetsche, U., **Bürkner P. C.**, Bohländer, J., Renneberg, B., Röpke, S., & Schulze, L. (accepted). [Daily Emotion Regulation in Major Depression and Borderline Personality Disorder](https://psyarxiv.com/6edcj/). *Clinical Psychological Science*.
--   Danböck, S. K., Franke, L. K., Miedl, S. F., Liedlgruber, M., **Bürkner P. C.**, & Wilhelm, F. H. (accepted). [Experimental Manipulations and Multi-Domain Measures of Negative Affect and Pain Are Linked to Peritraumatic Dissociation](https://psyarxiv.com/tgc7m/). *Behaviour Research and Therapy*.
 -   Zhang, J., **Bürkner P. C.**, Kiesel A., & Dignath D. (accepted). How Emotional Stimuli Modulate Cognitive Control: A Meta-Analytic Review of Studies With Conflict Tasks. *Psychological Bulletin*.
 
 ## 2023
 
 -   Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (2023). [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](https://doi.org/10.1007/s11222-022-10167-2). *Statistics and Computing*. Available for free on [ArXiv](http://arxiv.org/abs/2004.11408). doi:10.1007/s11222-022-10167-2
 -   Rodriguez, J. E., Williams, D. R., & **Bürkner P. C.** (2023). [Heterogeneous Heterogeneity by Default: Testing Categorical Moderators in Random-effects Meta-Analysis](https://doi.org/10.1111/bmsp.12299). *British Journal of Mathematical and Statistical Psychology*. Available for free on [PsyArXiv](https://psyarxiv.com/tqcka/). doi:10.1111/bmsp.12299
--   Arslan, R. C., Blake, K., Botzet, L., **Bürkner, P. C.**, DeBruine, L. M., Fiers, T., ..., & Stern, J. (2023). [Not within spitting distance: salivary immunoassays of estradiol have subpar validity for cycle phase](https://doi.org/10.1016/j.psyneuen.2022.105994). *Psychoneuroendocrinology*. Available for free on [PsyArXiv](https://psyarxiv.com/5r8mg/). doi:10.1016/j.psyneuen.2022.105994 
+-   Arslan, R. C., Blake, K., Botzet, L., **Bürkner, P. C.**, DeBruine, L. M., Fiers, T., ..., & Stern, J. (2023). [Not within spitting distance: salivary immunoassays of estradiol have subpar validity for cycle phase](https://doi.org/10.1016/j.psyneuen.2022.105994). *Psychoneuroendocrinology*. Available for free on [PsyArXiv](https://psyarxiv.com/5r8mg/). doi:10.1016/j.psyneuen.2022.105994
+-   Danböck, S. K., Franke, L. K., Miedl, S. F., Liedlgruber, M., **Bürkner P. C.**, & Wilhelm, F. H. (2023). [Experimental Manipulations and Multi-Domain Measures of Negative Affect and Pain Are Linked to Peritraumatic Dissociation](https://doi.org/10.1016/j.brat.2023.104289). *Behaviour Research and Therapy*. Available for free on [PsyArXiv](https://psyarxiv.com/tgc7m/). doi:10.1016/j.brat.2023.104289
 
 ## 2022
 
