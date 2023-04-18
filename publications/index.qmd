@@ -27,7 +27,6 @@ toc-location: right
 
 ## Accepted
 
--   Schmitt, M., Radev, S. T., & **Bürkner P. C.** (accepted). [Meta-Uncertainty in Bayesian Model Comparison](http://arxiv.org/abs/2210.07278). *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
 -   Zetsche, U., **Bürkner P. C.**, Bohländer, J., Renneberg, B., Röpke, S., & Schulze, L. (accepted). [Daily Emotion Regulation in Major Depression and Borderline Personality Disorder](https://psyarxiv.com/6edcj/). *Clinical Psychological Science*.
 -   Zhang, J., **Bürkner P. C.**, Kiesel A., & Dignath D. (accepted). How Emotional Stimuli Modulate Cognitive Control: A Meta-Analytic Review of Studies With Conflict Tasks. *Psychological Bulletin*.
 -   Ewendt, F., Schmitt, M., Kluttig, A., Kühn, J., ..., **Bürkner P. C.**, Föller, M., & Stangl, G. I. (accepted).
@@ -35,6 +34,7 @@ Association between vitamin D status and eryptosis – results from the German N
 
 ## 2023
 
+-   Schmitt, M., Radev, S. T., & **Bürkner P. C.** (2023). [Meta-Uncertainty in Bayesian Model Comparison](https://proceedings.mlr.press/v206/schmitt23a.html). *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*. Available for free also on [ArXiv](http://arxiv.org/abs/2210.07278).
 -   Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (2023). [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](https://doi.org/10.1007/s11222-022-10167-2). *Statistics and Computing*. Available for free on [ArXiv](http://arxiv.org/abs/2004.11408). doi:10.1007/s11222-022-10167-2
 -   Rodriguez, J. E., Williams, D. R., & **Bürkner P. C.** (2023). [Heterogeneous Heterogeneity by Default: Testing Categorical Moderators in Random-effects Meta-Analysis](https://doi.org/10.1111/bmsp.12299). *British Journal of Mathematical and Statistical Psychology*. Available for free on [PsyArXiv](https://psyarxiv.com/tqcka/). doi:10.1111/bmsp.12299
 -   Arslan, R. C., Blake, K., Botzet, L., **Bürkner, P. C.**, DeBruine, L. M., Fiers, T., ..., & Stern, J. (2023). [Not within spitting distance: salivary immunoassays of estradiol have subpar validity for cycle phase](https://doi.org/10.1016/j.psyneuen.2022.105994). *Psychoneuroendocrinology*. Available for free on [PsyArXiv](https://psyarxiv.com/5r8mg/). doi:10.1016/j.psyneuen.2022.105994
