@@ -17,7 +17,6 @@ toc-location: right
 -   Kallioinen N., Paananen T., **Bürkner P. C.**, & Vehtari A. (in review). [Detecting and diagnosing prior and likelihood sensitivity with power-scaling](https://arxiv.org/abs/2107.14054). *ArXiv preprint*.
 -   Elsemüller L., Schnuerch M., **Bürkner P. C.**, & Radev S. T. (in review). [A Deep Learning Method for Comparing Bayesian Hierarchical Models](https://arxiv.org/abs/2301.11873). *ArXiv preprint*.
 -   Schumacher L., **Bürkner P. C.**, Voss A., Köthe U., Radev S. T. (in review). [Neural Superstatistics: A Bayesian Method for Estimating Dynamic Models of Cognition](https://arxiv.org/abs/2211.13165). *ArXiv preprint*.
--   Perini L., **Bürkner P. C.**, & Klami A. (in review). [Estimating the Contamination Factor's Distribution in Unsupervised Anomaly Detection](http://arxiv.org/abs/2210.10487). *ArXiv preprint*.
 -   Lingel, H., **Bürkner P. C.**, Melchers, K. G., & Schulte, N. (in review). [Measuring Personality When Stakes Are High: Are Graded Paired Comparisons a More Reliable Alternative to Traditional Forced-Choice Methods?](https://psyarxiv.com/8rt3j). *PsyArXiv preprint*.
 -   Schulte, N., Kaup, L., **Bürkner, P. C.**, & Holling, H. (in review). [The Fakeability of Personality Measurement with Graded Paired Comparisons](https://psyarxiv.com/bs7he/). *PsyArXiv preprint*.
 -   Kołczyńska M. & **Bürkner P. C.** (in review). [Modeling public opinion over time: A simulation study of latent trend models](https://osf.io/preprints/socarxiv/gauvx/). *SocArXiv preprint*.
@@ -27,6 +26,7 @@ toc-location: right
 ## Accepted
 
 -   Mikkola P., Martin O., Chandramouli S., ..., **Bürkner P. C.**, & Klami A. (accepted). [Prior knowledge elicitation: The past, present, and future](https://arxiv.org/abs/2112.01380). *Bayesian Analysis*.
+-   Perini L., **Bürkner P. C.**, & Klami A. (accepted). [Estimating the Contamination Factor's Distribution in Unsupervised Anomaly Detection](http://arxiv.org/abs/2210.10487). *Proceedings of the International Conference on Machine Learning (ICML)*.
 -   Zetsche, U., **Bürkner P. C.**, Bohländer, J., Renneberg, B., Röpke, S., & Schulze, L. (accepted). [Daily Emotion Regulation in Major Depression and Borderline Personality Disorder](https://psyarxiv.com/6edcj/). *Clinical Psychological Science*.
 -   Zhang, J., **Bürkner P. C.**, Kiesel A., & Dignath D. (accepted). How Emotional Stimuli Modulate Cognitive Control: A Meta-Analytic Review of Studies With Conflict Tasks. *Psychological Bulletin*.
 -   Ewendt, F., Schmitt, M., Kluttig, A., Kühn, J., ..., **Bürkner P. C.**, Föller, M., & Stangl, G. I. (accepted).
