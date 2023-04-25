@@ -11,8 +11,8 @@ your profile.
 
 Currently, I have the following open positions in my lab:
 
-- PhD student or PostDoc position focusing on simulation-based Bayesian 
+- [PhD student or PostDoc position](pdf/position_bayesflow_2023.pdf) focusing on simulation-based Bayesian 
 inference research in the context of our [BayesFlow](../software#bayesflow) 
-framework: [Link to PDF](pdf/position_bayesflow_2023.pdf)
+framework.
 
 
