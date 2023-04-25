@@ -2,7 +2,6 @@
 title: Open Positions
 excerpt: "Open positions in my lab"
 toc-location: right
-resources: pdf
 ---
 
 If you are a PhD or PostDoc candidate interested in my research, please 
@@ -11,7 +10,8 @@ currently no announced open position available that matches your profile.
 
 Currently, I have the following open positions in my lab:
 
-- PhD student or PostDoc position focusing on simulation-based Bayesian inference research
-in the context of our [BayesFlow](../software#bayesflow) framework: [Link to PDF](pdf/position_bayesflow_2023)
+- PhD student or PostDoc position focusing on simulation-based Bayesian 
+inference research in the context of our [BayesFlow](../software#bayesflow) 
+framework: [Link to PDF](pdf/position_bayesflow_2023.pdf)
 
 
