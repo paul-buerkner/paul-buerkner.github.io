@@ -45,4 +45,5 @@ well as model evaluation and comparison.
 
 If you are a scientist who wants to collaborate with me, a PhD or PostDoc
 candidate interested in my research, or a student looking for a thesis topic,
-please [reach out to me](mailto:paul.buerkner@gmail.com)!
+please [reach out to me](mailto:paul.buerkner@gmail.com)! Please also check
+out the [open positions in my lab](../positions).

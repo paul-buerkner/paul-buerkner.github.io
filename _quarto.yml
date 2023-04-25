@@ -26,6 +26,8 @@ website:
         href: publications/index.qmd
       - text: Software
         href: software/index.qmd
+      - text: Positions
+        href: positions/index.qmd
       - text: CV
         href: cv/index.qmd
     right:
