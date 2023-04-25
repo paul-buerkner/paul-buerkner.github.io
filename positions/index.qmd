@@ -4,7 +4,7 @@ excerpt: "Open positions in my lab"
 toc-location: right
 ---
 
-If you are interested in work or collaborating with me as a PhD student or
+If you are interested in joining my lab as a PhD student or
 PostDoc, please [reach out to me](mailto:paul.buerkner@gmail.com) at any point;
 even if there is currently no announced open position available that matches
 your profile.
