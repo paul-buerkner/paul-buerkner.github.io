@@ -47,7 +47,7 @@ of distributional regression powered by modern Bayesian estimation methods.
 
 Overarching Topics: 
 [Uncertainty Quantification](../research#uncertainty-quantification), 
-[Maschine-Assisted Bayesian Workflow](../research#machine-workflow)
+[Machine-Assisted Bayesian Workflow](../research#machine-workflow)
 
 Project Members: [Luna Fazio](../people#luna-fazio)
 
@@ -269,7 +269,7 @@ the machine learns from the user's decisions to improve its recommendations on
 the fly.
 
 Overarching Topics: 
-[Maschine-Assisted Bayesian Workflow](../research#machine-workflow), 
+[Machine-Assisted Bayesian Workflow](../research#machine-workflow), 
 [Model Comparison](../research#model-comparison)
 
 Project Members: [Maximilian Scholz](../people#maximilian-scholz)

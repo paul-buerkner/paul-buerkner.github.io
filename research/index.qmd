@@ -94,7 +94,7 @@ Current projects:
 - [Meta-Uncertainty in Bayesian Model Comparison](../projects#mu-bmb)
 - [Machine Learning for Bayesian Model Building](../projects#ml4bmb)
 
-## Maschine-Assisted Bayesian Workflow {#machine-workflow}
+## Machine-Assisted Bayesian Workflow {#machine-workflow}
 
 Building Bayesian models in a principled way remains a highly complex task
 requiring a lot of expertise and cognitive resources. Ideally, subject matter
