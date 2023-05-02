@@ -7,7 +7,6 @@ toc-location: right
 ## In Review
 
 -   **Bürkner P. C.**, Scholz M., & Radev S. T. (in review). [Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy](http://arxiv.org/abs/2209.02439). *ArXiv preprint*.
--   **Bürkner P. C.**, Kröker I., Oladyshkin S., & Nowak W. (in review). [A fully Bayesian sparse polynomial chaos expansion approach with joint priors on the coefficients and global selection of terms](https://arxiv.org/abs/2204.06043). *ArXiv preprint*.
 -   Radev S. T., Schmitt M., Pratz V., Picchini U., Köthe U., & **Bürkner P. C.** (in review). [JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models](https://arxiv.org/abs/2302.09125). *ArXiv preprint*.
 -   Aguilar J. E. & **Bürkner P. C.** (in review). [Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior](https://arxiv.org/abs/2208.07132). *ArXiv preprint*.
 -   Scholz M. & **Bürkner P. C.** (in review). [Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models](https://arxiv.org/abs/2210.06927). *ArXiv preprint*.
@@ -24,13 +23,12 @@ toc-location: right
 
 ## Accepted
 
+-   **Bürkner P. C.**, Kröker I., Oladyshkin S., & Nowak W. (accepted). [A fully Bayesian sparse polynomial chaos expansion approach with joint priors on the coefficients and global selection of terms](https://arxiv.org/abs/2204.06043). *Journal of Computational Physics*.
 -   Mikkola P., Martin O., Chandramouli S., ..., **Bürkner P. C.**, & Klami A. (accepted). [Prior knowledge elicitation: The past, present, and future](https://arxiv.org/abs/2112.01380). *Bayesian Analysis*.
 -   Perini L., **Bürkner P. C.**, & Klami A. (accepted). [Estimating the Contamination Factor's Distribution in Unsupervised Anomaly Detection](http://arxiv.org/abs/2210.10487). *Proceedings of the International Conference on Machine Learning (ICML)*.
 -   Kołczyńska M. & **Bürkner P. C.** (accepted). [Modeling public opinion over time: A simulation study of latent trend models](https://osf.io/preprints/socarxiv/gauvx/). *Journal of Survey Statistics and Methodology*.
 -   Zetsche, U., **Bürkner P. C.**, Bohländer, J., Renneberg, B., Röpke, S., & Schulze, L. (accepted). [Daily Emotion Regulation in Major Depression and Borderline Personality Disorder](https://psyarxiv.com/6edcj/). *Clinical Psychological Science*.
 -   Zhang, J., **Bürkner P. C.**, Kiesel A., & Dignath D. (accepted). How Emotional Stimuli Modulate Cognitive Control: A Meta-Analytic Review of Studies With Conflict Tasks. *Psychological Bulletin*.
--   Ewendt, F., Schmitt, M., Kluttig, A., Kühn, J., ..., **Bürkner P. C.**, Föller, M., & Stangl, G. I. (accepted).
-Association between vitamin D status and eryptosis – results from the German National Cohort Study. *Annals of Hematology*.
 
 ## 2023
 
@@ -39,6 +37,7 @@ Association between vitamin D status and eryptosis – results from the German N
 -   Rodriguez, J. E., Williams, D. R., & **Bürkner P. C.** (2023). [Heterogeneous Heterogeneity by Default: Testing Categorical Moderators in Random-effects Meta-Analysis](https://doi.org/10.1111/bmsp.12299). *British Journal of Mathematical and Statistical Psychology*. Available for free on [PsyArXiv](https://psyarxiv.com/tqcka/). doi:10.1111/bmsp.12299
 -   Arslan, R. C., Blake, K., Botzet, L., **Bürkner, P. C.**, DeBruine, L. M., Fiers, T., ..., & Stern, J. (2023). [Not within spitting distance: salivary immunoassays of estradiol have subpar validity for cycle phase](https://doi.org/10.1016/j.psyneuen.2022.105994). *Psychoneuroendocrinology*. Available for free on [PsyArXiv](https://psyarxiv.com/5r8mg/). doi:10.1016/j.psyneuen.2022.105994
 -   Danböck, S. K., Franke, L. K., Miedl, S. F., Liedlgruber, M., **Bürkner P. C.**, & Wilhelm, F. H. (2023). [Experimental Manipulations and Multi-Domain Measures of Negative Affect and Pain Are Linked to Peritraumatic Dissociation](https://doi.org/10.1016/j.brat.2023.104289). *Behaviour Research and Therapy*. Available for free on [PsyArXiv](https://psyarxiv.com/tgc7m/). doi:10.1016/j.brat.2023.104289
+-   Ewendt, F., Schmitt, M., Kluttig, A., Kühn, J., ..., **Bürkner P. C.**, Föller, M., & Stangl, G. I. (2023). [Association between vitamin D status and eryptosis – results from the German National Cohort Study](https://link.springer.com/article/10.1007/s00277-023-05239-w). *Annals of Hematology*. doi:10.1007/s00277-023-05239-w
 
 ## 2022
 
