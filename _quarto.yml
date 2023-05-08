@@ -1,7 +1,9 @@
 project:
   type: website
   output-dir: docs
-  resources: data
+  resources: 
+    - "data"
+    - "positions/pdf/**"
 
 website:
   title: "Paul Bürkner"
