@@ -22,7 +22,6 @@ toc-location: right
 
 ## Accepted
 
--   **Bürkner P. C.**, Kröker I., Oladyshkin S., & Nowak W. (accepted). [A fully Bayesian sparse polynomial chaos expansion approach with joint priors on the coefficients and global selection of terms](https://arxiv.org/abs/2204.06043). *Journal of Computational Physics*.
 -   Radev S. T., Schmitt M., Pratz V., Picchini U., Köthe U., & **Bürkner P. C.** (accepted). [JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models](https://arxiv.org/abs/2302.09125). *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*.
 -   Mikkola P., Martin O., Chandramouli S., ..., **Bürkner P. C.**, & Klami A. (accepted). [Prior knowledge elicitation: The past, present, and future](https://arxiv.org/abs/2112.01380). *Bayesian Analysis*.
 -   Perini L., **Bürkner P. C.**, & Klami A. (accepted). [Estimating the Contamination Factor's Distribution in Unsupervised Anomaly Detection](http://arxiv.org/abs/2210.10487). *Proceedings of the International Conference on Machine Learning (ICML)*.
@@ -31,6 +30,7 @@ toc-location: right
 
 ## 2023
 
+-   **Bürkner P. C.**, Kröker I., Oladyshkin S., & Nowak W. (2023). [A fully Bayesian sparse polynomial chaos expansion approach with joint priors on the coefficients and global selection of terms](https://doi.org/10.1016/j.jcp.2023.112210). *Journal of Computational Physics*. Available for free on [ArXiv](https://arxiv.org/abs/2204.06043). doi:10.1016/j.jcp.2023.112210
 -   Schmitt, M., Radev, S. T., & **Bürkner P. C.** (2023). [Meta-Uncertainty in Bayesian Model Comparison](https://proceedings.mlr.press/v206/schmitt23a.html). *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*. Available for free also on [ArXiv](http://arxiv.org/abs/2210.07278).
 -   Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (2023). [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](https://doi.org/10.1007/s11222-022-10167-2). *Statistics and Computing*. Available for free on [ArXiv](http://arxiv.org/abs/2004.11408). doi:10.1007/s11222-022-10167-2
 -   Rodriguez, J. E., Williams, D. R., & **Bürkner P. C.** (2023). [Heterogeneous Heterogeneity by Default: Testing Categorical Moderators in Random-effects Meta-Analysis](https://doi.org/10.1111/bmsp.12299). *British Journal of Mathematical and Statistical Psychology*. Available for free on [PsyArXiv](https://psyarxiv.com/tqcka/). doi:10.1111/bmsp.12299
