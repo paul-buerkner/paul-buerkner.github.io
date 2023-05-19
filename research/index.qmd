@@ -34,7 +34,7 @@ methods.
 
 Current projects:
 
-<!-- - [Amortized Bayesian Inference for Multilevel Models](../projects#amortized-mlms) -->
+- [Amortized Bayesian Inference for Multilevel Models](../projects#amortized-mlms)
 - [Bayesian Distributional Latent Variable Models](../projects#bdlvms)
 - [Data-Integrated Training of Surrogate Models for Uncertainty Quantification of Complex Biological Systems Models](../projects#bio-surrogate-models)
 - [Meta-Uncertainty in Bayesian Model Comparison](../projects#mu-bmb)
@@ -74,7 +74,7 @@ methods, challenges that my lab aims to solve in the upcoming years.
 
 Current projects:
 
-<!-- - [Amortized Bayesian Inference for Multilevel Models](../projects#amortized-mlms) -->
+- [Amortized Bayesian Inference for Multilevel Models](../projects#amortized-mlms)
 - [Simulation-Based Prior Distributions](../projects#sbpriors)
 
 ## Model Comparison {#model-comparison}

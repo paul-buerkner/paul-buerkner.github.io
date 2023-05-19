@@ -5,21 +5,21 @@ toc-location: right
 page-layout: full
 ---
 
-<!--
 ## Amortized Bayesian Inference for Multilevel Models {#amortized-mlms}
 
-Description will be added soon.
+Probabilistic multilevel models (MLMs) are a central building block in Bayesian data analysis. Despite their widely acknowledged advantages, MLMs remain challenging to estimate and evaluate, especially when the involved likelihoods or priors are analytically intractable. Recent developments in generative deep learning and simulation-based inference have shown promising results in scaling up Bayesian inference through *amortization*. However, the utility of deep generative models for learning Bayesian MLMs remains largely unexplored.
+
+In this project, we propose to develop a general and efficient neural inference framework for estimating and evaluating complex Bayesian MLMs. Our framework will substantially extend previous work on simulation-based Bayesian inference for single-level models. Moreover, it aims to encompass not only the inference phase of a Bayesian workflow but also the model evaluation steps, which usually comprise a computational bottleneck with standard (non-amortized) Bayesian methods. Thus, the proposed project has the potential to greatly enhance model-based inference and understanding of complex processes across the quantitative sciences.
 
 Overarching Topics: 
 [Simulation-Based Inference](../research#sbi),
 [Uncertainty Quantification](../research#uncertainty-quantification)
 
-Project Members: TBD
+Project Members: [Daniel Habermann](../people#daniel-habermann)
 
 Funders: [German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp)
 
 Funding Period: 2023 -- 2026
--->
 
 
 ## Bayesian Distributional Latent Variable Models {#bdlvms}

@@ -38,6 +38,30 @@ Links:
 
 ## PostDocs
 
+<!-- Daniel Habermann -->
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+<br /> 
+![](../images/daniel-habermann.png){width=100% fig-alt="A portrait of Daniel Habermann."}
+:::
+::: {.g-col-12 .g-col-md-9}
+### Daniel Habermann
+---
+
+Background: Computational Biology
+
+Project: [Amortized Bayesian Inference for Multilevel Models](../projects#amortized-mlms) 
+
+Links: 
+[Website](https://daniel-habermann.de), 
+[GitHub](https://github.com/daniel-habermann)
+
+:::
+:::
+
+---
+
 <!-- Stefan Radev -->
 
 ::: {.grid}

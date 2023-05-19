@@ -153,7 +153,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#bdlvms" id="toc-bdlvms" class="nav-link active" data-scroll-target="#bdlvms">Bayesian Distributional Latent Variable Models</a></li>
+  <li><a href="#amortized-mlms" id="toc-amortized-mlms" class="nav-link active" data-scroll-target="#amortized-mlms">Amortized Bayesian Inference for Multilevel Models</a></li>
+  <li><a href="#bdlvms" id="toc-bdlvms" class="nav-link" data-scroll-target="#bdlvms">Bayesian Distributional Latent Variable Models</a></li>
   <li><a href="#sbpriors" id="toc-sbpriors" class="nav-link" data-scroll-target="#sbpriors">Simulation-Based Prior Distributions for Bayesian Models</a></li>
   <li><a href="#scrna-models" id="toc-scrna-models" class="nav-link" data-scroll-target="#scrna-models">Probabilistic Models for Single-Cell RNA Sequencing Data</a></li>
   <li><a href="#bio-surrogate-models" id="toc-bio-surrogate-models" class="nav-link" data-scroll-target="#bio-surrogate-models">Data-Integrated Training of Surrogate Models for Uncertainty Quantification of Complex Biological Systems Models</a></li>
@@ -183,21 +184,15 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<!--
-## Amortized Bayesian Inference for Multilevel Models {#amortized-mlms}
-
-Description will be added soon.
-
-Overarching Topics: 
-[Simulation-Based Inference](../research#sbi),
-[Uncertainty Quantification](../research#uncertainty-quantification)
-
-Project Members: TBD
-
-Funders: [German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp)
-
-Funding Period: 2023 -- 2026
--->
+<section id="amortized-mlms" class="level2">
+<h2 class="anchored" data-anchor-id="amortized-mlms">Amortized Bayesian Inference for Multilevel Models</h2>
+<p>Probabilistic multilevel models (MLMs) are a central building block in Bayesian data analysis. Despite their widely acknowledged advantages, MLMs remain challenging to estimate and evaluate, especially when the involved likelihoods or priors are analytically intractable. Recent developments in generative deep learning and simulation-based inference have shown promising results in scaling up Bayesian inference through <em>amortization</em>. However, the utility of deep generative models for learning Bayesian MLMs remains largely unexplored.</p>
+<p>In this project, we propose to develop a general and efficient neural inference framework for estimating and evaluating complex Bayesian MLMs. Our framework will substantially extend previous work on simulation-based Bayesian inference for single-level models. Moreover, it aims to encompass not only the inference phase of a Bayesian workflow but also the model evaluation steps, which usually comprise a computational bottleneck with standard (non-amortized) Bayesian methods. Thus, the proposed project has the potential to greatly enhance model-based inference and understanding of complex processes across the quantitative sciences.</p>
+<p>Overarching Topics: <a href="../research#sbi">Simulation-Based Inference</a>, <a href="../research#uncertainty-quantification">Uncertainty Quantification</a></p>
+<p>Project Members: <a href="../people#daniel-habermann">Daniel Habermann</a></p>
+<p>Funders: <a href="https://www.dfg.de/en/index.jsp">German Research Foundation (DFG)</a></p>
+<p>Funding Period: 2023 – 2026</p>
+</section>
 <section id="bdlvms" class="level2">
 <h2 class="anchored" data-anchor-id="bdlvms">Bayesian Distributional Latent Variable Models</h2>
 <p>In psychology and related sciences, a lot of research is concerned with studying latent variables, that is, constructs which are not directly observable. Statistical methods for modeling latent variables based on manifest (observable) indicators are thus crucial to the scientific progress in those fields. Two major interconnected statistical areas dealing with latent variables exist, namely, Item Response Theory (IRT) and Structural Equation Modeling (SEM). Although the two fields are closely connected, the frontiers of IRT and SEM have developed in somewhat different directions.</p>
