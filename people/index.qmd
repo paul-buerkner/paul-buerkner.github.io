@@ -127,7 +127,7 @@ Links:
 ### Florence Bockting {#florence-bockting}
 ---
 
-Background: Psychology
+Background: Cognitive Science and Psychology
 
 Project: [Simulation-Based Prior Distributions for Bayesian Models](../projects#sbpriors)
 :::
