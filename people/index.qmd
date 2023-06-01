@@ -21,11 +21,11 @@ toc-location: right
 
 Background: Statistics, Mathematics, and Psychology
 
-Position: Junior Research Group Leader for Bayesian Statistics
+Position: Full Professor for Computational Statistics
 
 Links:
 [Personal Website](https://paul-buerkner.github.io/),
-[University Website](https://www.simtech.uni-stuttgart.de/exc/people/Buerkner/), 
+<!-- [University Website](), -->
 [GitHub](https://github.com/paul-buerkner),
 [Email](mailto:paul.buerkner@gmail.com)
 :::
