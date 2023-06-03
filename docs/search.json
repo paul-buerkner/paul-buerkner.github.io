@@ -186,7 +186,7 @@
     "href": "software/brms-blogposts.html",
     "title": "A list of blog posts about brms",
     "section": "",
-    "text": "Since its foundation, several people have blogged about my R package brms, which allows to fit Bayesian multilevel models using Stan. This list is intended to provide links to those resources."
+    "text": "Since its foundation, several people have blogged about my R package brms, which allows to fit Bayesian multilevel models using Stan. This page is intended to provide links to those resources."
   },
   {
     "objectID": "software/brms-blogposts.html#list-of-blog-posts",
@@ -284,7 +284,7 @@
     "href": "software/brms-blogposts.html#individual-blog-posts",
     "title": "A list of blog posts about brms",
     "section": "Individual Blog Posts",
-    "text": "Individual Blog Posts\n\nThe evolution of plasticity by Andrew MacDonald\nWhat Explains Union Density? A Replication of an Old Article with the brms Package by Steven Miller\nExtracting and visualizing tidy draws from brms models by Matthew Kay\nFitting GAMs with brms: part 1 a simple GAM by Gavin Simpson\nMixed effects models: Is it time to go Bayesian by default? by Michael Frank\nMRP Using brms and tidybayes by Tim Mastny\nBayesian SEM with brms by Jarrett Byrnes\nBayesian Decision Theory Made Ridiculously Simple by Justin Silverman\nR packages interfacing with Stan: brms by Jonah Gabry\nBayesian mixed effects (aka multi-level) ordinal regression models with brms by Kevin Stadler"
+    "text": "Individual Blog Posts\n\nThe evolution of plasticity by Andrew MacDonald\nWhat Explains Union Density? by Steven Miller\nExtracting and visualizing tidy draws from brms models by Matthew Kay\nFitting GAMs with brms: part 1 a simple GAM by Gavin Simpson\nMixed effects models: Is it time to go Bayesian by default? by Michael Frank\nMRP Using brms and tidybayes by Tim Mastny\nBayesian SEM with brms by Jarrett Byrnes\nBayesian Decision Theory Made Ridiculously Simple by Justin Silverman\nR packages interfacing with Stan: brms by Jonah Gabry\nBayesian mixed effects ordinal regression models with brms by Kevin Stadler"
   },
   {
     "objectID": "software/brms-blogposts.html#websites",

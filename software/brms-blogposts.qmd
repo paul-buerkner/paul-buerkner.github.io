@@ -2,7 +2,7 @@
 title: "A list of blog posts about brms"
 ---
 
-Since its foundation, several people have blogged about my R package **brms**, which allows to fit Bayesian multilevel models using Stan. This list is intended to provide links to those resources.
+Since its foundation, several people have blogged about my R package **brms**, which allows to fit Bayesian multilevel models using Stan. This page is intended to provide links to those resources.
 
 ## Blogs and Websites
 
@@ -21,7 +21,7 @@ Since its foundation, several people have blogged about my R package **brms**, w
 ## Individual Blog Posts
 
 -   [The evolution of plasticity](https://aammd.github.io/posts/2022-11-23-evolution-of-plasticity/) by Andrew MacDonald
--   [What Explains Union Density? A Replication of an Old Article with the brms Package](http://svmiller.com/blog/2019/08/what-explains-union-density-brms-replication/) by Steven Miller
+-   [What Explains Union Density?](http://svmiller.com/blog/2019/08/what-explains-union-density-brms-replication/) by Steven Miller
 -   [Extracting and visualizing tidy draws from brms models](http://mjskay.github.io/tidybayes/articles/tidy-brms.html#ordinal-models) by Matthew Kay
 -   [Fitting GAMs with brms: part 1 a simple GAM](https://www.fromthebottomoftheheap.net/2018/04/21/fitting-gams-with-brms/) by Gavin Simpson
 -   [Mixed effects models: Is it time to go Bayesian by default?](http://babieslearninglanguage.blogspot.de/2018/02/mixed-effects-models-is-it-time-to-go.html) by Michael Frank
@@ -29,4 +29,4 @@ Since its foundation, several people have blogged about my R package **brms**, w
 -   [Bayesian SEM with brms](http://www.imachordata.com/2017/12/21/bayesian-sem-with-brms/) by Jarrett Byrnes
 -   [Bayesian Decision Theory Made Ridiculously Simple](http://www.statsathome.com/2017/10/12/bayesian-decision-theory-made-ridiculously-simple/) by Justin Silverman
 -   [R packages interfacing with Stan: brms](http://andrewgelman.com/2017/01/10/r-packages-interfacing-stan-brms/) by Jonah Gabry
--   [Bayesian mixed effects (aka multi-level) ordinal regression models with brms](http://kevinstadler.github.io/blog/bayesian-ordinal-regression-with-random-effects-using-brms/) by Kevin Stadler
+-   [Bayesian mixed effects ordinal regression models with brms](http://kevinstadler.github.io/blog/bayesian-ordinal-regression-with-random-effects-using-brms/) by Kevin Stadler
