@@ -189,11 +189,18 @@
     "text": "Since its foundation, several people have blogged about my R package brms, which allows to fit Bayesian multilevel models using Stan. This page is intended to provide links to those resources."
   },
   {
-    "objectID": "software/brms-blogposts.html#list-of-blog-posts",
-    "href": "software/brms-blogposts.html#list-of-blog-posts",
+    "objectID": "software/brms-blogposts.html#blogs-and-websites",
+    "href": "software/brms-blogposts.html#blogs-and-websites",
     "title": "A list of blog posts about brms",
-    "section": "List of blog posts",
-    "text": "List of blog posts\n\nWhat Explains Union Density? A Replication of an Old Article with the brms Package by Steven Miller.\nBayesian power analysis: Part I. Prepare to reject H0 with simulation by Solomon Kurz\nUtility Theory for Dummies: An R Tutorial by Jonas Kristoffer Lindelov\nHow to analyze visual analog (slider) scale data? by Matti Vuorre\nStatistical Rethinking with brms, ggplot2, and the tidyverse by Solomon Kurz\nDiffusion/Wiener Model Analysis with brms – Part III: Hypothesis Tests of Parameter Estimates by Henrik Singmann\nEstimating treatment effects and ICCs from (G)LMMs on the observed scale using Bayes, Part 1: lognormal models by Kristoffer Magnusson\nExtracting and visualizing tidy draws from brms models by Matthew Kay\nUse domain knowledge to review prior distributions by Markus Gesmann\nHierarchical loss reserving with growth curves using brms by Markus Gesmann\nA series of tutorials how to run the brms package by Rens van de Schoot\nModels are about what changes, and what doesn’t by Markus Gesmann\nR functions for Bayesian Model Statistics and Summaries #rstats #stan #brms by Daniel Lüdecke\nFitting GAMs with brms: part 1 a simple GAM by Gavin Simpson\nMixed effects models: Is it time to go Bayesian by default? by Michael Frank\nEasily made fitted and predicted values made easy by Andrew MacDonald\nHow to compute Bayes factors using lm, lmer, BayesFactor, brms, and JAGS/stan/pymc3 by Jonas Kristoffer Lindelov\nConfounded dose-response effects of treatment adherence: fitting Bayesian instrumental variable models using brms by Kristoffer Magnusson\nMRP Using brms and tidybayes by Tim Mastny\nPK/PD reserving models by Markus Gesmann\nHierarchical compartmental reserving models by Markus Gesmann\nDiffusion/Wiener Model Analysis with brms – Part II: Model Diagnostics and Model Fit by Henrik Singmann\nBayesian SEM with brms by Jarrett Byrnes\nDiffusion/Wiener Model Analysis with brms – Part I: Introduction and Estimation by Henrik Singmann\nBayesian Decision Theory Made Ridiculously Simple by Justin Silverman\nBayesian Estimation of Signal Detection Models, Part 4 by Matti Vuorre\nBayesian Estimation of Signal Detection Models, Part 3 by Matti Vuorre\nBayesian Estimation of Signal Detection Models, Part 2 by Matti Vuorre\nBayesian Estimation of Signal Detection Models, Part 1 by Matti Vuorre\nThree methods for computing the intra-class correlation in multilevel logistic regression by Ladislas Nalborczyk\nMore support for Bayesian analysis in the sj!-packages #rstats #rstan #brms by Daniel Luedecke\nR packages interfacing with Stan: brms posted on Andrew Gelmans blog\nBayesian mixed effects (aka multi-level) ordinal regression models with brms by Kevin Stadler\nBayes factors with brms by Matti Vuorre\nHow to Compare Two Groups with Robust Bayesian Estimation Using R, Stan and brms by Matti Vuorre\nBetter forest plots from meta-analytic models estimated with brms by Matti Vuorre\nMeta-analysis is a special case of Bayesian multilevel modeling by Matti Vuorre\nbrms continuous its streak by Wayne Folta\nbrms 0.8 adds non-linear regression by Wayne Folta\nR Users Will Now Inevitably Become Bayesians by Wayne Folta\nBayesian regression models using Stan in R by Markus Gesmann"
+    "section": "Blogs and Websites",
+    "text": "Blogs and Websites\n\nBlog of Solomon Kurz\nBlog of Matti Vuorre\nBlog of Ladislas Nalborczyk\nBlog of Markus Gesmann\nBlog of Jonas Kristoffer Lindelov\nBlog of Kristoffer Magnusson\nBlog of Henrik Singmann\nBlog of Daniel Luedecke\nBlog of Wayne Folta\nStatistical Rethinking with brms by Solomon Kurz\nTutorial about brms by Rens van de Schoot"
+  },
+  {
+    "objectID": "software/brms-blogposts.html#individual-blog-posts",
+    "href": "software/brms-blogposts.html#individual-blog-posts",
+    "title": "A list of blog posts about brms",
+    "section": "Individual Blog Posts",
+    "text": "Individual Blog Posts\n\nThe evolution of plasticity by Andrew MacDonald\nWhat Explains Union Density? by Steven Miller\nExtracting and visualizing tidy draws from brms models by Matthew Kay\nFitting GAMs with brms: part 1 a simple GAM by Gavin Simpson\nMixed effects models: Is it time to go Bayesian by default? by Michael Frank\nMRP Using brms and tidybayes by Tim Mastny\nBayesian SEM with brms by Jarrett Byrnes\nBayesian Decision Theory Made Ridiculously Simple by Justin Silverman\nR packages interfacing with Stan: brms by Jonah Gabry\nBayesian mixed effects ordinal regression models with brms by Kevin Stadler"
   },
   {
     "objectID": "software/index.html",
@@ -256,7 +263,7 @@
     "href": "people/index.html#phd-students",
     "title": "People",
     "section": "PhD Students",
-    "text": "PhD Students\n\n\n\n \n\n\nJavier Aguilar\n\nBackground: Mathematics and Statistics\nProject: Intuitive Joint Priors for Bayesian Multilevel Models\nLinks: University Website, GitHub\n\n\n\n\n\n\n \n\n\nFlorence Bockting\n\nBackground: Cognitive Science and Psychology\nProject: Simulation-Based Prior Distributions for Bayesian Models\n\n\n\n\n\n\n \n\n\nLuna Fazio\n\nBackground: Biology and Statistics\nProject: Bayesian Distributional Latent Variable Models\nLinks: GitHub\n\n\n\n\n\n\n \n\n\nSoham Mukherjee\n\nBackground: Statistics\nProject: Probabilistic Models for Single-Cell RNA Sequencing Data\nLinks: University Website, Linkedin\nCo-Supervisor: Manfred Claassen\n\n\n\n\n\n\n \n\n\nPhilipp Reiser\n\nBackground: Physics and Computer Science\nProject: Data-Integrated Training of Surrogate Models for Uncertainty Quantification of Complex Biological Systems Models\nLinks: University Website, GitHub\nCo-Supervisor: Anneli Guthke\n\n\n\n\n\n\n \n\n\nMarvin Schmitt\n\nBackground: Psychology and Computer Science\nProject: Meta-Uncertainty in Bayesian Model Comparison\nLinks: Personal Website, University Website, GitHub\n\n\n\n\n\n\n \n\n\nMaximilian Scholz\n\nBackground: Computer- and Software Engineering\nProject: Machine Learning for Bayesian Model Building\nLinks: Personal Website, University Website, GitHub"
+    "text": "PhD Students\n\n\n\n \n\n\nJavier Aguilar\n\nBackground: Mathematics and Statistics\nProject: Intuitive Joint Priors for Bayesian Multilevel Models\nLinks: University Website, GitHub\n\n\n\n\n\n\n \n\n\nFlorence Bockting\n\nBackground: Cognitive Science and Psychology\nProject: Simulation-Based Prior Distributions for Bayesian Models\n\n\n\n\n\n\n \n\n\nLuna Fazio\n\nBackground: Biology and Statistics\nProject: Bayesian Distributional Latent Variable Models\nLinks: GitHub\n\n\n\n\n\n\n \n\n\nJacob Grytzka\n\nBackground: Statistics\nProject: Regularization in Generalized Linear and Additive Multilevel Models\nLinks: University Website\nCo-Supervisor: Andreas Groll\n\n\n\n\n\n\n \n\n\nSoham Mukherjee\n\nBackground: Statistics\nProject: Probabilistic Models for Single-Cell RNA Sequencing Data\nLinks: University Website, Linkedin\nCo-Supervisor: Manfred Claassen\n\n\n\n\n\n\n \n\n\nPhilipp Reiser\n\nBackground: Physics and Computer Science\nProject: Data-Integrated Training of Surrogate Models for Uncertainty Quantification of Complex Biological Systems Models\nLinks: University Website, GitHub\nCo-Supervisor: Anneli Guthke\n\n\n\n\n\n\n \n\n\nMarvin Schmitt\n\nBackground: Psychology and Computer Science\nProject: Meta-Uncertainty in Bayesian Model Comparison\nLinks: Personal Website, University Website, GitHub\n\n\n\n\n\n\n \n\n\nMaximilian Scholz\n\nBackground: Computer- and Software Engineering\nProject: Machine Learning for Bayesian Model Building\nLinks: Personal Website, University Website, GitHub"
   },
   {
     "objectID": "positions/index.html",
@@ -271,33 +278,5 @@
     "title": "Curriculum vitae",
     "section": "",
     "text": "Download current CV"
-  },
-  {
-    "objectID": "software/brms-blogposts.html#websites-with-a-lot-of-brms-related-content",
-    "href": "software/brms-blogposts.html#websites-with-a-lot-of-brms-related-content",
-    "title": "A list of blog posts about brms",
-    "section": "Websites with a lot of brms-related content",
-    "text": "Websites with a lot of brms-related content\n\nStatistical Rethinking with brms by Solomon Kurz\nBlog of Solomon Kurz\nBlog of Matti Vuorre\nBlog of Markus Gesmann\nBlog of Jonas Kristoffer Lindelov"
-  },
-  {
-    "objectID": "software/brms-blogposts.html#individual-blog-posts",
-    "href": "software/brms-blogposts.html#individual-blog-posts",
-    "title": "A list of blog posts about brms",
-    "section": "Individual Blog Posts",
-    "text": "Individual Blog Posts\n\nThe evolution of plasticity by Andrew MacDonald\nWhat Explains Union Density? by Steven Miller\nExtracting and visualizing tidy draws from brms models by Matthew Kay\nFitting GAMs with brms: part 1 a simple GAM by Gavin Simpson\nMixed effects models: Is it time to go Bayesian by default? by Michael Frank\nMRP Using brms and tidybayes by Tim Mastny\nBayesian SEM with brms by Jarrett Byrnes\nBayesian Decision Theory Made Ridiculously Simple by Justin Silverman\nR packages interfacing with Stan: brms by Jonah Gabry\nBayesian mixed effects ordinal regression models with brms by Kevin Stadler"
-  },
-  {
-    "objectID": "software/brms-blogposts.html#websites",
-    "href": "software/brms-blogposts.html#websites",
-    "title": "A list of blog posts about brms",
-    "section": "Websites",
-    "text": "Websites\n\nBlog of Solomon Kurz\nBlog of Matti Vuorre\nBlog of Markus Gesmann\nBlog of Jonas Kristoffer Lindelov\nStatistical Rethinking with brms by Solomon Kurz"
-  },
-  {
-    "objectID": "software/brms-blogposts.html#blogs-and-websites",
-    "href": "software/brms-blogposts.html#blogs-and-websites",
-    "title": "A list of blog posts about brms",
-    "section": "Blogs and Websites",
-    "text": "Blogs and Websites\n\nBlog of Solomon Kurz\nBlog of Matti Vuorre\nBlog of Ladislas Nalborczyk\nBlog of Markus Gesmann\nBlog of Jonas Kristoffer Lindelov\nBlog of Kristoffer Magnusson\nBlog of Henrik Singmann\nBlog of Daniel Luedecke\nBlog of Wayne Folta\nStatistical Rethinking with brms by Solomon Kurz\nTutorial about brms by Rens van de Schoot"
   }
 ]

@@ -156,6 +156,30 @@ Links: [GitHub](https://github.com/bmfazio)
 
 ---
 
+<!-- Jacob Grytzka -->
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+<br /> 
+![](../images/jacob-grytzka.png){width=100% fig-alt="A portrait of Jacob Grytzka."}
+:::
+::: {.g-col-12 .g-col-md-9}
+### Jacob Grytzka {#jacob-grytzka}
+---
+
+Background: Statistics
+
+Project: Regularization in Generalized Linear and Additive Multilevel Models
+
+Links: 
+[University Website](https://bd.statistik.tu-dortmund.de/professur/arbeitsgruppe/msc-jacob-grytzka/)
+
+Co-Supervisor: [Andreas Groll](https://bd.statistik.tu-dortmund.de/professur/arbeitsgruppe/prof-dr-andreas-groll/)
+:::
+:::
+
+---
+
 <!-- Soham Mukherjee -->
 
 ::: {.grid}
