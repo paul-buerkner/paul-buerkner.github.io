@@ -1,17 +1,27 @@
 ---
-title: Open Positions
-excerpt: "Open positions in my lab"
+title: Open Positions and Thesis Topics
+excerpt: "Open positions and thesis topicsx in my lab"
 toc-location: right
 ---
 
-If you are interested in joining my lab as a PhD student or
-PostDoc, please [reach out to me](mailto:paul.buerkner@gmail.com) at any point;
-even if there is currently no announced open position available that matches
-your profile.
+If you are interested in joining my lab at as a PhD student or PostDoc, please
+[reach out to me](mailto:paul.buerkner@gmail.com) at any point; even if there is
+currently no announced open position available that you think matches your
+profile. The same holds if you are a Bachelor or Master student looking for a
+research assistant position or thesis topic.
 
-Currently, I have the following open positions in my lab:
+## Open Positions
 
 - [Student assistant position](pdf/student_assistant_software_engineering_ml_2023.pdf) 
 focusing on software engineering of probabilistic machine learning methods. 
 
+<!-- There are currently no officially announced open positions, but remember
+that you can just contact me at any point to ask for opportunities. -->
 
+## Thesis Topics
+
+Thesis topics are available in the following broad areas:
+
+- Likelihood choice in Bayesian models
+- Prior specification
+- Bayesian latent variable modeling

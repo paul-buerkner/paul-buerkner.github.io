@@ -1,6 +1,6 @@
 ---
-title: Projects
-excerpt: "An overview of my projects"
+title: Research Projects
+excerpt: "An overview of my research projects"
 toc-location: right
 page-layout: full
 ---

@@ -44,4 +44,5 @@ well as model evaluation and comparison.
 If you are a scientist who wants to collaborate with me, a PhD student or PostDoc
 candidate interested in my research, or a student looking for a thesis topic,
 please [reach out to me](mailto:paul.buerkner@gmail.com)! Please also check
-out the [open positions](../positions) in my lab.
+out the [open positions](../positions) in my lab, which additionally includes a list
+of thesis topics for Bachelor and Master students.
