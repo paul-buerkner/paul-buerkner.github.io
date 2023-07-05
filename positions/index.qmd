@@ -22,6 +22,7 @@ that you can just contact me at any point to ask for opportunities. -->
 
 Thesis topics are available in the following broad areas:
 
+- Amortized Bayesian inference with [BayesFlow](../software#bayesflow)
 - Likelihood choice in Bayesian models
 - Prior specification
 - Bayesian latent variable modeling

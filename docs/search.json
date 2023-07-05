@@ -284,7 +284,7 @@
     "href": "positions/index.html#thesis-topics",
     "title": "Open Positions and Thesis Topics",
     "section": "Thesis Topics",
-    "text": "Thesis Topics\nThesis topics are available in the following broad areas:\n\nLikelihood choice in Bayesian models\nPrior specification\nBayesian latent variable modeling"
+    "text": "Thesis Topics\nThesis topics are available in the following broad areas:\n\nAmortized Bayesian inference with BayesFlow\nLikelihood choice in Bayesian models\nPrior specification\nBayesian latent variable modeling"
   },
   {
     "objectID": "cv/index.html",
