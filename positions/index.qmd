@@ -20,9 +20,12 @@ that you can just contact me at any point to ask for opportunities. -->
 
 ## Thesis Topics
 
-Thesis topics are available in the following broad areas:
+Thesis topics are available among others in the following areas:
 
+- Computational Bayesian statistics
+- Uncertainty quantification
 - Amortized Bayesian inference with [BayesFlow](../software#bayesflow)
 - Likelihood choice in Bayesian models
 - Prior specification
 - Bayesian latent variable modeling
+- *Your own ideas are very welcome*
