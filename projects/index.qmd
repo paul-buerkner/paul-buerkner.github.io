@@ -86,6 +86,10 @@ Funders: [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/)
 
 Funding Period: 2022 -- 2025
 
+Publications: 
+
+-   Bockting F., Radev, S. T., & Bürkner P. C. (2023). [Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models](http://arxiv.org/abs/2308.11672). *ArXiv preprint*.
+
 <!-- -->
 
 ## Probabilistic Models for Single-Cell RNA Sequencing Data {#scrna-models}
@@ -198,9 +202,10 @@ Funding Period: 2021 -- 2024
 
 Publications: 
 
+- Radev S. T., Schmitt M., Schumacher L., Elsemüller L., Pratz V., Schälte Y., Köthe U., & Bürkner P. C. (2023). [BayesFlow: Amortized Bayesian Workflows With Neural Networks](https://arxiv.org/abs/2306.16015). *ArXiv preprint*.
 - Schmitt, M., Radev, S. T., & Bürkner P. C. (2023). [Meta-Uncertainty in Bayesian Model Comparison](http://arxiv.org/abs/2210.07278). *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
 - Radev S. T., Schmitt M., Pratz V., Picchini U., Köthe U., & Bürkner P. C. (2023). [JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models](https://arxiv.org/abs/2302.09125). *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*.
-- Schmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (2022). [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](https://arxiv.org/abs/2112.08866). *ArXiv preprint*.
+- Schmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (2023). [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](https://arxiv.org/abs/2112.08866). *Proceedings of the German Conference on Pattern Recognition (GCPR)*.
 
 Software:
 
@@ -247,7 +252,7 @@ Funding Period: 2021 -- 2025
 
 Publications:
 
--   Aguilar J. E. & Bürkner P. C. (2022). [Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior](https://arxiv.org/abs/2208.07132). *ArXiv preprint*.
+-   Aguilar J. E. & Bürkner P. C. (2023). [Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior](https://doi.org/10.1214/23-EJS2136). *Electronic Journal of Statistics*. Available for free also on [ArXiv](https://arxiv.org/abs/2208.07132). doi:10.1214/23-EJS2136
 
 <!-- -->
 
@@ -282,8 +287,8 @@ Funding Period: 2021 -- 2024
 
 Publications:
 
-- Scholz M. & Bürkner P. C. (2022). [Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models](https://arxiv.org/abs/2210.06927). *ArXiv preprint*.
-- Bürkner P. C., Scholz M., & Radev S. T. (2022). [Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy](http://arxiv.org/abs/2209.02439). *ArXiv preprint*.
+- Scholz M. & Bürkner P. C. (2023). [Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models](https://arxiv.org/abs/2210.06927). *ArXiv preprint*.
+- Bürkner P. C., Scholz M., & Radev S. T. (2023). [Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy](http://arxiv.org/abs/2209.02439). *ArXiv preprint*.
 
 Software:
 

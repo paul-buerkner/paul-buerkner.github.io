@@ -129,7 +129,7 @@ Contributed to
 :::
 ::: {.g-col-12 .g-col-md-10}
 
-BayesFlow: Simulation-Based Bayesian Inference 
+BayesFlow: Amortized Bayesian Workflows With Neural Networks
 
 My role: Development team member
 
@@ -155,10 +155,11 @@ within the next couple of years.
 
 References: 
 
-- Radev S. T., Schmitt M., Pratz V., Picchini U., Köthe U., & Bürkner P. C. (2023). [JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models](https://arxiv.org/abs/2302.09125). *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*.
+- Radev S. T., Schmitt M., Schumacher L., Elsemüller L., Pratz V., Schälte Y., Köthe U., & Bürkner P. C. (2023). [BayesFlow: Amortized Bayesian Workflows With Neural Networks](https://arxiv.org/abs/2306.16015). *ArXiv preprint*.
 - Elsemüller L., Schnuerch M., Bürkner P. C., & Radev S. T. (2023). [A Deep Learning Method for Comparing Bayesian Hierarchical Models](https://arxiv.org/abs/2301.11873). *ArXiv preprint*.
-- Schumacher L., Bürkner P. C., Voss A., Köthe U., Radev S. T. (2023). [Neural Superstatistics: A Bayesian Method for Estimating Dynamic Models of Cognition](https://arxiv.org/abs/2211.13165). *ArXiv preprint*.
-- Schmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (2022). [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](https://arxiv.org/abs/2112.08866). *ArXiv preprint*.
+- Radev S. T., Schmitt M., Pratz V., Picchini U., Köthe U., & Bürkner P. C. (2023). [JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models](https://arxiv.org/abs/2302.09125). *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*.
+- Schumacher L., Bürkner P. C., Voss A., Köthe U., Radev S. T. (2023). [Neural Superstatistics: A Bayesian Method for Estimating Dynamic Models of Cognition](https://www.nature.com/articles/s41598-023-40278-3). *Scientific Reports*. Available for free also on [ArXiv](https://arxiv.org/abs/2211.13165). doi:10.1038/s41598-023-40278-3
+- Schmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (2023). [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](https://arxiv.org/abs/2112.08866). *Proceedings of the German Conference on Pattern Recognition (GCPR)*.
 - Radev S. T., D'Alessandro M., Mertens U. K., Voss A., Köthe U., & Bürkner P. C. (2021). [Amortized Bayesian Model Comparison with Evidental Deep Learning](https://ieeexplore.ieee.org/document/9612724). *IEEE Transactions on Neural Networks and Learning Systems*. Available for free on [ArXiv](https://arxiv.org/abs/2004.10629). doi:10.1109/TNNLS.2021.3124052 
 - Radev S. T., Wieschen E. M., Voss A., & Bürkner P. C. (2020). [Amortized Bayesian Inference for Models of Cognition](https://iccm-conference.neocities.org/2020/papers/Contribution_230_final.pdf). *International Conference on Cognitive Modelling (ICCM) Conference Proceedings*.
 - Radev, S. T., Mertens, U. K., Voss, A., Ardizzone, L., & Köthe, U. (2020). [BayesFlow: Learning complex stochastic models with invertible neural networks](https://ieeexplore.ieee.org/document/9298920). *IEEE Transactions on Neural Networks and Learning Systems*. Available for free on [ArXiv](https://arxiv.org/abs/2003.06281). doi:10.1109/TNNLS.2020.3042395
