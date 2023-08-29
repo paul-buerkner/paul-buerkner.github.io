@@ -59,6 +59,8 @@ Funding Period: 2022 -- 2025
 
 ## Simulation-Based Prior Distributions for Bayesian Models {#sbpriors}
 
+![](../images/simulation-based-priors.png){fig-alt="An illustration of the simulation-based prior workflow." fig-align="left"}
+
 Data-driven statistical modeling plays a crucial role in almost all quantitative
 sciences. Despite continuous increases in the amount of available data, the
 addition of further information sources, such as expert knowledge, often remains
