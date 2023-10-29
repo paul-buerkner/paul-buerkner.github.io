@@ -51,7 +51,9 @@ Overarching Topics:
 
 Project Members: [Luna Fazio](../people#luna-fazio)
 
-Funders: [German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp)
+Funders: 
+[German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp),
+[TU Dortmund University](https://www.tu-dortmund.de/en/)
 
 Funding Period: 2022 -- 2025
 
@@ -82,7 +84,8 @@ Overarching Topics:
 
 Project Members: [Florence Bockting](../people#florence-bockting)
 
-Funders: [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/)
+Funders: [TU Dortmund University](https://www.tu-dortmund.de/en/), 
+[Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/)
 
 Funding Period: 2022 -- 2025
 
@@ -117,7 +120,9 @@ Project Members: [Soham Mukherjee](../people#soham-mukherjee)
 
 Co-Supervisors: [Manfred Claassen](https://claassenlab.github.io/people/manfred-claassen/)
 
-Funders: [University of Tübingen](https://uni-tuebingen.de/en/)
+Funders: 
+[TU Dortmund University](https://www.tu-dortmund.de/en/),
+[University of Tübingen](https://uni-tuebingen.de/en/)
 
 Funding Period: 2022 -- 2025
 
@@ -246,6 +251,7 @@ Project Members: [Javier Aguilar](../people#javier-aguilar)
 
 Funders: 
 [German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp),
+[TU Dortmund University](https://www.tu-dortmund.de/en/),
 [University of Stuttgart](https://www.uni-stuttgart.de/en/)
 
 Funding Period: 2021 -- 2025

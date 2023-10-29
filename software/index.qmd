@@ -155,8 +155,9 @@ within the next couple of years.
 
 References: 
 
-- Radev S. T., Schmitt M., Schumacher L., Elsemüller L., Pratz V., Schälte Y., Köthe U., & Bürkner P. C. (2023). [BayesFlow: Amortized Bayesian Workflows With Neural Networks](https://arxiv.org/abs/2306.16015). *ArXiv preprint*.
+- Radev S. T., Schmitt M., Schumacher L., Elsemüller L., Pratz V., Schälte Y., Köthe U., & Bürkner P. C. (2023). [BayesFlow: Amortized Bayesian Workflows With Neural Networks](https://joss.theoj.org/papers/10.21105/joss.05702). *Journal of Open Source Software*. Available for free also on [ArXiv](https://arxiv.org/abs/2306.16015). doi:10.21105/joss.05702
 - Elsemüller L., Schnuerch M., Bürkner P. C., & Radev S. T. (2023). [A Deep Learning Method for Comparing Bayesian Hierarchical Models](https://arxiv.org/abs/2301.11873). *ArXiv preprint*.
+- Elsemüller L., Olischläger H., Schmitt M., Bürkner P. C., Köthe U., Radev S.T. (2023). [Sensitivity-Aware Amortized Bayesian Inference](https://arxiv.org/abs/2310.11122). *ArXiv preprint*.
 - Radev S. T., Schmitt M., Pratz V., Picchini U., Köthe U., & Bürkner P. C. (2023). [JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models](https://arxiv.org/abs/2302.09125). *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*.
 - Schumacher L., Bürkner P. C., Voss A., Köthe U., Radev S. T. (2023). [Neural Superstatistics: A Bayesian Method for Estimating Dynamic Models of Cognition](https://www.nature.com/articles/s41598-023-40278-3). *Scientific Reports*. Available for free also on [ArXiv](https://arxiv.org/abs/2211.13165). doi:10.1038/s41598-023-40278-3
 - Schmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (2023). [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](https://arxiv.org/abs/2112.08866). *Proceedings of the German Conference on Pattern Recognition (GCPR)*.
