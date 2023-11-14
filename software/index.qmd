@@ -49,7 +49,7 @@ apply prior distributions that actually reflect their knowledge. Model fit can
 easily be assessed and compared with posterior predictive checks,
 cross-validation, and Bayes factors.
 
-References:
+Selected References:
 
 - Bürkner P. C. (2021). [Bayesian Item Response Modelling in R with brms and Stan](https://www.jstatsoft.org/article/view/v100i05). *Journal of Statistical Software*. doi:10.18637/jss.v100.i05
 - Bürkner P. C. (2018). [Advanced Bayesian Multilevel Modeling with the R Package brms](https://journal.r-project.org/archive/2018/RJ-2018-017/index.html). *The R Journal*. doi:10.32614/RJ-2018-017
@@ -94,7 +94,7 @@ interfaces GPLv3).  Stan is associated with [NumFOCUS](https://numfocus.org/), a
 nonprofit supporting open code and reproducible science, through which you can
 help support Stan.
 
-References:
+Selected References:
 
 - Stan Development Team (current year). [Stan Modeling Language Users Guide and Reference  Manual (current version)](https://mc-stan.org/users/documentation/). https://mc-stan.org
 - Carpenter B., Gelman A., Hoffman M. D., Lee D., Goodrich B., Betancourt M., Brubaker M., Guo J., Li P., and Riddell A. (2017). [Stan: A probabilistic programming language](https://www.jstatsoft.org/article/view/v076i01). *Journal of Statistical Software*. doi:10.18637/jss.v076.i01.
@@ -153,7 +153,7 @@ Both the BayesFlow library itself and its community are quickly growing. Our
 goal is to make it the gold-standard simulation-based inference library
 within the next couple of years.
 
-References: 
+Selected References: 
 
 - Radev S. T., Schmitt M., Schumacher L., Elsemüller L., Pratz V., Schälte Y., Köthe U., & Bürkner P. C. (2023). [BayesFlow: Amortized Bayesian Workflows With Neural Networks](https://joss.theoj.org/papers/10.21105/joss.05702). *Journal of Open Source Software*. doi:10.21105/joss.05702
 - Radev S. T., Schmitt M., Pratz V., Picchini U., Köthe U., & Bürkner P. C. (2023). [JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models](https://arxiv.org/abs/2302.09125). *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*.
