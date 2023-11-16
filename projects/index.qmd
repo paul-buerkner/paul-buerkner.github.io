@@ -201,7 +201,8 @@ critical distinction in the context of model comparison procedures.
 
 Overarching Topics: 
 [Model Comparison](../research#model-comparison),
-[Uncertainty Quantification](../research#uncertainty-quantification)
+[Uncertainty Quantification](../research#uncertainty-quantification),
+[Simulation-Based Inference](../research#sbi)
 
 Project Members: [Marvin Schmitt](../people#marvin-schmitt)
 
