@@ -299,7 +299,8 @@ Funding Period: 2021 -- 2024
 Publications:
 
 - Scholz M. & Bürkner P. C. (2023). [Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models](https://arxiv.org/abs/2210.06927). *ArXiv preprint*.
-- Bürkner P. C., Scholz M., & Radev S. T. (2023). [Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy](http://arxiv.org/abs/2209.02439). *ArXiv preprint*.
+- Scholz M. & Bürkner P. C. (2023). [Posterior accuracy and calibration under misspecification in Bayesian generalized linear models](https://arxiv.org/abs/2311.09081). *ArXiv preprint*.
+- Bürkner P. C., Scholz M., & Radev S. T. (2023). [Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy](http://arxiv.org/abs/2209.02439). *Statistics Surveys*.
 
 Software:
 
