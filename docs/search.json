@@ -25,7 +25,7 @@
     "href": "research/index.html#sbi",
     "title": "Research",
     "section": "Simulation-Based Inference",
-    "text": "Simulation-Based Inference\nFor complex physical or cognitive models, the data generating process cannot be fully expressed analytically. Rather, we only have access to a simulator that generates data from said process and we thus must rely on Simulation-based inference for learning about such models from data. Neural density estimators have proven remarkably powerful in performing efficient simulation-based Bayesian inference in various research domains. However, there remain several open challenges regarding their accuracy, scalability, and robustness of these methods, challenges that my lab aims to solve in the upcoming years.\nCurrent projects:\n\nAmortized Bayesian Inference for Multilevel Models\nSimulation-Based Prior Distributions"
+    "text": "Simulation-Based Inference\nFor complex physical or cognitive models, the data generating process cannot be fully expressed analytically. Rather, we only have access to a simulator that generates data from said process and we thus must rely on Simulation-based inference for learning about such models from data. Neural density estimators have proven remarkably powerful in performing efficient simulation-based Bayesian inference in various research domains. However, there remain several open challenges regarding their accuracy, scalability, and robustness of these methods, challenges that my lab aims to solve in the upcoming years.\nCurrent projects:\n\nAmortized Bayesian Inference for Multilevel Models\nSimulation-Based Prior Distributions\nMeta-Uncertainty in Bayesian Model Comparison"
   },
   {
     "objectID": "research/index.html#model-comparison",

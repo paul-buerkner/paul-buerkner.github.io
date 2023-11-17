@@ -76,6 +76,7 @@ Current projects:
 
 - [Amortized Bayesian Inference for Multilevel Models](../projects#amortized-mlms)
 - [Simulation-Based Prior Distributions](../projects#sbpriors)
+- [Meta-Uncertainty in Bayesian Model Comparison](../projects#mu-bmb)
 
 ## Model Comparison {#model-comparison}
 
