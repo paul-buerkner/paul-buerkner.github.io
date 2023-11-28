@@ -23,7 +23,6 @@ toc-location: right
 
 ## Accepted
 
--   **Bürkner P. C.**, Scholz M., & Radev S. T. (accepted). [Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy](http://arxiv.org/abs/2209.02439). *Statistics Surveys*.
 -   Radev S. T., Schmitt M., Pratz V., Picchini U., Köthe U., & **Bürkner P. C.** (accepted). [JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models](https://arxiv.org/abs/2302.09125). *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*.
 -   Schmitt, M., **Bürkner P. C.**, Köthe U., & Radev S. T. (accepted). [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](https://arxiv.org/abs/2112.08866). *Proceedings of the German Conference on Pattern Recognition (GCPR)*.
 -   Kallioinen N., Paananen T., **Bürkner P. C.**, & Vehtari A. (accepted). [Detecting and diagnosing prior and likelihood sensitivity with power-scaling](https://arxiv.org/abs/2107.14054). *Statistics and Computing*.
@@ -33,6 +32,7 @@ toc-location: right
 
 ## 2023
 
+-   **Bürkner P. C.**, Scholz M., & Radev S. T. (2023). [Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy](https://doi.org/10.1214/23-SS145). *Statistics Surveys*. Available for free also on [ArXiv](http://arxiv.org/abs/2209.02439). doi:10.1214/23-SS145
 -   **Bürkner P. C.**, Kröker I., Oladyshkin S., & Nowak W. (2023). [A fully Bayesian sparse polynomial chaos expansion approach with joint priors on the coefficients and global selection of terms](https://doi.org/10.1016/j.jcp.2023.112210). *Journal of Computational Physics*. Available for free on [ArXiv](https://arxiv.org/abs/2204.06043). doi:10.1016/j.jcp.2023.112210
 -   Aguilar J. E. & **Bürkner P. C.** (2023). [Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior](https://doi.org/10.1214/23-EJS2136). *Electronic Journal of Statistics*. Available for free also on [ArXiv](https://arxiv.org/abs/2208.07132). doi:10.1214/23-EJS2136
 -   Schmitt, M., Radev, S. T., & **Bürkner P. C.** (2023). [Meta-Uncertainty in Bayesian Model Comparison](https://proceedings.mlr.press/v206/schmitt23a.html). *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*. Available for free also on [ArXiv](http://arxiv.org/abs/2210.07278).
