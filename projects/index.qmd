@@ -134,6 +134,8 @@ Funding Period: 2022 -- 2025
 
 ## Data-Integrated Training of Surrogate Models for Uncertainty Quantification of Complex Biological Systems Models {#bio-surrogate-models}
 
+![](../images/uncertainty_prop_workflow.png){fig-alt="Surrogate uncertainty propagation workflow."}
+
 Uncertainty estimation is crucial to assess the predictive power and limitations
 of biological systems models. However, in the case of high-dimensional parameter
 spaces and/or complex functional relationships, physics-based simulation models
@@ -165,6 +167,10 @@ Co-Supervisors: [Anneli Guthke](https://www.simtech.uni-stuttgart.de/exc/people/
 Funders: [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/)
 
 Funding Period: 2022 -- 2025
+
+Publications: 
+
+- Reiser, P., Aguilar J. E., Guthke A., & Bürkner P. C. (2023). [Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference](https://arxiv.org/abs/2312.05153). *ArXiv preprint*.
 
 <!-- -->
 
@@ -213,10 +219,10 @@ Funding Period: 2021 -- 2024
 Publications: 
 
 - Schmitt, M., Radev, S. T., & Bürkner P. C. (2023). [Meta-Uncertainty in Bayesian Model Comparison](http://arxiv.org/abs/2210.07278). *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
+- Schmitt, M., Radev, S. T., & Bürkner P. C. (2023). [Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference](https://arxiv.org/abs/2311.10671). *ArXiv preprint*.
 - Schmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (2023). [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](https://arxiv.org/abs/2112.08866). *Proceedings of the German Conference on Pattern Recognition (GCPR)*.
 - Schmitt M., Habermann D., Bürkner P. C., Köthe U., & Radev S. T. (2023). [Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference](https://arxiv.org/abs/2310.04395). *NeurIPS UniReps Workshop*.
 - Radev S. T., Schmitt M., Pratz V., Picchini U., Köthe U., & Bürkner P. C. (2023). [JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models](https://arxiv.org/abs/2302.09125). *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*.
-- Radev S. T., Schmitt M., Schumacher L., Elsemüller L., Pratz V., Schälte Y., Köthe U., & Bürkner P. C. (2023). [BayesFlow: Amortized Bayesian Workflows With Neural Networks](https://joss.theoj.org/papers/10.21105/joss.05702). *Journal of Open Source Software*. doi:10.21105/joss.05702
 
 Software:
 
