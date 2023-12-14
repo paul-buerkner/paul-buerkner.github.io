@@ -13,7 +13,6 @@ toc-location: right
 -   Scholz M. & **Bürkner P. C.** (in review). [Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models](https://arxiv.org/abs/2210.06927). *ArXiv preprint*.
 -   Scholz M. & **Bürkner P. C.** (in review). [Posterior accuracy and calibration under misspecification in Bayesian generalized linear models](https://arxiv.org/abs/2311.09081). *ArXiv preprint*.
 -   Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). [Latent space projection predictive inference](https://arxiv.org/abs/2109.04702). *ArXiv preprint*.
--   Elsemüller L., Schnuerch M., **Bürkner P. C.**, & Radev S. T. (in review). [A Deep Learning Method for Comparing Bayesian Hierarchical Models](https://arxiv.org/abs/2301.11873). *ArXiv preprint*.
 -   Elsemüller L., Olischläger H., Schmitt M., **Bürkner P. C.**, Köthe U., & Radev S. T. (in review). [Sensitivity-Aware Amortized Bayesian Inference](https://arxiv.org/abs/2310.11122). *ArXiv preprint*.
 -   Shi L., **Bürkner P. C.**, & Bulling A. (in review). [Inferring Human Intentions from Predicted Action Probabilities](https://arxiv.org/abs/2308.12194). *ArXiv preprint*.
 -   Raulo A., **Bürkner P. C.**, Dale J., English H., Finerty G., Lamberth C., Firth J. A., Coulson T., & Knowles S. (in review). [Social and environmental transmission spread different sets of gut microbes in wild mice](https://www.biorxiv.org/content/10.1101/2023.07.20.549849v1). *BioRxiv preprint*.
@@ -28,6 +27,7 @@ toc-location: right
 -   Radev S. T., Schmitt M., Pratz V., Picchini U., Köthe U., & **Bürkner P. C.** (accepted). [JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models](https://arxiv.org/abs/2302.09125). *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*.
 -   Schmitt, M., **Bürkner P. C.**, Köthe U., & Radev S. T. (accepted). [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](https://arxiv.org/abs/2112.08866). *Proceedings of the German Conference on Pattern Recognition (GCPR)*.
 -   Kallioinen N., Paananen T., **Bürkner P. C.**, & Vehtari A. (accepted). [Detecting and diagnosing prior and likelihood sensitivity with power-scaling](https://arxiv.org/abs/2107.14054). *Statistics and Computing*.
+-   Elsemüller L., Schnuerch M., **Bürkner P. C.**, & Radev S. T. (accepted). [A Deep Learning Method for Comparing Bayesian Hierarchical Models](https://arxiv.org/abs/2301.11873). *Psychological Methods*.
 -   Schmitt M., Habermann D., **Bürkner P. C.**, Köthe U., & Radev S. T. (accepted). [Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference](https://arxiv.org/abs/2310.04395). *NeurIPS UniReps Workshop*.
 -   Kołczyńska M., **Bürkner P. C.**, Kennedy L., & Vehtari A. (accepted). [Trust in state institutions in Europe, 1989-2019](https://osf.io/preprints/socarxiv/3v5g7/). *Survey Research Methods*.
 
