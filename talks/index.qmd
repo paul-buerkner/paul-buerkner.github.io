@@ -5,7 +5,7 @@ toc-location: right
 ---
 
 Below you can find a list of selected talks of mine,
-along with slides, paper references, and recordings where available. 
+along with slides, paper references, and recordings when available. 
 
 * Bürkner P. C. (2023). 
 [Bayesian Probabilistic Modeling for Ecology](bayesian_inference_ecology.pdf).
@@ -23,6 +23,10 @@ Paper published in [Journal of Computational Physics](https://doi.org/10.1016/j.
 * Bürkner P. C. (2022). [Probabilistic Learning Theory](probabilistic_learning_theory.pdf). 
 First presented at a symposium of the [Stuttgart ELLIS unit](https://ellis-stuttgart.eu/).
 Video available on [Youtube](https://www.youtube.com/watch?v=y9Sh6g4X2bM).
+
+* Bürkner P. C. (2022). 
+[Measuring Personality in High-Stakes Situations](measuring_personality_high_stakes.pdf).
+First presented at the [Interchange Forum for Reflecting on Intelligent Systems](https://www.iris.uni-stuttgart.de/).
 
 * Bürkner P. C. (2021). 
 [Bayesian Item Response Modeling in R with brms and Stan](bayesian_IRT_modeling.pdf). 
