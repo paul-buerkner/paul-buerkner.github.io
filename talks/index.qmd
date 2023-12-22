@@ -11,6 +11,10 @@ along with slides, paper references, and recordings when available.
 [Bayesian Probabilistic Modeling for Ecology](bayesian_inference_ecology.pdf).
 First presented at [Oxford University](https://www.biology.ox.ac.uk/home).
 
+* Bürkner P. C. (2023).
+[Testing evidence of absence with Bayesian methods](bayesian_equivalence_testing.pdf).
+First presented at [University of Tübingen](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/events/vergangene-veranstaltungen/interdisciplinary-methods-spring-school-2023/). 
+
 * Bürkner P. C. (2023). 
 [Best Practices for Supervision of Bachelor’s and Master’s Students](supervision_workshop.pdf). 
 First presented at the [International Max Planck Research School for Intelligent Systems](https://imprs.is.mpg.de/).
@@ -76,10 +80,22 @@ Video available on [Youtube](https://www.youtube.com/watch?v=KH4jN9EBTtE&t=4653s
 First presented at the [EAM Conference](https://www.eam-online.org/).
 Paper published in [British Journal of Mathematical and Statistical Psychology](https://doi.org/10.1111/bmsp.12195).
 
+* Bürkner P. C. (2019).
+[Bayesian model and variable selection using approximate cross-validation and projective predictions](bayesian_model_comparison.pdf).
+First presented at [Imperial College London](https://www.imperial.ac.uk/events/96918/scalable-bayesian-inference-in-applied-fields/). 
+
 * Bürkner P. C. (2018). 
 [Custom Response Distributions with brms](custom_response_distributions_brms.pdf). 
 First presented at [StanCon](https://mc-stan.org/events/stancon2018Helsinki/).
 Video available on [Youtube](https://youtu.be/FoaxA7sJi7w?list=PLuwyh42iHquU4hUBQs20hkBsKSMrp6H0J&t=7985).
+
+* Bürkner P. C. (2018).
+[From Classical GLMs to Bayesian MLMs](from_GLMs_to_MLMs.pdf).
+First presented at [Insurance Data Science Conference](https://insurancedatascience.org/project/2018_london/).
+
+* Bürkner P. C. (2018). 
+[Bayesian Cognitive Models](bayesian_cognitive_models.pdf).
+First presented at the [University of Magdeburg](https://www.ipsy.ovgu.de/en/Our+Institute/Departments/Biological+Psychology.html).
 
 * Bürkner P. C. (2017). 
 [Optimal Design and Bayesian Data Analysis](optimal_design_bayesian_data_analysis.pdf). 
