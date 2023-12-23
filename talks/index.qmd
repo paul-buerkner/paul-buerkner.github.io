@@ -31,7 +31,7 @@ First presented at the [DagStat Conference](https://www.dagstat2022.uni-hamburg.
 Paper published in [Journal of Computational Physics](https://doi.org/10.1016/j.jcp.2023.112210). 
 
 * **Aguilar J. E.** & Bürkner P. C. (2022). 
-Invited talk: [Intuitive Joint Priors for Bayesian Multilevel Models](R2D2M2_prior.pdf).
+Talk: [Intuitive Joint Priors for Bayesian Multilevel Models](R2D2M2_prior.pdf).
 First presented at the [International Conference on Statistics and Data Science](https://sites.google.com/view/icsds2022).
 Paper published in [Electronic Journal of Statistics](https://doi.org/10.1214/23-EJS2136).
 
