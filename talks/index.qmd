@@ -1,104 +1,117 @@
 ---
-title: Scientific Talks
+title: Scientific Talks and Posters
 excerpt: "A list of selected talks of me and my group"
 toc-location: right
 ---
 
-Below you can find a list of selected talks of mine,
-along with slides, paper references, and recordings when available. 
+Below you can find a list of selected talks and posters of me and my group,
+along with slides, paper references, and recordings when available.
+Presenters are highlighted in **bold**.
 
-* Bürkner P. C. (2023). 
-[Bayesian Probabilistic Modeling for Ecology](bayesian_inference_ecology.pdf).
+* **Bürkner P. C.** (2023). 
+Keynote: [Bayesian Probabilistic Modeling for Ecology](bayesian_inference_ecology.pdf).
 First presented at [Oxford University](https://www.biology.ox.ac.uk/home).
 
-* Bürkner P. C. (2023).
-[Testing evidence of absence with Bayesian methods](bayesian_equivalence_testing.pdf).
+* **Bürkner P. C.** (2023).
+Invited talk: [Testing evidence of absence with Bayesian methods](bayesian_equivalence_testing.pdf).
 First presented at [University of Tübingen](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/events/vergangene-veranstaltungen/interdisciplinary-methods-spring-school-2023/). 
 
-* Bürkner P. C. (2023). 
-[Best Practices for Supervision of Bachelor’s and Master’s Students](supervision_workshop.pdf). 
+* **Bürkner P. C.** (2023). 
+Invited talk: [Best Practices for Supervision of Bachelor’s and Master’s Students](supervision_workshop.pdf). 
 First presented at the [International Max Planck Research School for Intelligent Systems](https://imprs.is.mpg.de/).
 
-* Bürkner P. C., Kröker I., Oladyshkin S., & Nowak W. (2022).
-[The Sparse Bayesian Polynomial Chaos Expansion](bayesian_sparse_PCE.pdf). 
+* **Aguilar J. E.** & Bürkner P. C. (2023). 
+Poster: [Intuitive Joint Priors for Bayesian Multilevel Models: The R2D2M2 Priors](poster_R2D2M2_prior.pdf).
+First presented at the [BayesComp](https://bayescomp2023.com/).
+Paper published in [Electronic Journal of Statistics](https://doi.org/10.1214/23-EJS2136).
+
+* **Bürkner P. C.**, Kröker I., Oladyshkin S., & Nowak W. (2022).
+Talk: [The Sparse Bayesian Polynomial Chaos Expansion](bayesian_sparse_PCE.pdf). 
 First presented at the [DagStat Conference](https://www.dagstat2022.uni-hamburg.de/). 
 Paper published in [Journal of Computational Physics](https://doi.org/10.1016/j.jcp.2023.112210). 
 
-* Bürkner P. C. (2022). [Probabilistic Learning Theory](probabilistic_learning_theory.pdf). 
+* **Aguilar J. E.** & Bürkner P. C. (2022). 
+Invited talk: [Intuitive Joint Priors for Bayesian Multilevel Models](R2D2M2_prior.pdf).
+First presented at the [International Conference on Statistics and Data Science](https://sites.google.com/view/icsds2022).
+Paper published in [Electronic Journal of Statistics](https://doi.org/10.1214/23-EJS2136).
+
+* **Bürkner P. C.** (2022). 
+Invited talk: [Probabilistic Learning Theory](probabilistic_learning_theory.pdf). 
 First presented at a symposium of the [Stuttgart ELLIS unit](https://ellis-stuttgart.eu/).
 Video available on [Youtube](https://www.youtube.com/watch?v=y9Sh6g4X2bM).
 
-* Bürkner P. C. (2022). 
-[Measuring Personality in High-Stakes Situations](measuring_personality_high_stakes.pdf).
+* **Bürkner P. C.** (2022). 
+Invited talk: [Measuring Personality in High-Stakes Situations](measuring_personality_high_stakes.pdf).
 First presented at the [Interchange Forum for Reflecting on Intelligent Systems](https://www.iris.uni-stuttgart.de/).
 
-* Bürkner P. C. (2021). 
-[Bayesian Item Response Modeling in R with brms and Stan](bayesian_IRT_modeling.pdf). 
+* **Bürkner P. C.** (2021). 
+Keynote: [Bayesian Item Response Modeling in R with brms and Stan](bayesian_IRT_modeling.pdf). 
 First presented at the [Psychoco Conference](https://www.psychoco.org/2021/). 
 Paper published in [Journal of Statistical Software](https://www.jstatsoft.org/article/view/v100i05). 
 Video available on [Youtube](https://www.youtube.com/watch?v=hwMqnZTa_h8).
 
-* Bürkner P. C. (2021). 
-[Specifying Priors in a Bayesian Workflow](prior_specification_bayesian_workflow.pdf).
+* **Bürkner P. C.** (2021). 
+Invited talk: [Specifying Priors in a Bayesian Workflow](prior_specification_bayesian_workflow.pdf).
 First presented at the [Berlin Bayesian Meetup](https://www.meetup.com/de-DE/BerlinBayesians/).
 Video available on [Youtube](https://www.youtube.com/watch?v=d6i6xNDmExQ).
 
-* Bürkner P. C. (2021). 
-[An introduction to Bayesian multilevel modeling with brms](bayesian_multilevel_modeling_brms). 
+* **Bürkner P. C.** (2021). 
+Keynote: [An introduction to Bayesian multilevel modeling with brms](bayesian_multilevel_modeling_brms). 
 First presented at the [Multilevel Conference](https://multilevel.fss.uu.nl/). 
 Video available on [Youtube](https://www.youtube.com/watch?v=1qeXD4NQ4To).
 
-* Bürkner P. C. (2021). 
-[Bayesian distributional regression models for cognitive science](bayesian_distributional_models.pdf). 
+* **Bürkner P. C.** (2021). 
+Invited talk: [Bayesian distributional regression models for cognitive science](bayesian_distributional_models.pdf). 
 First presented at [TU Darmstadt University](https://www.tu-darmstadt.de/cogsci/ccs/index.en.jsp).
 
-* Bürkner P. C. (2021). 
-[Introduction to Bayesian Statistics](introduction_bayesian_statistics.pdf). 
+* **Bürkner P. C.** (2021). 
+Invited talk: [Introduction to Bayesian Statistics](introduction_bayesian_statistics.pdf). 
 First presented at the [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/).
 
-* Bürkner P. C. (2021). 
-[The Past, Present & Future of brms](https://learnbayesstats.com/episode/35-past-present-future-brms-paul-burkner/). 
+* **Bürkner P. C.** (2021). 
+Invited talk: [The Past, Present & Future of brms](https://learnbayesstats.com/episode/35-past-present-future-brms-paul-burkner/). 
 First presented on [learnbayesstats.com](https://learnbayesstats.com/).
 Video available on [Youtube](https://www.youtube.com/watch?v=GLR4ENIkNFY).
 
-* Bürkner P. C. (2020). 
-[A Bayesian Workflow for Data Analysis](bayesian_workflow.pdf). 
+* **Bürkner P. C.** (2020). 
+Keynote: [A Bayesian Workflow for Data Analysis](bayesian_workflow.pdf). 
 First presented at the [Summer School on Statistical Methods for Linguistics and Psychology](https://vasishth.github.io/smlp2019/).
 
-* Vehtari A., Gelman A., Simpson D., Carpenter B., Bürkner P. C. (2020). 
-[Improving Convergence Diagnostics for MCMC Sampling Algorithms](convergence_MCMC.pdf). 
+* Vehtari A., Gelman A., Simpson D., Carpenter B., **Bürkner P. C.** (2020). 
+Talk: [Improving Convergence Diagnostics for MCMC Sampling Algorithms](convergence_MCMC.pdf). 
 First presented at the [DGPs Methods Conference](https://www.dgps.de/fachgruppen/methoden-evaluation).
 Paper published in [Bayesian Analysis](https://doi.org/10.1214/20-BA1221).
 
-* Bürkner P. C., Gabry J., & Vehtari A. (2019). [Approximate leave-future-out cross-validation for Bayesian time series models](leave_future_out_cross_validation.pdf). 
+* **Bürkner P. C.**, Gabry J., & Vehtari A. (2019). Talk: [Approximate leave-future-out cross-validation for Bayesian time series models](leave_future_out_cross_validation.pdf). 
 First presented at [StanCon](https://mc-stan.org/events/stancon2019Cambridge/). 
 Paper published in [Journal of Statistical Computation and Simulation](https://doi.org/10.1080/00949655.2020.1783262). 
 Video available on [Youtube](https://www.youtube.com/watch?v=KH4jN9EBTtE&t=4653s).
 
-* Bürkner P. C. & Charpentier E. (2019). 
-[Modeling Monotonic Effects of Ordinal Predictors in Regression Models](monotonic_effects.pdf).
+* **Bürkner P. C.** & Charpentier E. (2019). 
+Talk: [Modeling Monotonic Effects of Ordinal Predictors in Regression Models](monotonic_effects.pdf).
 First presented at the [EAM Conference](https://www.eam-online.org/).
 Paper published in [British Journal of Mathematical and Statistical Psychology](https://doi.org/10.1111/bmsp.12195).
 
-* Bürkner P. C. (2019).
-[Bayesian model and variable selection using approximate cross-validation and projective predictions](bayesian_model_comparison.pdf).
+* **Bürkner P. C.** (2019).
+Invited talk: [Bayesian model and variable selection using approximate cross-validation and projective predictions](bayesian_model_comparison.pdf).
 First presented at [Imperial College London](https://www.imperial.ac.uk/events/96918/scalable-bayesian-inference-in-applied-fields/). 
 
-* Bürkner P. C. (2018). 
-[Custom Response Distributions with brms](custom_response_distributions_brms.pdf). 
+* **Bürkner P. C.** (2018). 
+Talk: [Custom Response Distributions with brms](custom_response_distributions_brms.pdf). 
 First presented at [StanCon](https://mc-stan.org/events/stancon2018Helsinki/).
 Video available on [Youtube](https://youtu.be/FoaxA7sJi7w?list=PLuwyh42iHquU4hUBQs20hkBsKSMrp6H0J&t=7985).
 
-* Bürkner P. C. (2018).
-[From Classical GLMs to Bayesian MLMs](from_GLMs_to_MLMs.pdf).
+* **Bürkner P. C.** (2018).
+Invited talk: [From Classical GLMs to Bayesian MLMs](from_GLMs_to_MLMs.pdf).
 First presented at [Insurance Data Science Conference](https://insurancedatascience.org/project/2018_london/).
 
-* Bürkner P. C. (2018). 
-[Bayesian Cognitive Models](bayesian_cognitive_models.pdf).
+* **Bürkner P. C.** (2018). 
+Invited talk: [Bayesian Cognitive Models](bayesian_cognitive_models.pdf).
 First presented at the [University of Magdeburg](https://www.ipsy.ovgu.de/en/Our+Institute/Departments/Biological+Psychology.html).
 
-* Bürkner P. C. (2017). 
-[Optimal Design and Bayesian Data Analysis](optimal_design_bayesian_data_analysis.pdf). 
+* **Bürkner P. C.** (2017). 
+Invited talk: [Optimal Design and Bayesian Data Analysis](optimal_design_bayesian_data_analysis.pdf). 
 First presented at the [DGPs Methods Conference](https://uni-tuebingen.de/en/faculties/faculty-of-economics-and-social-sciences/subjects/department-of-social-sciences/methods-center/events/past-events/fgme2017/).
 
-* Bürkner P. C. (2015). [Optimal Design of Non-Parametric Two-Sample Tests](optimal_design_two_sample_tests.pdf). First presented at the [DGPs Methods Conference](https://www.dgps.de/fachgruppen/methoden-evaluation).
+* **Bürkner P. C.** (2015). 
+Talk: [Optimal Design of Non-Parametric Two-Sample Tests](optimal_design_two_sample_tests.pdf). First presented at the [DGPs Methods Conference](https://www.dgps.de/fachgruppen/methoden-evaluation).
