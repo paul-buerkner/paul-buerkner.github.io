@@ -64,7 +64,7 @@ Current projects:
 
 For complex physical or cognitive models, the data generating process cannot be
 fully expressed analytically. Rather, we only have access to a simulator that
-generates data from said process and we thus must rely on Simulation-based
+generates data from said process and we thus must rely on simulation-based
 inference for learning about such models from data. Neural density estimators
 have proven remarkably powerful in performing efficient simulation-based
 Bayesian inference in various research domains. However, there remain several
@@ -94,14 +94,14 @@ Current projects:
 - [Meta-Uncertainty in Bayesian Model Comparison](../projects#mu-bmb)
 - [Machine Learning for Bayesian Model Building](../projects#ml4bmb)
 
-## Machine-Assisted Bayesian Workflow {#machine-workflow}
+## Machine-Assisted Bayesian Workflows {#machine-workflow}
 
 Building Bayesian models in a principled way remains a highly complex task
 requiring a lot of expertise and cognitive resources. Ideally, subject matter
 experts do not have to solve everything by themselves but have statisticians or
 data scientists by their side to assist them. Of course, the latter are not
 always available for every data-analysis project. As a remedy we are developing
-a machine-assisted workflow for building interpretable, robust, and
+machine-assisted workflows for building interpretable, robust, and
 well-predicting Bayesian models. This first requires more research on the
 theoretical foundations of Bayesian model building. With this in hand, machines
 will be trained to provide automatic model evaluation and modeling
