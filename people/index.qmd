@@ -24,7 +24,6 @@ Background: Statistics, Mathematics, and Psychology
 Position: Full Professor for Computational Statistics
 
 Links:
-[Personal Website](https://paul-buerkner.github.io/),
 [University Website](https://compstat.statistik.tu-dortmund.de/en/),
 [GitHub](https://github.com/paul-buerkner),
 [Email](mailto:paul.buerkner@gmail.com)
@@ -54,7 +53,7 @@ Background: Computational Biology
 Project: [Amortized Bayesian Inference for Multilevel Models](../projects#amortized-mlms) 
 
 Links: 
-[Website](https://daniel-habermann.de), 
+[Personal Website](https://daniel-habermann.de), 
 [GitHub](https://github.com/daniel-habermann)
 
 :::
@@ -83,7 +82,6 @@ Background: Mathematics and Statistics
 Project: [Intuitive Joint Priors for Bayesian Multilevel Models](../projects#joint-priors-mlms)
 
 Links: 
-[University Website](https://www.simtech.uni-stuttgart.de/exc/people/Aguilar/), 
 [GitHub](https://github.com/jear2412)
 :::
 :::
