@@ -6,19 +6,18 @@ page-layout: full
 ---
 
 Probabilistic (Bayesian) approaches to statistics and machine learning have
-become increasingly popular in recent years due to new developments in
-probabilistic programming languages and associated learning algorithms as well
-as a steady increase in overall computing power. Probabilistic programming
-languages make it easier to specify and fit Bayesian models, but this still
-leaves us with many options regarding constructing, evaluating, and using these
-models, along with many remaining challenges in computation. My overarching
-scientific goal for the upcoming years is to develop a principled Bayesian
-workflow for data analysis that comprises the whole scientific process from
-design of studies, data gathering and cleaning over model building, calibration,
-fitting and evaluation, to the post-processing and statistical decision making.
-As such, we are working on a wide range of research topics related to the
-development, evaluation, implementation, or application of Bayesian methods.
-Some of my current core research areas are detailed below.
+become increasingly popular due to new developments in probabilistic programming
+languages and associated learning algorithms as well as a steady increase in
+overall computing power. Probabilistic programming languages make it easier to
+specify and fit Bayesian models, but this still leaves us with many options
+regarding constructing, evaluating, and using these models, along with many
+remaining challenges in computation. My overarching scientific goal is to
+develop principled Bayesian workflows that comprise the whole scientific process
+from design of studies, data gathering and cleaning over model building,
+calibration, fitting and evaluation, to the post-processing and statistical
+decision making. As such, we are working on a wide range of research topics
+related to the development, evaluation, implementation, or application of
+Bayesian methods. Some of my current core research areas are detailed below.
 
 ## Uncertainty Quantification {#uncertainty-quantification}
 
