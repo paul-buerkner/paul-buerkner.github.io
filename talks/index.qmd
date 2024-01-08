@@ -25,6 +25,11 @@ Poster: [Intuitive Joint Priors for Bayesian Multilevel Models: The R2D2M2 Prior
 First presented at the [BayesComp](https://bayescomp2023.com/).
 Paper published in [Electronic Journal of Statistics](https://doi.org/10.1214/23-EJS2136).
 
+- **Scholz M.** & Bürkner P.C. (2023). 
+Talk: [Prediction can be safely used as a proxy for explanation in causally consistent Bayesian GLMs](pdf/prediction_explanation.pdf).
+First presented at [Nordstat](https://nordstat2023.org/). 
+Preprint available on [ArXiv](https://arxiv.org/abs/2210.06927).
+
 - **Bürkner P. C.**, Kröker I., Oladyshkin S., & Nowak W. (2022).
 Talk: [The Sparse Bayesian Polynomial Chaos Expansion](pdf/bayesian_sparse_PCE.pdf). 
 First presented at the [DagStat Conference](https://www.dagstat2022.uni-hamburg.de/). 
