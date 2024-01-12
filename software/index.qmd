@@ -134,7 +134,9 @@ BayesFlow: Amortized Bayesian Workflows With Neural Networks
 My role: Development team member
 
 Links:
-[GitHub](https://github.com/stefanradev93/BayesFlow)
+[Website](https://bayesflow.org/),
+[GitHub](https://github.com/stefanradev93/BayesFlow),
+[Forums](https://discuss.bayesflow.org/)
 
 :::
 :::
