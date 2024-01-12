@@ -12,11 +12,8 @@ student assistant position or thesis topic.
 
 ## Open Positions
 
-- [Student assistant position](pdf/student_assistant_software_engineering_ml_2023.pdf) 
-focusing on software engineering of probabilistic machine learning methods. 
-
-<!-- There are currently no officially announced open positions, but remember
-that you can just contact me at any point to ask for opportunities. -->
+There are currently no officially announced open positions, but remember
+that you can just contact me at any point to ask for opportunities.
 
 ## Thesis Topics
 
