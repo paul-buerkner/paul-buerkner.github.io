@@ -25,6 +25,22 @@ Poster: [Intuitive Joint Priors for Bayesian Multilevel Models: The R2D2M2 Prior
 First presented at the [BayesComp](https://bayescomp2023.com/).
 Paper published in [Electronic Journal of Statistics](https://doi.org/10.1214/23-EJS2136).
 
+- **Schmitt, M.**, Radev, S. T., & Bürkner, P. C. (2023). 
+Poster: [Meta-Uncertainty in Bayesian Model Comparison](pdf/poster_meta_uncertainty). 
+First presented at [AISTATS 2023](http://aistats.org/aistats2023/).
+Paper published in [AISSTATS Conference Proceedings](https://proceedings.mlr.press/v206/schmitt23a.html).
+
+- **Schmitt, M.**, Bürkner, P. C., Köthe, U., & Radev, S. T. (2023). 
+Talk: [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](pdf/detecting_MMS_bayesflow.pdf). 
+First presented at the [German Conference on Pattern Recognition](https://www.dagm-gcpr.de/year/2023). 
+Paper published in [GCPR Conference Proceedings](https://arxiv.org/abs/2112.08866) (best paper honorable mention). 
+Previously featured also as a [poster](pdf/poster_detecting_MMS_bayesflow.pdf).
+
+- **Schmitt, M.**, Habermann, D., Bürkner, P. C., & Radev, S. T. (2023). 
+Talk: [Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference](pdf/self_consistency_bayesflow.pdf). 
+First presented at the [NeurIPS Workshop for Unifying Representations in Neural Models](https://neurips.cc/virtual/2023/workshop/66494).
+Preprint available on [ArXiv](https://arxiv.org/abs/2310.04395).
+
 - **Scholz M.** & Bürkner P.C. (2023). 
 Talk: [Prediction can be safely used as a proxy for explanation in causally consistent Bayesian GLMs](pdf/prediction_explanation.pdf).
 First presented at [Nordstat](https://nordstat2023.org/). 
