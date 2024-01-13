@@ -273,6 +273,13 @@
     "text": "2016\n\nBürkner P. C., Doebler P., & Holling H. (2016). Optimal design of the Wilcoxon-Mann-Whitney-test. Biometrical Journal. 59(1), 25–40. Available for free on ArXiv. doi:10.1002/bimj.201600022\nBenda N., Bürkner P. C., Freise F., Holling H., & Schwabe R. (2016). Adaptive Designs for Quantal Dose-Response Experiments with False Answers. Journal of Statistical Theory and Practice. 11(3), 361–374. doi:10.1080/15598608.2016.1213209"
   },
   {
+    "objectID": "publications/index.html#section-9",
+    "href": "publications/index.html#section-9",
+    "title": "Scientific Publications",
+    "section": "2014",
+    "text": "2014\n\nBürkner P. C. & Doebler P. (2014). Testing for Publication Bias in Diagnostic Meta-Analysis: A Simulation Study. Statistics in Medicine. 33(18), 3061–3077. Available for free on ArXiv. doi:10.1002/sim.6177"
+  },
+  {
     "objectID": "talks/index.html",
     "href": "talks/index.html",
     "title": "Scientific Talks and Posters",
@@ -327,12 +334,5 @@
     "title": "Open Positions and Thesis Topics",
     "section": "Thesis Topics",
     "text": "Thesis Topics\nThesis topics are available among others in the following areas:\n\nComputational Bayesian statistics\nUncertainty quantification\nAmortized Bayesian inference with BayesFlow\nLikelihood choice in Bayesian models\nPrior specification\nBayesian latent variable modeling\nYour own ideas are very welcome"
-  },
-  {
-    "objectID": "publications/index.html#section-9",
-    "href": "publications/index.html#section-9",
-    "title": "Scientific Publications",
-    "section": "2014",
-    "text": "2014\n\nBürkner P. C. & Doebler P. (2014). Testing for Publication Bias in Diagnostic Meta-Analysis: A Simulation Study. Statistics in Medicine. 33(18), 3061–3077. Available for free on ArXiv. doi:10.1002/sim.6177"
   }
 ]

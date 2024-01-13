@@ -4,7 +4,8 @@ project:
   resources: 
     - "data"
     - "positions/pdf/**"
-
+    - "talks/pdf/**"
+    
 website:
   title: "Paul Bürkner"
   image: images/paul-buerkner-small.png
@@ -44,10 +45,10 @@ website:
       href: https://scholar.google.com/citations?user=JSj6m1IAAAAJ&hl
     - icon: twitter
       href: https://twitter.com/paulbuerkner
-    - icon: mastodon
-      href: https://fosstodon.org/@paul_buerkner
+    # - icon: mastodon
+    #   href: https://fosstodon.org/@paul_buerkner
   page-footer: 
-    left: "Copyright 2023, Paul Bürkner" 
+    left: "Copyright 2024, Paul Bürkner" 
     right: 
       - text: Impressum
         href: impressum/index.qmd
@@ -56,6 +57,7 @@ format:
   html:
     fontsize: 1.1em
     theme:
-      light: flatly
-      dark: darkly
+      - superhero
+      # light: flatly
+      # dark: darkly
     css: styles.css
