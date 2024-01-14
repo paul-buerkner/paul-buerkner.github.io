@@ -57,7 +57,7 @@ format:
   html:
     fontsize: 1.1em
     theme:
-      - cerulan
+      - Spacelab
       # light: flatly
       # dark: darkly
     css: styles.css
