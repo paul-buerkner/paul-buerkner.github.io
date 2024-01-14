@@ -57,7 +57,7 @@ format:
   html:
     fontsize: 1.1em
     theme:
-      - Spacelab
-      # light: flatly
-      # dark: darkly
+      # - Spacelab
+      light: flatly
+      dark: darkly
     css: styles.css
