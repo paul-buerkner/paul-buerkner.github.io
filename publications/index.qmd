@@ -9,6 +9,7 @@ toc-location: right
 - Bockting F., Radev S. T., & **Bürkner P. C.** (in review). [Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models](http://arxiv.org/abs/2308.11672). *ArXiv preprint*.
 - Schmitt M., Radev S. T., & **Bürkner P. C.** (in review). [Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference](https://arxiv.org/abs/2311.10671). *ArXiv preprint*.
 - Schmitt M., Pratz V., Köthe U., **Bürkner P. C.**, & Radev S. T. (in review). [Consistency Models for Scalable and Fast Simulation-Based Inference](https://arxiv.org/abs/2312.05440). *ArXiv preprint*.
+- Aguilar J. & **Bürkner P. C.** (in review). [Generalized Decomposition Priors on R2](https://arxiv.org/abs/2401.10180). *ArXiv preprint*.
 - Reiser P., Aguilar J. E., Guthke A., & **Bürkner P. C.** (in review). [Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference](https://arxiv.org/abs/2312.05153). *ArXiv preprint*.
 - Scholz M. & **Bürkner P. C.** (in review). [Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models](https://arxiv.org/abs/2210.06927). *ArXiv preprint*.
 - Scholz M. & **Bürkner P. C.** (in review). [Posterior accuracy and calibration under misspecification in Bayesian generalized linear models](https://arxiv.org/abs/2311.09081). *ArXiv preprint*.
