@@ -23,7 +23,7 @@ Funding Period: 2023 -- 2026
 
 Publications:
 
--   Schmitt M., Habermann D., Bürkner P. C., Köthe U., & Radev S. T. (2023). [Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference](https://arxiv.org/abs/2310.04395). *NeurIPS UniReps Workshop*.
+-   Schmitt M., Habermann D., Bürkner P. C., Köthe U., & Radev S. T. (2023). [Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference](https://arxiv.org/abs/2310.04395). *ArXiv preprint*.
 
 
 ## Bayesian Distributional Latent Variable Models {#bdlvms}
