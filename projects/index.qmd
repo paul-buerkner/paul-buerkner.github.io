@@ -23,7 +23,7 @@ Funding Period: 2023 -- 2026
 
 Publications:
 
--   Schmitt M., Habermann D., Bürkner P. C., Köthe U., & Radev S. T. (2023). [Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference](https://arxiv.org/abs/2310.04395). *ArXiv preprint*.
+- Schmitt M., Habermann D., Bürkner P. C., Köthe U., & Radev S. T. (2023). [Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference](https://arxiv.org/abs/2310.04395). *ArXiv preprint*.
 
 
 ## Bayesian Distributional Latent Variable Models {#bdlvms}
@@ -95,7 +95,7 @@ Funding Period: 2022 -- 2025
 
 Publications: 
 
--   Bockting F., Radev, S. T., & Bürkner P. C. (2023). [Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models](http://arxiv.org/abs/2308.11672). *ArXiv preprint*.
+- Bockting F., Radev, S. T., & Bürkner P. C. (2023). [Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models](http://arxiv.org/abs/2308.11672). *ArXiv preprint*.
 
 <!-- -->
 
@@ -219,10 +219,10 @@ Funding Period: 2021 -- 2024
 Publications: 
 
 - Schmitt, M., Radev, S. T., & Bürkner P. C. (2023). [Meta-Uncertainty in Bayesian Model Comparison](http://arxiv.org/abs/2210.07278). *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
+- Schmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (2023). [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](https://arxiv.org/abs/2112.08866). *Proceedings of the German Conference on Pattern Recognition (GCPR)*.
 - Schmitt, M., Radev, S. T., & Bürkner P. C. (2023). [Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference](https://arxiv.org/abs/2311.10671). *ArXiv preprint*.
 - Schmitt M., Pratz V., Köthe U., Bürkner P. C., & Radev S. T. (2023). [Consistency Models for Scalable and Fast Simulation-Based Inference](https://arxiv.org/abs/2312.05440). *ArXiv preprint*.
-- Schmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (2023). [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](https://arxiv.org/abs/2112.08866). *Proceedings of the German Conference on Pattern Recognition (GCPR)*.
-- Schmitt M., Habermann D., Bürkner P. C., Köthe U., & Radev S. T. (2023). [Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference](https://arxiv.org/abs/2310.04395). *NeurIPS UniReps Workshop*.
+- Schmitt M., Habermann D., Bürkner P. C., Köthe U., & Radev S. T. (2023). [Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference](https://arxiv.org/abs/2310.04395). *ArXiv preprint*.
 - Radev S. T., Schmitt M., Pratz V., Picchini U., Köthe U., & Bürkner P. C. (2023). [JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models](https://arxiv.org/abs/2302.09125). *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*.
 
 Software:
@@ -271,7 +271,8 @@ Funding Period: 2021 -- 2025
 
 Publications:
 
--   Aguilar J. E. & Bürkner P. C. (2023). [Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior](https://doi.org/10.1214/23-EJS2136). *Electronic Journal of Statistics*. Available for free also on [ArXiv](https://arxiv.org/abs/2208.07132). doi:10.1214/23-EJS2136
+- Aguilar J. & **Bürkner P. C.** (2024). [Generalized Decomposition Priors on R2](https://arxiv.org/abs/2401.10180). *ArXiv preprint*.
+- Aguilar J. E. & Bürkner P. C. (2023). [Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior](https://doi.org/10.1214/23-EJS2136). *Electronic Journal of Statistics*. Available for free also on [ArXiv](https://arxiv.org/abs/2208.07132). doi:10.1214/23-EJS2136
 
 <!-- -->
 
