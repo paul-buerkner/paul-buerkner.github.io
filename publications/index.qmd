@@ -16,7 +16,6 @@ toc-location: right
 - Scholz M. & **Bürkner P. C.** (in review). [Posterior accuracy and calibration under misspecification in Bayesian generalized linear models](https://arxiv.org/abs/2311.09081). *ArXiv preprint*.
 - Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). [Latent space projection predictive inference](https://arxiv.org/abs/2109.04702). *ArXiv preprint*.
 - Elsemüller L., Olischläger H., Schmitt M., **Bürkner P. C.**, Köthe U., & Radev S. T. (in review). [Sensitivity-Aware Amortized Bayesian Inference](https://arxiv.org/abs/2310.11122). *ArXiv preprint*.
-- Raulo A., **Bürkner P. C.**, Dale J., English H., Finerty G., Lamberth C., Firth J. A., Coulson T., & Knowles S. (in review). [Social and environmental transmission spread different sets of gut microbes in wild mice](https://www.biorxiv.org/content/10.1101/2023.07.20.549849v1). *BioRxiv preprint*.
 - Lingel H., **Bürkner P. C.**, Melchers K. G., & Schulte N. (in review). [Measuring Personality When Stakes Are High: Are Graded Paired Comparisons a More Reliable Alternative to Traditional Forced-Choice Methods?](https://psyarxiv.com/8rt3j). *PsyArXiv preprint*.
 - Bagaïni A., Liu Y., Kapoor M., Son G., **Bürkner P. C.**, Tisdall L., & Mata R. (in review). [Comparing the Temporal Stability and Convergent Validity of Risk Preference Measures: A Meta-Analytic Approach](https://psyarxiv.com/d7nuj/). *PsyArXiv preprint*.
 - Zetsche U., Neumann P., **Bürkner P. C.**, Renneberg B., Koster E. H. W., & Hoorelbeke K. (in review). [Computerized Cognitive Training to Reduce Rumination in Major Depression: A Randomized Controlled Trial](https://psyarxiv.com/ydvqa/). *PsyArXiv preprint*.
@@ -27,7 +26,9 @@ toc-location: right
 - Kallioinen N., Paananen T., **Bürkner P. C.**, & Vehtari A. (accepted). [Detecting and diagnosing prior and likelihood sensitivity with power-scaling](https://arxiv.org/abs/2107.14054). *Statistics and Computing*.
 - Elsemüller L., Schnuerch M., **Bürkner P. C.**, & Radev S. T. (accepted). [A Deep Learning Method for Comparing Bayesian Hierarchical Models](https://arxiv.org/abs/2301.11873). *Psychological Methods*.
 - Kołczyńska M., **Bürkner P. C.**, Kennedy L., & Vehtari A. (accepted). [Trust in state institutions in Europe, 1989-2019](https://osf.io/preprints/socarxiv/3v5g7/). *Survey Research Methods*.
+- Raulo A., **Bürkner P. C.**, Dale J., English H., Finerty G., Lamberth C., Firth J. A., Coulson T., & Knowles S. (accepted). [Social and environmental transmission spread different sets of gut microbes in wild mice](https://www.biorxiv.org/content/10.1101/2023.07.20.549849v1). *Nature Ecology & Evolution*.
 - Schulte N., Kaup L., **Bürkner P. C.**, & Holling H. (accepted). [The Fakeability of Personality Measurement with Graded Paired Comparisons](https://psyarxiv.com/bs7he/). *Journal of Business and Psychology*.
+- Schmitt M., Ewendt F., Kluttig A., Mikolajczyk R., Kraus B., Waetjen W., **Bürkner P. C.**, Stangl G., & Föller M. (accepted). Smoking is associated with increased eryptosis, suicidal erythrocyte death, in a large population-based cohort. *Scientific Reports*. 
 
 ## 2024
 
