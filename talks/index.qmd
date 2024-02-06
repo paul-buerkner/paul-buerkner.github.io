@@ -12,6 +12,10 @@ Presenters are highlighted in **bold**.
 Keynote: [Does Bayes have to be slow? A glimpse into amortized Bayesian inference](pdf/glimpse_amortized_bayesian_inference.pdf).
 First presented at [Bayes on the Beach](https://research.qut.edu.au/qutcds/bayes-onthe-beach/).
 
+- **Bürkner P. C.** & Schmitt M. (2024). 
+Workshop: [Amortized Bayesian Inference with BayesFlow](https://tiny.cc/botb-abi).
+First presented at [Bayes on the Beach](https://research.qut.edu.au/qutcds/bayes-onthe-beach/).
+
 - **Bürkner P. C.** (2023). 
 Keynote: [Bayesian Probabilistic Modeling for Ecology](pdf/bayesian_inference_ecology.pdf).
 First presented at [Oxford University](https://www.biology.ox.ac.uk/home).
