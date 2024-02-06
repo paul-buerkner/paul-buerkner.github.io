@@ -8,6 +8,10 @@ Below you can find a list of selected talks and posters of me and my group,
 along with slides, paper references, and recordings when available.
 Presenters are highlighted in **bold**.
 
+- **Bürkner P. C.** (2024). 
+Keynote: [Does Bayes have to be slow? A glimpse into amortized Bayesian inference](pdf/glimpse_amortized_bayesian_inference.pdf).
+First presented at [Bayes on the Beach](https://research.qut.edu.au/qutcds/bayes-onthe-beach/).
+
 - **Bürkner P. C.** (2023). 
 Keynote: [Bayesian Probabilistic Modeling for Ecology](pdf/bayesian_inference_ecology.pdf).
 First presented at [Oxford University](https://www.biology.ox.ac.uk/home).
