@@ -27,12 +27,12 @@ toc-location: right
 - Elsemüller L., Schnuerch M., **Bürkner P. C.**, & Radev S. T. (accepted). [A Deep Learning Method for Comparing Bayesian Hierarchical Models](https://arxiv.org/abs/2301.11873). *Psychological Methods*.
 - Kołczyńska M., **Bürkner P. C.**, Kennedy L., & Vehtari A. (accepted). [Trust in state institutions in Europe, 1989-2019](https://osf.io/preprints/socarxiv/3v5g7/). *Survey Research Methods*.
 - Raulo A., **Bürkner P. C.**, Dale J., English H., Finerty G., Lamberth C., Firth J. A., Coulson T., & Knowles S. (accepted). [Social and environmental transmission spread different sets of gut microbes in wild mice](https://www.biorxiv.org/content/10.1101/2023.07.20.549849v1). *Nature Ecology & Evolution*.
-- Schulte N., Kaup L., **Bürkner P. C.**, & Holling H. (accepted). [The Fakeability of Personality Measurement with Graded Paired Comparisons](https://psyarxiv.com/bs7he/). *Journal of Business and Psychology*.
 - Schmitt M., Ewendt F., Kluttig A., Mikolajczyk R., Kraus B., Waetjen W., **Bürkner P. C.**, Stangl G., & Föller M. (accepted). Smoking is associated with increased eryptosis, suicidal erythrocyte death, in a large population-based cohort. *Scientific Reports*. 
 
 ## 2024
 
 - Huber F., **Bürkner P. C.**, Göddeke D., & Schulte M. (2024). [Knowledge-based modeling of simulation behavior for Bayesian optimization](https://link.springer.com/article/10.1007/s00466-023-02427-3). *Computational Mechanics*. doi:10.1007/s00466-023-02427-3
+- Schulte N., Kaup L., **Bürkner P. C.**, & Holling H. (2024). [The Fakeability of Personality Measurement with Graded Paired Comparisons](https://doi.org/10.1007/s10869-024-09931-0). Available for free on [ArXiv](https://psyarxiv.com/bs7he/). *Journal of Business and Psychology*. doi:10.1007/s10869-024-09931-0
 
 ## 2023
 
