@@ -32,7 +32,7 @@ toc-location: right
 ## 2024
 
 - Huber F., **Bürkner P. C.**, Göddeke D., & Schulte M. (2024). [Knowledge-based modeling of simulation behavior for Bayesian optimization](https://link.springer.com/article/10.1007/s00466-023-02427-3). *Computational Mechanics*. doi:10.1007/s00466-023-02427-3
-- Schulte N., Kaup L., **Bürkner P. C.**, & Holling H. (2024). [The Fakeability of Personality Measurement with Graded Paired Comparisons](https://doi.org/10.1007/s10869-024-09931-0). Available for free on [ArXiv](https://psyarxiv.com/bs7he/). *Journal of Business and Psychology*. doi:10.1007/s10869-024-09931-0
+- Schulte N., Kaup L., **Bürkner P. C.**, & Holling H. (2024). [The Fakeability of Personality Measurement with Graded Paired Comparisons](https://doi.org/10.1007/s10869-024-09931-0). Available for free also on [ArXiv](https://psyarxiv.com/bs7he/). *Journal of Business and Psychology*. doi:10.1007/s10869-024-09931-0
 
 ## 2023
 
