@@ -176,6 +176,30 @@ Co-Supervisor: [Andreas Groll](https://bd.statistik.tu-dortmund.de/professur/arb
 
 ---
 
+<!-- Lars Kühmichel -->
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+<br /> 
+![](../images/lars-kuehmichel.png){width=100% fig-alt="A portrait of Lars Kühmichel."}
+:::
+::: {.g-col-12 .g-col-md-9}
+### Lars Kühmichel {#lars-kuehmichel}
+---
+
+Background: Physics and Computer Science
+
+Project: BayesFlow: Simulation Intelligence with Deep Learning
+
+Links: 
+[GitHub](https://github.com/LarsKue)
+
+Co-Supervisor: [Stefan Radev](https://faculty.rpi.edu/stefan-radev)
+:::
+:::
+
+---
+
 <!-- Soham Mukherjee -->
 
 ::: {.grid}
@@ -292,6 +316,8 @@ Links:
 -->
 - Stefan Radev (2021 -- 2023): PostDoc in my lab before becoming assistant professor at [Rensselaer Polytechnic Institute](https://www.rpi.edu/), Troy, USA.
 Links:
-[GitHub](https://github.com/stefanradev93), [Linkedin](https://de.linkedin.com/in/stefan-radev-21b713187)
+[University Website](https://faculty.rpi.edu/stefan-radev)
+[GitHub](https://github.com/stefanradev93), 
+[Linkedin](https://de.linkedin.com/in/stefan-radev-21b713187)
 
 ---
