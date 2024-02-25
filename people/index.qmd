@@ -316,7 +316,7 @@ Links:
 -->
 - Stefan Radev (2021 -- 2023): PostDoc in my lab before becoming assistant professor at [Rensselaer Polytechnic Institute](https://www.rpi.edu/), Troy, USA.
 Links:
-[University Website](https://faculty.rpi.edu/stefan-radev)
+[University Website](https://faculty.rpi.edu/stefan-radev),
 [GitHub](https://github.com/stefanradev93), 
 [Linkedin](https://de.linkedin.com/in/stefan-radev-21b713187)
 
