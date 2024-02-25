@@ -189,7 +189,7 @@ Co-Supervisor: [Andreas Groll](https://bd.statistik.tu-dortmund.de/professur/arb
 
 Background: Physics and Computer Science
 
-Project: BayesFlow: Simulation Intelligence with Deep Learning
+Project: [BayesFlow: Simulation Intelligence with Deep Learning](../projects#bayesflow-software)
 
 Links: 
 [GitHub](https://github.com/LarsKue)
