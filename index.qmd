@@ -1,5 +1,6 @@
 ---
 title: "Paul Bürkner"
+page-layout: full
 subtitle: Professor for Computational Statistics
 affiliation: test
 about:
@@ -34,17 +35,6 @@ Having originally studied psychology and mathematics, my [core research](../rese
 is nowadays located somewhere between statistics and machine learning, 
 with applications in almost all quantitative sciences.
 
-If you are a scientist who wants to collaborate with me, a PhD student or PostDoc
-candidate interested in my research, or a student looking for a thesis topic,
-please [reach out to me](mailto:paul.buerkner@gmail.com)! Please also check
-out the [open positions](../positions) in my lab, which additionally includes a list
-of thesis topics for Bachelor and Master students.
-
-
-:::
-
-## Research Overview
-
 The Bayesian approach to data analysis provides a powerful way to handle
 uncertainty in all observations, model parameters, and model structure using
 probability theory. Thus, it should not come as a surprise that Bayesian methods
@@ -57,3 +47,12 @@ range of [research topics](../research/) related to the development, evaluation,
 implementation, or application of Bayesian methods. This includes, among others,
 uncertainty quantification, prior specification, simulation-based inference, as
 well as model evaluation and comparison.
+
+:::
+
+
+If you are a scientist who wants to collaborate with me, a PhD student or PostDoc
+candidate interested in my research, or a student looking for a thesis topic,
+please [reach out to me](mailto:paul.buerkner@gmail.com)! Please also check
+out the [open positions](../positions) in my lab, which additionally includes a list
+of thesis topics for Bachelor and Master students.
