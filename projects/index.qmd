@@ -19,7 +19,7 @@ Funding Period: 2024 -- 2027
 
 Overarching Topics: 
 [Simulation-Based Inference](../research#sbi),
-[Machine-Assisted Bayesian Workflow](../research#machine-workflow), 
+[Machine-Assisted Bayesian Workflow](../research#machine-workflow)
 
 
 ## Applications of Amortized Bayesian Inference {#abi-applications}
