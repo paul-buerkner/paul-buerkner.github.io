@@ -16,7 +16,7 @@ about:
       text: GitHub
       aria-label: github
       href: https://github.com/paul-buerkner
-    - text: "{{< fa graduation-cap >}} Google-Scholar"
+    - text: "{{< fa graduation-cap >}} Google Scholar"
       aria-label: google-scholar
       href: https://scholar.google.com/citations?user=JSj6m1IAAAAJ&hl
     - icon: twitter
@@ -31,8 +31,6 @@ aliases:
 ---
 
 :::{#about-heading}
-
-## What I Do
 
 I am a statistician with a focus on probabilistic (Bayesian) methods currently
 working as a Full Professor for Computational Statistics at [TU Dortmund
@@ -49,16 +47,15 @@ and industry. Probabilistic programming languages make it easier to specify and
 fit Bayesian models, but this still leaves us with many options regarding
 constructing, evaluating, and using these models, along with many remaining
 challenges in computation. In [my lab](../people), we are working on a wide
-range of [research topics](../research/) related to the development, evaluation,
-implementation, or application of Bayesian methods. This includes, among others,
+range of [research topics](../research/) related to the development, estimation,
+evaluation, implementation, or application of Bayesian methods. This includes, among others,
 uncertainty quantification, prior specification, simulation-based inference, as
-well as model evaluation and comparison.
-
-:::
-
+well as model comparison.
 
 If you are a scientist who wants to collaborate with me, a PhD student or PostDoc
 candidate interested in my research, or a student looking for a thesis topic,
 please [reach out to me](mailto:paul.buerkner@gmail.com)! Please also check
 out the [open positions](../positions) in my lab, which additionally includes a list
 of thesis topics for Bachelor and Master students.
+
+:::
