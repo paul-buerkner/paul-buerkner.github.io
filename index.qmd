@@ -14,7 +14,7 @@ about:
     - icon: github
       aria-label: github
       href: https://github.com/paul-buerkner
-    - icon: google
+    - text: "{{< fa graduation-cap >}}"
       aria-label: google-scholar
       href: https://scholar.google.com/citations?user=JSj6m1IAAAAJ&hl
     - icon: twitter
