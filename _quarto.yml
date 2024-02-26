@@ -36,17 +36,21 @@ website:
       - text: CV
         href: cv/index.qmd
     right:
-    - icon: envelope
-      aria-label: email
-      href: "mailto:paul.buerkner@gmail.com"
-    - icon: github
-      href: https://github.com/paul-buerkner
-    - icon: google
-      href: https://scholar.google.com/citations?user=JSj6m1IAAAAJ&hl
-    - icon: twitter
-      href: https://twitter.com/paulbuerkner
-    # - icon: mastodon
-    #   href: https://fosstodon.org/@paul_buerkner
+      - icon: envelope
+        aria-label: email
+        href: "mailto:paul.buerkner@gmail.com"
+      - icon: github
+        aria-label: github
+        href: https://github.com/paul-buerkner
+      - icon: google
+        aria-label: google-scholar
+        href: https://scholar.google.com/citations?user=JSj6m1IAAAAJ&hl
+      - icon: twitter
+        aria-label: twitter
+        href: https://twitter.com/paulbuerkner
+      # - icon: mastodon
+      #   aria-label: mastodon
+      #   href: https://fosstodon.org/@paul_buerkner
   page-footer: 
     left: "Copyright 2024, Paul Bürkner" 
     right: 

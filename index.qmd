@@ -1,32 +1,49 @@
 ---
-comments: false
-page-layout: full
-format:
-  html: 
-    margin-top: 0em
-    margin-bottom: 0em
+title: "Paul Bürkner"
+subtitle: Professor for Computational Statistics
+affiliation: test
+about:
+  id: about-heading
+  template: trestles
+  image: images/paul-buerkner.png
+  links:
+    - icon: envelope
+      aria-label: email
+      href: "mailto:paul.buerkner@gmail.com"
+    - icon: github
+      aria-label: github
+      href: https://github.com/paul-buerkner
+    - icon: google
+      aria-label: google-scholar
+      href: https://scholar.google.com/citations?user=JSj6m1IAAAAJ&hl
+    - icon: twitter
+      aria-label: twitter
+      href: https://twitter.com/paulbuerkner
 aliases:
   - /about
 ---
 
-::: {.grid}
+:::{#about-heading}
 
-::: {.g-col-12 .g-col-md-3}
-![](images/paul-buerkner.png){width=100% fig-alt="A portrait of the website author, Paul Bürkner."}
-:::
-
-::: {.g-col-12 .g-col-md-9}
 ## What I Do
 
-I am a statistician with a focus on probabilistic (Bayesian) methods
-currently working as a Full Professor for Computational Statistics at the 
-[Department of Statistics](https://statistik.tu-dortmund.de/en/department/),
-TU Dortmund University. Having originally studied psychology and mathematics, my
-[core research](../research/) is nowadays located somewhere between statistics
-and machine learning, with applications in almost all quantitative sciences.
+I am a statistician with a focus on probabilistic (Bayesian) methods currently
+working as a Full Professor for Computational Statistics at [TU Dortmund
+University, Department of Statistics](https://statistik.tu-dortmund.de/en/department/). 
+Having originally studied psychology and mathematics, my [core research](../research/)
+is nowadays located somewhere between statistics and machine learning, 
+with applications in almost all quantitative sciences.
+
+If you are a scientist who wants to collaborate with me, a PhD student or PostDoc
+candidate interested in my research, or a student looking for a thesis topic,
+please [reach out to me](mailto:paul.buerkner@gmail.com)! Please also check
+out the [open positions](../positions) in my lab, which additionally includes a list
+of thesis topics for Bachelor and Master students.
+
 
 :::
-:::
+
+## Research Overview
 
 The Bayesian approach to data analysis provides a powerful way to handle
 uncertainty in all observations, model parameters, and model structure using
@@ -40,9 +57,3 @@ range of [research topics](../research/) related to the development, evaluation,
 implementation, or application of Bayesian methods. This includes, among others,
 uncertainty quantification, prior specification, simulation-based inference, as
 well as model evaluation and comparison.
-
-If you are a scientist who wants to collaborate with me, a PhD student or PostDoc
-candidate interested in my research, or a student looking for a thesis topic,
-please [reach out to me](mailto:paul.buerkner@gmail.com)! Please also check
-out the [open positions](../positions) in my lab, which additionally includes a list
-of thesis topics for Bachelor and Master students.
