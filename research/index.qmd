@@ -33,6 +33,7 @@ methods.
 
 Current projects:
 
+- [Applications of Amortized Bayesian Inference](../projects#abi-applications)
 - [Amortized Bayesian Inference for Multilevel Models](../projects#amortized-mlms)
 - [Bayesian Distributional Latent Variable Models](../projects#bdlvms)
 - [Data-Integrated Training of Surrogate Models for Uncertainty Quantification of Complex Biological Systems Models](../projects#bio-surrogate-models)
@@ -73,6 +74,8 @@ methods, challenges that my lab aims to solve in the upcoming years.
 
 Current projects:
 
+- [BayesFlow: Simulation Intelligence with Deep Learning](../projects#bayesflow-software)
+- [Applications of Amortized Bayesian Inference](../projects#abi-applications)
 - [Amortized Bayesian Inference for Multilevel Models](../projects#amortized-mlms)
 - [Simulation-Based Prior Distributions](../projects#sbpriors)
 - [Meta-Uncertainty in Bayesian Model Comparison](../projects#mu-bmb)
@@ -111,5 +114,6 @@ from the user's decisions to improve its recommendations on the fly.
 
 Current projects:
 
+- [BayesFlow: Simulation Intelligence with Deep Learning](../projects#bayesflow-software)
 - [Bayesian Distributional Latent Variable Models](../projects#bdlvms)
 - [Machine Learning for Bayesian Model Building](../projects#ml4bmb)
