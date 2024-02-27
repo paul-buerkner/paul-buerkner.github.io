@@ -1,7 +1,7 @@
 ---
 title: Curriculum vitae
 excerpt: My current CV
-date: 2023-12-25
+date: 2024-02-27
 published-title: CV last updated
 engine: knitr 
 cv:
