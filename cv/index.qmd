@@ -1,8 +1,8 @@
 ---
 title: Curriculum vitae
 excerpt: My current CV
-date: 2024-02-27
 published-title: CV last updated
+date: 2024-02-28
 engine: knitr 
 cv:
   pdf: "CV_Paul_Buerkner.pdf"
