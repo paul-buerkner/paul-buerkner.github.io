@@ -171,8 +171,8 @@ Funding Period: 2022 -- 2025
 
 ![](../images/uncertainty_prop_workflow.png){fig-alt="Surrogate uncertainty propagation workflow."}
 
-Uncertainty estimation is crucial to assess the predictive power and limitations
-of biological systems models. However, in the case of high-dimensional parameter
+Uncertainty quantification is crucial to assess the predictive power and limitations
+of complex systems models. However, in the case of high-dimensional parameter
 spaces and/or complex functional relationships, physics-based simulation models
 are often computationally too demanding for rigorous Bayesian uncertainty
 quantification. Surrogate models allow for such analyses with much lower effort.
@@ -187,10 +187,9 @@ offer huge potential for diagnostic evaluation of the modelling approach toward
 deeper system understanding and model improvement.
 
 We aim at developing (1) a weighted data-integrated surrogate training approach
-for improved prediction skill, (2) a diagnostic approach for structural error
+for improved predictive performance, (2) a diagnostic approach for structural error
 detection in the reference model, and (3) an uncertainty propagation analysis
-that accounts for the approximation error introduced by this novel as well as
-any type of surrogate.
+that accounts for the approximation error introduced by the use of surrogates.
 
 Overarching Topics: 
 [Uncertainty Quantification](../research#uncertainty-quantification)
