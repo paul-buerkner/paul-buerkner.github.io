@@ -238,7 +238,7 @@ Co-Supervisor: [Manfred Claassen](https://claassenlab.github.io/people/manfred-c
 
 Background: Physics and Computer Science
 
-Project: [Data-Integrated Training of Surrogate Models for Uncertainty Quantification of Complex Biological Systems Models](../projects#bio-surrogate-models)
+Project: [Data-Integrated Training of Surrogate Models for Uncertainty Quantification](../projects#uncertainty-surrogate-models)
 
 Links: 
 [University Website](https://www.simtech.uni-stuttgart.de/exc/people/Reiser-00005/),

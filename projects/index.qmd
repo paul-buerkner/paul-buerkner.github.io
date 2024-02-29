@@ -167,7 +167,7 @@ Funding Period: 2022 -- 2025
 
 <!-- -->
 
-## Data-Integrated Training of Surrogate Models for Uncertainty Quantification of Complex Biological Systems Models {#bio-surrogate-models}
+## Data-Integrated Training of Surrogate Models for Uncertainty Quantification {#uncertainty-surrogate-models}
 
 ![](../images/uncertainty_prop_workflow.png){fig-alt="Surrogate uncertainty propagation workflow."}
 

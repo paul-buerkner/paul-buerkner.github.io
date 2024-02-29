@@ -36,7 +36,7 @@ Current projects:
 - [Applications of Amortized Bayesian Inference](../projects#abi-applications)
 - [Amortized Bayesian Inference for Multilevel Models](../projects#amortized-mlms)
 - [Bayesian Distributional Latent Variable Models](../projects#bdlvms)
-- [Data-Integrated Training of Surrogate Models for Uncertainty Quantification of Complex Biological Systems Models](../projects#bio-surrogate-models)
+- [Data-Integrated Training of Surrogate Models for Uncertainty Quantification](../projects#uncertainty-surrogate-models)
 - [Meta-Uncertainty in Bayesian Model Comparison](../projects#mu-bmb)
 
 
