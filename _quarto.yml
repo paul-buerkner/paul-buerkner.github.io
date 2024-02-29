@@ -36,7 +36,7 @@ website:
       - text: CV
         href: cv/index.qmd
     right:
-      - icon: envelope
+      - text: "{{< fa envelope >}}"
         aria-label: email
         href: "mailto:paul.buerkner@gmail.com"
       - icon: github

@@ -8,8 +8,7 @@ about:
   template: trestles
   image: images/paul-buerkner.png
   links:
-    - icon: envelope
-      text: Email
+    - text: "{{< fa envelope >}} Email"
       aria-label: email
       href: "mailto:paul.buerkner@gmail.com"
     - icon: github
