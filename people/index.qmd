@@ -25,8 +25,10 @@ Position: Full Professor for Computational Statistics
 
 Links:
 [University Website](https://compstat.statistik.tu-dortmund.de/en/),
+[Email](mailto:paul.buerkner@gmail.com),
 [GitHub](https://github.com/paul-buerkner),
-[Email](mailto:paul.buerkner@gmail.com)
+[Google Scholar](https://scholar.google.com/citations?user=JSj6m1IAAAAJ&hl),
+[Twitter](https://twitter.com/paulbuerkner)
 :::
 :::
 
