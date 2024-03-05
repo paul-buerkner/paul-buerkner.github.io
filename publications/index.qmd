@@ -16,6 +16,7 @@ toc-location: right
 - Scholz M. & **Bürkner P. C.** (in review). [Posterior accuracy and calibration under misspecification in Bayesian generalized linear models](https://arxiv.org/abs/2311.09081). *ArXiv preprint*.
 - Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). [Latent space projection predictive inference](https://arxiv.org/abs/2109.04702). *ArXiv preprint*.
 - Elsemüller L., Olischläger H., Schmitt M., **Bürkner P. C.**, Köthe U., & Radev S. T. (in review). [Sensitivity-Aware Amortized Bayesian Inference](https://arxiv.org/abs/2310.11122). *ArXiv preprint*.
+- Thillaikumar R., Mundry R., Atmoko S. S. U., **Bürkner P. C.**, van Noordwijk M. A., Schuppli C. (in review). [Maternal behavior in Sumatran orangutans (Pongo abelii) is modulated by mother-offspring characteristics and socioecological factors](https://www.biorxiv.org/content/10.1101/2024.03.02.582963v1). *BioRxiv preprint*.
 - Lingel H., **Bürkner P. C.**, Melchers K. G., & Schulte N. (in review). [Measuring Personality When Stakes Are High: Are Graded Paired Comparisons a More Reliable Alternative to Traditional Forced-Choice Methods?](https://psyarxiv.com/8rt3j). *PsyArXiv preprint*.
 - Bagaïni A., Liu Y., Kapoor M., Son G., **Bürkner P. C.**, Tisdall L., & Mata R. (in review). [Comparing the Temporal Stability and Convergent Validity of Risk Preference Measures: A Meta-Analytic Approach](https://psyarxiv.com/d7nuj/). *PsyArXiv preprint*.
 - Zetsche U., Neumann P., **Bürkner P. C.**, Renneberg B., Koster E. H. W., & Hoorelbeke K. (in review). [Computerized Cognitive Training to Reduce Rumination in Major Depression: A Randomized Controlled Trial](https://psyarxiv.com/ydvqa/). *PsyArXiv preprint*.
@@ -31,8 +32,8 @@ toc-location: right
 
 - Kallioinen N., Paananen T., **Bürkner P. C.**, & Vehtari A. (2024). [Detecting and diagnosing prior and likelihood sensitivity with power-scaling](https://link.springer.com/article/10.1007/s11222-023-10366-5). *Statistics and Computing*. Available for free also on [ArXiv](https://arxiv.org/abs/2107.14054). doi:10.1007/s11222-023-10366-5
 - Huber F., **Bürkner P. C.**, Göddeke D., & Schulte M. (2024). [Knowledge-based modeling of simulation behavior for Bayesian optimization](https://link.springer.com/article/10.1007/s00466-023-02427-3). *Computational Mechanics*. doi:10.1007/s00466-023-02427-3
-- Schulte N., Kaup L., **Bürkner P. C.**, & Holling H. (2024). [The Fakeability of Personality Measurement with Graded Paired Comparisons](https://doi.org/10.1007/s10869-024-09931-0). *Journal of Business and Psychology*. Available for free also on [ArXiv](https://psyarxiv.com/bs7he/). doi:10.1007/s10869-024-09931-0
 - Schmitt M., Ewendt F., Kluttig A., Mikolajczyk R., Kraus B., Waetjen W., **Bürkner P. C.**, Stangl G., & Föller M. (2024). [Smoking is associated with increased eryptosis, suicidal erythrocyte death, in a large population-based cohort](https://www.nature.com/articles/s41598-024-53258-y). *Scientific Reports*. doi:10.1038/s41598-024-53258-y
+- Schulte N., Kaup L., **Bürkner P. C.**, & Holling H. (2024). [The Fakeability of Personality Measurement with Graded Paired Comparisons](https://doi.org/10.1007/s10869-024-09931-0). *Journal of Business and Psychology*. Available for free also on [ArXiv](https://psyarxiv.com/bs7he/). doi:10.1007/s10869-024-09931-0
 
 ## 2023
 
