@@ -8,6 +8,11 @@ Below you can find a list of selected talks and posters of me and my group,
 along with slides, paper references, and recordings when available.
 Presenters are highlighted in **bold**.
 
+- **Bockting F.**, Radev S. T., & Bürkner P. C. (2024). 
+Invited talk: [Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models](pdf/simulation_based_priors_parametric_models.pdf). 
+First presented at [Bayes@Lund](https://www.bayesatlund.com/).
+Preprint available on [ArXiv](http://arxiv.org/abs/2308.11672).
+
 - **Bürkner P. C.** (2024). 
 Keynote: [Does Bayes have to be slow? A glimpse into amortized Bayesian inference](pdf/glimpse_amortized_bayesian_inference.pdf).
 First presented at [Bayes on the Beach](https://research.qut.edu.au/qutcds/bayes-onthe-beach/).
