@@ -12,6 +12,7 @@ Presenters are highlighted in **bold**.
 Invited talk: [Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models](pdf/simulation_based_priors_parametric_models.pdf). 
 First presented at [Bayes@Lund](https://www.bayesatlund.com/).
 Preprint available on [ArXiv](http://arxiv.org/abs/2308.11672).
+Video available on [Youtube](https://youtu.be/KFPn7P2mfQw).
 
 - **Bürkner P. C.** (2024). 
 Keynote: [Does Bayes have to be slow? A glimpse into amortized Bayesian inference](pdf/glimpse_amortized_bayesian_inference.pdf).
