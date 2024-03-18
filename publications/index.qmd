@@ -20,7 +20,6 @@ toc-location: right
 - Thillaikumar R., Mundry R., Atmoko S. S. U., **Bürkner P. C.**, van Noordwijk M. A., Schuppli C. (in review). [Maternal behavior in Sumatran orangutans (Pongo abelii) is modulated by mother-offspring characteristics and socioecological factors](https://www.biorxiv.org/content/10.1101/2024.03.02.582963v1). *BioRxiv preprint*.
 - Lingel H., **Bürkner P. C.**, Melchers K. G., & Schulte N. (in review). [Measuring Personality When Stakes Are High: Are Graded Paired Comparisons a More Reliable Alternative to Traditional Forced-Choice Methods?](https://psyarxiv.com/8rt3j). *PsyArXiv preprint*.
 - Bagaïni A., Liu Y., Kapoor M., Son G., **Bürkner P. C.**, Tisdall L., & Mata R. (in review). [Comparing the Temporal Stability and Convergent Validity of Risk Preference Measures: A Meta-Analytic Approach](https://psyarxiv.com/d7nuj/). *PsyArXiv preprint*.
-- Zetsche U., Neumann P., **Bürkner P. C.**, Renneberg B., Koster E. H. W., & Hoorelbeke K. (in review). [Computerized Cognitive Training to Reduce Rumination in Major Depression: A Randomized Controlled Trial](https://psyarxiv.com/ydvqa/). *PsyArXiv preprint*.
 - Bolzenkötter T., **Bürkner P. C.**, Zetsche U., & Schulze L. (in review). [Assessing the short-term effects of detached mindfulness on repetitive negative thinking and affect: A randomized controlled trial in daily life](https://psyarxiv.com/y4snz/). *PsyArXiv preprint*.
 
 ## Accepted
@@ -28,6 +27,7 @@ toc-location: right
 - Elsemüller L., Schnuerch M., **Bürkner P. C.**, & Radev S. T. (accepted). [A Deep Learning Method for Comparing Bayesian Hierarchical Models](https://arxiv.org/abs/2301.11873). *Psychological Methods*.
 - Kołczyńska M., **Bürkner P. C.**, Kennedy L., & Vehtari A. (accepted). [Trust in state institutions in Europe, 1989-2019](https://osf.io/preprints/socarxiv/3v5g7/). *Survey Research Methods*.
 - Raulo A., **Bürkner P. C.**, Dale J., English H., Finerty G., Lamberth C., Firth J. A., Coulson T., & Knowles S. (accepted). [Social and environmental transmission spread different sets of gut microbes in wild mice](https://www.biorxiv.org/content/10.1101/2023.07.20.549849v1). *Nature Ecology & Evolution*.
+- Zetsche U., Neumann P., **Bürkner P. C.**, Renneberg B., Koster E. H. W., & Hoorelbeke K. (accepted). [Computerized Cognitive Training to Reduce Rumination in Major Depression: A Randomized Controlled Trial](https://psyarxiv.com/ydvqa/). *Behaviour Research and Therapy*.
 
 ## 2024
 
