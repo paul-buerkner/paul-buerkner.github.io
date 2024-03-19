@@ -10,6 +10,7 @@ toc-location: right
 - Schmitt M., Radev S. T., & **Bürkner P. C.** (in review). [Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference](https://arxiv.org/abs/2311.10671). *ArXiv preprint*.
 - Schmitt M., Pratz V., Köthe U., **Bürkner P. C.**, & Radev S. T. (in review). [Consistency Models for Scalable and Fast Simulation-Based Inference](https://arxiv.org/abs/2312.05440). *ArXiv preprint*.
 - Schmitt M., Habermann D., **Bürkner P. C.**, Köthe U., & Radev S. T. (2023). [Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference](https://arxiv.org/abs/2310.04395). *ArXiv preprint*.
+- Schmitt M., Hikida Y., Radev S. T., Sadlo F., & **Bürkner P. C.** (in review). [The Simplex Projection: Lossless Visualization of 4D Compositional Data on a 2D Canvas](https://arxiv.org/abs/2403.11141). *ArXiv preprint*.
 - Aguilar J. E. & **Bürkner P. C.** (in review). [Generalized Decomposition Priors on R2](https://arxiv.org/abs/2401.10180). *ArXiv preprint*.
 - Reiser P., Aguilar J. E., Guthke A., & **Bürkner P. C.** (in review). [Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference](https://arxiv.org/abs/2312.05153). *ArXiv preprint*.
 - Scholz M. & **Bürkner P. C.** (in review). [Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models](https://arxiv.org/abs/2210.06927). *ArXiv preprint*.
@@ -17,6 +18,7 @@ toc-location: right
 - Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). [Latent space projection predictive inference](https://arxiv.org/abs/2109.04702). *ArXiv preprint*.
 - Elsemüller L., Olischläger H., Schmitt M., **Bürkner P. C.**, Köthe U., & Radev S. T. (in review). [Sensitivity-Aware Amortized Bayesian Inference](https://arxiv.org/abs/2310.11122). *ArXiv preprint*.
 - Shi L., **Bürkner P. C.**, & Bulling A. (in review). [ActionDiffusion: An Action-aware Diffusion Model for Procedure Planning in Instructional Videos](https://arxiv.org/abs/2403.08591). *ArXiv preprint*.
+- Dubova, M., Chandramouli, S., Gigerenzer, G., ..., Wagenmarkers E. J., **Bürkner P. C.**, & Sloman, S. (in review). [Is Occam’s razor losing its edge? New perspectives on the principle of model parsimony](osf.io/preprints/metaarxiv/bs5xe). *MetaArXiv Preprint*.
 - Thillaikumar R., Mundry R., Atmoko S. S. U., **Bürkner P. C.**, van Noordwijk M. A., Schuppli C. (in review). [Maternal behavior in Sumatran orangutans (Pongo abelii) is modulated by mother-offspring characteristics and socioecological factors](https://www.biorxiv.org/content/10.1101/2024.03.02.582963v1). *BioRxiv preprint*.
 - Lingel H., **Bürkner P. C.**, Melchers K. G., & Schulte N. (in review). [Measuring Personality When Stakes Are High: Are Graded Paired Comparisons a More Reliable Alternative to Traditional Forced-Choice Methods?](https://psyarxiv.com/8rt3j). *PsyArXiv preprint*.
 - Bagaïni A., Liu Y., Kapoor M., Son G., **Bürkner P. C.**, Tisdall L., & Mata R. (in review). [Comparing the Temporal Stability and Convergent Validity of Risk Preference Measures: A Meta-Analytic Approach](https://psyarxiv.com/d7nuj/). *PsyArXiv preprint*.
