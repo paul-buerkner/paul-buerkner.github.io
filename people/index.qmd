@@ -130,6 +130,7 @@ Background: Cognitive Science and Psychology
 Project: [Simulation-Based Prior Distributions for Bayesian Models](../projects#sbpriors)
 
 Links:
+[Personal Website](https://florence-bockting.github.io),
 [GitHub](https://github.com/florence-bockting)
 :::
 :::
