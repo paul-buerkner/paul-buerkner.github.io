@@ -136,6 +136,8 @@ Publications:
 
 ## Probabilistic Models for Single-Cell RNA Sequencing Data {#scrna-models}
 
+![](../images/latent-derivative-gps.png){fig-alt="An illustration of our latent derivative Gaussian process framework." fig-align="left"}
+
 Trajectory and pseudo-time inference methods in single-cell RNA sequencing face
 challenges from the ambiguity of the static single-cell transcriptome snapshot
 data. In this project, we aim to tackle this challenge by means of advanced
