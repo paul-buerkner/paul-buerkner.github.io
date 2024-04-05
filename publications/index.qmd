@@ -2,6 +2,7 @@
 title: Scientific Publications
 excerpt: "A list of my scientific publications"
 toc-location: right
+css: styles-lists.css
 ---
 
 ## In Review
@@ -32,7 +33,13 @@ toc-location: right
 
 ## 2024
 
-- Kallioinen N., Paananen T., **Bürkner P. C.**, & Vehtari A. (2024). [Detecting and diagnosing prior and likelihood sensitivity with power-scaling](https://link.springer.com/article/10.1007/s11222-023-10366-5). *Statistics and Computing*. Available for free also on [ArXiv](https://arxiv.org/abs/2107.14054). doi:10.1007/s11222-023-10366-5
+- Kallioinen N., Paananen T., **Bürkner P. C.**, & Vehtari A. (2024). Detecting and diagnosing prior and likelihood sensitivity with power-scaling. *Statistics and Computing*. doi:10.1007/s11222-023-10366-5
+[PDF](pdf/2024__Kalloinen_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://link.springer.com/article/10.1007/s11222-023-10366-5){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[ArXiv](https://arxiv.org/abs/2107.14054){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code](https://github.com/n-kall/powerscaling-sensitivity){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Software](https://github.com/n-kall/priorsense){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Huber F., **Bürkner P. C.**, Göddeke D., & Schulte M. (2024). [Knowledge-based modeling of simulation behavior for Bayesian optimization](https://link.springer.com/article/10.1007/s00466-023-02427-3). *Computational Mechanics*. doi:10.1007/s00466-023-02427-3
 - Schmitt M., Ewendt F., Kluttig A., Mikolajczyk R., Kraus B., Waetjen W., **Bürkner P. C.**, Stangl G., & Föller M. (2024). [Smoking is associated with increased eryptosis, suicidal erythrocyte death, in a large population-based cohort](https://www.nature.com/articles/s41598-024-53258-y). *Scientific Reports*. doi:10.1038/s41598-024-53258-y
 - Garcia-Argibay M., **Bürkner P. C.**, Lichtenstein P., Zhang L., D’Onofrio B. M., Andell P., Chang Z., Cortese S., & Larsson H. (2024). [Methylphenidate and Short-Term Cardiovascular Risk](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815765). *JAMA Network Open*. doi:10.1001/jamanetworkopen.2024.1349
