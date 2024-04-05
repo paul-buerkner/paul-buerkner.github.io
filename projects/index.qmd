@@ -315,7 +315,7 @@ Publications:
 
 ## Machine Learning for Bayesian Model Building {#ml4bmb}
 
-![](../images/pad-model-taxonomy.png){width=80% fig-alt="An illustration of the PAD model taxonomy." fig-align="left"}
+![](../images/pad-model-taxonomy.png){width=80% fig-alt="An illustration of the PAD model taxonomy." fig-align="center"}
 
 The Bayesian approach to data analysis provides a consistent and flexible way to
 handle uncertainty in all observations, model parameters, and model structure
