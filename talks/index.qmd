@@ -9,51 +9,61 @@ along with slides, paper references, and recordings when available.
 Presenters are highlighted in **bold**.
 
 - **Bockting F.**, Radev S. T., & Bürkner P. C. (2024). 
-Invited talk: [Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models](pdf/simulation_based_priors_parametric_models.pdf). 
-First presented at [Bayes@Lund](https://www.bayesatlund.com/).
-Preprint available on [ArXiv](http://arxiv.org/abs/2308.11672).
-Video available on [Youtube](https://youtu.be/KFPn7P2mfQw).
+Invited talk: *Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models*. 
+Presented at [Bayes@Lund](https://www.bayesatlund.com/).
+[Slides](pdf/simulation_based_priors_parametric_models.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Youtube](https://youtu.be/KFPn7P2mfQw){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](http://arxiv.org/abs/2308.11672){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Bürkner P. C.** (2024). 
-Keynote: [Does Bayes have to be slow? A glimpse into amortized Bayesian inference](pdf/glimpse_amortized_bayesian_inference.pdf).
-First presented at [Bayes on the Beach](https://research.qut.edu.au/qutcds/bayes-onthe-beach/).
+Keynote: *Does Bayes have to be slow? A glimpse into amortized Bayesian inference*.
+Presented at [Bayes on the Beach](https://research.qut.edu.au/qutcds/bayes-onthe-beach/).
+[Slides](pdf/glimpse_amortized_bayesian_inference.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Schmitt M. & **Bürkner P. C.** (2024). 
-Workshop: [Amortized Bayesian Inference with BayesFlow](https://tiny.cc/botb-abi).
-First presented at [Bayes on the Beach](https://research.qut.edu.au/qutcds/bayes-onthe-beach/).
+Workshop: *Amortized Bayesian Inference with BayesFlow*.
+Presented at [Bayes on the Beach](https://research.qut.edu.au/qutcds/bayes-onthe-beach/).
+[Notebook](https://tiny.cc/botb-abi){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Bürkner P. C.** (2023). 
-Keynote: [Bayesian Probabilistic Modeling for Ecology](pdf/bayesian_inference_ecology.pdf).
-First presented at [Oxford University](https://www.biology.ox.ac.uk/home).
+Keynote: *Bayesian Probabilistic Modeling for Ecology*.
+Presented at [Oxford University](https://www.biology.ox.ac.uk/home).
+[Slides](pdf/bayesian_inference_ecology.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Bürkner P. C.** (2023).
-Invited talk: [Testing evidence of absence with Bayesian methods](pdf/bayesian_equivalence_testing.pdf).
-First presented at [University of Tübingen](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/events/vergangene-veranstaltungen/interdisciplinary-methods-spring-school-2023/). 
+Invited talk: *Testing evidence of absence with Bayesian methods*.
+Presented at [University of Tübingen](https://uni-tuebingen.de/en/faculties/faculty-of-economics-and-social-sciences/subjects/department-of-social-sciences/methods-center/institute/). 
+[Slides](pdf/bayesian_equivalence_testing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Bürkner P. C.** (2023). 
-Invited talk: [Best Practices for Supervision of Bachelor’s and Master’s Students](pdf/supervision_workshop.pdf). 
-First presented at the [International Max Planck Research School for Intelligent Systems](https://imprs.is.mpg.de/).
+Invited talk: *Best Practices for Supervision of Bachelor’s and Master’s Students*. 
+Presented at the [International Max Planck Research School for Intelligent Systems](https://imprs.is.mpg.de/).
+[Slides](pdf/supervision_workshop.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Aguilar J. E.** & Bürkner P. C. (2023). 
-Poster: [Intuitive Joint Priors for Bayesian Multilevel Models: The R2D2M2 Priors](pdf/poster_R2D2M2_prior.pdf).
-First presented at the [BayesComp](https://bayescomp2023.com/).
-Paper published in [Electronic Journal of Statistics](https://doi.org/10.1214/23-EJS2136).
+Poster: *Intuitive Joint Priors for Bayesian Multilevel Models: The R2D2M2 Priors*.
+Presented at [BayesComp](https://bayescomp2023.com/).
+[Slides](pdf/poster_R2D2M2_prior.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Paper](https://doi.org/10.1214/23-EJS2136){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Schmitt, M.**, Radev, S. T., & Bürkner, P. C. (2023). 
-Poster: [Meta-Uncertainty in Bayesian Model Comparison](pdf/poster_meta_uncertainty.pdf). 
-First presented at [AISTATS 2023](http://aistats.org/aistats2023/).
-Paper published in [AISSTATS Conference Proceedings](https://proceedings.mlr.press/v206/schmitt23a.html).
+Poster: *Meta-Uncertainty in Bayesian Model Comparison*. 
+Presented at [AISTATS](http://aistats.org/aistats2023/).
+[Slides](pdf/poster_meta_uncertainty.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Paper](https://proceedings.mlr.press/v206/schmitt23a.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Schmitt, M.**, Bürkner, P. C., Köthe, U., & Radev, S. T. (2023). 
-Talk: [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](pdf/detecting_MMS_bayesflow.pdf). 
-First presented at the [German Conference on Pattern Recognition](https://www.dagm-gcpr.de/year/2023). 
-Paper published in [GCPR Conference Proceedings](https://arxiv.org/abs/2112.08866) (best paper honorable mention). 
-Previously featured also as a [poster](pdf/poster_detecting_MMS_bayesflow.pdf).
+Talk: *Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks*. 
+Presented at the [German Conference on Pattern Recognition](https://www.dagm-gcpr.de/year/2023). 
+[Slides](pdf/detecting_MMS_bayesflow.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Poster](pdf/poster_detecting_MMS_bayesflow.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Paper](https://link.springer.com/chapter/10.1007/978-3-031-54605-1_35){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Schmitt, M.**, Habermann, D., Bürkner, P. C., & Radev, S. T. (2023). 
-Talk: [Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference](pdf/self_consistency_bayesflow.pdf). 
-First presented at the [NeurIPS Workshop for Unifying Representations in Neural Models](https://neurips.cc/virtual/2023/workshop/66494).
-Preprint available on [ArXiv](https://arxiv.org/abs/2310.04395).
+Talk: *Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference*. 
+Presented at the [NeurIPS Workshop for Unifying Representations in Neural Models](https://neurips.cc/virtual/2023/workshop/66494).
+[Slides](pdf/self_consistency_bayesflow.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2310.04395){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Scholz M.** & Bürkner P.C. (2023). 
 Talk: [Prediction can be safely used as a proxy for explanation in causally consistent Bayesian GLMs](pdf/prediction_explanation.pdf).
