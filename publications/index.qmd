@@ -36,7 +36,7 @@ css: styles-lists.css
 - Kallioinen N., Paananen T., **Bürkner P. C.**, & Vehtari A. (2024). Detecting and diagnosing prior and likelihood sensitivity with power-scaling. *Statistics and Computing*. doi:10.1007/s11222-023-10366-5
 [PDF](pdf/2024__Kalloinen_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://link.springer.com/article/10.1007/s11222-023-10366-5){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[ArXiv](https://arxiv.org/abs/2107.14054){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2107.14054){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code](https://github.com/n-kall/powerscaling-sensitivity){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/n-kall/priorsense){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
