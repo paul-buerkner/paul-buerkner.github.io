@@ -19,6 +19,7 @@ Presented at [Bayes@Lund](https://www.bayesatlund.com/).
 Keynote: *Does Bayes have to be slow? A glimpse into amortized Bayesian inference*.
 Presented at [Bayes on the Beach](https://research.qut.edu.au/qutcds/bayes-onthe-beach/).
 [Slides](pdf/glimpse_amortized_bayesian_inference.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Paper](https://proceedings.mlr.press/v216/radev23a.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](../software#bayesflow){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Schmitt M. & **Bürkner P. C.** (2024). 
@@ -43,7 +44,7 @@ Presented at the [International Max Planck Research School for Intelligent Syste
 [Slides](pdf/supervision_workshop.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Aguilar J. E.** & Bürkner P. C. (2023). 
-Poster: *Intuitive Joint Priors for Bayesian Multilevel Models: The R2D2M2 Priors*.
+Poster: *Intuitive Joint Priors for Bayesian Multilevel Models: The R2D2M2 Prior*.
 Presented at [BayesComp](https://bayescomp2023.com/).
 [Slides](pdf/poster_R2D2M2_prior.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Paper](https://doi.org/10.1214/23-EJS2136){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}

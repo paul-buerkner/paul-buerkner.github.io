@@ -40,34 +40,107 @@ css: styles-lists.css
 [Code](https://github.com/n-kall/powerscaling-sensitivity){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/n-kall/priorsense){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Huber F., **Bürkner P. C.**, Göddeke D., & Schulte M. (2024). [Knowledge-based modeling of simulation behavior for Bayesian optimization](https://link.springer.com/article/10.1007/s00466-023-02427-3). *Computational Mechanics*. doi:10.1007/s00466-023-02427-3
-- Schmitt M., Ewendt F., Kluttig A., Mikolajczyk R., Kraus B., Waetjen W., **Bürkner P. C.**, Stangl G., & Föller M. (2024). [Smoking is associated with increased eryptosis, suicidal erythrocyte death, in a large population-based cohort](https://www.nature.com/articles/s41598-024-53258-y). *Scientific Reports*. doi:10.1038/s41598-024-53258-y
-- Garcia-Argibay M., **Bürkner P. C.**, Lichtenstein P., Zhang L., D’Onofrio B. M., Andell P., Chang Z., Cortese S., & Larsson H. (2024). [Methylphenidate and Short-Term Cardiovascular Risk](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815765). *JAMA Network Open*. doi:10.1001/jamanetworkopen.2024.1349
-- Schulte N., Kaup L., **Bürkner P. C.**, & Holling H. (2024). [The Fakeability of Personality Measurement with Graded Paired Comparisons](https://doi.org/10.1007/s10869-024-09931-0). *Journal of Business and Psychology*. Available for free also on [PsyArXiv](https://psyarxiv.com/bs7he/). doi:10.1007/s10869-024-09931-0
-- Zetsche U., Neumann P., **Bürkner P. C.**, Renneberg B., Koster E. H. W., & Hoorelbeke K. (2024). [Computerized Cognitive Training to Reduce Rumination in Major Depression: A Randomized Controlled Trial](https://www.sciencedirect.com/science/article/pii/S0005796724000482). *Behaviour Research and Therapy*. Available for free on [PsyArXiv](https://psyarxiv.com/ydvqa/). doi:10.1016/j.brat.2024.104521
+- Huber F., **Bürkner P. C.**, Göddeke D., & Schulte M. (2024). Knowledge-based modeling of simulation behavior for Bayesian optimization. *Computational Mechanics*. doi:10.1007/s00466-023-02427-3
+[Journal](https://link.springer.com/article/10.1007/s00466-023-02427-3){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Schmitt M., Ewendt F., Kluttig A., Mikolajczyk R., Kraus B., Waetjen W., **Bürkner P. C.**, Stangl G., & Föller M. (2024). Smoking is associated with increased eryptosis, suicidal erythrocyte death, in a large population-based cohort. *Scientific Reports*. doi:10.1038/s41598-024-53258-y
+[Journal](https://www.nature.com/articles/s41598-024-53258-y){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Garcia-Argibay M., **Bürkner P. C.**, Lichtenstein P., Zhang L., D’Onofrio B. M., Andell P., Chang Z., Cortese S., & Larsson H. (2024). Methylphenidate and Short-Term Cardiovascular Risk. *JAMA Network Open*. doi:10.1001/jamanetworkopen.2024.1349
+[Journal](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815765){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Schulte N., Kaup L., **Bürkner P. C.**, & Holling H. (2024). The Fakeability of Personality Measurement with Graded Paired Comparisons. *Journal of Business and Psychology*. doi:10.1007/s10869-024-09931-0
+[Journal](https://doi.org/10.1007/s10869-024-09931-0){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://psyarxiv.com/bs7he/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Zetsche U., Neumann P., **Bürkner P. C.**, Renneberg B., Koster E. H. W., & Hoorelbeke K. (2024). Computerized Cognitive Training to Reduce Rumination in Major Depression: A Randomized Controlled Trial. *Behaviour Research and Therapy*. doi:10.1016/j.brat.2024.104521
+[Journal](https://www.sciencedirect.com/science/article/pii/S0005796724000482){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://psyarxiv.com/ydvqa/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## 2023
 
-- **Bürkner P. C.**, Scholz M., & Radev S. T. (2023). [Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy](https://doi.org/10.1214/23-SS145). *Statistics Surveys*. Available for free also on [ArXiv](http://arxiv.org/abs/2209.02439). doi:10.1214/23-SS145
-- **Bürkner P. C.**, Kröker I., Oladyshkin S., & Nowak W. (2023). [A fully Bayesian sparse polynomial chaos expansion approach with joint priors on the coefficients and global selection of terms](https://doi.org/10.1016/j.jcp.2023.112210). *Journal of Computational Physics*. Available for free on [ArXiv](https://arxiv.org/abs/2204.06043). doi:10.1016/j.jcp.2023.112210
-- Radev S. T., Schmitt M., Pratz V., Picchini U., Köthe U., & **Bürkner P. C.** (2023). [JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models](https://proceedings.mlr.press/v216/radev23a.html). *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*. A Available for free on [ArXiv](https://arxiv.org/abs/2302.09125).
-- Aguilar J. E. & **Bürkner P. C.** (2023). [Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior](https://doi.org/10.1214/23-EJS2136). *Electronic Journal of Statistics*. Available for free also on [ArXiv](https://arxiv.org/abs/2208.07132). doi:10.1214/23-EJS2136
-- Schmitt, M., Radev, S. T., & **Bürkner P. C.** (2023). [Meta-Uncertainty in Bayesian Model Comparison](https://proceedings.mlr.press/v206/schmitt23a.html). *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*. Available for free also on [ArXiv](http://arxiv.org/abs/2210.07278).
-- Schmitt, M., **Bürkner P. C.**, Köthe U., & Radev S. T. (2023). [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](https://link.springer.com/chapter/10.1007/978-3-031-54605-1_35). *Proceedings of the German Conference on Pattern Recognition (GCPR)*. Available for free also on [ArXiv](https://arxiv.org/abs/2112.08866). doi:10.1007/978-3-031-54605-1_35
-- Schumacher L., **Bürkner P. C.**, Voss A., Köthe U., & Radev S. T. (2023). [Neural Superstatistics: A Bayesian Method for Estimating Dynamic Models of Cognition](https://www.nature.com/articles/s41598-023-40278-3). *Scientific Reports*. Available for free also on [ArXiv](https://arxiv.org/abs/2211.13165). doi:10.1038/s41598-023-40278-3
-- Modrák M., Moon A. H., Kim S., **Bürkner P. C.**, Huurre N., Faltejsková K., Gelman A., & Vehtari A. (2023). [Simulation-Based Calibration Checking for Bayesian Computation: The Choice of Test Quantities Shapes Sensitivity](https://doi.org/10.1214/23-BA1404). *Bayesian Analysis*. Available for free also on [ArXiv](https://arxiv.org/abs/2211.02383). doi:10.1214/23-BA1404
-- Perini L., **Bürkner P. C.**, & Klami A. (2023). [Estimating the Contamination Factor's Distribution in Unsupervised Anomaly Detection](https://proceedings.mlr.press/v202/perini23a.html). *Proceedings of the International Conference on Machine Learning (ICML)*. Available for free also on [ArXiv](http://arxiv.org/abs/2210.10487).
-- Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (2023). [Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming](https://doi.org/10.1007/s11222-022-10167-2). *Statistics and Computing*. Available for free on [ArXiv](http://arxiv.org/abs/2004.11408). doi:10.1007/s11222-022-10167-2
-- Mikkola P., Martin O., Chandramouli S., ..., **Bürkner P. C.**, & Klami A. (2023). [Prior knowledge elicitation: The past, present, and future](https://doi.org/10.1214/23-BA1381). *Bayesian Analysis*. Available for free also on [ArXiv](https://arxiv.org/abs/2112.01380). doi:10.1214/23-BA1381
-- Radev S. T., Schmitt M., Schumacher L., Elsemüller L., Pratz V., Schälte Y., Köthe U., & **Bürkner P. C.** (2023). [BayesFlow: Amortized Bayesian Workflows With Neural Networks](https://joss.theoj.org/papers/10.21105/joss.05702). *Journal of Open Source Software*. Available for free also on [ArXiv](https://arxiv.org/abs/2306.16015). doi:10.21105/joss.05702
-- Rodriguez, J. E., Williams, D. R., & **Bürkner P. C.** (2023). [Heterogeneous Heterogeneity by Default: Testing Categorical Moderators in Random-effects Meta-Analysis](https://doi.org/10.1111/bmsp.12299). *British Journal of Mathematical and Statistical Psychology*. Available for free on [PsyArXiv](https://psyarxiv.com/tqcka/). doi:10.1111/bmsp.12299
-- Kołczyńska M. & **Bürkner P. C.** (2023). [Modeling public opinion over time: A simulation study of latent trend models](https://doi.org/10.1093/jssam/smad024). *Journal of Survey Statistics and Methodology*. Available for free also on [SocArXiv](https://osf.io/preprints/socarxiv/gauvx/). doi:10.1093/jssam/smad024
-- Shi L., **Bürkner P. C.**, & Bulling A. (2023). [Inferring Human Intentions from Predicted Action Probabilities](https://arxiv.org/abs/2308.12194). *ArXiv preprint*. doi:10.48550/arXiv.2308.12194
-- Arslan, R. C., Blake, K., Botzet, L., **Bürkner, P. C.**, DeBruine, L. M., Fiers, T., ..., & Stern, J. (2023). [Not within spitting distance: salivary immunoassays of estradiol have subpar validity for cycle phase](https://doi.org/10.1016/j.psyneuen.2022.105994). *Psychoneuroendocrinology*. Available for free on [PsyArXiv](https://psyarxiv.com/5r8mg/). doi:10.1016/j.psyneuen.2022.105994
-- Zetsche, U., **Bürkner P. C.**, Bohländer, J., Renneberg, B., Röpke, S., & Schulze, L. (2023). [Daily Emotion Regulation in Major Depression and Borderline Personality Disorder](https://journals.sagepub.com/doi/10.1177/21677026231160709). *Clinical Psychological Science*. Available for free also on [PsyArXiv](https://psyarxiv.com/6edcj/). doi:10.1177/21677026231160709
-- Danböck, S. K., Franke, L. K., Miedl, S. F., Liedlgruber, M., **Bürkner P. C.**, & Wilhelm, F. H. (2023). [Experimental Manipulations and Multi-Domain Measures of Negative Affect and Pain Are Linked to Peritraumatic Dissociation](https://doi.org/10.1016/j.brat.2023.104289). *Behaviour Research and Therapy*. Available for free on [PsyArXiv](https://psyarxiv.com/tgc7m/). doi:10.1016/j.brat.2023.104289
-- Zhang, J., **Bürkner P. C.**, Kiesel A., & Dignath D. (2023). [How Emotional Stimuli Modulate Cognitive Control: A Meta-Analytic Review of Studies With Conflict Tasks](https://psycnet.apa.org/record/2023-79626-002). *Psychological Bulletin*. doi:10.1037/bul0000389
-- Ewendt, F., Schmitt, M., Kluttig, A., Kühn, J., ..., **Bürkner P. C.**, Föller, M., & Stangl, G. I. (2023). [Association between vitamin D status and eryptosis – results from the German National Cohort Study](https://link.springer.com/article/10.1007/s00277-023-05239-w). *Annals of Hematology*. doi:10.1007/s00277-023-05239-w
+- **Bürkner P. C.**, Scholz M., & Radev S. T. (2023). Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy. *Statistics Surveys*.
+doi:10.1214/23-SS145
+[Journal](https://doi.org/10.1214/23-SS145){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](http://arxiv.org/abs/2209.02439){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- **Bürkner P. C.**, Kröker I., Oladyshkin S., & Nowak W. (2023). A fully Bayesian sparse polynomial chaos expansion approach with joint priors on the coefficients and global selection of terms. *Journal of Computational Physics*. doi:10.1016/j.jcp.2023.112210
+[Journal](https://doi.org/10.1016/j.jcp.2023.112210){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2204.06043){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Talk](../talks/pdf/bayesian_sparse_PCE.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Radev S. T., Schmitt M., Pratz V., Picchini U., Köthe U., & **Bürkner P. C.** (2023). JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models. *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*.
+[Conference](https://proceedings.mlr.press/v216/radev23a.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2302.09125){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Talk](../talks/pdf/glimpse_amortized_bayesian_inference.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Aguilar J. E. & **Bürkner P. C.** (2023). Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior. *Electronic Journal of Statistics*. doi:10.1214/23-EJS2136
+[Journal](https://doi.org/10.1214/23-EJS2136){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2208.07132){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Talk](../talks/pdf/poster_R2D2M2_prior.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Schmitt, M., Radev, S. T., & **Bürkner P. C.** (2023). Meta-Uncertainty in Bayesian Model Comparison. *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
+[Conference](https://proceedings.mlr.press/v206/schmitt23a.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](http://arxiv.org/abs/2210.07278){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Talk](../talks/pdf/poster_meta_uncertainty.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Schmitt, M., **Bürkner P. C.**, Köthe U., & Radev S. T. (2023). Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks. *Proceedings of the German Conference on Pattern Recognition (GCPR)*. doi:10.1007/978-3-031-54605-1_35
+[Conference](https://link.springer.com/chapter/10.1007/978-3-031-54605-1_35){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2112.08866){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Schumacher L., **Bürkner P. C.**, Voss A., Köthe U., & Radev S. T. (2023). Neural Superstatistics: A Bayesian Method for Estimating Dynamic Models of Cognition. *Scientific Reports*. doi:10.1038/s41598-023-40278-3
+[Journal](https://www.nature.com/articles/s41598-023-40278-3){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2211.13165){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Modrák M., Moon A. H., Kim S., **Bürkner P. C.**, Huurre N., Faltejsková K., Gelman A., & Vehtari A. (2023). Simulation-Based Calibration Checking for Bayesian Computation: The Choice of Test Quantities Shapes Sensitivity. *Bayesian Analysis*. doi:10.1214/23-BA1404
+[Journal](https://doi.org/10.1214/23-BA1404){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2211.02383){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Perini L., **Bürkner P. C.**, & Klami A. (2023). Estimating the Contamination Factor's Distribution in Unsupervised Anomaly Detection. *Proceedings of the International Conference on Machine Learning (ICML)*.
+[Conference](https://proceedings.mlr.press/v202/perini23a.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](http://arxiv.org/abs/2210.10487){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Riutort-Mayol G., **Bürkner P. C.**, Andersen M. R., Solin A., & Vehtari A. (2023). Practical Hilbert space approximate Bayesian Gaussian processes for probabilistic programming. *Statistics and Computing*. doi:10.1007/s11222-022-10167-2
+[Journal](https://doi.org/10.1007/s11222-022-10167-2){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](http://arxiv.org/abs/2004.11408){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Mikkola P., Martin O., Chandramouli S., ..., **Bürkner P. C.**, & Klami A. (2023). Prior knowledge elicitation: The past, present, and future. *Bayesian Analysis*. doi:10.1214/23-BA1381
+[Journal](https://doi.org/10.1214/23-BA1381){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2112.01380){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Radev S. T., Schmitt M., Schumacher L., Elsemüller L., Pratz V., Schälte Y., Köthe U., & **Bürkner P. C.** (2023). BayesFlow: Amortized Bayesian Workflows With Neural Networks. *Journal of Open Source Software*. doi:10.21105/joss.05702
+[Journal](https://joss.theoj.org/papers/10.21105/joss.05702){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2306.16015){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Software](../software#bayesflow){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Rodriguez, J. E., Williams, D. R., & **Bürkner P. C.** (2023). Heterogeneous Heterogeneity by Default: Testing Categorical Moderators in Random-effects Meta-Analysis. *British Journal of Mathematical and Statistical Psychology*. doi:10.1111/bmsp.12299
+[Journal](https://doi.org/10.1111/bmsp.12299){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://psyarxiv.com/tqcka/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Kołczyńska M. & **Bürkner P. C.** (2023). Modeling public opinion over time: A simulation study of latent trend models. *Journal of Survey Statistics and Methodology*. doi:10.1093/jssam/smad024
+[Journal](https://doi.org/10.1093/jssam/smad024){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://osf.io/preprints/socarxiv/gauvx/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Shi L., **Bürkner P. C.**, & Bulling A. (2023). Inferring Human Intentions from Predicted Action Probabilities. *ArXiv preprint*. doi:10.48550/arXiv.2308.12194
+[Preprint](https://arxiv.org/abs/2308.12194){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Arslan, R. C., Blake, K., Botzet, L., **Bürkner, P. C.**, DeBruine, L. M., Fiers, T., ..., & Stern, J. (2023). Not within spitting distance: salivary immunoassays of estradiol have subpar validity for cycle phase. *Psychoneuroendocrinology*. doi:10.1016/j.psyneuen.2022.105994
+[Journal](https://doi.org/10.1016/j.psyneuen.2022.105994){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://psyarxiv.com/5r8mg/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Zetsche, U., **Bürkner P. C.**, Bohländer, J., Renneberg, B., Röpke, S., & Schulze, L. (2023). Daily Emotion Regulation in Major Depression and Borderline Personality Disorder. *Clinical Psychological Science*. doi:10.1177/21677026231160709
+[Journal](https://journals.sagepub.com/doi/10.1177/21677026231160709){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://psyarxiv.com/6edcj/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Danböck, S. K., Franke, L. K., Miedl, S. F., Liedlgruber, M., **Bürkner P. C.**, & Wilhelm, F. H. (2023). Experimental Manipulations and Multi-Domain Measures of Negative Affect and Pain Are Linked to Peritraumatic Dissociation. *Behaviour Research and Therapy*. doi:10.1016/j.brat.2023.104289
+[Journal](https://doi.org/10.1016/j.brat.2023.104289){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://psyarxiv.com/tgc7m/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Zhang, J., **Bürkner P. C.**, Kiesel A., & Dignath D. (2023). How Emotional Stimuli Modulate Cognitive Control: A Meta-Analytic Review of Studies With Conflict Tasks. *Psychological Bulletin*. doi:10.1037/bul0000389
+[Journal](https://psycnet.apa.org/record/2023-79626-002){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Ewendt, F., Schmitt, M., Kluttig, A., Kühn, J., ..., **Bürkner P. C.**, Föller, M., & Stangl, G. I. (2023). Association between vitamin D status and eryptosis – results from the German National Cohort Study. *Annals of Hematology*. doi:10.1007/s00277-023-05239-w
+[Journal](https://link.springer.com/article/10.1007/s00277-023-05239-w){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## 2022
 
