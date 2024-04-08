@@ -11,15 +11,15 @@ Simulation intelligence (SI) subsumes an emerging generation of scientific metho
 
 In this project, we focus on software for amortized Bayesian inference, which is an essential part of SI. The hallmark feature of amortized Bayesian inference is an upfront training phase (e.g., of a neural network), which is then amortized by a nearly instant fully Bayesian inference for an arbitrary number of data sets during test time. Concretely, we aim to advance the [BayesFlow research software library](../software#bayesflow) into becoming the long-term, gold-standard software for amortized Bayesian inference. 
 
+Overarching Topics: 
+[Simulation-Based Inference](../research#sbi),
+[Machine-Assisted Bayesian Workflow](../research#machine-workflow)
+
 Project Members: [Lars Kühmichel](../people#lars-kuehmichel)
 
 Funders: [German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp)
 
 Funding Period: 2024 -- 2027
-
-Overarching Topics: 
-[Simulation-Based Inference](../research#sbi),
-[Machine-Assisted Bayesian Workflow](../research#machine-workflow)
 
 
 ## Applications of Amortized Bayesian Inference {#abi-applications}

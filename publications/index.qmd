@@ -32,6 +32,10 @@ css: styles-lists.css
 - Reiser P., Aguilar J. E., Guthke A., & **Bürkner P. C.** (in review). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2312.05153){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Mukherjee S., Claassen M., **Bürkner P. C.** (in review). DGP-LVM: Derivative Gaussian process latent variable model. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2404.04074){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code](https://github.com/Soham6298/DGP-LVM){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Scholz M. & **Bürkner P. C.** (in review). Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2210.06927){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
