@@ -28,9 +28,12 @@ css: styles-lists.css
 
 - Aguilar J. E. & **Bürkner P. C.** (in review). Generalized Decomposition Priors on R2. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2401.10180){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code](https://github.com/jear2412/ShrinkagePriors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Data](https://osf.io/ns2cv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Reiser P., Aguilar J. E., Guthke A., & **Bürkner P. C.** (in review). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2312.05153){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code](https://github.com/philippreiser/bayesian-surrogate-uncertainty-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Mukherjee S., Claassen M., **Bürkner P. C.** (in review). DGP-LVM: Derivative Gaussian process latent variable model. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2404.04074){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -38,12 +41,17 @@ css: styles-lists.css
 
 - Scholz M. & **Bürkner P. C.** (in review). Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2210.06927){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code](https://osf.io/xgkzv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Software](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Scholz M. & **Bürkner P. C.** (in review). Posterior accuracy and calibration under misspecification in Bayesian generalized linear models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2311.09081){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code](https://osf.io/tmdcf/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Software](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). Latent space projection predictive inference. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2109.04702){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Software](https://github.com/stan-dev/projpred){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Elsemüller L., Olischläger H., Schmitt M., **Bürkner P. C.**, Köthe U., & Radev S. T. (in review). Sensitivity-Aware Amortized Bayesian Inference. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2310.11122){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -56,26 +64,34 @@ css: styles-lists.css
 
 - Thillaikumar R., Mundry R., Atmoko S. S. U., **Bürkner P. C.**, van Noordwijk M. A., Schuppli C. (in review). Maternal behavior in Sumatran orangutans (Pongo abelii) is modulated by mother-offspring characteristics and socioecological factors. *BioRxiv preprint*.
 [Preprint](https://www.biorxiv.org/content/10.1101/2024.03.02.582963v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://doi.org/10.7910/DVN/8WV8XX){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Lingel H., **Bürkner P. C.**, Melchers K. G., & Schulte N. (in review). Measuring Personality When Stakes Are High: Are Graded Paired Comparisons a More Reliable Alternative to Traditional Forced-Choice Methods? *PsyArXiv preprint*.
 [Preprint](https://psyarxiv.com/8rt3j){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code](https://github.com/haluli/gpc_simulations){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Data](https://osf.io/pjmvq/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Bagaïni A., Liu Y., Kapoor M., Son G., **Bürkner P. C.**, Tisdall L., & Mata R. (in review). Comparing the Temporal Stability and Convergent Validity of Risk Preference Measures: A Meta-Analytic Approach. *PsyArXiv preprint*.
 [Preprint](https://psyarxiv.com/d7nuj/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://osf.io/5kzgd/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Bolzenkötter T., **Bürkner P. C.**, Zetsche U., & Schulze L. (in review). Assessing the short-term effects of detached mindfulness on repetitive negative thinking and affect: A randomized controlled trial in daily life. *PsyArXiv preprint*.
 [Preprint](https://psyarxiv.com/y4snz/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://osf.io/z2e83/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## Accepted
 
 - Elsemüller L., Schnuerch M., **Bürkner P. C.**, & Radev S. T. (accepted). A Deep Learning Method for Comparing Bayesian Hierarchical Models. *Psychological Methods*.
 [Preprint](https://arxiv.org/abs/2301.11873){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code](https://github.com/bayesflow-org/Hierarchical-Model-Comparison){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Kołczyńska M., **Bürkner P. C.**, Kennedy L., & Vehtari A. (accepted). Trust in state institutions in Europe, 1989-2019. *Survey Research Methods*.
 [Preprint](https://osf.io/preprints/socarxiv/3v5g7/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code](https://github.com/mkolczynska/political-trust-europe){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Raulo A., **Bürkner P. C.**, Dale J., English H., Finerty G., Lamberth C., Firth J. A., Coulson T., & Knowles S. (accepted). [Social and environmental transmission spread different sets of gut microbes in wild mice. *Nature Ecology & Evolution*.
+- Raulo A., **Bürkner P. C.**, Dale J., English H., Finerty G., Lamberth C., Firth J. A., Coulson T., & Knowles S. (accepted). Social and environmental transmission spread different sets of gut microbes in wild mice. *Nature Ecology & Evolution*.
 [Preprint](https://www.biorxiv.org/content/10.1101/2023.07.20.549849v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code](https://github.com/nuorenarra/Analysing-dyadic-data-with-brms){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## 2024
 
