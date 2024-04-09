@@ -11,28 +11,28 @@
     "href": "people/index.html#principal-investigator",
     "title": "People",
     "section": "Principal Investigator",
-    "text": "Principal Investigator\n\n\n\n \n\n\nPaul Bürkner\n\nBackground: Statistics, Mathematics, and Psychology\nPosition: Full Professor for Computational Statistics\nLinks: University Website, Email, GitHub, Google Scholar, Twitter"
+    "text": "Principal Investigator\n\n\n\n \n\n\nPaul Bürkner\n\nBackground: Statistics, Mathematics, and Psychology\nPosition: Full Professor for Computational Statistics\nUniversity Website Email GitHub Google Scholar Twitter"
   },
   {
     "objectID": "people/index.html#postdocs",
     "href": "people/index.html#postdocs",
     "title": "People",
     "section": "PostDocs",
-    "text": "PostDocs\n\n\n\n \n\n\nDaniel Habermann\n\nBackground: Computational Biology\nProject: Amortized Bayesian Inference for Multilevel Models\nLinks: Personal Website, GitHub\n\n\n\n\n\n\n \n\n\nŠimon Kucharský\n\nBackground: Computational Psychology\nProject: Applications of Amortized Bayesian Inference\nLinks: Personal Website, GitHub"
+    "text": "PostDocs\n\n\n\n \n\n\nDaniel Habermann\n\nBackground: Computational Biology\nProject: Amortized Bayesian Inference for Multilevel Models\nPersonal Website GitHub\n\n\n\n\n\n\n \n\n\nŠimon Kucharský\n\nBackground: Computational Psychology\nProject: Applications of Amortized Bayesian Inference\nPersonal Website GitHub"
   },
   {
     "objectID": "people/index.html#phd-students",
     "href": "people/index.html#phd-students",
     "title": "People",
     "section": "PhD Students",
-    "text": "PhD Students\n\n\n\n \n\n\nJavier Aguilar\n\nBackground: Mathematics and Statistics\nProject: Intuitive Joint Priors for Bayesian Multilevel Models\nLinks: GitHub\n\n\n\n\n\n\n \n\n\nFlorence Bockting\n\nBackground: Cognitive Science and Psychology\nProject: Simulation-Based Prior Distributions for Bayesian Models\nLinks: Personal Website, GitHub\n\n\n\n\n\n\n \n\n\nLuna Fazio\n\nBackground: Biology and Statistics\nProject: Bayesian Distributional Latent Variable Models\nLinks: GitHub\n\n\n\n\n\n\n \n\n\nJacob Grytzka\n\nBackground: Statistics\nProject: Regularization in Generalized Linear and Additive Multilevel Models\nLinks: University Website\nCo-Supervisor: Andreas Groll\n\n\n\n\n\n\n \n\n\nLars Kühmichel\n\nBackground: Physics and Computer Science\nProject: BayesFlow: Simulation Intelligence with Deep Learning\nLinks: GitHub\nCo-Supervisor: Stefan Radev\n\n\n\n\n\n\n \n\n\nSoham Mukherjee\n\nBackground: Statistics\nProject: Probabilistic Models for Single-Cell RNA Sequencing Data\nLinks: University Website, Linkedin\nCo-Supervisor: Manfred Claassen\n\n\n\n\n\n\n \n\n\nPhilipp Reiser\n\nBackground: Physics and Computer Science\nProject: Data-Integrated Training of Surrogate Models for Uncertainty Quantification\nLinks: University Website, GitHub\nCo-Supervisor: Anneli Guthke\n\n\n\n\n\n\n \n\n\nMarvin Schmitt\n\nBackground: Psychology and Computer Science\nProject: Meta-Uncertainty in Bayesian Model Comparison\nLinks: Personal Website, University Website, GitHub\n\n\n\n\n\n\n \n\n\nMaximilian Scholz\n\nBackground: Computer- and Software Engineering\nProject: Machine Learning for Bayesian Model Building\nLinks: Personal Website, University Website, GitHub"
+    "text": "PhD Students\n\n\n\n \n\n\nJavier Aguilar\n\nBackground: Mathematics and Statistics\nProject: Intuitive Joint Priors for Bayesian Multilevel Models\nGitHub\n\n\n\n\n\n\n \n\n\nFlorence Bockting\n\nBackground: Cognitive Science and Psychology\nProject: Simulation-Based Prior Distributions for Bayesian Models\nPersonal Website GitHub\n\n\n\n\n\n\n \n\n\nLuna Fazio\n\nBackground: Biology and Statistics\nProject: Bayesian Distributional Latent Variable Models\nGitHub\n\n\n\n\n\n\n \n\n\nJacob Grytzka\n\nBackground: Statistics\nProject: Regularization in Generalized Linear and Additive Multilevel Models\nCo-Supervisor: Andreas Groll\nUniversity Website\n\n\n\n\n\n\n \n\n\nLars Kühmichel\n\nBackground: Physics and Computer Science\nProject: BayesFlow: Simulation Intelligence with Deep Learning\nCo-Supervisor: Stefan Radev\nGitHub\n\n\n\n\n\n\n \n\n\nSoham Mukherjee\n\nBackground: Statistics\nProject: Probabilistic Models for Single-Cell RNA Sequencing Data\nCo-Supervisor: Manfred Claassen\nUniversity Website Linkedin\n\n\n\n\n\n\n \n\n\nPhilipp Reiser\n\nBackground: Physics and Computer Science\nProject: Data-Integrated Training of Surrogate Models for Uncertainty Quantification\nCo-Supervisor: Anneli Guthke\nUniversity Website GitHub\n\n\n\n\n\n\n \n\n\nMarvin Schmitt\n\nBackground: Psychology and Computer Science\nProject: Meta-Uncertainty in Bayesian Model Comparison\nPersonal Website University Website GitHub\n\n\n\n\n\n\n \n\n\nMaximilian Scholz\n\nBackground: Computer- and Software Engineering\nProject: Machine Learning for Bayesian Model Building\nPersonal Website University Website GitHub"
   },
   {
     "objectID": "people/index.html#alumni",
     "href": "people/index.html#alumni",
     "title": "People",
     "section": "Alumni",
-    "text": "Alumni\n\nStefan Radev (2021 – 2023): PostDoc in my lab before becoming assistant professor at Rensselaer Polytechnic Institute, Troy, USA. Links: University Website, GitHub, Linkedin"
+    "text": "Alumni\n\nStefan Radev (2021 – 2023): PostDoc in my lab before becoming assistant professor at Rensselaer Polytechnic Institute, Troy, USA. University Website GitHub Linkedin"
   },
   {
     "objectID": "software/index.html",
