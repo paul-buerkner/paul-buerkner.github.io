@@ -58,7 +58,7 @@ Funding Period: 2023 -- 2026
 
 Publications:
 
-- Schmitt M., Habermann D., Bürkner P. C., Köthe U., & Radev S. T. (in review). Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference. *ArXiv preprint*.
+- Schmitt M., Ivanova D. R., Habermann D., Köthe U., Bürkner P. C., & Radev S. T. (in review). Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2310.04395){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 <!-- -->
@@ -273,7 +273,7 @@ Publications:
 - Schmitt M., Pratz V., Köthe U., Bürkner P. C., & Radev S. T. (in review). Consistency Models for Scalable and Fast Simulation-Based Inference. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2312.05440){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Schmitt M., Habermann D., Bürkner P. C., Köthe U., & Radev S. T. (2023). Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference. *ArXiv preprint*.
+- Schmitt M., Ivanova D. R., Habermann D., Köthe U., Bürkner P. C., & Radev S. T. (in review). Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2310.04395){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Schmitt M., Hikida Y., Radev S. T., Sadlo F., & Bürkner P. C. (in review). The Simplex Projection: Lossless Visualization of 4D Compositional Data on a 2D Canvas. *ArXiv preprint*.
@@ -283,13 +283,6 @@ Publications:
 
 - Elsemüller L., Olischläger H., Schmitt M., Bürkner P. C., Köthe U., & Radev S. T. (in review). Sensitivity-Aware Amortized Bayesian Inference. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2310.11122){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Radev S. T., Schmitt M., Pratz V., Picchini U., Köthe U., & Bürkner P. C. (2023). JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models. *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*.
-[PDF](pdf/2023__Radev_et_al__UAI.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Conference](https://proceedings.mlr.press/v216/radev23a.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2302.09125){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/bayesflow-org/JANA-Paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Talk](../talks/pdf/glimpse_amortized_bayesian_inference.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Schmitt, M., Radev, S. T., & Bürkner P. C. (2023). Meta-Uncertainty in Bayesian Model Comparison. *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
 [PDF](pdf/2023__Schmitt_et_al__AISTATS.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -305,6 +298,13 @@ Publications:
 [Code & Data](https://github.com/marvinschmitt/ModelMisspecificationBF){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Talk](../talks/pdf/detecting_MMS_bayesflow.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Poster](../talks/pdf/poster_detecting_MMS_bayesflow.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Radev S. T., Schmitt M., Pratz V., Picchini U., Köthe U., & Bürkner P. C. (2023). JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models. *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*.
+[PDF](pdf/2023__Radev_et_al__UAI.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Conference](https://proceedings.mlr.press/v216/radev23a.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2302.09125){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/bayesflow-org/JANA-Paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Talk](../talks/pdf/glimpse_amortized_bayesian_inference.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Radev S. T., Schmitt M., Schumacher L., Elsemüller L., Pratz V., Schälte Y., Köthe U., & Bürkner P. C. (2023). BayesFlow: Amortized Bayesian Workflows With Neural Networks. *Journal of Open Source Software*. doi:10.21105/joss.05702
 [PDF](pdf/2023__Radev_et_al__JOSS.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}

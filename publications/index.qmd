@@ -18,7 +18,7 @@ toc-location: right
 - Schmitt M., Pratz V., Köthe U., **Bürkner P. C.**, & Radev S. T. (in review). Consistency Models for Scalable and Fast Simulation-Based Inference. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2312.05440){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Schmitt M., Habermann D., **Bürkner P. C.**, Köthe U., & Radev S. T. (in review). Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference. *ArXiv preprint*.
+- Schmitt M., Ivanova D. R., Habermann D., Köthe U., **Bürkner P. C.**, & Radev S. T. (in review). Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2310.04395){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Schmitt M., Hikida Y., Radev S. T., Sadlo F., & **Bürkner P. C.** (in review). The Simplex Projection: Lossless Visualization of 4D Compositional Data on a 2D Canvas. *ArXiv preprint*.
