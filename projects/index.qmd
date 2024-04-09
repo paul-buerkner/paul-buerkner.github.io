@@ -12,12 +12,12 @@ Simulation intelligence (SI) subsumes an emerging generation of scientific metho
 In this project, we focus on software for amortized Bayesian inference, which is an essential part of SI. The hallmark feature of amortized Bayesian inference is an upfront training phase (e.g., of a neural network), which is then amortized by a nearly instant fully Bayesian inference for an arbitrary number of data sets during test time. Concretely, we aim to advance the [BayesFlow research software library](../software#bayesflow) into becoming the long-term, gold-standard software for amortized Bayesian inference. 
 
 Overarching Topics: 
-[Simulation-Based Inference](../research#sbi),
-[Machine-Assisted Bayesian Workflow](../research#machine-workflow)
+[Simulation-Based Inference](../research#sbi){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Machine-Assisted Bayesian Workflow](../research#machine-workflow){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Project Members: [Lars Kühmichel](../people#lars-kuehmichel)
+Project Members: [Lars Kühmichel](../people#lars-kuehmichel){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Funders: [German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp)
+Funders: [German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funding Period: 2024 -- 2027
 
@@ -30,12 +30,12 @@ Nevertheless, the novelty of this approach poses a challenge, as its widespread 
 In this project, our emphasis is on applications within cognitive modeling and developmental psychology. We focus on how simulation-based amortized inference can address important challenges within the field, not only during the data analysis phase but also in the planning and execution of studies and experiments. As a by-product we will generate tutorials and educational materials providing gentle introductions into the topic. This project also aims to lay the foundations for integrating simulation-based amortized inference with popular statistical software packages used by practitioners who may not have extensive coding skills, thereby broadening the scope of users benefiting from its advantages.
 
 Overarching Topics: 
-[Simulation-Based Inference](../research#sbi),
-[Uncertainty Quantification](../research#uncertainty-quantification)
+[Simulation-Based Inference](../research#sbi){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Project Members: [Šimon Kucharský](../people#simon-kucharsky)
+Project Members: [Šimon Kucharský](../people#simon-kucharsky){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Funders: [TU Dortmund University](https://www.tu-dortmund.de/en/)
+Funders: [TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funding Period: 2024 -- 2027
 
@@ -47,19 +47,21 @@ Probabilistic multilevel models (MLMs) are a central building block in Bayesian 
 In this project, we propose to develop a general and efficient neural inference framework for estimating and evaluating complex Bayesian MLMs. Our framework will substantially extend previous work on simulation-based Bayesian inference for single-level models. Moreover, it aims to encompass not only the inference phase of a Bayesian workflow but also the model evaluation steps, which usually comprise a computational bottleneck with standard (non-amortized) Bayesian methods. Thus, the proposed project has the potential to greatly enhance model-based inference and understanding of complex processes across the quantitative sciences.
 
 Overarching Topics: 
-[Simulation-Based Inference](../research#sbi),
-[Uncertainty Quantification](../research#uncertainty-quantification)
+[Simulation-Based Inference](../research#sbi){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Project Members: [Daniel Habermann](../people#daniel-habermann)
+Project Members: [Daniel Habermann](../people#daniel-habermann){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Funders: [German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp)
+Funders: [German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funding Period: 2023 -- 2026
 
 Publications:
 
-- Schmitt M., Habermann D., Bürkner P. C., Köthe U., & Radev S. T. (2023). [Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference](https://arxiv.org/abs/2310.04395). *ArXiv preprint*.
+- Schmitt M., Habermann D., Bürkner P. C., Köthe U., & Radev S. T. (in review). Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2310.04395){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+<!-- -->
 
 ## Bayesian Distributional Latent Variable Models {#bdlvms}
 
@@ -85,14 +87,14 @@ variable models that combines the principles of IRT and SEM with the flexibility
 of distributional regression powered by modern Bayesian estimation methods.
 
 Overarching Topics: 
-[Uncertainty Quantification](../research#uncertainty-quantification), 
-[Machine-Assisted Bayesian Workflow](../research#machine-workflow)
+[Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Machine-Assisted Bayesian Workflow](../research#machine-workflow){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Project Members: [Luna Fazio](../people#luna-fazio)
+Project Members: [Luna Fazio](../people#luna-fazio){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funders: 
-[German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp),
-[TU Dortmund University](https://www.tu-dortmund.de/en/)
+[German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funding Period: 2022 -- 2025
 
@@ -118,19 +120,22 @@ probabilistic modeling by making the use of expert knowledge practical, robust,
 and computationally feasible.
 
 Overarching Topics: 
-[Prior Specification](../research#prior-specification),
-[Simulation-Based Inference](../research#sbi)
+[Prior Specification](../research#prior-specification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Simulation-Based Inference](../research#sbi){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Project Members: [Florence Bockting](../people#florence-bockting)
+Project Members: [Florence Bockting](../people#florence-bockting){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Funders: [TU Dortmund University](https://www.tu-dortmund.de/en/), 
-[Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/)
+Funders: [TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funding Period: 2022 -- 2025
 
 Publications: 
 
-- Bockting F., Radev, S. T., & Bürkner P. C. (2023). [Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models](http://arxiv.org/abs/2308.11672). *ArXiv preprint*.
+- Bockting F., Radev S. T., & Bürkner P. C. (in review). Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models. *ArXiv preprint*.
+[Preprint](http://arxiv.org/abs/2308.11672){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Website](https://florence-bockting.github.io/PriorLearning/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/florence-bockting/PriorLearning){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 <!-- -->
 
@@ -155,17 +160,23 @@ the potential to solve similar research problems dealing with multi-output data
 and its derivatives from diverse fields of study.
 
 Overarching Topics: 
-[Uncertainty Quantification](../research#uncertainty-quantification)
+[Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Project Members: [Soham Mukherjee](../people#soham-mukherjee)
+Project Members: [Soham Mukherjee](../people#soham-mukherjee){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Co-Supervisors: [Manfred Claassen](https://claassenlab.github.io/people/manfred-claassen/)
+Co-Supervisors: [Manfred Claassen](https://claassenlab.github.io/people/manfred-claassen/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funders: 
-[TU Dortmund University](https://www.tu-dortmund.de/en/),
-[University of Tübingen](https://uni-tuebingen.de/en/)
+[TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[University of Tübingen](https://uni-tuebingen.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funding Period: 2022 -- 2025
+
+Publications:
+
+- Mukherjee S., Claassen M., Bürkner P. C. (in review). DGP-LVM: Derivative Gaussian process latent variable model. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2404.04074){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/Soham6298/DGP-LVM){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 <!-- -->
 
@@ -194,19 +205,21 @@ detection in the reference model, and (3) an uncertainty propagation analysis
 that accounts for the approximation error introduced by the use of surrogates.
 
 Overarching Topics: 
-[Uncertainty Quantification](../research#uncertainty-quantification)
+[Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Project Members: [Philipp Reiser](../people#philipp-reiser)
+Project Members: [Philipp Reiser](../people#philipp-reiser){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Co-Supervisors: [Anneli Guthke](https://www.simtech.uni-stuttgart.de/exc/people/Guthke/)
+Co-Supervisors: [Anneli Guthke](https://www.simtech.uni-stuttgart.de/exc/people/Guthke/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Funders: [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/)
+Funders: [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funding Period: 2022 -- 2025
 
 Publications: 
 
-- Reiser, P., Aguilar J. E., Guthke A., & Bürkner P. C. (2023). [Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference](https://arxiv.org/abs/2312.05153). *ArXiv preprint*.
+- Reiser P., Aguilar J. E., Guthke A., & Bürkner P. C. (in review). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2312.05153){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/philippreiser/bayesian-surrogate-uncertainty-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 <!-- -->
 
@@ -242,28 +255,66 @@ models, and an open world, where the true model may not be within that set – a
 critical distinction in the context of model comparison procedures.
 
 Overarching Topics: 
-[Model Comparison](../research#model-comparison),
-[Uncertainty Quantification](../research#uncertainty-quantification),
-[Simulation-Based Inference](../research#sbi)
+[Model Comparison](../research#model-comparison){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Simulation-Based Inference](../research#sbi){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Project Members: [Marvin Schmitt](../people#marvin-schmitt)
+Project Members: [Marvin Schmitt](../people#marvin-schmitt){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Funders: [Cyber Valley Research Fund](https://cyber-valley.de/en/research-fund)
+Funders: [Cyber Valley Research Fund](https://cyber-valley.de/en/research-fund){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funding Period: 2021 -- 2024
 
 Publications: 
 
-- Schmitt, M., Radev, S. T., & Bürkner P. C. (2023). [Meta-Uncertainty in Bayesian Model Comparison](http://arxiv.org/abs/2210.07278). *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
-- Schmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (2023). [Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks](https://arxiv.org/abs/2112.08866). *Proceedings of the German Conference on Pattern Recognition (GCPR)*.
-- Schmitt, M., Radev, S. T., & Bürkner P. C. (2023). [Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference](https://arxiv.org/abs/2311.10671). *ArXiv preprint*.
-- Schmitt M., Pratz V., Köthe U., Bürkner P. C., & Radev S. T. (2023). [Consistency Models for Scalable and Fast Simulation-Based Inference](https://arxiv.org/abs/2312.05440). *ArXiv preprint*.
-- Schmitt M., Habermann D., Bürkner P. C., Köthe U., & Radev S. T. (2023). [Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference](https://arxiv.org/abs/2310.04395). *ArXiv preprint*.
-- Radev S. T., Schmitt M., Pratz V., Picchini U., Köthe U., & Bürkner P. C. (2023). [JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models](https://arxiv.org/abs/2302.09125). *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*.
+- Schmitt M., Radev S. T., & Bürkner P. C. (in review). Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2311.10671){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Schmitt M., Pratz V., Köthe U., Bürkner P. C., & Radev S. T. (in review). Consistency Models for Scalable and Fast Simulation-Based Inference. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2312.05440){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Schmitt M., Habermann D., Bürkner P. C., Köthe U., & Radev S. T. (2023). Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2310.04395){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Schmitt M., Hikida Y., Radev S. T., Sadlo F., & Bürkner P. C. (in review). The Simplex Projection: Lossless Visualization of 4D Compositional Data on a 2D Canvas. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2403.11141){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Software](https://github.com/marvinschmitt/ggsimplex){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Tutorial](https://www.marvinschmitt.com/blog/ggsimplex-prerelease/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Elsemüller L., Olischläger H., Schmitt M., Bürkner P. C., Köthe U., & Radev S. T. (in review). Sensitivity-Aware Amortized Bayesian Inference. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2310.11122){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Radev S. T., Schmitt M., Pratz V., Picchini U., Köthe U., & Bürkner P. C. (2023). JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models. *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*.
+[PDF](pdf/2023__Radev_et_al__UAI.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Conference](https://proceedings.mlr.press/v216/radev23a.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2302.09125){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/bayesflow-org/JANA-Paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Talk](../talks/pdf/glimpse_amortized_bayesian_inference.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Schmitt, M., Radev, S. T., & Bürkner P. C. (2023). Meta-Uncertainty in Bayesian Model Comparison. *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
+[PDF](pdf/2023__Schmitt_et_al__AISTATS.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Conference](https://proceedings.mlr.press/v206/schmitt23a.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](http://arxiv.org/abs/2210.07278){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/marvinschmitt/MetaUncertaintyPaper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Talk](../talks/pdf/poster_meta_uncertainty.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Schmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (2023). Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks. *Proceedings of the German Conference on Pattern Recognition (GCPR)*. doi:10.1007/978-3-031-54605-1_35
+[PDF](pdf/2023__Schmitt_et_al__GCPR.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Conference](https://link.springer.com/chapter/10.1007/978-3-031-54605-1_35){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2112.08866){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/marvinschmitt/ModelMisspecificationBF){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Talk](../talks/pdf/detecting_MMS_bayesflow.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Poster](../talks/pdf/poster_detecting_MMS_bayesflow.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Radev S. T., Schmitt M., Schumacher L., Elsemüller L., Pratz V., Schälte Y., Köthe U., & Bürkner P. C. (2023). BayesFlow: Amortized Bayesian Workflows With Neural Networks. *Journal of Open Source Software*. doi:10.21105/joss.05702
+[PDF](pdf/2023__Radev_et_al__JOSS.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://joss.theoj.org/papers/10.21105/joss.05702){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2306.16015){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Software](../software#bayesflow){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Software:
 
-- ggsimplex: Simplex visualizations with ggplot2 [[GitHub](https://github.com/marvinschmitt/ggsimplex)]
+- ggsimplex: Simplex visualizations with ggplot2 [GitHub](https://github.com/marvinschmitt/ggsimplex){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 <!-- -->
 
@@ -294,22 +345,34 @@ developed priors will enable the reliable and interpretable estimation of much
 more complex Bayesian MLMs than was previously possible.
 
 Overarching Topics: 
-[Prior Specification](../research#prior-specification)
+[Prior Specification](../research#prior-specification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Project Members: [Javier Aguilar](../people#javier-aguilar)
+Project Members: [Javier Aguilar](../people#javier-aguilar){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funders: 
-[German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp),
-[TU Dortmund University](https://www.tu-dortmund.de/en/),
-[University of Stuttgart](https://www.uni-stuttgart.de/en/)
+[German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[University of Stuttgart](https://www.uni-stuttgart.de/en/{.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funding Period: 2021 -- 2025
 
 Publications:
 
-- Aguilar J. E. & Bürkner P. C. (2024). [Generalized Decomposition Priors on R2](https://arxiv.org/abs/2401.10180). *ArXiv preprint*.
-- Aguilar J. E. & Bürkner P. C. (2023). [Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior](https://doi.org/10.1214/23-EJS2136). *Electronic Journal of Statistics*. Available for free also on [ArXiv](https://arxiv.org/abs/2208.07132). doi:10.1214/23-EJS2136
-- Reiser, P., Aguilar J. E., Guthke A., & Bürkner P. C. (2023). [Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference](https://arxiv.org/abs/2312.05153). *ArXiv preprint*.
+- Aguilar J. E. & Bürkner P. C. (in review). Generalized Decomposition Priors on R2. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2401.10180){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code](https://github.com/jear2412/ShrinkagePriors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Data](https://osf.io/ns2cv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Reiser P., Aguilar J. E., Guthke A., & Bürkner P. C. (in review). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2312.05153){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/philippreiser/bayesian-surrogate-uncertainty-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Aguilar J. E. & Bürkner P. C. (2023). Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior. *Electronic Journal of Statistics*. doi:10.1214/23-EJS2136
+[PDF](pdf/2023__Aguilar_Bürkner__Electronic_Journal_of_Statistics.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://doi.org/10.1214/23-EJS2136){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2208.07132){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/jear2412/R2D2M2){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Talk](../talks/pdf/poster_R2D2M2_prior.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 <!-- -->
 
@@ -333,23 +396,33 @@ the machine learns from the user's decisions to improve its recommendations on
 the fly.
 
 Overarching Topics: 
-[Machine-Assisted Bayesian Workflow](../research#machine-workflow), 
-[Model Comparison](../research#model-comparison)
+[Machine-Assisted Bayesian Workflow](../research#machine-workflow){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Model Comparison](../research#model-comparison){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Project Members: [Maximilian Scholz](../people#maximilian-scholz)
+Project Members: [Maximilian Scholz](../people#maximilian-scholz){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Funders: [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/)
+Funders: [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funding Period: 2021 -- 2024
 
 Publications:
 
-- Scholz M. & Bürkner P. C. (2023). [Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models](https://arxiv.org/abs/2210.06927). *ArXiv preprint*.
-- Scholz M. & Bürkner P. C. (2023). [Posterior accuracy and calibration under misspecification in Bayesian generalized linear models](https://arxiv.org/abs/2311.09081). *ArXiv preprint*.
-- Bürkner P. C., Scholz M., & Radev S. T. (2023). [Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy](http://arxiv.org/abs/2209.02439). *Statistics Surveys*.
+- Scholz M. & Bürkner P. C. (in review). Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2210.06927){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://osf.io/xgkzv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Scholz M. & Bürkner P. C. (in review). Posterior accuracy and calibration under misspecification in Bayesian generalized linear models. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2311.09081){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://osf.io/tmdcf/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Bürkner P. C., Scholz M., & Radev S. T. (2023). Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy. *Statistics Surveys*.
+doi:10.1214/23-SS145
+[PDF](pdf/2023__Bürkner_et_al__Statistics_Surveys.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://doi.org/10.1214/23-SS145){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](http://arxiv.org/abs/2209.02439){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Software:
 
-- bayesim: Simulations for Bayesian models [[GitHub](https://github.com/sims1253/bayesim)]
-- bayeshear: Metrics for evaluating Bayesian models [[GitHub](https://github.com/sims1253/bayeshear)]
-- bayesfam: Custom families for brms [[GitHub](https://github.com/sims1253/bayesfam)]
+- bayesim: Simulations for Bayesian models [GitHub](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+- bayeshear: Metrics for evaluating Bayesian models [GitHub](https://github.com/sims1253/bayeshear){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+- bayesfam: Custom families for brms [GitHub](https://github.com/sims1253/bayesfam){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
