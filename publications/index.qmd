@@ -91,7 +91,8 @@ toc-location: right
 
 - Raulo A., **Bürkner P. C.**, Dale J., English H., Finerty G., Lamberth C., Firth J. A., Coulson T., & Knowles S. (accepted). Social and environmental transmission spread different sets of gut microbes in wild mice. *Nature Ecology & Evolution*.
 [Preprint](https://www.biorxiv.org/content/10.1101/2023.07.20.549849v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/nuorenarra/Analysing-dyadic-data-with-brms){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code](https://github.com/nuorenarra/Analysing-dyadic-data-with-brms){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Data](https://doi.org/10.5285/043513e5-406c-4477-89aa-c96059acb232){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## 2024
 
