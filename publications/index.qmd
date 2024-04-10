@@ -28,8 +28,7 @@ toc-location: right
 
 - Aguilar J. E. & **Bürkner P. C.** (in review). Generalized Decomposition Priors on R2. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2401.10180){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code](https://github.com/jear2412/ShrinkagePriors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Data](https://osf.io/ns2cv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://osf.io/ns2cv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Reiser P., Aguilar J. E., Guthke A., & **Bürkner P. C.** (in review). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2312.05153){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -156,7 +155,7 @@ doi:10.1214/23-SS145
 [PDF](pdf/2023__Aguilar_Bürkner__Electronic_Journal_of_Statistics.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://doi.org/10.1214/23-EJS2136){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2208.07132){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/jear2412/R2D2M2){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://osf.io/wgsth/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Talk](../talks/pdf/poster_R2D2M2_prior.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Schmitt, M., Radev, S. T., & **Bürkner P. C.** (2023). Meta-Uncertainty in Bayesian Model Comparison. *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
