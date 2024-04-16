@@ -104,6 +104,7 @@ Background: Mathematics and Statistics
 
 Project: [Intuitive Joint Priors for Bayesian Multilevel Models](../projects#joint-priors-mlms)
 
+[Personal Website](https://jear2412.github.io){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [GitHub](https://github.com/jear2412){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 :::
 :::
