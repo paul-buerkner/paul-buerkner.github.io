@@ -84,10 +84,6 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2301.11873){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/bayesflow-org/Hierarchical-Model-Comparison){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Kołczyńska M., **Bürkner P. C.**, Kennedy L., & Vehtari A. (accepted). Trust in state institutions in Europe, 1989-2019. *Survey Research Methods*.
-[Preprint](https://osf.io/preprints/socarxiv/3v5g7/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/mkolczynska/political-trust-europe){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Raulo A., **Bürkner P. C.**, Dale J., English H., Finerty G., Lamberth C., Firth J. A., Coulson T., & Knowles S. (accepted). Social and environmental transmission spread different sets of gut microbes in wild mice. *Nature Ecology & Evolution*.
 [Preprint](https://www.biorxiv.org/content/10.1101/2023.07.20.549849v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code](https://github.com/nuorenarra/Analysing-dyadic-data-with-brms){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -110,6 +106,12 @@ toc-location: right
 - Schmitt M., Ewendt F., Kluttig A., Mikolajczyk R., Kraus B., Waetjen W., **Bürkner P. C.**, Stangl G., & Föller M. (2024). Smoking is associated with increased eryptosis, suicidal erythrocyte death, in a large population-based cohort. *Scientific Reports*. doi:10.1038/s41598-024-53258-y
 [PDF](pdf/2024__Schmitt_et_al__Scientific_Reports.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://www.nature.com/articles/s41598-024-53258-y){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Kołczyńska M., **Bürkner P. C.**, Kennedy L., & Vehtari A. (2024). Trust in state institutions in Europe, 1989-2019. *Survey Research Methods*. doi:10.18148/srm/2024.v18i1.8119
+[PDF](pdf/2024__Kolczynska_et_al__Survey_Research_Methods.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://ojs.ub.uni-konstanz.de/srm/article/view/8119){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://osf.io/preprints/socarxiv/3v5g7/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/mkolczynska/political-trust-europe){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Garcia-Argibay M., **Bürkner P. C.**, Lichtenstein P., Zhang L., D’Onofrio B. M., Andell P., Chang Z., Cortese S., & Larsson H. (2024). Methylphenidate and Short-Term Cardiovascular Risk. *JAMA Network Open*. doi:10.1001/jamanetworkopen.2024.1349
 [PDF](pdf/2024__Garcia-Argibay_et_al__JAMA_Network_Open.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
