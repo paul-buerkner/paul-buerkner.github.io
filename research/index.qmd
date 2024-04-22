@@ -55,8 +55,9 @@ Current projects:
 
 ## Amortized Inference {#abi}
 
-Most Bayesian inference algorithms are computationally expensive and have to be
-re-run from scratch for every new dataset or when changing prior assumptions. 
+Most Bayesian inference algorithms have to be
+re-run from scratch for every new dataset or change in prior assumptions,
+with every run requiring considerable time and computational resources. 
 As a result, Bayesian inference is
 usually infeasible in situations that require a lot of model re-fits or when
 results need to be available in real-time. The new field of Amortized Bayesian
