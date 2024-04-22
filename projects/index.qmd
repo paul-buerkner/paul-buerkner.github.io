@@ -12,8 +12,9 @@ Simulation intelligence (SI) subsumes an emerging generation of scientific metho
 In this project, we focus on software for amortized Bayesian inference, which is an essential part of SI. The hallmark feature of amortized Bayesian inference is an upfront training phase (e.g., of a neural network), which is then amortized by a nearly instant fully Bayesian inference for an arbitrary number of data sets during test time. Concretely, we aim to advance the [BayesFlow research software library](../software#bayesflow) into becoming the long-term, gold-standard software for amortized Bayesian inference. 
 
 Overarching Topics: 
-[Simulation-Based Inference](../research#sbi){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Machine-Assisted Bayesian Workflow](../research#machine-workflow){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Amortized Inference](../research#abi){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Machine-Assisted Workflows](../research#machine-workflow){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Project Members: [Lars Kühmichel](../people#lars-kuehmichel){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -30,7 +31,8 @@ Nevertheless, the novelty of this approach poses a challenge, as its widespread 
 In this project, our emphasis is on applications within cognitive modeling and developmental psychology. We focus on how simulation-based amortized inference can address important challenges within the field, not only during the data analysis phase but also in the planning and execution of studies and experiments. As a by-product we will generate tutorials and educational materials providing gentle introductions into the topic. This project also aims to lay the foundations for integrating simulation-based amortized inference with popular statistical software packages used by practitioners who may not have extensive coding skills, thereby broadening the scope of users benefiting from its advantages.
 
 Overarching Topics: 
-[Simulation-Based Inference](../research#sbi){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Amortized Inference](../research#abi){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Latent Variable Modeling](../research#lvm){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Project Members: [Šimon Kucharský](../people#simon-kucharsky){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -47,7 +49,8 @@ Probabilistic multilevel models (MLMs) are a central building block in Bayesian 
 In this project, we propose to develop a general and efficient neural inference framework for estimating and evaluating complex Bayesian MLMs. Our framework will substantially extend previous work on simulation-based Bayesian inference for single-level models. Moreover, it aims to encompass not only the inference phase of a Bayesian workflow but also the model evaluation steps, which usually comprise a computational bottleneck with standard (non-amortized) Bayesian methods. Thus, the proposed project has the potential to greatly enhance model-based inference and understanding of complex processes across the quantitative sciences.
 
 Overarching Topics: 
-[Simulation-Based Inference](../research#sbi){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Amortized Inference](../research#abi){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Latent Variable Modeling](../research#lvm){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Project Members: [Daniel Habermann](../people#daniel-habermann){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -87,8 +90,9 @@ variable models that combines the principles of IRT and SEM with the flexibility
 of distributional regression powered by modern Bayesian estimation methods.
 
 Overarching Topics: 
+[Latent Variable Modeling](../research#lvm){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Machine-Assisted Workflows](../research#machine-workflow){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Machine-Assisted Bayesian Workflow](../research#machine-workflow){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Project Members: [Luna Fazio](../people#luna-fazio){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -121,7 +125,8 @@ and computationally feasible.
 
 Overarching Topics: 
 [Prior Specification](../research#prior-specification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Simulation-Based Inference](../research#sbi){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Amortized Inference](../research#abi){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Project Members: [Florence Bockting](../people#florence-bockting){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -160,6 +165,7 @@ the potential to solve similar research problems dealing with multi-output data
 and its derivatives from diverse fields of study.
 
 Overarching Topics: 
+[Latent Variable Modeling](../research#lvm){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Project Members: [Soham Mukherjee](../people#soham-mukherjee){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -257,7 +263,7 @@ critical distinction in the context of model comparison procedures.
 Overarching Topics: 
 [Model Comparison](../research#model-comparison){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Simulation-Based Inference](../research#sbi){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Amortized Inference](../research#abi){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Project Members: [Marvin Schmitt](../people#marvin-schmitt){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -346,13 +352,14 @@ more complex Bayesian MLMs than was previously possible.
 
 Overarching Topics: 
 [Prior Specification](../research#prior-specification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Project Members: [Javier Aguilar](../people#javier-aguilar){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funders: 
 [German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[University of Stuttgart](https://www.uni-stuttgart.de/en/{.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[University of Stuttgart](https://www.uni-stuttgart.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funding Period: 2021 -- 2025
 
@@ -395,8 +402,9 @@ the machine learns from the user's decisions to improve its recommendations on
 the fly.
 
 Overarching Topics: 
-[Machine-Assisted Bayesian Workflow](../research#machine-workflow){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Machine-Assisted Workflows](../research#machine-workflow){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Model Comparison](../research#model-comparison){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Project Members: [Maximilian Scholz](../people#maximilian-scholz){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 

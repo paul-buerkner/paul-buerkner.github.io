@@ -31,15 +31,6 @@ insights from data. In my lab, all projects, in one way or the other, deal with
 uncertainty quantification and propagation, primarily through sampling-based
 methods.
 
-Current projects:
-
-- [Applications of Amortized Bayesian Inference](../projects#abi-applications)
-- [Amortized Bayesian Inference for Multilevel Models](../projects#amortized-mlms)
-- [Bayesian Distributional Latent Variable Models](../projects#bdlvms)
-- [Data-Integrated Training of Surrogate Models for Uncertainty Quantification](../projects#uncertainty-surrogate-models)
-- [Meta-Uncertainty in Bayesian Model Comparison](../projects#mu-bmb)
-
-
 ## Prior Specification {#prior-specification}
 
 Specification of prior distributions for a Bayesian model is a central part of
@@ -61,24 +52,56 @@ Current projects:
 - [Simulation-Based Prior Distributions](../projects#sbpriors)
 - [Intuitive Joint Priors for Bayesian Multilevel Models](../projects#joint-priors-mlms)
 
-## Simulation-Based Inference {#sbi}
 
-For complex physical or cognitive models, the data generating process cannot be
-fully expressed analytically. Rather, we only have access to a simulator that
-generates data from said process and we thus must rely on simulation-based
-inference for learning about such models from data. Neural density estimators
-have proven remarkably powerful in performing efficient simulation-based
-Bayesian inference in various research domains. However, there remain several
-open challenges regarding their accuracy, scalability, and robustness of these
-methods, challenges that my lab aims to solve in the upcoming years.
+## Amortized Inference {#abi}
+
+Most Bayesian inference algorithms are computationally expensive and have to be
+re-run from scratch for every new dataset or when changing prior assumptions. 
+As a result, Bayesian inference is
+usually infeasible in situations that require a lot of model re-fits or when
+results need to be available in real-time. The new field of Amortized Bayesian
+inference (ABI) offers a path towards solving these challenges. In a nutshell, 
+ABI consists of (1) a training phase where neural networks distill relevant
+information from any probabilistic model and (2) an inference phase where the
+networks infer the hidden parameters of the model in real time for any new
+query. Currently, existing ABI methods only work reliably for relatively simple
+models and there remain several open challenges regarding the accuracy,
+scalability, and robustness of these methods; challenges that my lab aims to
+address in the upcoming years. In the process, we will also bridge the
+gap between simulation-based and likelihood-based Bayesian inference, thus
+maximizing the information usable during both training and inference.
 
 Current projects:
 
 - [BayesFlow: Simulation Intelligence with Deep Learning](../projects#bayesflow-software)
-- [Applications of Amortized Bayesian Inference](../projects#abi-applications)
 - [Amortized Bayesian Inference for Multilevel Models](../projects#amortized-mlms)
+- [Applications of Amortized Bayesian Inference](../projects#abi-applications)
 - [Simulation-Based Prior Distributions](../projects#sbpriors)
 - [Meta-Uncertainty in Bayesian Model Comparison](../projects#mu-bmb)
+
+## Latent Variable Modeling {#lvm}
+
+In several fields including psychology, biology, economics, or political
+science, a lot of research is concerned with studying latent variables, that is,
+constructs which are not directly observable. Statistical methods for modeling
+latent variables based on manifest (observable) indicators are thus crucial to
+the scientific progress in those fields. When using modern Bayesian inference
+approaches, latent variables can be represented as parameters, whose
+posterior distribution can thus be learned directly from data along with all
+other model parameters. However, Bayesian latent variable models are also highly
+challenging to estimate. Not only are they computationally demanding, but they
+also frequently suffer from convergence issues as well as challenges in choosing
+the right parameterization and appropriate prior distributions. In our research,
+we are tackling the specification, estimation, and evaluation of Bayesian latent
+variable models from various different angles, including amortized and non-amortized approaches.
+
+Current projects:
+
+- [Bayesian Distributional Latent Variable Models](../projects#bdlvms)
+- [Probabilistic Models for Single-Cell RNA Sequencing Data](../projects#scrna-models)
+- [Amortized Bayesian Inference for Multilevel Models](../projects#amortized-mlms)
+- [Applications of Amortized Bayesian Inference](../projects#abi-applications)
+
 
 ## Model Comparison {#model-comparison}
 
@@ -97,7 +120,8 @@ Current projects:
 - [Meta-Uncertainty in Bayesian Model Comparison](../projects#mu-bmb)
 - [Machine Learning for Bayesian Model Building](../projects#ml4bmb)
 
-## Machine-Assisted Bayesian Workflows {#machine-workflow}
+
+## Machine-Assisted Workflows {#machine-workflow}
 
 Building Bayesian models in a principled way remains a highly complex task
 requiring a lot of expertise and cognitive resources. Ideally, subject matter
@@ -114,6 +138,6 @@ from the user's decisions to improve its recommendations on the fly.
 
 Current projects:
 
+- [Machine Learning for Bayesian Model Building](../projects#ml4bmb)
 - [BayesFlow: Simulation Intelligence with Deep Learning](../projects#bayesflow-software)
 - [Bayesian Distributional Latent Variable Models](../projects#bdlvms)
-- [Machine Learning for Bayesian Model Building](../projects#ml4bmb)

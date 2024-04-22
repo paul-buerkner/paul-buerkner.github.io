@@ -175,14 +175,6 @@ ul.task-list li input[type="checkbox"] {
 <section id="uncertainty-quantification" class="level2">
 <h2 class="anchored" data-anchor-id="uncertainty-quantification">Uncertainty Quantification</h2>
 <p>In experiments and observational studies, scientists gather data to learn more about the world. However, what we can learn from a single data set is always limited, and we are inevitably left with some remaining uncertainty. It is of high importance to take this uncertainty into account when drawing conclusions if we want to make real scientific progress. Formalizing and quantifying uncertainty is thus at the heart of statistical methods aiming to obtain insights from data. In my lab, all projects, in one way or the other, deal with uncertainty quantification and propagation, primarily through sampling-based methods.</p>
-<p>Current projects:</p>
-<ul>
-<li><a href="../projects#abi-applications">Applications of Amortized Bayesian Inference</a></li>
-<li><a href="../projects#amortized-mlms">Amortized Bayesian Inference for Multilevel Models</a></li>
-<li><a href="../projects#bdlvms">Bayesian Distributional Latent Variable Models</a></li>
-<li><a href="../projects#uncertainty-surrogate-models">Data-Integrated Training of Surrogate Models for Uncertainty Quantification</a></li>
-<li><a href="../projects#mu-bmb">Meta-Uncertainty in Bayesian Model Comparison</a></li>
-</ul>
 </section>
 <section id="prior-specification" class="level2">
 <h2 class="anchored" data-anchor-id="prior-specification">Prior Specification</h2>
@@ -193,16 +185,27 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="../projects#joint-priors-mlms">Intuitive Joint Priors for Bayesian Multilevel Models</a></li>
 </ul>
 </section>
-<section id="sbi" class="level2">
-<h2 class="anchored" data-anchor-id="sbi">Simulation-Based Inference</h2>
-<p>For complex physical or cognitive models, the data generating process cannot be fully expressed analytically. Rather, we only have access to a simulator that generates data from said process and we thus must rely on simulation-based inference for learning about such models from data. Neural density estimators have proven remarkably powerful in performing efficient simulation-based Bayesian inference in various research domains. However, there remain several open challenges regarding their accuracy, scalability, and robustness of these methods, challenges that my lab aims to solve in the upcoming years.</p>
+<section id="abi" class="level2">
+<h2 class="anchored" data-anchor-id="abi">Amortized Inference</h2>
+<p>Most Bayesian inference algorithms are computationally expensive and have to be re-run from scratch for every new dataset or when changing prior assumptions. As a result, Bayesian inference is usually infeasible in situations that require a lot of model re-fits or when results need to be available in real-time. The new field of Amortized Bayesian inference (ABI) offers a path towards solving these challenges. In a nutshell, ABI consists of (1) a training phase where neural networks distill relevant information from any probabilistic model and (2) an inference phase where the networks infer the hidden parameters of the model in real time for any new query. Currently, existing ABI methods only work reliably for relatively simple models and there remain several open challenges regarding the accuracy, scalability, and robustness of these methods; challenges that my lab aims to address in the upcoming years. In the process, we will also bridge the gap between simulation-based and likelihood-based Bayesian inference, thus maximizing the information usable during both training and inference.</p>
 <p>Current projects:</p>
 <ul>
 <li><a href="../projects#bayesflow-software">BayesFlow: Simulation Intelligence with Deep Learning</a></li>
-<li><a href="../projects#abi-applications">Applications of Amortized Bayesian Inference</a></li>
 <li><a href="../projects#amortized-mlms">Amortized Bayesian Inference for Multilevel Models</a></li>
+<li><a href="../projects#abi-applications">Applications of Amortized Bayesian Inference</a></li>
 <li><a href="../projects#sbpriors">Simulation-Based Prior Distributions</a></li>
 <li><a href="../projects#mu-bmb">Meta-Uncertainty in Bayesian Model Comparison</a></li>
+</ul>
+</section>
+<section id="lvm" class="level2">
+<h2 class="anchored" data-anchor-id="lvm">Latent Variable Modeling</h2>
+<p>In several fields including psychology, biology, economics, or political science, a lot of research is concerned with studying latent variables, that is, constructs which are not directly observable. Statistical methods for modeling latent variables based on manifest (observable) indicators are thus crucial to the scientific progress in those fields. When using modern Bayesian inference approaches, latent variables can be represented as parameters, whose posterior distribution can thus be learned directly from data along with all other model parameters. However, Bayesian latent variable models are also highly challenging to estimate. Not only are they computationally demanding, but they also frequently suffer from convergence issues as well as challenges in choosing the right parameterization and appropriate prior distributions. In our research, we are tackling the specification, estimation, and evaluation of Bayesian latent variable models from various different angles, including amortized and non-amortized approaches.</p>
+<p>Current projects:</p>
+<ul>
+<li><a href="../projects#bdlvms">Bayesian Distributional Latent Variable Models</a></li>
+<li><a href="../projects#scrna-models">Probabilistic Models for Single-Cell RNA Sequencing Data</a></li>
+<li><a href="../projects#amortized-mlms">Amortized Bayesian Inference for Multilevel Models</a></li>
+<li><a href="../projects#abi-applications">Applications of Amortized Bayesian Inference</a></li>
 </ul>
 </section>
 <section id="model-comparison" class="level2">
@@ -215,13 +218,13 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </section>
 <section id="machine-workflow" class="level2">
-<h2 class="anchored" data-anchor-id="machine-workflow">Machine-Assisted Bayesian Workflows</h2>
+<h2 class="anchored" data-anchor-id="machine-workflow">Machine-Assisted Workflows</h2>
 <p>Building Bayesian models in a principled way remains a highly complex task requiring a lot of expertise and cognitive resources. Ideally, subject matter experts do not have to solve everything by themselves but have statisticians or data scientists by their side to assist them. Of course, the latter are not always available for every data-analysis project. As a remedy we are developing machine-assisted workflows for building interpretable, robust, and well-predicting Bayesian models. This first requires more research on the theoretical foundations of Bayesian model building. With this in hand, machines will be trained to provide automatic model evaluation and modeling recommendations that guide the user through the model building process. While leaving the modeling choices up to the user, the machine subsequently learns from the user’s decisions to improve its recommendations on the fly.</p>
 <p>Current projects:</p>
 <ul>
+<li><a href="../projects#ml4bmb">Machine Learning for Bayesian Model Building</a></li>
 <li><a href="../projects#bayesflow-software">BayesFlow: Simulation Intelligence with Deep Learning</a></li>
 <li><a href="../projects#bdlvms">Bayesian Distributional Latent Variable Models</a></li>
-<li><a href="../projects#ml4bmb">Machine Learning for Bayesian Model Building</a></li>
 </ul>
 
 
