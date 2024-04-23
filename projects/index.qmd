@@ -196,7 +196,7 @@ Publications:
 
 ## Data-Integrated Training of Surrogate Models for Uncertainty Quantification {#uncertainty-surrogate-models}
 
-![](../images/uncertainty_prop_workflow.png){fig-alt="Surrogate uncertainty propagation workflow."}
+![](../images/uncertainty_prop_workflow.png){width=80% fig-alt="Surrogate uncertainty propagation workflow." fig-align="center"}
 
 Uncertainty quantification is crucial to assess the predictive power and limitations
 of complex systems models. However, in the case of high-dimensional parameter
