@@ -68,6 +68,8 @@ Publications:
 
 ## Bayesian Distributional Latent Variable Models {#bdlvms}
 
+![](../images/distributional_SEMs.png){fig-alt="An illustration of distributional SEMs." fig-align="left"}
+
 In psychology and related sciences, a lot of research is concerned with studying
 latent variables, that is, constructs which are not directly observable.
 Statistical methods for modeling latent variables based on manifest (observable)
@@ -101,6 +103,12 @@ Funders:
 [TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funding Period: 2022 -- 2025
+
+Publications:
+
+- Fazio L. & Bürkner P. C. (in review). Gaussian distributional structural equation models: A framework for modeling latent heteroscedasticity. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2404.14124){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/bdlvm-project/gdsem-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 <!-- -->
 

@@ -12,6 +12,10 @@ toc-location: right
 [Website](https://florence-bockting.github.io/PriorLearning/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/florence-bockting/PriorLearning){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Fazio L. & **Bürkner P. C.** (in review). Gaussian distributional structural equation models: A framework for modeling latent heteroscedasticity. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2404.14124){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/bdlvm-project/gdsem-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Schmitt M., Radev S. T., & **Bürkner P. C.** (in review). Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2311.10671){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
