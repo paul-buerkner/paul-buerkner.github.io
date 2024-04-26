@@ -65,10 +65,6 @@ toc-location: right
 - Dubova, M., Chandramouli, S., Gigerenzer, G., ..., Wagenmarkers E. J., **Bürkner P. C.**, & Sloman, S. (in review). Is Occam’s razor losing its edge? New perspectives on the principle of model parsimony. *MetaArXiv Preprint*.
 [Preprint](https://osf.io/preprints/metaarxiv/bs5xe){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Thillaikumar R., Mundry R., Atmoko S. S. U., **Bürkner P. C.**, van Noordwijk M. A., Schuppli C. (in review). Maternal behavior in Sumatran orangutans (Pongo abelii) is modulated by mother-offspring characteristics and socioecological factors. *BioRxiv preprint*.
-[Preprint](https://www.biorxiv.org/content/10.1101/2024.03.02.582963v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://doi.org/10.7910/DVN/8WV8XX){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Lingel H., **Bürkner P. C.**, Melchers K. G., & Schulte N. (in review). Measuring Personality When Stakes Are High: Are Graded Paired Comparisons a More Reliable Alternative to Traditional Forced-Choice Methods? *PsyArXiv preprint*.
 [Preprint](https://psyarxiv.com/8rt3j){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/haluli/gpc_simulations){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -92,6 +88,10 @@ toc-location: right
 [Preprint](https://www.biorxiv.org/content/10.1101/2023.07.20.549849v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code](https://github.com/nuorenarra/Analysing-dyadic-data-with-brms){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Data](https://doi.org/10.5285/043513e5-406c-4477-89aa-c96059acb232){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Thillaikumar R., Mundry R., Atmoko S. S. U., **Bürkner P. C.**, van Noordwijk M. A., Schuppli C. (accepted). Maternal behavior in Sumatran orangutans (Pongo abelii) is modulated by mother-offspring characteristics and socioecological factors. *International Journal of Primatology*.
+[Preprint](https://www.biorxiv.org/content/10.1101/2024.03.02.582963v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://doi.org/10.7910/DVN/8WV8XX){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## 2024
 
