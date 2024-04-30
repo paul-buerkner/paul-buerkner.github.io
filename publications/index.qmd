@@ -74,10 +74,6 @@ toc-location: right
 [Preprint](https://psyarxiv.com/d7nuj/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/5kzgd/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Bolzenkötter T., **Bürkner P. C.**, Zetsche U., & Schulze L. (in review). Assessing the short-term effects of detached mindfulness on repetitive negative thinking and affect: A randomized controlled trial in daily life. *PsyArXiv preprint*.
-[Preprint](https://psyarxiv.com/y4snz/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://osf.io/z2e83/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 ## Accepted
 
 - Elsemüller L., Schnuerch M., **Bürkner P. C.**, & Radev S. T. (accepted). A Deep Learning Method for Comparing Bayesian Hierarchical Models. *Psychological Methods*.
@@ -134,6 +130,12 @@ toc-location: right
 [Preprint](https://psyarxiv.com/ydvqa/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preregistration](https://clinicaltrials.gov/show/NCT03011216){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/7cdmw/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Bolzenkötter T., **Bürkner P. C.**, Zetsche U., & Schulze L. (2024). Assessing the Immediate Effects of Detached Mindfulness on Repetitive Negative Thinking and Affect in Daily Life: A Randomized Controlled Trial. *Mindfulness*. doi:10.1007/s12671-024-02350-5
+[PDF](pdf/2024__Bolzenkötter_et_al__Mindfulness.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://link.springer.com/article/10.1007/s12671-024-02350-5){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://psyarxiv.com/y4snz/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://osf.io/z2e83/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## 2023
 
