@@ -63,11 +63,6 @@ toc-location: right
 - Elsemüller L., Olischläger H., Schmitt M., **Bürkner P. C.**, Köthe U., & Radev S. T. (in review). Sensitivity-Aware Amortized Bayesian Inference. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2310.11122){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Lingel H., **Bürkner P. C.**, Melchers K. G., & Schulte N. (in review). Measuring Personality When Stakes Are High: Are Graded Paired Comparisons a More Reliable Alternative to Traditional Forced-Choice Methods? *PsyArXiv preprint*.
-[Preprint](https://psyarxiv.com/8rt3j){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/haluli/gpc_simulations){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Data](https://osf.io/pjmvq/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Shi L., **Bürkner P. C.**, & Bulling A. (in review). ActionDiffusion: An Action-aware Diffusion Model for Procedure Planning in Instructional Videos. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2403.08591){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -79,6 +74,11 @@ toc-location: right
 
 - Schmitt M., Ivanova D. R., Habermann D., Köthe U., **Bürkner P. C.**, & Radev S. T. (accepted). Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference. *Proceedings of the International Conference on Machine Learning (ICML)*.
 [Preprint](https://arxiv.org/abs/2310.04395){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Lingel H., **Bürkner P. C.**, Melchers K. G., & Schulte N. (accepted). Measuring Personality When Stakes Are High: Are Graded Paired Comparisons a More Reliable Alternative to Traditional Forced-Choice Methods? *Organizational Research Methods*.
+[Preprint](https://psyarxiv.com/8rt3j){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/haluli/gpc_simulations){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Data](https://osf.io/pjmvq/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Whitridge J. W., Huff M. J., Ozubko J. D., **Bürkner P. C.**, Lahey C. D., & Fawcett J. M. (accepted). Singing does not necessarily improve memory more than reading aloud: An empirical and meta-analytic investigation. *Experimental Psychology*.
 
