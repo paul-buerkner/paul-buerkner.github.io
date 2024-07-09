@@ -53,6 +53,10 @@ toc-location: right
 [Code & Data](https://osf.io/tmdcf/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Magnusson M., Torgander J., **Bürkner P. C.**, Zhang L., Carpenter B., & Vehtari A. (in review). posteriordb: Testing, Benchmarking and Developing Bayesian Inference Algorithms. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2407.04967){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Software](https://github.com/stan-dev/posteriordb/tree/v1.0){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). Latent space projection predictive inference. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2109.04702){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/stan-dev/projpred){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
