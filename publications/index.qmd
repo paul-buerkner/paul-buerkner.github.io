@@ -11,11 +11,6 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2401.10180){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/ns2cv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Bockting F., Radev S. T., & **Bürkner P. C.** (in review). Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models. *ArXiv preprint*.
-[Preprint](http://arxiv.org/abs/2308.11672){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Website](https://florence-bockting.github.io/PriorLearning/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/florence-bockting/PriorLearning){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Fazio L. & **Bürkner P. C.** (in review). Gaussian distributional structural equation models: A framework for modeling latent heteroscedasticity. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2404.14124){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/bdlvm-project/gdsem-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -75,6 +70,11 @@ toc-location: right
 [Code & Data](https://osf.io/5kzgd/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## Accepted
+
+- Bockting F., Radev S. T., & **Bürkner P. C.** (accepted). Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models. *Scientific Reports*.
+[Preprint](http://arxiv.org/abs/2308.11672){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Website](https://florence-bockting.github.io/PriorLearning/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/florence-bockting/PriorLearning){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Schmitt M., Ivanova D. R., Habermann D., Köthe U., **Bürkner P. C.**, & Radev S. T. (accepted). Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference. *Proceedings of the International Conference on Machine Learning (ICML)*.
 [Preprint](https://arxiv.org/abs/2310.04395){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
