@@ -8,11 +8,18 @@ Below you can find a list of selected talks and posters of me and my group,
 along with slides, paper references, and recordings when available.
 Presenters are highlighted in **bold**.
 
+
 - **Bürkner P. C.** (2024). 
 Invited talk: *A Statistical Perspective on Simulation-Based Inference*.
 Presented at [PHYSTAT-SBI](https://indico.cern.ch/event/1355601/).
 [Slides](pdf/statistical_perspective_on_sbi.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](../software#bayesflow){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- **Bockting F.**, Radev S. T., & Bürkner P. C. (2024). 
+Contributed talk: *Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models*. 
+Presented at [ISBA Conference](https://www.unive.it/web/en/2208/home).
+[Slides](pdf/simulation_based_priors_parametric_models_isba.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Paper](http://arxiv.org/abs/2308.11672){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Bockting F.**, Radev S. T., & Bürkner P. C. (2024). 
 Invited talk: *Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models*. 

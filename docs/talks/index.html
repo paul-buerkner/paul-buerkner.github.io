@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.553">
+<meta name="generator" content="quarto-1.5.54">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Paul Bürkner - Scientific Talks and Posters</title>
+<title>Scientific Talks and Posters – Paul Bürkner</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -85,7 +85,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -144,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
@@ -154,7 +154,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
     </div>
 <!-- main -->
@@ -182,6 +182,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Below you can find a list of selected talks and posters of me and my group, along with slides, paper references, and recordings when available. Presenters are highlighted in <strong>bold</strong>.</p>
 <ul>
 <li><p><strong>Bürkner P. C.</strong> (2024). Invited talk: <em>A Statistical Perspective on Simulation-Based Inference</em>. Presented at <a href="https://indico.cern.ch/event/1355601/">PHYSTAT-SBI</a>. <a href="pdf/statistical_perspective_on_sbi.pdf" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Slides</a> <a href="../software#bayesflow" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Software</a></p></li>
+<li><p><strong>Bockting F.</strong>, Radev S. T., &amp; Bürkner P. C. (2024). Contributed talk: <em>Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models</em>. Presented at <a href="https://www.unive.it/web/en/2208/home">ISBA Conference</a>. <a href="pdf/simulation_based_priors_parametric_models_isba.pdf" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Slides</a> <a href="http://arxiv.org/abs/2308.11672" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Paper</a></p></li>
 <li><p><strong>Bockting F.</strong>, Radev S. T., &amp; Bürkner P. C. (2024). Invited talk: <em>Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models</em>. Presented at <a href="https://www.bayesatlund.com/">Bayes@Lund</a>. <a href="pdf/simulation_based_priors_parametric_models.pdf" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Slides</a> <a href="https://youtu.be/KFPn7P2mfQw" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Youtube</a> <a href="http://arxiv.org/abs/2308.11672" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Paper</a></p></li>
 <li><p><strong>Bürkner P. C.</strong> (2024). Keynote: <em>Does Bayes have to be slow? A glimpse into amortized Bayesian inference</em>. Presented at <a href="https://research.qut.edu.au/qutcds/bayes-onthe-beach/">Bayes on the Beach</a>. <a href="pdf/glimpse_amortized_bayesian_inference.pdf" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Slides</a> <a href="https://proceedings.mlr.press/v216/radev23a.html" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Paper</a> <a href="../software#bayesflow" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Software</a></p></li>
 <li><p>Schmitt M. &amp; <strong>Bürkner P. C.</strong> (2024). Workshop: <em>Amortized Bayesian Inference with BayesFlow</em>. Presented at <a href="https://research.qut.edu.au/qutcds/bayes-onthe-beach/">Bayes on the Beach</a>. <a href="https://tiny.cc/botb-abi" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Notebook</a> <a href="../software#bayesflow" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Software</a></p></li>
@@ -397,18 +398,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -440,7 +430,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -448,7 +460,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
