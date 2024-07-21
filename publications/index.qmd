@@ -661,7 +661,7 @@ doi:10.1214/23-SS145
 [Journal](https://bmjopen.bmj.com/content/8/10/e022694){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/7xukj){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Arslan R. C., Willführ K. P., Frans E. M., Verweij K. J. H., **Bürkner P. C.**, Myrskylä M., Voland E., Almqvist C., Brendan P., Zietsch B. P., & Penke L. (2018). [Relaxed selection and mutation accumulation are best studied empirically: Reply to a comment by Woodley et al. *Proceedings of the Royal Society B*. doi:10.1098/rspb.2018.0092
+- Arslan R. C., Willführ K. P., Frans E. M., Verweij K. J. H., **Bürkner P. C.**, Myrskylä M., Voland E., Almqvist C., Brendan P., Zietsch B. P., & Penke L. (2018). Relaxed selection and mutation accumulation are best studied empirically: Reply to a comment by Woodley et al. *Proceedings of the Royal Society B*. doi:10.1098/rspb.2018.0092
 [PDF](pdf/2018__Arslan_et_al__Proceedings_B.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](http://rspb.royalsocietypublishing.org/content/285/1873/20180092){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
