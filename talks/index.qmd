@@ -16,6 +16,11 @@ Presented at [PHYSTAT-SBI](https://indico.cern.ch/event/1355601/).
 [Software](../software#bayesflow){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Bockting F.**, Radev S. T., & Bürkner P. C. (2024). 
+Contributed talk: *Normalizing Flows for Simulation Based Expert Prior Elicitation*. 
+Presented at [MathPsych](https://mathpsych.org/conference/15/).
+[Slides](pdf/deep_simulation_based_priors_mathpsych.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- **Bockting F.**, Radev S. T., & Bürkner P. C. (2024). 
 Contributed talk: *Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models*. 
 Presented at [ISBA Conference](https://www.unive.it/web/en/2208/home).
 [Slides](pdf/simulation_based_priors_parametric_models_isba.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
