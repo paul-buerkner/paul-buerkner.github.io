@@ -59,9 +59,6 @@ toc-location: right
 - Dubova, M., Chandramouli, S., Gigerenzer, G., ..., Wagenmarkers E. J., **Bürkner P. C.**, & Sloman, S. (in review). Is Occam’s razor losing its edge? New perspectives on the principle of model parsimony. *MetaArXiv Preprint*.
 [Preprint](https://osf.io/preprints/metaarxiv/bs5xe){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Elsemüller L., Olischläger H., Schmitt M., **Bürkner P. C.**, Köthe U., & Radev S. T. (in review). Sensitivity-Aware Amortized Bayesian Inference. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2310.11122){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Shi L., **Bürkner P. C.**, & Bulling A. (in review). ActionDiffusion: An Action-aware Diffusion Model for Procedure Planning in Instructional Videos. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2403.08591){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -78,6 +75,9 @@ toc-location: right
 
 - Schmitt M., Ivanova D. R., Habermann D., Köthe U., **Bürkner P. C.**, & Radev S. T. (accepted). Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference. *Proceedings of the International Conference on Machine Learning (ICML)*.
 [Preprint](https://arxiv.org/abs/2310.04395){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Elsemüller L., Olischläger H., Schmitt M., **Bürkner P. C.**, Köthe U., & Radev S. T. (accepted). Sensitivity-Aware Amortized Bayesian Inference. *Transactions in Machine Learning Research*.
+[Preprint](https://arxiv.org/abs/2310.11122){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Lingel H., **Bürkner P. C.**, Melchers K. G., & Schulte N. (accepted). Measuring Personality When Stakes Are High: Are Graded Paired Comparisons a More Reliable Alternative to Traditional Forced-Choice Methods? *Organizational Research Methods*.
 [Preprint](https://psyarxiv.com/8rt3j){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
