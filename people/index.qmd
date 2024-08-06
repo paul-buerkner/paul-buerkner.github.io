@@ -23,8 +23,8 @@ Background: Statistics, Mathematics, and Psychology
 
 Position: Full Professor for Computational Statistics
 
-[University Website](https://compstat.statistik.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Email](mailto:paul.buerkner@gmail.com){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[University Website](https://compstat.statistik.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [GitHub](https://github.com/paul-buerkner){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Google Scholar](https://scholar.google.com/citations?user=JSj6m1IAAAAJ&hl){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Twitter](https://twitter.com/paulbuerkner){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -53,6 +53,7 @@ Background: Computational Biology
 
 Project: [Amortized Bayesian Inference for Multilevel Models](../projects#amortized-mlms) 
 
+[Email](mailto:daniel.habermann@tu-dortmund.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Personal Website](https://daniel-habermann.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [GitHub](https://github.com/daniel-habermann){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -76,6 +77,7 @@ Background: Computational Psychology
 
 Project: [Applications of Amortized Bayesian Inference ](../projects#abi-applications) 
 
+[Email](mailto:simon.kucharsky@tu-dortmund.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Personal Website](https://kucharssim.github.io){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [GitHub](https://github.com/kucharssim/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -104,6 +106,7 @@ Background: Mathematics and Statistics
 
 Project: [Intuitive Joint Priors for Bayesian Multilevel Models](../projects#joint-priors-mlms)
 
+[Email](mailto:javier.aguilarr@icloud.com){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Personal Website](https://jear2412.github.io){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [GitHub](https://github.com/jear2412){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 :::
@@ -126,6 +129,7 @@ Background: Cognitive Science and Psychology
 
 Project: [Simulation-Based Prior Distributions for Bayesian Models](../projects#sbpriors)
 
+[Email](mailto:florence.bockting@tu-dortmund.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Personal Website](https://florence-bockting.github.io){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [GitHub](https://github.com/florence-bockting){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 :::
@@ -148,6 +152,7 @@ Background: Biology and Statistics
 
 Project: [Bayesian Distributional Latent Variable Models](../projects#bdlvms)
 
+[Email](mailto:bmfaziol@gmail.com){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [GitHub](https://github.com/bmfazio){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 :::
 :::
@@ -171,6 +176,7 @@ Project: Regularization in Generalized Linear and Additive Multilevel Models
 
 Co-Supervisor: [Andreas Groll](https://bd.statistik.tu-dortmund.de/professur/arbeitsgruppe/prof-dr-andreas-groll/)
 
+[Email](mailto:jacob.grytzka@tu-dortmund.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [University Website](https://bd.statistik.tu-dortmund.de/professur/arbeitsgruppe/msc-jacob-grytzka/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 :::
 :::
@@ -194,6 +200,7 @@ Project: [BayesFlow: Simulation Intelligence with Deep Learning](../projects#bay
 
 Co-Supervisor: [Stefan Radev](https://faculty.rpi.edu/stefan-radev)
 
+[Email](mailto:lars.kuehmichel@tu-dortmund.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [GitHub](https://github.com/LarsKue){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 :::
 :::
@@ -217,6 +224,7 @@ Project: [Probabilistic Models for Single-Cell RNA Sequencing Data](../projects#
 
 Co-Supervisor: [Manfred Claassen](https://claassenlab.github.io/people/manfred-claassen/)
 
+[Email](mailto:soham.mukherjee@tu-dortmund.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [University Website](https://claassenlab.github.io/people/soham-mukherjee/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Linkedin](https://www.linkedin.com/in/soham-mukherjee-33a397146){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 :::
@@ -241,6 +249,7 @@ Project: [Data-Integrated Training of Surrogate Models for Uncertainty Quantific
 
 Co-Supervisor: [Anneli Guthke](https://www.simtech.uni-stuttgart.de/exc/people/Guthke/)
 
+[Email](mailto:philipp-luca.reiser@simtech.uni-stuttgart.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [University Website](https://www.simtech.uni-stuttgart.de/exc/people/Reiser-00005/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [GitHub](https://github.com/philippreiser){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 :::
@@ -264,6 +273,7 @@ Background: Psychology and Computer Science
 
 Project: [Meta-Uncertainty in Bayesian Model Comparison](../projects#mu-bmb)
 
+[Email](mailto:mail.marvinschmitt@gmail.com){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Personal Website](https://www.marvinschmitt.com/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [University Website](https://www.simtech.uni-stuttgart.de/exc/people/Schmitt-00009/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [GitHub](https://github.com/marvinschmitt){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -287,6 +297,7 @@ Background: Computer- and Software Engineering
 
 Project: [Machine Learning for Bayesian Model Building](../projects#ml4bmb)
 
+[Email](mailto:maximilian.scholz@simtech.uni-stuttgart.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Personal Website](https://www.scholzmx.com/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [University Website](https://www.simtech.uni-stuttgart.de/exc/people/Scholz-00007/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [GitHub](https://github.com/sims1253){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -300,7 +311,7 @@ Project: [Machine Learning for Bayesian Model Building](../projects#ml4bmb)
 
 ## Alumni
 
-- Stefan Radev (2021 -- 2023): PostDoc in my lab before becoming assistant professor at [Rensselaer Polytechnic Institute](https://www.rpi.edu/), Troy, USA.
+- Stefan Radev (2021 -- 2023): PostDoc in my lab before becoming assistant professor at Rensselaer Polytechnic Institute, Troy, USA.
 [University Website](https://faculty.rpi.edu/stefan-radev){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [GitHub](https://github.com/stefanradev93){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Linkedin](https://de.linkedin.com/in/stefan-radev-21b713187){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}

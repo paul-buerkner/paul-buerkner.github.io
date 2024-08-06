@@ -32,7 +32,7 @@ aliases:
 :::{#about-heading}
 
 I am a statistician with a focus on probabilistic (Bayesian) methods currently
-working as a Full Professor for Computational Statistics at [TU Dortmund
+working as a Full Professor of Computational Statistics at [TU Dortmund
 University, Department of Statistics](https://statistik.tu-dortmund.de/en/department/). 
 Having originally studied psychology and mathematics, my [core research](../research/)
 is nowadays located somewhere between statistics and machine learning, 
