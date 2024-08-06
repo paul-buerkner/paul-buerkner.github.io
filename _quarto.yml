@@ -31,6 +31,8 @@ website:
         href: software/index.qmd
       - text: Talks
         href: talks/index.qmd
+      - text: Theses
+        href: theses/index.qmd
       - text: Positions
         href: positions/index.qmd
       - text: CV

@@ -1,28 +1,15 @@
 ---
-title: Open Positions and Thesis Topics
-excerpt: "Open positions and thesis topicsx in my lab"
+title: Open Positions
+excerpt: "Open positions in my lab"
 toc-location: right
 ---
 
 If you are interested in joining my lab at as a PhD student or PostDoc, please
 [reach out to me](mailto:paul.buerkner@gmail.com) at any point; even if there is 
 currently no announced open position available that you think matches your
-profile. The same goes if you are a student looking for a thesis topic or
-student assistant position.
+profile. The same goes if you are a student looking for a student assistant position.
 
-## Open Positions
+---
 
 There are currently no officially announced open positions, but remember
 that you can just contact me at any point to ask for opportunities.
-
-## Thesis Topics
-
-Thesis topics are available among others in the following areas:
-
-- Computational Bayesian statistics
-- Uncertainty quantification
-- Amortized Bayesian inference with [BayesFlow](../software#bayesflow)
-- Likelihood choice in Bayesian models
-- Prior specification
-- Bayesian latent variable modeling
-- *Your own ideas are very welcome*

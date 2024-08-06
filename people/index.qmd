@@ -183,6 +183,28 @@ Co-Supervisor: [Andreas Groll](https://bd.statistik.tu-dortmund.de/professur/arb
 
 ---
 
+<!-- Svenja Jedhoff -->
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+<br /> 
+![](../images/svenja-jedhoff.png){width=100% fig-alt="A portrait of Svenja Jedhoff."}
+:::
+::: {.g-col-12 .g-col-md-9}
+### Svenja Jedhoff {#svenja-jedhoff}
+---
+
+Background: Data Science
+
+Project: Real-time spatio-temporal data analysis for monitoring logistics networks
+
+Co-Supervisor: [Anne Meyer](https://www.imi.kit.edu/2002_4097.php)
+
+:::
+:::
+
+---
+
 <!-- Lars Kühmichel -->
 
 ::: {.grid}
