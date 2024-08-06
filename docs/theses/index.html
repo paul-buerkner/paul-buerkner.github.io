@@ -183,14 +183,24 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>In our lab, we have open topics for Bachelor and Master theses throughout the entire academic year. Most of them are part of one of our larger <a href="../projects">research projects</a>. Below, you can find a short description of some selected topics. If one of the them sounds interesting to you, please contact the person mentioned under <em>Supervision</em> (just click on their name to be forwarded to their profile) and put me in CC. In your email, please don’t forget to provide some basic information about yourself, including your field of study, programming skills, and completed courses that you think may be relevant. If you none of the topics below fits your interests, but you still want to write your thesis with us, please contact me directly. We are also open for your own ideas should they be something we can properly supervise.</p>
-<section id="initial-value-selection-for-parametric-prior-learning" class="level2">
-<h2 class="anchored" data-anchor-id="initial-value-selection-for-parametric-prior-learning">Initial value selection for parametric prior learning</h2>
+<p>In our lab, we have open topics for Bachelor and Master theses throughout the entire academic year. Most of them are part of one of our larger <a href="../projects">research projects</a>. Below, you can find a short description of some selected topics. If one of the them sounds interesting to you, please contact the person mentioned under <em>Supervision</em> (just click on their name to be forwarded to their profile) and put me in CC. In your email, please don’t forget to provide some basic information about yourself, including your field of study, programming skills, and completed courses that you think may be relevant. If none of the topics below fits your interests, but you still want to write your thesis with us, please contact me directly. We are also open for your own ideas should they be something we can properly supervise.</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Initial value selection for parametric prior learning
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
 <p>Supervision: <a href="../people#florence-bockting" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Florence Bockting</a></p>
 <p>Project: <a href="../projects#sbpriors" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Simulation-Based Prior Distributions for Bayesian Models</a></p>
-<p>Important references: <a href="https://arxiv.org/abs/2308.11672">https://arxiv.org/abs/2308.11672</a></p>
 <p>Tools: Python, TensorFlow</p>
-<p>Problem description: In our <em>parametric prior learning</em> method (i.e., learning the hyperparameters of a prior distribution family) we observe that the optimization is sensitive to the initial values. Specifically, if too “bad” initial values are used optimization might get stuck in a local minimum or learning takes extremely long.</p>
+<p>Relevant literature: <br> <a href="https://arxiv.org/abs/2308.11672">Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models</a></p>
+<p>Problem description: In our <em>parametric prior learning method</em> (i.e., learning the hyperparameters of a prior distribution family) we observe that the optimization is sensitive to the initial values. Specifically, if too “bad” initial values are used optimization might get stuck in a local minimum or learning takes extremely long.</p>
 <p>Project structure:</p>
 <ol type="1">
 <li>Literature research on initial value problems and methods</li>
@@ -198,6 +208,36 @@ ul.task-list li input[type="checkbox"] {
 <li>Run simulation studies</li>
 <li>Analyse and discuss results</li>
 </ol>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Inducing point methods for latent Gaussian processes
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Supervision: <a href="../people#soham-mukherjee" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Soham Mukherjee</a></p>
+<p>Project: <a href="../projects#scrna-models" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Probabilistic Models for Single-Cell RNA Sequencing Data</a></p>
+<p>Tools: R, Stan</p>
+<p>Relevant literature: <br> <a href="https://gaussianprocess.org/gpml/">Gaussian Processes for Machine Learning</a> <br> <a href="https://pure.mpg.de/rest/items/item_1790261/component/file_3080680/content">Approximation Methods for Gaussian Process Regression</a></p>
+<p>Problem description: Inducing points are a class of methods for approximating Gaussian processes to overcome its scalability issues. Inducing points are directly associated and chosen based on the input space. In the case where inputs of a GP are latent, it readily becomes unintuitive as to how inducing point based methods can be applied. The primary challenge is that the inducing points are then associated with some sort of “hypothetical” latent values which might not in general correspond to the latent values we would like to estimate.</p>
+<p>Project structure:</p>
+<ol type="1">
+<li>Literature review of different inducing point based methods</li>
+<li>Implementing the corresponding models in Stan</li>
+<li>Running a simulation study to compare the different methods</li>
+<li>Applications on a real case study if sensible</li>
+</ol>
+</div>
+</div>
+</div>
 <hr>
 <p>More topics will be added soon…</p>
 <!--
@@ -218,7 +258,6 @@ Project structure: <SHORT BULLET POINT LIST>
 -->
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

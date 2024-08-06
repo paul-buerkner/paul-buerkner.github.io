@@ -12,23 +12,30 @@ mentioned under *Supervision* (just click on their name to be forwarded
 to their profile) and put me in CC. In your email, please don't forget to provide
 some basic information about yourself, including your field of study,
 programming skills, and completed courses that you think may be relevant.
-If you none of the topics below fits your interests,
+If none of the topics below fits your interests,
 but you still want to write your thesis with us, please contact me directly. We are also
 open for your own ideas should they be something we can properly supervise.
 
-
+::: {.callout-note icon=false collapse="true"}
 ## Initial value selection for parametric prior learning
 
 Supervision: 
 [Florence Bockting](../people#florence-bockting){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Project: [Simulation-Based Prior Distributions for Bayesian Models](../projects#sbpriors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-Important references: [https://arxiv.org/abs/2308.11672](https://arxiv.org/abs/2308.11672)
+Project: 
+[Simulation-Based Prior Distributions for Bayesian Models](../projects#sbpriors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Tools: Python, TensorFlow
 
-Problem description: In our *parametric prior learning* method (i.e., learning the hyperparameters of a prior distribution family) we observe that the optimization is sensitive to the initial values. Specifically, if too "bad" initial values are used optimization might get stuck in a local minimum or learning takes extremely long. 
+Relevant literature: <br>
+[Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models](https://arxiv.org/abs/2308.11672)
+
+Problem description: 
+In our *parametric prior learning method* (i.e., learning the hyperparameters of
+a prior distribution family) we observe that the optimization is sensitive to
+the initial values. Specifically, if too "bad" initial values are used
+optimization might get stuck in a local minimum or learning takes extremely
+long.
 
 Project structure:
 
@@ -36,7 +43,39 @@ Project structure:
 2. Implement 1-3 methods (depending on their complexity)
 3. Run simulation studies
 4. Analyse and discuss results
+:::
 
+::: {.callout-note icon=false collapse="true"}
+## Inducing point methods for latent Gaussian processes
+
+Supervision:
+[Soham Mukherjee](../people#soham-mukherjee){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+Project: 
+[Probabilistic Models for Single-Cell RNA Sequencing Data](../projects#scrna-models){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+Tools: R, Stan
+
+Relevant literature: <br>
+[Gaussian Processes for Machine Learning](https://gaussianprocess.org/gpml/) <br>
+[Approximation Methods for Gaussian Process Regression](https://pure.mpg.de/rest/items/item_1790261/component/file_3080680/content) 
+
+Problem description: 
+Inducing points are a class of methods for approximating Gaussian processes to
+overcome its scalability issues. Inducing points are directly associated and
+chosen based on the input space. In the case where inputs of a GP are latent, it
+readily becomes unintuitive as to how inducing point based methods can be
+applied. The primary challenge is that the inducing points are then associated
+with some sort of "hypothetical" latent values which might not in general
+correspond to the latent values we would like to estimate.
+
+Project structure:
+
+1. Literature review of different inducing point based methods
+2. Implementing the corresponding models in Stan
+3. Running a simulation study to compare the different methods
+4. Applications on a real case study if sensible
+:::
 
 ---
 
@@ -51,7 +90,8 @@ Supervision:
 
 Project: [<FILLED BY PAUL>](../projects#<FILLED BY PAUL>){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Important references: <PAPER LINKS>
+Relevant literature: <br>
+<PAPER LINKS>
 
 Tools: <R, PYTHON, ... >
 
