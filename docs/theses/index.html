@@ -190,24 +190,28 @@ ul.task-list li input[type="checkbox"] {
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Initial value selection for parametric prior learning
+The influence of base distributions in Normalizing Flows on method performance
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-1" class="callout-1-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p>Supervision: <a href="../people#florence-bockting" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Florence Bockting</a></p>
-<p>Project: <a href="../projects#sbpriors" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Simulation-Based Prior Distributions for Bayesian Models</a></p>
-<p>Tools: Python, TensorFlow</p>
-<p>Relevant literature: <br> <a href="https://arxiv.org/abs/2308.11672">Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models</a></p>
-<p>Problem description: In our <em>parametric prior learning method</em> (i.e., learning the hyperparameters of a prior distribution family) we observe that the optimization is sensitive to the initial values. Specifically, if too “bad” initial values are used optimization might get stuck in a local minimum or learning takes extremely long.</p>
-<p>Project structure:</p>
-<ol type="1">
-<li>Literature research on initial value problems and methods</li>
-<li>Implement 1-3 methods (depending on their complexity)</li>
-<li>Run simulation studies</li>
-<li>Analyse and discuss results</li>
-</ol>
+<p><strong>Supervision</strong>: <a href="../people#florence-bockting" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Florence Bockting</a></p>
+<p><strong>Project</strong>: <a href="../projects#sbpriors" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Simulation-Based Prior Distributions for Bayesian Models</a></p>
+<p><strong>Important References</strong>:</p>
+<ul>
+<li>Bockting, F., Radev, S. T., &amp; Bürkner, P. C. (2024). Simulation-based prior knowledge elicitation for parametric Bayesian models. <em>Scientific Reports</em>, <em>14</em>(1), 17330. <a href="https://www.nature.com/articles/s41598-024-68090-7">Link</a></li>
+<li>Kobyzev, I., Prince, S. J., &amp; Brubaker, M. A. (2020). Normalizing flows: An introduction and review of current methods. <em>IEEE transactions on pattern analysis and machine intelligence</em>, <em>43</em>(11), 3964-3979. <a href="https://www.jmlr.org/papers/volume22/19-1028/19-1028.pdf">Link</a></li>
+</ul>
+<p><strong>Tools</strong>: Python, TensorFlow</p>
+<p><strong>Problem description</strong>: In one of our recent methods, we use normalizing flows to learn a joint prior distribution for the parameters in a Bayesian model. A normalizing flow transforms a simple probability distribution (base distribution) into a complex target distribution (in our case the joint prior). A common choice for the base distribution is a standard Gaussian. We want to investigate different specifications of the base distribution and check their influence on the learned joint prior when compared to a specific ground truth. This project refers to the areas: method development, method implementation.</p>
+<p><strong>Project structure</strong>:</p>
+<ul>
+<li>Understanding the problem (literature work on normalizing flows)</li>
+<li>Specify and motivate different base distributions; explain your expectations (methodological work)</li>
+<li>Implement and run a simulation study (in Python using TensorFlow)</li>
+<li>discuss the results and provide recommendations</li>
+</ul>
 </div>
 </div>
 </div>
@@ -217,18 +221,53 @@ Initial value selection for parametric prior learning
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Inducing point methods for latent Gaussian processes
+Implementation of normalizing flows in Stan
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-2" class="callout-2-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p>Supervision: <a href="../people#soham-mukherjee" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Soham Mukherjee</a></p>
-<p>Project: <a href="../projects#scrna-models" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Probabilistic Models for Single-Cell RNA Sequencing Data</a></p>
-<p>Tools: R, Stan</p>
-<p>Relevant literature: <br> <a href="https://gaussianprocess.org/gpml/">Gaussian Processes for Machine Learning</a> <br> <a href="https://pure.mpg.de/rest/items/item_1790261/component/file_3080680/content">Approximation Methods for Gaussian Process Regression</a></p>
-<p>Problem description: Inducing points are a class of methods for approximating Gaussian processes to overcome its scalability issues. Inducing points are directly associated and chosen based on the input space. In the case where inputs of a GP are latent, it readily becomes unintuitive as to how inducing point based methods can be applied. The primary challenge is that the inducing points are then associated with some sort of “hypothetical” latent values which might not in general correspond to the latent values we would like to estimate.</p>
-<p>Project structure:</p>
+<p><strong>Supervision</strong>: <a href="../people#florence-bockting" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Florence Bockting</a></p>
+<p><strong>Project</strong>: <a href="../projects#sbpriors" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Simulation-Based Prior Distributions for Bayesian Models</a></p>
+<p><strong>Important References</strong>:</p>
+<ul>
+<li>Bockting, F., Radev, S. T., &amp; Bürkner, P. C. (2024). Simulation-based prior knowledge elicitation for parametric Bayesian models. <em>Scientific Reports</em>, <em>14</em>(1), 17330. <a href="https://www.nature.com/articles/s41598-024-68090-7">Link</a></li>
+</ul>
+<p><strong>Tools</strong>: Stan, Python, TensorFlow</p>
+<p><strong>Problem description</strong>:</p>
+<p>In one of our recent methods, we use normalizing flows (NFs) to learn a joint prior distribution for the parameters in a Bayesian model. The advantage of NFs is that they learn a closed form analytic function that we can use as prior for a Bayesian model. The learning algorithm is implemented in Python with TensorFlow. To make use of the learned joint prior distribution in probabilistic models implemented in Stan, we need an implementation of NFs in Stan. This project refers to the area: method implementation.</p>
+<p><strong>Project structure</strong>:</p>
+<ul>
+<li>Understanding the problem (literature work on normalizing flows; implementation of project in Python)</li>
+<li>Conceptual work on a potential implementation in Stan</li>
+<li>Implementation in Stan</li>
+<li>Run some test examples and discuss results</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Inducing point methods for latent Gaussian processes
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><strong>Supervision</strong>: <a href="../people#soham-mukherjee" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Soham Mukherjee</a></p>
+<p><strong>Project</strong>: <a href="../projects#scrna-models" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Probabilistic Models for Single-Cell RNA Sequencing Data</a></p>
+<p><strong>Tools</strong>: R, Stan</p>
+<p><strong>Relevant literature</strong>:</p>
+<ul>
+<li><a href="https://gaussianprocess.org/gpml/">Gaussian Processes for Machine Learning</a></li>
+<li><a href="https://pure.mpg.de/rest/items/item_1790261/component/file_3080680/content">Approximation Methods for Gaussian Process Regression</a></li>
+</ul>
+<p><strong>Problem description</strong>: Inducing points are a class of methods for approximating Gaussian processes to overcome its scalability issues. Inducing points are directly associated and chosen based on the input space. In the case where inputs of a GP are latent, it readily becomes unintuitive as to how inducing point based methods can be applied. The primary challenge is that the inducing points are then associated with some sort of “hypothetical” latent values which might not in general correspond to the latent values we would like to estimate.</p>
+<p><strong>Project structure</strong>:</p>
 <ol type="1">
 <li>Literature review of different inducing point based methods</li>
 <li>Implementing the corresponding models in Stan</li>
@@ -238,24 +277,90 @@ Inducing point methods for latent Gaussian processes
 </div>
 </div>
 </div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Joint prior distributions for hierarchical phylogenetic models
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><strong>Supervision</strong>: <a href="../people#paul-buerkner" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Paul Bürkner</a></p>
+<p><strong>Relevant literature</strong>:</p>
+<ul>
+<li><a href="https://paulbuerkner.com/brms/articles/brms_phylogenetics.html">Estimating Phylogenetic Multilevel Models with brms</a></li>
+</ul>
+<p><strong>Tools</strong>: R, Stan</p>
+<p><strong>Problem description</strong>: Phylogenetic trees are used to represent the evolutionary history between a set of species. The implied dependencies between species can be expressed statistically via phylogenetic models. However, these models are often hard to estimate and may require strong prior knowledge, which we express in Bayesian statistics via prior distributions. The goal of this thesis is to implement and evaluate joint prior distributions for the variance parameters of phylogenetic models. We have concrete ideas for such priors, which we will discuss with you upon starting your thesis.</p>
+<p><strong>Project structure</strong>:</p>
+<ol type="1">
+<li>Literature search on priors for phylogenetic models</li>
+<li>Implement the new and existing priors in Stan</li>
+<li>Run simulation studies</li>
+<li>Analyse and discuss results</li>
+</ol>
+</div>
+</div>
+</div>
 <hr>
 <p>More topics will be added soon…</p>
 <!--
+::: {.callout-note icon=false collapse="true"}
 ## <TOPIC TITLE>
 
-Supervision: 
+**Supervision**: 
 [<YOUR NAME>](../people#<FILLED BY PAUL>){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Project: [<FILLED BY PAUL>](../projects#<FILLED BY PAUL>){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+**Project**: [<FILLED BY PAUL>](../projects#<FILLED BY PAUL>){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+**Relevant literature**: 
+
+- <LINKS OR REFERENCES>
+
+**Tools**: <R, PYTHON, ... >
+
+**Problem description**: <FEW SENTENCES>
+
+**Project structure**: 
+
+- <SHORT BULLET POINT LIST>
+:::
+-->
+<!-- ------------ OLD TOPICS ----------------
+
+::: {.callout-note icon=false collapse="true"}
+## Initial value selection for parametric prior learning
+
+Supervision: 
+[Florence Bockting](../people#florence-bockting){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+Project: 
+[Simulation-Based Prior Distributions for Bayesian Models](../projects#sbpriors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+Tools: Python, TensorFlow
 
 Relevant literature: <br>
-<PAPER LINKS>
+[Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models](https://arxiv.org/abs/2308.11672)
 
-Tools: <R, PYTHON, ... >
+Problem description: 
+In our *parametric prior learning method* (i.e., learning the hyperparameters of
+a prior distribution family) we observe that the optimization is sensitive to
+the initial values. Specifically, if too "bad" initial values are used
+optimization might get stuck in a local minimum or learning takes extremely
+long.
 
-Problem description: <FEW SENTENCES>
+Project structure:
 
-Project structure: <SHORT BULLET POINT LIST>
+1. Literature search on initial value problems and methods
+2. Implement 1-3 methods (depending on their complexity)
+3. Run simulation studies
+4. Analyse and discuss results
+:::
+
 -->
 
 
