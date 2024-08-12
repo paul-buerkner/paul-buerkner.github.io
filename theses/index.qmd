@@ -99,10 +99,44 @@ correspond to the latent values we would like to estimate.
 
 **Project structure**:
 
-1. Literature review of different inducing point based methods
-2. Implementing the corresponding models in Stan
-3. Running a simulation study to compare the different methods
-4. Applications on a real case study if sensible
+- Literature review of different inducing point based methods
+- Implementing the corresponding models in Stan
+- Running a simulation study to compare the different methods
+- Applications on a real case study if sensible
+:::
+
+
+::: {.callout-note icon=false collapse="true"}
+## Stable Diffusion for BayesFlow
+
+**Supervision**: 
+[Lars Kühmichel](../people#lars-kuehmichel){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+**Project**: 
+[BayesFlow: Simulation Intelligence with Deep Learning](../projects#bayesflow-software){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+**Tools**: Python, Keras3
+
+**Relevant Literature**:
+
+- [Denoising Diffusion](https://arxiv.org/abs/2006.11239)
+- [Stable Diffusion](https://arxiv.org/abs/2112.10752)
+- [BayesFlow](https://arxiv.org/abs/2306.16015)
+
+**Problem Description**:
+BayesFlow is a Python library for simulation-based amortized Bayesian inference
+with neural networks. It aims to provide users with a rich collection of neural
+network architectures. Diffusion Models are a modern and powerful type of
+generative neural network that particularly excel at creating high-quality
+samples, even for complex, high-dimensional distributions.
+
+**Project structure**:
+
+- Literature search on amortized Bayesian inference and Diffusion Models
+- Draft your own first implementation of Stable Diffusion
+- Use your implementation to reproduce a generative deep learning paper
+- Port your implementation into BayesFlow
+- Use your ported implementation to reproduce an amortized Bayesian inference paper
 :::
 
 ::: {.callout-note icon=false collapse="true"}
@@ -128,10 +162,10 @@ for such priors, which we will discuss with you upon starting your thesis.
 
 **Project structure**: 
 
-1. Literature search on priors for phylogenetic models
-2. Implement the new and existing priors in Stan
-3. Run simulation studies
-4. Analyse and discuss results
+- Literature search on priors for phylogenetic models
+- Implement the new and existing priors in Stan
+- Run simulation studies
+- Analyse and discuss results
 :::
 
 
