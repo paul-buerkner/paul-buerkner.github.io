@@ -58,7 +58,6 @@ In one of our recent methods, we use normalizing flows to learn a joint prior di
 **Tools**: Stan, Python, TensorFlow
 
 **Problem description**: 
-
 In one of our recent methods, we use normalizing flows (NFs) to learn a joint prior distribution for the parameters in a Bayesian model. The advantage of NFs is that they learn a closed form analytic function that we can use as prior for a Bayesian model. The learning algorithm is implemented in Python with TensorFlow.
 To make use of the learned joint prior distribution in probabilistic models implemented in Stan, we need an implementation of NFs in Stan. 
 This project refers to the area: method implementation.
@@ -71,6 +70,34 @@ This project refers to the area: method implementation.
 - Run some test examples and discuss results
 :::
 
+::: {.callout-note icon=false collapse="true"}
+## Variational methods for structural equation models
+
+**Supervision**:
+[Luna Fazio](../people#luna-fazio){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+**Project**: 
+[Bayesian Distributional Latent Variable Models](../projects#bdlvms){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+**Important references**:
+
+- [Gaussian distributional structural equation models: A framework for modeling latent heteroscedasticity](https://arxiv.org/abs/2404.14124)
+- [Variational Bayes for Mixture of Gaussian Structural Equation Models](https://arxiv.org/abs/2407.08140)
+
+**Tools**: R, Stan
+
+**Problem description**: 
+Bayesian estimation of structural equation models is more flexible than the frequentist counterpart, but can be significantly slower. Variational methods provide fast approximate model fits, but their performance needs to be assessed systematically to determine when they can be reliably used.
+
+**Project structure**:
+
+1. Review relevant concepts and literature.
+2. Set up an appropriate computational environment for simulation studies.
+3. Replicate previously published results.
+4. Extend prior work with additional simulations on models and variational
+   algorithms that have not yet been assessed.
+5. Analyze and discuss results.
+:::
 
 ::: {.callout-note icon=false collapse="true"}
 ## Inducing point methods for latent Gaussian processes

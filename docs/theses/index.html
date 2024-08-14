@@ -234,8 +234,7 @@ Implementation of normalizing flows in Stan
 <li>Bockting, F., Radev, S. T., &amp; Bürkner, P. C. (2024). Simulation-based prior knowledge elicitation for parametric Bayesian models. <em>Scientific Reports</em>, <em>14</em>(1), 17330. <a href="https://www.nature.com/articles/s41598-024-68090-7">Link</a></li>
 </ul>
 <p><strong>Tools</strong>: Stan, Python, TensorFlow</p>
-<p><strong>Problem description</strong>:</p>
-<p>In one of our recent methods, we use normalizing flows (NFs) to learn a joint prior distribution for the parameters in a Bayesian model. The advantage of NFs is that they learn a closed form analytic function that we can use as prior for a Bayesian model. The learning algorithm is implemented in Python with TensorFlow. To make use of the learned joint prior distribution in probabilistic models implemented in Stan, we need an implementation of NFs in Stan. This project refers to the area: method implementation.</p>
+<p><strong>Problem description</strong>: In one of our recent methods, we use normalizing flows (NFs) to learn a joint prior distribution for the parameters in a Bayesian model. The advantage of NFs is that they learn a closed form analytic function that we can use as prior for a Bayesian model. The learning algorithm is implemented in Python with TensorFlow. To make use of the learned joint prior distribution in probabilistic models implemented in Stan, we need an implementation of NFs in Stan. This project refers to the area: method implementation.</p>
 <p><strong>Project structure</strong>:</p>
 <ul>
 <li>Understanding the problem (literature work on normalizing flows; implementation of project in Python)</li>
@@ -252,11 +251,43 @@ Implementation of normalizing flows in Stan
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Inducing point methods for latent Gaussian processes
+Variational methods for structural equation models
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><strong>Supervision</strong>: <a href="../people#luna-fazio" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Luna Fazio</a></p>
+<p><strong>Project</strong>: <a href="../projects#bdlvms" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Bayesian Distributional Latent Variable Models</a></p>
+<p><strong>Important references</strong>:</p>
+<ul>
+<li><a href="https://arxiv.org/abs/2404.14124">Gaussian distributional structural equation models: A framework for modeling latent heteroscedasticity</a></li>
+<li><a href="https://arxiv.org/abs/2407.08140">Variational Bayes for Mixture of Gaussian Structural Equation Models</a></li>
+</ul>
+<p><strong>Tools</strong>: R, Stan</p>
+<p><strong>Problem description</strong>: Bayesian estimation of structural equation models is more flexible than the frequentist counterpart, but can be significantly slower. Variational methods provide fast approximate model fits, but their performance needs to be assessed systematically to determine when they can be reliably used.</p>
+<p><strong>Project structure</strong>:</p>
+<ol type="1">
+<li>Review relevant concepts and literature.</li>
+<li>Set up an appropriate computational environment for simulation studies.</li>
+<li>Replicate previously published results.</li>
+<li>Extend prior work with additional simulations on models and variational algorithms that have not yet been assessed.</li>
+<li>Analyze and discuss results.</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Inducing point methods for latent Gaussian processes
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p><strong>Supervision</strong>: <a href="../people#soham-mukherjee" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Soham Mukherjee</a></p>
 <p><strong>Project</strong>: <a href="../projects#scrna-models" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Probabilistic Models for Single-Cell RNA Sequencing Data</a></p>
@@ -278,7 +309,7 @@ Inducing point methods for latent Gaussian processes
 </div>
 </div>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -287,7 +318,7 @@ Stable diffusion for BayesFlow
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div id="callout-5" class="callout-5-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p><strong>Supervision</strong>: <a href="../people#lars-kuehmichel" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Lars Kühmichel</a></p>
 <p><strong>Project</strong>: <a href="../projects#bayesflow-software" class="btn btn-outline-primary btn-page-header btn-xs" role="button">BayesFlow: Simulation Intelligence with Deep Learning</a></p>
@@ -311,7 +342,7 @@ Stable diffusion for BayesFlow
 </div>
 </div>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -320,7 +351,7 @@ Joint prior distributions for hierarchical phylogenetic models
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-5" class="callout-5-contents callout-collapse collapse">
+<div id="callout-6" class="callout-6-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p><strong>Supervision</strong>: <a href="../people#paul-buerkner" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Paul Bürkner</a></p>
 <p><strong>Relevant literature</strong>:</p>
