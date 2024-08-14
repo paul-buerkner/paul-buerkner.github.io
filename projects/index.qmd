@@ -106,6 +106,10 @@ Funding Period: 2022 -- 2025
 
 Publications:
 
+- Fazio L., Scholz M., & Bürkner P. C. (in review). Generative Bayesian Modeling with Implicit Priors. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/sims1253/implicit-priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Fazio L. & Bürkner P. C. (in review). Gaussian distributional structural equation models: A framework for modeling latent heteroscedasticity. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2404.14124){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/bdlvm-project/gdsem-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -421,6 +425,10 @@ Funders: [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/){
 Funding Period: 2021 -- 2024
 
 Publications:
+
+- Fazio L., Scholz M., & Bürkner P. C. (in review). Generative Bayesian Modeling with Implicit Priors. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/sims1253/implicit-priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Scholz M. & Bürkner P. C. (in review). Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2210.06927){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
