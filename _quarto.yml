@@ -5,6 +5,7 @@ project:
     - "data"
     - "positions/pdf/**"
     - "talks/pdf/**"
+    - "CNAME"
     
 website:
   title: "Paul Bürkner"
