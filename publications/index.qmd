@@ -75,11 +75,6 @@ toc-location: right
 
 ## Accepted
 
-- Bockting F., Radev S. T., & **Bürkner P. C.** (accepted). Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models. *Scientific Reports*.
-[Preprint](http://arxiv.org/abs/2308.11672){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Website](https://florence-bockting.github.io/PriorLearning/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/florence-bockting/PriorLearning){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Schmitt M., Ivanova D. R., Habermann D., Köthe U., **Bürkner P. C.**, & Radev S. T. (accepted). Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference. *Proceedings of the International Conference on Machine Learning (ICML)*.
 [Preprint](https://arxiv.org/abs/2310.04395){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -91,9 +86,14 @@ toc-location: right
 [Code & Data](https://github.com/haluli/gpc_simulations){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Data](https://osf.io/pjmvq/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Whitridge J. W., Huff M. J., Ozubko J. D., **Bürkner P. C.**, Lahey C. D., & Fawcett J. M. (accepted). Singing does not necessarily improve memory more than reading aloud: An empirical and meta-analytic investigation. *Experimental Psychology*.
-
 ## 2024
+
+- Bockting F., Radev S. T., & **Bürkner P. C.** (2024). Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models. *Scientific Reports*. doi:10.1038/s41598-024-68090-7
+[PDF](pdf/2024__Bockting_et_al__Scientific_Reports.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://www.nature.com/articles/s41598-024-68090-7){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](http://arxiv.org/abs/2308.11672){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Website](https://florence-bockting.github.io/PriorLearning/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/florence-bockting/PriorLearning){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Kallioinen N., Paananen T., **Bürkner P. C.**, & Vehtari A. (2024). Detecting and diagnosing prior and likelihood sensitivity with power-scaling. *Statistics and Computing*. doi:10.1007/s11222-023-10366-5
 [PDF](pdf/2024__Kalloinen_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -160,10 +160,14 @@ toc-location: right
 [Preprint](https://psyarxiv.com/y4snz/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/z2e83/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Whitridge J. W., Huff M. J., Ozubko J. D., **Bürkner P. C.**, Lahey C. D., & Fawcett J. M. (2024). Singing does not necessarily improve memory more than reading aloud: An empirical and meta-analytic investigation. *Experimental Psychology*. doi:10.1027/1618-3169/a000614
+[PDF](pdf/2024__Whitridge_et_al__Experimental_Psychology.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://econtent.hogrefe.com/doi/10.1027/1618-3169/a000614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://doi.org/10.5281/zenodo.11205433){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 ## 2023
 
-- **Bürkner P. C.**, Scholz M., & Radev S. T. (2023). Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy. *Statistics Surveys*.
-doi:10.1214/23-SS145
+- **Bürkner P. C.**, Scholz M., & Radev S. T. (2023). Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy. *Statistics Surveys*. doi:10.1214/23-SS145
 [PDF](pdf/2023__Bürkner_et_al__Statistics_Surveys.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://doi.org/10.1214/23-SS145){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](http://arxiv.org/abs/2209.02439){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
