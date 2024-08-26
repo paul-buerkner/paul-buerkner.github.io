@@ -190,7 +190,7 @@ ul.task-list li input[type="checkbox"] {
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-The influence of base distributions in Normalizing Flows on method performance
+The influence of base distributions in normalizing flows on method performance
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -314,11 +314,77 @@ Inducing point methods for latent Gaussian processes
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Stable diffusion for BayesFlow
+Amortized forecasting models
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-5" class="callout-5-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><strong>Supervision</strong>: <a href="../people#simon-kucharsky" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Šimon Kucharský</a></p>
+<p><strong>Project</strong>: <a href="../projects#abi-applications" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Applications of Amortized Bayesian Inference</a></p>
+<p><strong>Important references</strong>:</p>
+<ul>
+<li><a href="https://arxiv.org/abs/2302.09125">JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models</a> (and related BayesFlow articles)</li>
+<li><a href="https://peerj.com/preprints/3190/">Forecasting at scale</a></li>
+</ul>
+<p><strong>Tools</strong>: Python, Stan</p>
+<p><strong>Problem description</strong>: Forecasting with Bayesian models is becoming more popular. Some forecasting applications require making predictions at scale. Traditional Bayesian methods (MCMC) may be too slow for such applications. Amortization can solve this issue as it can be considerable faster during inference (forecasting) than MCMC, while providing the full Bayesian estimate.</p>
+<p><strong>Project structure</strong>:</p>
+<ol type="1">
+<li>Review relevant concepts and literature.</li>
+<li>Get familiarized with BayesFlow.</li>
+<li>Select a subset of the model features provided by Prophet and implement it with BayesFlow for amortized forecasting.</li>
+<li>Validate the model.</li>
+<li>Analyze and discuss results.</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Amortized hierarchical mixture models
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-6" class="callout-6-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><strong>Supervision</strong>: <a href="../people#simon-kucharsky" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Šimon Kucharský</a> <a href="../people#daniel-habermann" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Daniel Habermann</a></p>
+<p><strong>Projects</strong>:</p>
+<p><a href="../projects#abi-applications" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Applications of Amortized Bayesian Inference</a> <a href="../projects#amortized-mlms" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Amortized Bayesian Inference for Multilevel Models</a></p>
+<p><strong>Important references</strong>:</p>
+<ul>
+<li><a href="https://arxiv.org/abs/2302.09125">JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models</a> (and related BayesFlow articles)</li>
+<li><a href="https://doi.org/10.1146/annurev-statistics-031017-100325">Finite Mixture Models</a> (or any other literature on mixture models)</li>
+<li><a href="https://jamanetwork.com/journals/jama/article-abstract/2718053">Bayesian Hierarchical Models</a> (or any hierarchical models literature)</li>
+</ul>
+<p><strong>Tools</strong>: Python, Stan</p>
+<p><strong>Problem description</strong>: BayesFlow was recently expanded to handle two level hierarchical models (for details, talk to Daniel) and is being expanded to be able to make inferences for mixture models (for details, talk to Simon). The idea for this project is to combine the two approaches and investigate how to implement amortized inference for hierarchical mixture models with BayesFlow.</p>
+<p><strong>Project structure</strong>:</p>
+<ol type="1">
+<li>Review relevant concepts and literature.</li>
+<li>Get familiarized with BayesFlow and the current implementation of hierarchical and mixture models.</li>
+<li>Implement a basic hierarchical mixture model with BayesFlow as a proof of concept.</li>
+<li>Validate the model.</li>
+<li>Analyze and discuss results.</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-7-contents" aria-controls="callout-7" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Stable diffusion for BayesFlow
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-7" class="callout-7-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p><strong>Supervision</strong>: <a href="../people#lars-kuehmichel" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Lars Kühmichel</a></p>
 <p><strong>Project</strong>: <a href="../projects#bayesflow-software" class="btn btn-outline-primary btn-page-header btn-xs" role="button">BayesFlow: Simulation Intelligence with Deep Learning</a></p>
@@ -342,7 +408,7 @@ Stable diffusion for BayesFlow
 </div>
 </div>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-8-contents" aria-controls="callout-8" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -351,7 +417,7 @@ Joint prior distributions for hierarchical phylogenetic models
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-6" class="callout-6-contents callout-collapse collapse">
+<div id="callout-8" class="callout-8-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p><strong>Supervision</strong>: <a href="../people#paul-buerkner" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Paul Bürkner</a></p>
 <p><strong>Relevant literature</strong>:</p>
@@ -370,8 +436,6 @@ Joint prior distributions for hierarchical phylogenetic models
 </div>
 </div>
 </div>
-<hr>
-<p>More topics will be added soon…</p>
 <!--
 ::: {.callout-note icon=false collapse="true"}
 ## <TOPIC TITLE>

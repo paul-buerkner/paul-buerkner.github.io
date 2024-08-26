@@ -17,7 +17,7 @@ but you still want to write your thesis with us, please contact me directly. We 
 open for your own ideas should they be something we can properly supervise.
 
 ::: {.callout-note icon=false collapse="true"}
-## The influence of base distributions in Normalizing Flows on method performance
+## The influence of base distributions in normalizing flows on method performance
 
 **Supervision**: [Florence Bockting](../people#florence-bockting){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -134,6 +134,69 @@ correspond to the latent values we would like to estimate.
 
 
 ::: {.callout-note icon=false collapse="true"}
+## Amortized forecasting models
+
+**Supervision**:
+[Šimon Kucharský](../people#simon-kucharsky){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+**Project**: 
+[Applications of Amortized Bayesian Inference](../projects#abi-applications){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+**Important references**:
+
+- [JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models](https://arxiv.org/abs/2302.09125) (and related BayesFlow articles)
+- [Forecasting at scale](https://peerj.com/preprints/3190/)
+
+**Tools**: Python, Stan
+
+**Problem description**: 
+Forecasting with Bayesian models is becoming more popular. Some forecasting applications require making predictions at scale. Traditional Bayesian methods (MCMC) may be too slow for such applications. Amortization can solve this issue as it can be considerable faster during inference (forecasting) than MCMC, while providing the full Bayesian estimate.
+
+
+**Project structure**:
+
+1. Review relevant concepts and literature.
+2. Get familiarized with BayesFlow.
+3. Select a subset of the model features provided by Prophet and implement it with BayesFlow for amortized forecasting.
+4. Validate the model.
+5. Analyze and discuss results.
+:::
+
+
+::: {.callout-note icon=false collapse="true"}
+## Amortized hierarchical mixture models
+
+**Supervision**:
+[Šimon Kucharský](../people#simon-kucharsky){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Daniel Habermann](../people#daniel-habermann){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+**Projects**: 
+
+[Applications of Amortized Bayesian Inference](../projects#abi-applications){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Amortized Bayesian Inference for Multilevel Models](../projects#amortized-mlms){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+**Important references**:
+
+- [JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models](https://arxiv.org/abs/2302.09125) (and related BayesFlow articles)
+- [Finite Mixture Models](https://doi.org/10.1146/annurev-statistics-031017-100325) (or any other literature on mixture models)
+- [Bayesian Hierarchical Models](https://jamanetwork.com/journals/jama/article-abstract/2718053) (or any hierarchical models literature)
+
+**Tools**: Python, Stan
+
+**Problem description**: 
+BayesFlow was recently expanded to handle two level hierarchical models (for details, talk to Daniel) and is being expanded to be able to make inferences for mixture models (for details, talk to Simon). The idea for this project is to combine the two approaches and investigate how to implement amortized inference for hierarchical mixture models with BayesFlow.
+
+**Project structure**:
+
+1. Review relevant concepts and literature.
+2. Get familiarized with BayesFlow and the current implementation of hierarchical and mixture models.
+3. Implement a basic hierarchical mixture model with BayesFlow as a proof of concept.
+4. Validate the model.
+5. Analyze and discuss results.
+:::
+
+
+::: {.callout-note icon=false collapse="true"}
 ## Stable diffusion for BayesFlow
 
 **Supervision**: 
@@ -195,10 +258,6 @@ for such priors, which we will discuss with you upon starting your thesis.
 - Analyse and discuss results
 :::
 
-
----
-
-More topics will be added soon...
 
 
 <!--
