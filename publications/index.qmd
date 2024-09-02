@@ -78,8 +78,8 @@ toc-location: right
 - Schmitt M., Ivanova D. R., Habermann D., Köthe U., **Bürkner P. C.**, & Radev S. T. (accepted). Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference. *Proceedings of the International Conference on Machine Learning (ICML)*.
 [Preprint](https://arxiv.org/abs/2310.04395){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Elsemüller L., Olischläger H., Schmitt M., **Bürkner P. C.**, Köthe U., & Radev S. T. (accepted). Sensitivity-Aware Amortized Bayesian Inference. *Transactions in Machine Learning Research*.
-[Preprint](https://arxiv.org/abs/2310.11122){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+- Shi L., **Bürkner P. C.**, & Bulling A. (accepted). ActionDiffusion: An Action-aware Diffusion Model for Procedure Planning in Instructional Videos. *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*.
+[Preprint](https://arxiv.org/abs/2403.08591){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Lingel H., **Bürkner P. C.**, Melchers K. G., & Schulte N. (accepted). Measuring Personality When Stakes Are High: Are Graded Paired Comparisons a More Reliable Alternative to Traditional Forced-Choice Methods? *Organizational Research Methods*.
 [Preprint](https://psyarxiv.com/8rt3j){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -102,8 +102,14 @@ toc-location: right
 [Code & Data](https://github.com/n-kall/powerscaling-sensitivity){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/n-kall/priorsense){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Elsemüller L., Olischläger H., Schmitt M., **Bürkner P. C.**, Köthe U., & Radev S. T. (2024). Sensitivity-Aware Amortized Bayesian Inference. *Transactions in Machine Learning Research*.
+[PDF](pdf/2024__Elsemueller_et_al__TMLR.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://openreview.net/forum?id=Kxtpa9rvM0){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2310.11122){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/bayesflow-org/SA-ABI){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Elsemüller L., Schnuerch M., **Bürkner P. C.**, & Radev S. T. (2024). A Deep Learning Method for Comparing Bayesian Hierarchical Models. *Psychological Methods*. doi:10.1037/met0000645
-[PDF](pdf/2024__Elsemüller_et_al__Psychological_Methods.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2024__Elsemueller_et_al__Psychological_Methods.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://psycnet.apa.org/record/2024-80637-001){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2301.11873){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/bayesflow-org/Hierarchical-Model-Comparison){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
