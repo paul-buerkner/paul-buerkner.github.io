@@ -100,8 +100,7 @@ Bayesian estimation of structural equation models is more flexible than the freq
 :::
 
 ::: {.callout-note icon=false collapse="true"}
-## Inducing point methods for latent Gaussian processes
-
+## Lagged modeling using composite Gaussian processes
 **Supervision**:
 [Soham Mukherjee](../people#soham-mukherjee){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -113,23 +112,17 @@ Bayesian estimation of structural equation models is more flexible than the freq
 **Relevant literature**: 
 
 - [Gaussian Processes for Machine Learning](https://gaussianprocess.org/gpml/)
-- [Approximation Methods for Gaussian Process Regression](https://pure.mpg.de/rest/items/item_1790261/component/file_3080680/content) 
+- [Modelling transcriptional regulation using Gaussian processes]( https://proceedings.neurips.cc/paper/3119-modelling-transcriptional-regulation-using-gaussian-processes.pdf) 
 
 **Problem description**: 
-Inducing points are a class of methods for approximating Gaussian processes to
-overcome its scalability issues. Inducing points are directly associated and
-chosen based on the input space. In the case where inputs of a GP are latent, it
-readily becomes unintuitive as to how inducing point based methods can be
-applied. The primary challenge is that the inducing points are then associated
-with some sort of "hypothetical" latent values which might not in general
-correspond to the latent values we would like to estimate.
+Composite Gaussian processes (GPs) allow a natural framework for modeling two or more related data generating processes simultaneously by specifying a joint GP distribution. A specific interesting case would be a composite process of two related GPs expressed through a shared input space. A direct application here would be to model spliced and its time-lagged unspliced RNA expression levels as response using a common cellular ordering as inputs. The primary challenge is to verify if composite GPs are a suitable mathematical framework to model such cases of strictly related data generating processes.
 
 **Project structure**:
 
-- Literature review of different inducing point based methods
-- Implementing the corresponding models in Stan
-- Running a simulation study to compare the different methods
-- Applications on a real case study if sensible
+- Literature reivew and understanding of GPs and composite GPs.
+- Model implementation for composite GPs in Stan.
+- Simulation studies for model validation.
+- Applications to example case studies using single-cell data.
 :::
 
 
