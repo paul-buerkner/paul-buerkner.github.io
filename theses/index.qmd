@@ -112,7 +112,7 @@ Bayesian estimation of structural equation models is more flexible than the freq
 **Relevant literature**: 
 
 - [Gaussian Processes for Machine Learning](https://gaussianprocess.org/gpml/)
-- [Modelling transcriptional regulation using Gaussian processes]( https://proceedings.neurips.cc/paper/3119-modelling-transcriptional-regulation-using-gaussian-processes.pdf) 
+- [Modelling transcriptional regulation using Gaussian processes](https://proceedings.neurips.cc/paper/3119-modelling-transcriptional-regulation-using-gaussian-processes.pdf) 
 
 **Problem description**: 
 Composite Gaussian processes (GPs) allow a natural framework for modeling two or more related data generating processes simultaneously by specifying a joint GP distribution. A specific interesting case would be a composite process of two related GPs expressed through a shared input space. A direct application here would be to model spliced and its time-lagged unspliced RNA expression levels as response using a common cellular ordering as inputs. The primary challenge is to verify if composite GPs are a suitable mathematical framework to model such cases of strictly related data generating processes.
