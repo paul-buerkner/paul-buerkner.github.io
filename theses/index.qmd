@@ -119,7 +119,7 @@ Composite Gaussian processes (GPs) allow a natural framework for modeling two or
 
 **Project structure**:
 
-- Literature reivew and understanding of GPs and composite GPs.
+- Literature review and understanding of GPs and composite GPs.
 - Model implementation for composite GPs in Stan.
 - Simulation studies for model validation.
 - Applications to example case studies using single-cell data.
