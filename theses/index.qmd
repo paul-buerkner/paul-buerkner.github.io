@@ -252,16 +252,16 @@ for such priors, which we will discuss with you upon starting your thesis.
 :::
 
 ::: {.callout-note icon=false collapse="true"}
- ## Impact of shrinkage priors on strong signals
+## Impact of shrinkage priors on strong signals
 
- **Supervision**: 
- [Javier Enrique Aguilar](../people#javier-aguilar){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+**Supervision**: 
+[Javier Enrique Aguilar](../people#javier-aguilar){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
- **Project**: [Intuitive Joint Priors for Bayesian Multilevel Models](../projects#joint-priors-mlms){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+**Project**: [Intuitive Joint Priors for Bayesian Multilevel Models](../projects#joint-priors-mlms){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
- **Relevant literature**: 
+**Relevant literature**: 
 
- - [Sparsity information and regularization in the horseshoe and other shrinkage priors]([https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-11/issue-2…]-the-horseshoe-and-other-shrinkage/10.1214/17-EJS1337SI.full)
+- [Sparsity information and regularization in the horseshoe and other shrinkage priors](https:/doi.org/10.1214/17-EJS1337SI)
 
  **Tools**: R, Stan
 
@@ -273,7 +273,7 @@ for such priors, which we will discuss with you upon starting your thesis.
  - Characterize the shrinkage on strong signals
  - Carry out simulations
  - Analyse and discuss the results
-
+:::
 
 
 <!--
