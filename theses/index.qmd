@@ -251,6 +251,29 @@ for such priors, which we will discuss with you upon starting your thesis.
 - Analyse and discuss results
 :::
 
+::: {.callout-note icon=false collapse="true"}
+ ## Impact of shrinkage priors on strong signals
+
+ **Supervision**: 
+ [Javier Enrique Aguilar](../people#javier-aguilar){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+ **Project**: [Intuitive Joint Priors for Bayesian Multilevel Models](../projects#joint-priors-mlms){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+ **Relevant literature**: 
+
+ - [Sparsity information and regularization in the horseshoe and other shrinkage priors]([https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-11/issue-2…]-the-horseshoe-and-other-shrinkage/10.1214/17-EJS1337SI.full)
+
+ **Tools**: R
+
+ **Problem description**: Continuous global-local shrinkage priors have gained significant traction in Bayesian statistics due to their ability to enhance predictive performance while decreasing bias. In this study, we aim to conduct an analysis of how several well-known shrinkage priors target and shrink strong signals within the data.
+
+ **Project structure**: 
+
+ - Familiarize yourself with shrinkage priors
+ - Characterize the shrinkage on strong signals
+ - Carry out simulations
+ - Analyse and discuss the results
+
 
 
 <!--
