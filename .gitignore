@@ -5,3 +5,7 @@
 
 /.quarto/
 /images/archive/
+
+.DS_Store
+images/.DS_Store
+
