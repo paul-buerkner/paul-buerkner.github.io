@@ -164,7 +164,7 @@ toc-location: right
 [Code & Data](https://osf.io/7cdmw/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Bolzenkötter T., **Bürkner P. C.**, Zetsche U., & Schulze L. (2024). Assessing the Immediate Effects of Detached Mindfulness on Repetitive Negative Thinking and Affect in Daily Life: A Randomized Controlled Trial. *Mindfulness*. doi:10.1007/s12671-024-02350-5
-[PDF](pdf/2024__Bolzenkötter_et_al__Mindfulness.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2024__Bolzenkoetter_et_al__Mindfulness.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://link.springer.com/article/10.1007/s12671-024-02350-5){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://psyarxiv.com/y4snz/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/z2e83/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -177,12 +177,12 @@ toc-location: right
 ## 2023
 
 - **Bürkner P. C.**, Scholz M., & Radev S. T. (2023). Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy. *Statistics Surveys*. doi:10.1214/23-SS145
-[PDF](pdf/2023__Bürkner_et_al__Statistics_Surveys.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2023__Buerkner_et_al__Statistics_Surveys.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://doi.org/10.1214/23-SS145){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](http://arxiv.org/abs/2209.02439){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Bürkner P. C.**, Kröker I., Oladyshkin S., & Nowak W. (2023). A fully Bayesian sparse polynomial chaos expansion approach with joint priors on the coefficients and global selection of terms. *Journal of Computational Physics*. doi:10.1016/j.jcp.2023.112210
-[PDF](pdf/2023__Bürkner_et_al__Journal_of_Computational_Physics.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2023__Buerkner_et_al__Journal_of_Computational_Physics.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://doi.org/10.1016/j.jcp.2023.112210){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2204.06043){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/paul-buerkner/Bayesian-sparse-PCE){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -196,7 +196,7 @@ toc-location: right
 [Talk](../talks/pdf/glimpse_amortized_bayesian_inference.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Aguilar J. E. & **Bürkner P. C.** (2023). Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior. *Electronic Journal of Statistics*. doi:10.1214/23-EJS2136
-[PDF](pdf/2023__Aguilar_Bürkner__Electronic_Journal_of_Statistics.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2023__Aguilar_Buerkner__Electronic_Journal_of_Statistics.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://doi.org/10.1214/23-EJS2136){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2208.07132){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/wgsth/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -281,7 +281,7 @@ toc-location: right
 [Code & Data](https://osf.io/vdrw7){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Danböck, S. K., Franke, L. K., Miedl, S. F., Liedlgruber, M., **Bürkner P. C.**, & Wilhelm, F. H. (2023). Experimental Manipulations and Multi-Domain Measures of Negative Affect and Pain Are Linked to Peritraumatic Dissociation. *Behaviour Research and Therapy*. doi:10.1016/j.brat.2023.104289
-[PDF](pdf/2023__Danböck_et_al__Behavior_Research_and_Therapy.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2023__Danboeck_et_al__Behavior_Research_and_Therapy.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://doi.org/10.1016/j.brat.2023.104289){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://psyarxiv.com/tgc7m/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://doi.org/10.1016/j.brat.2023.104289){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -298,13 +298,13 @@ toc-location: right
 ## 2022
 
 - **Bürkner P. C.** (2022). On the information obtainable from comparative judgments. *Psychometrika*. doi:10.1007/s11336-022-09843-z
-[PDF](pdf/2022__Bürkner__Psychometrika.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2022__Buerkner__Psychometrika.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://link.springer.com/article/10.1007/s11336-022-09843-z){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://psyarxiv.com/j5efn/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/2g76w/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Säilynoja, T., **Bürkner P. C.**, & Vehtari A. (2022). Graphical Test for Discrete Uniformity and its Applications in Goodness of Fit Evaluation and Multiple Sample Comparison. *Statistics and Computing*. doi:10.1007/s11222-022-10090-6 
-[PDF](pdf/2022__Säilynoja_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2022__Sailynoja_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://link.springer.com/article/10.1007/s11222-022-10090-6){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2103.10522){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/TeemuSailynoja/simultaneous-confidence-bands){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -389,14 +389,14 @@ toc-location: right
 [Journal](https://www.mdpi.com/1660-4601/19/5/3133){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Kołczyńska M. & **Bürkner P. C.** (2022). Political trust as a cause and consequence of democracy: Longitudinal analysis of European data. *SocArXiv preprint*. doi:10.31235/osf.io/79dth
-[PDF](pdf/2022__Kolczynska_Bürkner__SocArXiv.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2022__Kolczynska_Buerkner__SocArXiv.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://osf.io/preprints/socarxiv/79dth/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/chx6a/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## 2021
 
 - **Bürkner P. C.** (2021). Bayesian Item Response Modelling in R with brms and Stan. *Journal of Statistical Software*. doi:10.18637/jss.v100.i05
-[PDF](pdf/2021__Bürkner__Journal_of_Statistical_Software.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2021__Buerkner__Journal_of_Statistical_Software.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://www.jstatsoft.org/article/view/v100i05){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/1905.09501){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](../software#brms){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -432,7 +432,7 @@ toc-location: right
 [Code & Data](https://osf.io/rs3tg/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Kołczyńska M. & **Bürkner P. C.** (2021). Marketplace of indicators: Inconsistencies between country trends of measures of governance. *Political Research Exchange*. doi:10.1080/2474736X.2021.1989984
-[PDF](pdf/2021__Kolczynska_Bürkner__Political_Research_Exchange.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2021__Kolczynska_Buerkner__Political_Research_Exchange.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://www.tandfonline.com/doi/full/10.1080/2474736X.2021.1989984){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://osf.io/preprints/socarxiv/u8gsc/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/wsy9v/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -461,7 +461,7 @@ toc-location: right
 [Code & Data](https://osf.io/hxzcj/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Reynolds J. & **Bürkner P. C.** (2021). Examining the Relationship Between Weapon Type and Relationship Type in American Homicides: A Bayesian Approach. *Homicide Studies*. doi:10.1177/1088767920976191 
-[PDF](pdf/2021__Reynolds_Bürkner__Homicide_Studies.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2021__Reynolds_Buerkner__Homicide_Studies.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://journals.sagepub.com/doi/full/10.1177/1088767920976191){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://psyarxiv.com/tf7je/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/f52cp/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -478,7 +478,7 @@ toc-location: right
 [Code & Data](https://osf.io/7upt4/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Winter, B. & **Bürkner P. C.** (2021). Poisson regression for linguists: A tutorial introduction to modeling count data with brms. *Language and Linguistics Compass*. doi:10.1111/lnc3.12439
-[PDF](pdf/2021__Winter_Bürkner__Language_and_Linguistics_Compass.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2021__Winter_Buerkner__Language_and_Linguistics_Compass.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](http://dx.doi.org/10.1111/lnc3.12439){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://osf.io/93kaf/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/ugpfd/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -490,25 +490,25 @@ toc-location: right
 ## 2020
 
 - **Bürkner P. C.**, Gabry J., & Vehtari A. (2020). Approximate leave-future-out cross-validation for Bayesian time series models. *Journal of Statistical Computation and Simulation*. doi:10.1080/00949655.2020.1783262
-[PDF](pdf/2020__Bürkner_et_al__Journal_of_Statistical_Compuation_and_Simulation.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2020__Buerkner_et_al__Journal_of_Statistical_Compuation_and_Simulation.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://doi.org/10.1080/00949655.2020.1783262){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/1902.06281){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/paul-buerkner/m-step-ahead-predictions){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Bürkner P. C.**, Gabry J., & Vehtari A. (2020). Efficient leave-one-out cross-validation for Bayesian non-factorized normal and Student-t models. *Computational Statistics*. doi:10.1007/s00180-020-01045-4
-[PDF](pdf/2020__Bürkner_et_al__Computational_Statistics.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2020__Buerkner_et_al__Computational_Statistics.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://link.springer.com/article/10.1007/s00180-020-01045-4){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](http://arxiv.org/abs/1810.10559){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/paul-buerkner/non-factorized-loo){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Bürkner P. C.** & Charpentier E. (2020). Modelling monotonic effects of ordinal predictors in Bayesian regression models. *British Journal of Mathematical and Statistical Psychology*. doi:10.1111/bmsp.12195 
-[PDF](pdf/2020__Bürkner_Charpentier__British_Journal_of_Mathematical_and_Statistical_Psychology.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2020__Buerkner_Charpentier__British_Journal_of_Mathematical_and_Statistical_Psychology.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://doi.org/10.1111/bmsp.12195){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://psyarxiv.com/9qkhj/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/paul-buerkner/monotonic-effects-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Bürkner P. C.** (2020). Analysing Standard Progressive Matrics (SPM-LS) with Bayesian Item Response Models. *Journal of Intelligence*. doi:10.3390/jintelligence8010005 
-[PDF](pdf/2020__Bürkner__Journal_of_Intelligence.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2020__Buerkner__Journal_of_Intelligence.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://www.mdpi.com/2079-3200/8/1/5){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://psyarxiv.com/gn5hk){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/paul-buerkner/SPM-IRT-models){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -566,7 +566,7 @@ toc-location: right
 [Code & Data](https://osf.io/tebnx/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Williams D. R. & **Bürkner P. C.** (2020). Coding errors lead to unsupported conclusions: A critique of Hofmann et al. (2015). *Meta-Psychology*. doi:10.15626/MP.2018.872 
-[PDF](pdf/2020__Williams_Bürkner__Meta_Psychology.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2020__Williams_Buerkner__Meta_Psychology.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://open.lnu.se/index.php/metapsychology/article/view/872){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Report](http://retractionwatch.com/2016/10/04/oh-well-love-hormone-doesnt-reduce-psychiatric-symptoms-says-researchers-in-request-to-retract/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/kd3en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -579,19 +579,19 @@ toc-location: right
 ## 2019
 
 - **Bürkner P. C.**, Schulte N., & Holling H. (2019). On the Statistical and Practical Limitations of Thurstonian IRT Models. *Educational and Psychological Measurement*. doi:10.1177/0013164419832063 
-[PDF](pdf/2019__Bürkner_et_al__Educational_and_Psychological_Measurement.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2019__Buerkner_et_al__Educational_and_Psychological_Measurement.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://journals.sagepub.com/doi/10.1177/0013164419832063){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://psyarxiv.com/dbwn8/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/df5yq/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Bürkner P. C.** & Vuorre, M. (2019). Ordinal Regression Models in Psychology: A Tutorial. *Advances in Methods and Practices in Psychological Science*. doi:10.1177/2515245918823199
-[PDF](pdf/2019__Bürkner_et_al__Advances_in_Methods_and_Practices_in_Psychological_Science.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2019__Buerkner_et_al__Advances_in_Methods_and_Practices_in_Psychological_Science.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://journals.sagepub.com/doi/10.1177/2515245918823199){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://psyarxiv.com/x8swp/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/qp3t7/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Bürkner P. C.** (2019). thurstonianIRT: Thurstonian IRT Models in R. *Journal of Open Source Software*. doi:10.21105/joss.01662
-[PDF](pdf/2019__Bürkner__Journal_of_Open_Source_Software.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2019__Buerkner__Journal_of_Open_Source_Software.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://joss.theoj.org/papers/10.21105/joss.01662){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/paul-buerkner/thurstonianIRT){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -635,12 +635,12 @@ toc-location: right
 ## 2018
 
 - **Bürkner P. C.**, Schwabe S., & Holling H. (2018). Optimal Designs for the Generalized Partial Credit Model. *British Journal of Mathematical and Statistical Psychology*. doi:10.1111/bmsp.12148 
-[PDF](pdf/2018__Bürkner_et_al__British_Journal_of_Mathematical_and_Statistical_Psychology.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2018__Buerkner_et_al__British_Journal_of_Mathematical_and_Statistical_Psychology.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://onlinelibrary.wiley.com/doi/full/10.1111/bmsp.12148){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/1803.06517){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Bürkner P. C.** (2018). Advanced Bayesian Multilevel Modeling with the R Package brms. *The R Journal*. doi:10.32614/RJ-2018-017
-[PDF](pdf/2018__Bürkner__R_Journal.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2018__Buerkner__R_Journal.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://journal.r-project.org/archive/2018/RJ-2018-017/index.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/1705.11123){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](../software#brms){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -698,17 +698,17 @@ toc-location: right
 ## 2017
 
 - **Bürkner P. C.** (2017). brms: An R Package for Bayesian Multilevel Models using Stan. *Journal of Statistical Software*. doi:10.18637/jss.v080.i01
-[PDF](pdf/2017__Bürkner__Journal_of_Statistical_Software.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2017__Buerkner__Journal_of_Statistical_Software.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://www.jstatsoft.org/article/view/v080i01){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](../software#brms){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Bürkner P. C.**, Williams D. R., Simmons T. C., & Woolley J. D. (2017). Intranasal oxytocin may improve high-level social cognition in schizophrenia, but not social cognition or neurocognition in general: A multi-level Bayesian meta-analysis. *Schizophrenia Bulletin*. doi:10.1093/schbul/sbx053
-[PDF](pdf/2017__Bürkner_et_al__Schizophrenia_Bulletin.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2017__Buerkner_et_al__Schizophrenia_Bulletin.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://doi.org/10.1093/schbul/sbx053){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/rn6vj/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Bürkner P. C.**, Bittner N., Holling H., & Buhlmann U. (2017). D-Cycloserine Augmentation of Behavior Therapy for Anxiety and Obsessive-Compulsive Disorders: A Meta-Analysis. *PLOS ONE*. doi:10.1371/journal.pone.0173660
-[PDF](pdf/2017__Bürkner_et_al__PLOS_One.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2017__Buerkner_et_al__PLOS_One.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0173660){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/6h87a/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -732,19 +732,19 @@ toc-location: right
 [Code & Data](https://osf.io/fxy7h/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Williams D. R. & **Bürkner P. C.** (2017). Effects of intranasal oxytocin on symptoms of schizophrenia: A multivariate Bayesian meta-analysis. *Psychoneuroendocrinology*. doi:10.1016/j.psyneuen.2016.10.013
-[PDF](pdf/2017__Williams_Bürkner__Psychoneuroendocrineology.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2017__Williams_Buerkner__Psychoneuroendocrineology.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](http://www.sciencedirect.com/science/article/pii/S0306453016302128){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/6pyfu/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Williams D. R. & **Bürkner P. C.** (2017). Data extraction and statistical errors: A quantitative critique of Gumley et al. (2014). *British Journal of Clinical Psychology*. doi:10.1111/bjc.12130
-[PDF](pdf/2017__Williams_Bürkner__British_Journal_of_Clinical_Psychology.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2017__Williams_Buerkner__British_Journal_of_Clinical_Psychology.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](http://onlinelibrary.wiley.com/doi/10.1111/bjc.12130/full){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/tus69/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## 2016
 
 - **Bürkner P. C.**, Doebler P., & Holling H. (2016). Optimal design of the Wilcoxon-Mann-Whitney-test. *Biometrical Journal*. doi:10.1002/bimj.201600022
-[PDF](pdf/2016__Bürkner_et_al__Biometrical_Journal.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2016__Buerkner_et_al__Biometrical_Journal.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](http://onlinelibrary.wiley.com/doi/10.1002/bimj.201600022/full){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2211.12556){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -755,6 +755,6 @@ toc-location: right
 ## 2014
 
 - **Bürkner P. C.** & Doebler P. (2014). Testing for Publication Bias in Diagnostic Meta-Analysis: A Simulation Study. *Statistics in Medicine*. doi:10.1002/sim.6177
-[PDF](pdf/2014__Bürkner_Doebler__Statistics_in_Medicine.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](pdf/2014__Buerkner_Doebler__Statistics_in_Medicine.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](http://onlinelibrary.wiley.com/doi/10.1002/sim.6177/full){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2211.12538){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
