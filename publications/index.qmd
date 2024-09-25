@@ -36,9 +36,6 @@ toc-location: right
 - Schmitt M., Radev S. T., & **Bürkner P. C.** (in review). Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2311.10671){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Schmitt M., Pratz V., Köthe U., **Bürkner P. C.**, & Radev S. T. (in review). Consistency Models for Scalable and Fast Simulation-Based Inference. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2312.05440){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Schmitt M., Hikida Y., Radev S. T., Sadlo F., & **Bürkner P. C.** (in review). The Simplex Projection: Lossless Visualization of 4D Compositional Data on a 2D Canvas. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2403.11141){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/marvinschmitt/ggsimplex){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -77,6 +74,9 @@ toc-location: right
 [Code & Data](https://osf.io/5kzgd/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## Accepted
+
+- Schmitt M., Pratz V., Köthe U., **Bürkner P. C.**, & Radev S. T. (in review). Consistency Models for Scalable and Fast Simulation-Based Inference. *Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)*.
+[Preprint](https://arxiv.org/abs/2312.05440){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Schmitt M., Ivanova D. R., Habermann D., Köthe U., **Bürkner P. C.**, & Radev S. T. (accepted). Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference. *Proceedings of the International Conference on Machine Learning (ICML)*.
 [Preprint](https://arxiv.org/abs/2310.04395){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
