@@ -27,6 +27,7 @@ My role: Lead author and maintainer
 [Website](https://paul-buerkner.github.io/brms){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [GitHub](https://github.com/paul-buerkner/brms){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Forums](https://discourse.mc-stan.org/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Book](../software/brms-book/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Blog-Posts](../software/brms-blogposts.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 :::
