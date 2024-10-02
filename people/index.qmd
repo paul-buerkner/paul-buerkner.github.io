@@ -229,6 +229,28 @@ Co-Supervisor: [Stefan Radev](https://faculty.rpi.edu/stefan-radev)
 
 ---
 
+<!-- Aayush Mishra -->
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+<br /> 
+![](../images/aayush-mishra.png){width=100% fig-alt="A portrait of Aayush Mishra."}
+:::
+::: {.g-col-12 .g-col-md-9}
+### Aayush Mishra {#aayush-mishra}
+---
+
+Background: Physics and Data Science
+
+Project: Robust Amortized Bayesian Inference
+
+[Email](mailto:aayush.mishra@tu-dortmund.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Linkedin](https://www.linkedin.com/in/aayush-mishra-64a4a11b9/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+:::
+:::
+
+---
+
 <!-- Soham Mukherjee -->
 
 ::: {.grid}
