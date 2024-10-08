@@ -66,13 +66,6 @@ toc-location: right
 - Dubova, M., Chandramouli, S., Gigerenzer, G., ..., Wagenmarkers E. J., **Bürkner P. C.**, & Sloman, S. (in review). Is Occam’s razor losing its edge? New perspectives on the principle of model parsimony. *MetaArXiv Preprint*.
 [Preprint](https://osf.io/preprints/metaarxiv/bs5xe){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Shi L., **Bürkner P. C.**, & Bulling A. (in review). ActionDiffusion: An Action-aware Diffusion Model for Procedure Planning in Instructional Videos. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2403.08591){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Bagaïni A., Liu Y., Kapoor M., Son G., **Bürkner P. C.**, Tisdall L., & Mata R. (in review). Comparing the Temporal Stability and Convergent Validity of Risk Preference Measures: A Meta-Analytic Approach. *PsyArXiv preprint*.
-[Preprint](https://psyarxiv.com/d7nuj/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://osf.io/5kzgd/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 ## Accepted
 
 - Schmitt M., Pratz V., Köthe U., **Bürkner P. C.**, & Radev S. T. (in review). Consistency Models for Scalable and Fast Simulation-Based Inference. *Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)*.
@@ -83,6 +76,10 @@ toc-location: right
 
 - Shi L., **Bürkner P. C.**, & Bulling A. (accepted). ActionDiffusion: An Action-aware Diffusion Model for Procedure Planning in Instructional Videos. *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*.
 [Preprint](https://arxiv.org/abs/2403.08591){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Bagaïni A., Liu Y., Kapoor M., Son G., **Bürkner P. C.**, Tisdall L., & Mata R. (accepted). Comparing the Temporal Stability and Convergent Validity of Risk Preference Measures: A Meta-Analytic Approach. *Nature Human Behavior*.
+[Preprint](https://psyarxiv.com/d7nuj/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://osf.io/5kzgd/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Lingel H., **Bürkner P. C.**, Melchers K. G., & Schulte N. (accepted). Measuring Personality When Stakes Are High: Are Graded Paired Comparisons a More Reliable Alternative to Traditional Forced-Choice Methods? *Organizational Research Methods*.
 [Preprint](https://psyarxiv.com/8rt3j){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
