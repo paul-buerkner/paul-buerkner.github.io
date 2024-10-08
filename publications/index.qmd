@@ -59,10 +59,6 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2407.04967){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/stan-dev/posteriordb/tree/v1.0){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Catalina A., **Bürkner P. C.**, & Vehtari A. (in review). Latent space projection predictive inference. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2109.04702){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Software](https://github.com/stan-dev/projpred){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Dubova, M., Chandramouli, S., Gigerenzer, G., ..., Wagenmarkers E. J., **Bürkner P. C.**, & Sloman, S. (in review). Is Occam’s razor losing its edge? New perspectives on the principle of model parsimony. *MetaArXiv Preprint*.
 [Preprint](https://osf.io/preprints/metaarxiv/bs5xe){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -415,6 +411,11 @@ toc-location: right
 [Journal](https://link.springer.com/article/10.1007%2Fs11222-020-09982-2){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](http://arxiv.org/abs/1906.08850){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/topipa/iwmm){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Catalina A., **Bürkner P. C.**, & Vehtari A. (2021). Latent space projection predictive inference. *ArXiv preprint*. doi:10.48550/arXiv.2109.04702
+[PDF](pdf/2021__Catalina_et_al__ArXiv.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2109.04702){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Software](https://github.com/stan-dev/projpred){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Williams, D. R., Rodriguez, J. E., & **Bürkner P. C.** (2021). Putting Variation into Variance: Modeling Between-Study Heterogeneity in Meta-Analysis. *PsyArXiv preprint*. doi:10.31234/osf.io/9vkqy
 [PDF](pdf/2021__Williams_et_al__PsyArXiv.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
