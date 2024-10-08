@@ -9,7 +9,7 @@ toc-location: right
 
 - Aguilar J. E. & **Bürkner P. C.** (in review). Generalized Decomposition Priors on R2. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2401.10180){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://osf.io/ns2cv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://osf.io/ns2cv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs} 
 
 - Fazio L., Scholz M., & **Bürkner P. C.** (in review). Generative Bayesian Modeling with Implicit Priors. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
