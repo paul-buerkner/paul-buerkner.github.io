@@ -153,7 +153,7 @@ Background: Biology and Statistics
 Project: [Bayesian Distributional Latent Variable Models](../projects#bdlvms)
 
 [Email](mailto:bmfaziol@gmail.com){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[GitHub](https://github.com/bmfazio){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[GitHub](https://github.com/lunafazio){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 :::
 :::
 
