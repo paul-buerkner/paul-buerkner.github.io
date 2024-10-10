@@ -30,9 +30,6 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2312.05153){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/philippreiser/bayesian-surrogate-uncertainty-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Schmitt M., Li C., Vehtari A., Acerbi L., **Bürkner P. C.**, Radev S. T. (in review). Amortized Bayesian Workflow (Extended Abstract). *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2409.04332){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Schmitt M., Radev S. T., & **Bürkner P. C.** (in review). Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2311.10671){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -114,6 +111,10 @@ toc-location: right
 [PDF](pdf/2024__Huber_et_al__Computational_Mechanics.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://link.springer.com/article/10.1007/s00466-023-02427-3){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://doi.org/10.18419/darus-3550){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Schmitt M., Li C., Vehtari A., Acerbi L., **Bürkner P. C.**, Radev S. T. (2024). Amortized Bayesian Workflow (Extended Abstract). *NeurIPS Workshop on Bayesian Decision-Making and Uncertainty*.
+[PDF](pdf/2024__Schmitt_et_al__NeurIPS_BDU_workshop.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2409.04332){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Raulo A., **Bürkner P. C.**, Dale J., English H., Finerty G., Lamberth C., Firth J. A., Coulson T., & Knowles S. (2024). Social and environmental transmission spread different sets of gut microbes in wild mice. *Nature Ecology & Evolution*. doi:10.1038/s41559-024-02381-0
 [PDF](pdf/2024__Raulo_et_al__Nature_Ecology_and_Evolution.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
