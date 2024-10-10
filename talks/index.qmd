@@ -8,7 +8,15 @@ Below you can find a list of selected talks and posters of me and my group,
 along with slides, paper references, and recordings when available.
 Presenters are highlighted in **bold**.
 
-- Fazio L., Scholz M., & **Bürkner P. C.** (2024). Generative Bayesian Modeling with Implicit Priors. Presented at [StanCon](https://mc-stan.org/events/stancon2024/).
+- **Schmitt M.**, Ivanova D. R., Habermann D., Köthe U., Bürkner P. C., & Radev S. T. (2024). 
+Poster: Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference. 
+Presented at [ICML](https://icml.cc/Conferences/2024).
+[Poster](pdf/poster_self_consistency_ABI.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Paper](https://arxiv.org/abs/2310.04395){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Fazio L., Scholz M., & **Bürkner P. C.** (2024). 
+Contributed talk: Generative Bayesian Modeling with Implicit Priors. 
+Presented at [StanCon](https://mc-stan.org/events/stancon2024/).
 [Slides](pdf/implicit_priors.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Paper](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
