@@ -18,13 +18,9 @@ about:
     - text: "{{< fa graduation-cap >}} Google Scholar"
       aria-label: google-scholar
       href: https://scholar.google.com/citations?user=JSj6m1IAAAAJ&hl
-    - icon: twitter
-      text: Twitter
-      aria-label: twitter
-      href: https://twitter.com/paulbuerkner
-    # - text: "{{< fa brands bluesky >}} Bluesky"
-    #   aria-label: bluesky
-    #   href: https://bsky.app/profile/paul-buerkner.bsky.social
+    - text: "{{< iconify fa6-brands bluesky >}} Bluesky"
+      aria-label: bluesky
+      href: https://bsky.app/profile/paul-buerkner.bsky.social
 aliases:
   - /about
 ---

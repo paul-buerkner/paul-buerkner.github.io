@@ -48,9 +48,12 @@ website:
       - text: "{{< fa graduation-cap >}}"
         aria-label: google-scholar
         href: https://scholar.google.com/citations?user=JSj6m1IAAAAJ&hl
-      - icon: twitter
-        aria-label: twitter
-        href: https://twitter.com/paulbuerkner
+      - text: "{{< iconify fa6-brands bluesky >}}"
+        aria-label: bluesky
+        href: https://bsky.app/profile/paul-buerkner.bsky.social
+      # - icon: twitter
+      #  aria-label: twitter
+      #  href: https://twitter.com/paulbuerkner
       # - icon: mastodon
       #   aria-label: mastodon
       #   href: https://fosstodon.org/@paul_buerkner
