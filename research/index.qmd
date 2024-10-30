@@ -71,6 +71,8 @@ scalability, and robustness of these methods; challenges that my lab aims to
 address in the upcoming years. In the process, we will also bridge the
 gap between simulation-based and likelihood-based Bayesian inference, thus
 maximizing the information usable during both training and inference.
+If you want to learn more about the field of amortized inference, please check out our curated [awesome-amortized-inference](https://github.com/bayesflow-org/awesome-amortized-inference) 
+list of resources and references.
 
 Current projects:
 
