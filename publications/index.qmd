@@ -61,7 +61,7 @@ toc-location: right
 
 ## Accepted
 
-- Schmitt M., Pratz V., Köthe U., **Bürkner P. C.**, & Radev S. T. (in review). Consistency Models for Scalable and Fast Simulation-Based Inference. *Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)*.
+- Schmitt M., Pratz V., Köthe U., **Bürkner P. C.**, & Radev S. T. (accepted). Consistency Models for Scalable and Fast Simulation-Based Inference. *Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)*.
 [Preprint](https://arxiv.org/abs/2312.05440){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Shi L., **Bürkner P. C.**, & Bulling A. (accepted). ActionDiffusion: An Action-aware Diffusion Model for Procedure Planning in Instructional Videos. *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*.
