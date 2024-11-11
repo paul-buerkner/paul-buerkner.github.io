@@ -415,6 +415,12 @@ Publications:
 
 <!-- -->
 
+<br /> 
+<br /> 
+
+## Completed Projects
+
+::: {.callout-note icon=false collapse="true"}
 ## Machine Learning for Bayesian Model Building {#ml4bmb}
 
 ![](../images/pad-model-taxonomy.png){width=80% fig-alt="An illustration of the PAD model taxonomy." fig-align="center"}
@@ -439,7 +445,7 @@ Overarching Topics:
 [Model Comparison](../research#model-comparison){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Project Members: [Maximilian Scholz](../people#maximilian-scholz){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+Project Members: Maximilian Scholz
 
 Funders: [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -470,3 +476,4 @@ Software:
 - bayesim: Simulations for Bayesian models [GitHub](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 - bayeshear: Metrics for evaluating Bayesian models [GitHub](https://github.com/sims1253/bayeshear){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 - bayesfam: Custom families for brms [GitHub](https://github.com/sims1253/bayesfam){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+:::

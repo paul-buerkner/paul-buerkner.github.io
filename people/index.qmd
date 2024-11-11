@@ -159,30 +159,6 @@ Project: [Bayesian Distributional Latent Variable Models](../projects#bdlvms)
 
 ---
 
-<!-- Jacob Grytzka -->
-
-::: {.grid}
-::: {.g-col-12 .g-col-md-3}
-<br /> 
-![](../images/jacob-grytzka.png){width=100% fig-alt="A portrait of Jacob Grytzka."}
-:::
-::: {.g-col-12 .g-col-md-9}
-### Jacob Grytzka {#jacob-grytzka}
----
-
-Background: Statistics
-
-Project: Regularization in Generalized Linear and Additive Multilevel Models
-
-Co-Supervisor: [Andreas Groll](https://bd.statistik.tu-dortmund.de/professur/arbeitsgruppe/prof-dr-andreas-groll/)
-
-[Email](mailto:jacob.grytzka@tu-dortmund.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[University Website](https://bd.statistik.tu-dortmund.de/professur/arbeitsgruppe/msc-jacob-grytzka/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-:::
-:::
-
----
-
 <!-- Svenja Jedhoff -->
 
 ::: {.grid}
@@ -326,38 +302,19 @@ Project: [Meta-Uncertainty in Bayesian Model Comparison](../projects#mu-bmb)
 
 ---
 
-<!-- Maximilian Scholz -->
-
-::: {.grid}
-::: {.g-col-12 .g-col-md-3}
-<br /> 
-![](../images/maximilian-scholz.png){width=100% fig-alt="A portrait of Maximilian Scholz."}
-:::
-::: {.g-col-12 .g-col-md-9}
-### Maximilian Scholz {#maximilian-scholz}
----
-
-Background: Computer- and Software Engineering
-
-Project: [Machine Learning for Bayesian Model Building](../projects#ml4bmb)
-
-[Email](mailto:maximilian.scholz@simtech.uni-stuttgart.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Personal Website](https://www.scholzmx.com/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[University Website](https://www.simtech.uni-stuttgart.de/exc/people/Scholz-00007/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[GitHub](https://github.com/sims1253){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-:::
-:::
-
----
-
 <br /> 
 <br /> 
 
+
+::: {.callout-note icon=false collapse="true"}
 ## Alumni
 
-- Stefan Radev (2021 -- 2023): PostDoc in my lab before becoming assistant professor at Rensselaer Polytechnic Institute, Troy, USA.
+- Maximilian Scholz (2021 -- 2024): PhD Student in my lab before moving to industry.
+[Personal Website](https://www.scholzmx.com/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[GitHub](https://github.com/sims1253){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Stefan Radev (2021 -- 2023): PostDoc in my lab before becoming assistant professor.
 [University Website](https://faculty.rpi.edu/stefan-radev){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [GitHub](https://github.com/stefanradev93){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Linkedin](https://de.linkedin.com/in/stefan-radev-21b713187){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
----
+:::
