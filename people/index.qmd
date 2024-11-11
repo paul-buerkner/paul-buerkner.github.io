@@ -313,7 +313,7 @@ Project: [Meta-Uncertainty in Bayesian Model Comparison](../projects#mu-bmb)
 [Personal Website](https://www.scholzmx.com/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [GitHub](https://github.com/sims1253){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Stefan Radev (2021 -- 2023): PostDoc in my lab before becoming assistant professor.
+- Stefan Radev (2021 -- 2023): PostDoc in my lab before becoming an assistant professor.
 [University Website](https://faculty.rpi.edu/stefan-radev){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [GitHub](https://github.com/stefanradev93){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Linkedin](https://de.linkedin.com/in/stefan-radev-21b713187){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
