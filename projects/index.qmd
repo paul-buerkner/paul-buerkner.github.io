@@ -5,6 +5,9 @@ toc-location: right
 page-layout: full
 ---
 
+Here you can find an overview of my current research projects. A list
+of past research projects can be found at the bottom of this page. 
+
 ## BayesFlow: Simulation Intelligence with Deep Learning {#bayesflow-software}
 
 Simulation intelligence (SI) subsumes an emerging generation of scientific methods which utilize digital simulations for emulating and understanding complex real-world systems and phenomena. Recently, neural networks and deep learning have demonstrated a great potential for accelerating and scaling up SI to previously intractable problems and data sets. However, the availability of user-friendly software is still limited, which hampers the widespread and flexible use of modern SI methods. 
