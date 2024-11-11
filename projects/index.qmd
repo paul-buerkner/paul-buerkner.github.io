@@ -418,7 +418,7 @@ Publications:
 <br /> 
 <br /> 
 
-## Completed Projects
+## Past Projects
 
 ::: {.callout-note icon=false collapse="true"}
 ## Machine Learning for Bayesian Model Building {#ml4bmb}
