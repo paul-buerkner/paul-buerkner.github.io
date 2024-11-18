@@ -67,6 +67,8 @@ toc-location: right
 - Shi L., **Bürkner P. C.**, & Bulling A. (accepted). ActionDiffusion: An Action-aware Diffusion Model for Procedure Planning in Instructional Videos. *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*.
 [Preprint](https://arxiv.org/abs/2403.08591){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Ingram D. J., Froese G. Z. L., Carroll D., **Bürkner P. C.**, ..., Abernethy K., & Coad L. (accepted). Regional patterns of wild animal hunting in African tropical forests. *Nature Sustainability*.
+
 - Bagaïni A., Liu Y., Kapoor M., Son G., **Bürkner P. C.**, Tisdall L., & Mata R. (accepted). Comparing the Temporal Stability and Convergent Validity of Risk Preference Measures: A Meta-Analytic Approach. *Nature Human Behavior*.
 [Preprint](https://psyarxiv.com/d7nuj/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/5kzgd/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
