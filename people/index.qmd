@@ -172,10 +172,12 @@ Project: [Bayesian Distributional Latent Variable Models](../projects#bdlvms)
 
 Background: Data Science
 
-Project: Real-time spatio-temporal data analysis for monitoring logistics networks
+Project: 
+[Real-Time Spatio-Temporal Data Analysis for Monitoring Logistics Networks](../projects#abi-logistics)
 
 Co-Supervisor: [Anne Meyer](https://www.imi.kit.edu/2002_4097.php)
 
+[Email](mailto:svenja.jedhoff@tu-dortmund.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 :::
 :::
 
@@ -218,7 +220,7 @@ Co-Supervisor: [Stefan Radev](https://faculty.rpi.edu/stefan-radev)
 
 Background: Physics and Data Science
 
-Project: Robust Amortized Bayesian Inference
+Project: [BayesFlow: Simulation Intelligence with Deep Learning](../projects#bayesflow-software)
 
 [Email](mailto:aayush.mishra@tu-dortmund.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Linkedin](https://www.linkedin.com/in/aayush-mishra-64a4a11b9/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}

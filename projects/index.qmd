@@ -8,6 +8,43 @@ page-layout: full
 Here you can find an overview of my current research projects. A list
 of past research projects can be found at the bottom of this page. 
 
+## Real-Time Spatio-Temporal Data Analysis for Monitoring Logistics Networks {#abi-logistics}
+
+In complex logistics and supply chain networks, the acquisition of tracking data representing the
+flow of entities through the networks has become state of the art. 
+The goal of
+tracking entities is to improve transparency and predict the state of the network. An important
+value for operations is the estimated time of arrival of entities at different nodes of the network.
+The respective business goal determines the requirements for the forecasting procedure: it might
+be necessary to detect a delay in a container ship transport as early as possible (weeks before
+the arrival) to be able to send a replacement for urgent parts by air. Or it might be necessary to
+predict the arrival of trucks within the next hour as accurately as possible to manage the traffic
+at logistics sites. However, acquiring data is costly in terms of money, energy used by sensors,
+and required IT infrastructure. 
+
+In this project, we will develop new methods for predicting
+arrival times in complex logistics networks (e.g., multi-modal transport networks). 
+Our methods will enable (a) the integration of different data types,
+e.g., event, weather, and tracing data, (b) the ability to cope with changes in the underlying
+logistics network in real-time, and (c) the ability to communicate uncertainty in predictions,
+especially in case of tracing data or weather forecasts of limited reliability. 
+
+This project is part of the [Collaborative Research Center 391](https://trr391.tu-dortmund.de/) funded by the German Research Foundation.
+
+Overarching Topics: 
+[Amortized Inference](../research#abi){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+Project Members: 
+[Svenja Jedhoff](../people#svenja-jedhoff){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+Funders: 
+[German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+Funding Period: 2024 -- 2028
+
+
 ## BayesFlow: Simulation Intelligence with Deep Learning {#bayesflow-software}
 
 Simulation intelligence (SI) subsumes an emerging generation of scientific methods which utilize digital simulations for emulating and understanding complex real-world systems and phenomena. Recently, neural networks and deep learning have demonstrated a great potential for accelerating and scaling up SI to previously intractable problems and data sets. However, the availability of user-friendly software is still limited, which hampers the widespread and flexible use of modern SI methods. 
@@ -19,9 +56,13 @@ Overarching Topics:
 [Machine-Assisted Workflows](../research#machine-workflow){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Project Members: [Lars Kühmichel](../people#lars-kuehmichel){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+Project Members: 
+[Lars Kühmichel](../people#lars-kuehmichel){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Aayush Mishra](../people#aayush-mishra){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Funders: [German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+Funders: 
+[German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funding Period: 2024 -- 2027
 
@@ -43,9 +84,11 @@ Overarching Topics:
 [Latent Variable Modeling](../research#lvm){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Project Members: [Šimon Kucharský](../people#simon-kucharsky){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+Project Members: 
+[Šimon Kucharský](../people#simon-kucharsky){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Funders: [TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+Funders: 
+[TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funding Period: 2024 -- 2027
 
