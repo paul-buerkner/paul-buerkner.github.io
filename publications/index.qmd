@@ -65,6 +65,8 @@ toc-location: right
 [Preprint](https://osf.io/preprints/socarxiv/wd5hp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/tpywu/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Revathe T., Mundry R., Utami-Atmoko S. S., Aprilla T. U., van Noordwijk M. A., Fröhlich M., **Bürkner P. C.**, Schuppli C. (in review). Sumatran orangutan mothers differ in the extent and trajectory of their expression of maternal behaviour. *bioXiv preprint*. [Preprint](https://www.biorxiv.org/content/10.1101/2024.11.25.625129v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 ## Accepted
 
 - Schmitt M., Pratz V., Köthe U., **Bürkner P. C.**, & Radev S. T. (accepted). Consistency Models for Scalable and Fast Simulation-Based Inference. *Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)*.
