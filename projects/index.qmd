@@ -208,6 +208,11 @@ Funding Period: 2022 -- 2025
 
 Publications: 
 
+- Bockting F., Radev S. T., & Bürkner P. C. (in review). Expert-elicitation method for non-parametric joint priors using normalizing flows. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2411.15826){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code](https://github.com/florence-bockting/prior_elicitation/tree/main/elicit/manuscript_non_parametric_joint_prior){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Data](https://osf.io/xrzh6/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Bockting F., Radev S. T., & Bürkner P. C. (2024). Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models. *Scientific Reports*. doi:10.1038/s41598-024-68090-7
 [PDF](../publications/pdf/2024__Bockting_et_al__Scientific_Reports.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://www.nature.com/articles/s41598-024-68090-7){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -296,6 +301,10 @@ Funding Period: 2022 -- 2025
 
 Publications: 
 
+- Reiser P., Bürkner P. C., & Guthke A. (in review). Bayesian Surrogate Training on Multiple Data Sources: A Hybrid Modeling Strategy. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2412.11875){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/philippreiser/multi-data-source-bayesian-surrogate-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Reiser P., Aguilar J. E., Guthke A., & Bürkner P. C. (in review). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2312.05153){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/philippreiser/bayesian-surrogate-uncertainty-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -342,7 +351,7 @@ Project Members: [Marvin Schmitt](../people#marvin-schmitt){.btn .btn-outline-pr
 
 Funders: [Cyber Valley Research Fund](https://cyber-valley.de/en/research-fund){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Funding Period: 2021 -- 2024
+Funding Period: 2021 -- 2025
 
 Publications: 
 
@@ -354,8 +363,19 @@ Publications:
 [Software](https://github.com/marvinschmitt/ggsimplex){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Tutorial](https://www.marvinschmitt.com/blog/ggsimplex-prerelease/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Schmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (in review). Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2406.03154){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/marvinschmitt/ModelMisspecificationBF){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Habermann D., Schmitt M., Kühmichel L., Bulling A., Radev S. T., & Bürkner P. C. (in review). Amortized Bayesian Multilevel Models. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Schmitt M., Pratz V., Köthe U., Bürkner P. C., & Radev S. T. (accepted). Consistency Models for Scalable and Fast Simulation-Based Inference. *Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)*.
 [Preprint](https://arxiv.org/abs/2312.05440){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Schmitt M., Li C., Vehtari A., Acerbi L., Bürkner P. C., Radev S. T. (2024). Amortized Bayesian Workflow (Extended Abstract). *NeurIPS Workshop on Bayesian Decision-Making and Uncertainty*.
+[PDF](pdf/2024__Schmitt_et_al__NeurIPS_BDU_workshop.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2409.04332){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Schmitt M., Ivanova D. R., Habermann D., Köthe U., Bürkner P. C., & Radev S. T. (2024). Leveraging Self-Consistency for Data-Efficient Amortized
 Bayesian Inference. *Proceedings of the International Conference on Machine Learning (ICML)*.
@@ -503,13 +523,15 @@ Publications:
 [Preprint](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/sims1253/implicit-priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Scholz M. & Bürkner P. C. (in review). Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models. *ArXiv preprint*.
+- Scholz M. & Bürkner P. C. (accepted). Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models. *Journal of Statistical Computation and Simulation*.
 [Preprint](https://arxiv.org/abs/2210.06927){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/xgkzv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Software](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Scholz M. & Bürkner P. C. (in review). Posterior accuracy and calibration under misspecification in Bayesian generalized linear models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2311.09081){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/tmdcf/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Software](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Bürkner P. C., Scholz M., & Radev S. T. (2023). Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy. *Statistics Surveys*.
 doi:10.1214/23-SS145
