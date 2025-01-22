@@ -27,6 +27,9 @@ toc-location: right
 - Habermann D., Schmitt M., Kühmichel L., Bulling A., Radev S. T., & **Bürkner P. C.** (in review). Amortized Bayesian Multilevel Models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Šimon Kucharský & **Bürkner P. C.** (in review). Amortized Bayesian Mixture Models. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2501.10229){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Mukherjee S., Claassen M., **Bürkner P. C.** (in review). DGP-LVM: Derivative Gaussian process latent variable models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2404.04074){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/Soham6298/DGP-LVM){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -56,10 +59,6 @@ toc-location: right
 [Code & Data](https://osf.io/tmdcf/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Magnusson M., Torgander J., **Bürkner P. C.**, Zhang L., Carpenter B., & Vehtari A. (in review). posteriordb: Testing, Benchmarking and Developing Bayesian Inference Algorithms. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2407.04967){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Software](https://github.com/stan-dev/posteriordb/tree/v1.0){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Kołczyńska M., & **Bürkner P. C.** (in review). Does political trust strengthen democracy? *SocArXiv preprint*. 
 [Preprint](https://osf.io/preprints/socarxiv/wd5hp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/tpywu/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -71,10 +70,9 @@ toc-location: right
 - Schmitt M., Pratz V., Köthe U., **Bürkner P. C.**, & Radev S. T. (accepted). Consistency Models for Scalable and Fast Simulation-Based Inference. *Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)*.
 [Preprint](https://arxiv.org/abs/2312.05440){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Scholz M. & **Bürkner P. C.** (accepted). Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models. *Journal of Statistical Computation and Simulation*.
-[Preprint](https://arxiv.org/abs/2210.06927){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://osf.io/xgkzv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Software](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+- Magnusson M., Torgander J., **Bürkner P. C.**, Zhang L., Carpenter B., & Vehtari A. (accepted). posteriordb: Testing, Benchmarking and Developing Bayesian Inference Algorithms. *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
+[Preprint](https://arxiv.org/abs/2407.04967){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Software](https://github.com/stan-dev/posteriordb/tree/v1.0){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Shi L., **Bürkner P. C.**, & Bulling A. (accepted). ActionDiffusion: An Action-aware Diffusion Model for Procedure Planning in Instructional Videos. *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*.
 [Preprint](https://arxiv.org/abs/2403.08591){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -87,6 +85,13 @@ toc-location: right
 [Code & Data](https://osf.io/5kzgd/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## 2025
+
+- Scholz M. & **Bürkner P. C.** (2025). Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models. *Journal of Statistical Computation and Simulation*. doi:10.1080/00949655.2024.2449534
+[PDF](pdf/2025__Scholz_Buerkner__Journal_of_Statistical_Computation_and_Simulation.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://www.tandfonline.com/doi/full/10.1080/00949655.2024.2449534){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2210.06927){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://osf.io/xgkzv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Software](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Ingram D. J., Froese G. Z. L., Carroll D., **Bürkner P. C.**, ..., Abernethy K., & Coad L. (2025). Regional patterns of wild animal hunting in African tropical forests. *Nature Sustainability*. doi:10.1038/s41893-024-01494-5
 [PDF](pdf/2025__Ingram_et_al__Nature_Sustainability.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
