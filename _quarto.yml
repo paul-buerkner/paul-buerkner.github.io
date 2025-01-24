@@ -51,9 +51,6 @@ website:
       - text: "{{< iconify fa6-brands bluesky >}}"
         aria-label: bluesky
         href: https://bsky.app/profile/paul-buerkner.bsky.social
-      # - icon: twitter
-      #  aria-label: twitter
-      #  href: https://twitter.com/paulbuerkner
       # - icon: mastodon
       #   aria-label: mastodon
       #   href: https://fosstodon.org/@paul_buerkner

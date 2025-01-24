@@ -27,7 +27,7 @@ Position: Full Professor for Computational Statistics
 [University Website](https://compstat.statistik.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [GitHub](https://github.com/paul-buerkner){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Google Scholar](https://scholar.google.com/citations?user=JSj6m1IAAAAJ&hl){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Twitter](https://twitter.com/paulbuerkner){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Bluesky](https://bsky.app/profile/paulbuerkner.com){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 :::
 :::
 

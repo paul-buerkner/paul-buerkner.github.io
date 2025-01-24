@@ -11,7 +11,7 @@
     "href": "people/index.html#principal-investigator",
     "title": "People",
     "section": "Principal Investigator",
-    "text": "Principal Investigator\n\n\n\n \n\n\nPaul Bürkner\n\nBackground: Statistics, Mathematics, and Psychology\nPosition: Full Professor for Computational Statistics\nEmail University Website GitHub Google Scholar Twitter"
+    "text": "Principal Investigator\n\n\n\n \n\n\nPaul Bürkner\n\nBackground: Statistics, Mathematics, and Psychology\nPosition: Full Professor for Computational Statistics\nEmail University Website GitHub Google Scholar Bluesky"
   },
   {
     "objectID": "people/index.html#postdocs",
@@ -294,6 +294,13 @@
     "text": "2016\n\nBürkner P. C., Doebler P., & Holling H. (2016). Optimal design of the Wilcoxon-Mann-Whitney-test. Biometrical Journal. doi:10.1002/bimj.201600022 PDF Journal Preprint\nBenda N., Bürkner P. C., Freise F., Holling H., & Schwabe R. (2016). Adaptive Designs for Quantal Dose-Response Experiments with False Answers. Journal of Statistical Theory and Practice. doi:10.1080/15598608.2016.1213209 PDF Journal"
   },
   {
+    "objectID": "publications/index.html#section-10",
+    "href": "publications/index.html#section-10",
+    "title": "Scientific Publications",
+    "section": "2014",
+    "text": "2014\n\nBürkner P. C. & Doebler P. (2014). Testing for Publication Bias in Diagnostic Meta-Analysis: A Simulation Study. Statistics in Medicine. doi:10.1002/sim.6177 PDF Journal Preprint"
+  },
+  {
     "objectID": "theses/index.html",
     "href": "theses/index.html",
     "title": "Thesis Topics",
@@ -355,12 +362,5 @@
     "title": "Open Positions",
     "section": "",
     "text": "If you are interested in joining my lab at as a PhD student or PostDoc, please reach out to me at any point; even if there is currently no announced open position available that you think matches your profile. The same goes if you are a student looking for a student assistant position.\n\nThere are currently no officially announced open positions, but remember that you can just contact me at any point to ask for opportunities."
-  },
-  {
-    "objectID": "publications/index.html#section-10",
-    "href": "publications/index.html#section-10",
-    "title": "Scientific Publications",
-    "section": "2014",
-    "text": "2014\n\nBürkner P. C. & Doebler P. (2014). Testing for Publication Bias in Diagnostic Meta-Analysis: A Simulation Study. Statistics in Medicine. doi:10.1002/sim.6177 PDF Journal Preprint"
   }
 ]
