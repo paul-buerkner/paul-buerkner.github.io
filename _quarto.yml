@@ -50,7 +50,7 @@ website:
         href: https://scholar.google.com/citations?user=JSj6m1IAAAAJ&hl
       - text: "{{< iconify fa6-brands bluesky >}}"
         aria-label: bluesky
-        href: https://bsky.app/profile/paul-buerkner.bsky.social
+        href: https://bsky.app/profile/paulbuerkner.com
       # - icon: mastodon
       #   aria-label: mastodon
       #   href: https://fosstodon.org/@paul_buerkner

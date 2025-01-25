@@ -20,7 +20,7 @@ about:
       href: https://scholar.google.com/citations?user=JSj6m1IAAAAJ&hl
     - text: "{{< iconify fa6-brands bluesky >}} Bluesky"
       aria-label: bluesky
-      href: https://bsky.app/profile/paul-buerkner.bsky.social
+      href: https://bsky.app/profile/paulbuerkner.com
 aliases:
   - /about
 ---
