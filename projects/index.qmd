@@ -47,6 +47,8 @@ Funding Period: 2024 -- 2028
 
 ## BayesFlow: Simulation Intelligence with Deep Learning {#bayesflow-software}
 
+![](../images/bayesflow_overview.png){width=80% fig-align="center" fig-alt="An illustration of amortized mixture models."}
+
 Simulation intelligence (SI) subsumes an emerging generation of scientific methods which utilize digital simulations for emulating and understanding complex real-world systems and phenomena. Recently, neural networks and deep learning have demonstrated a great potential for accelerating and scaling up SI to previously intractable problems and data sets. However, the availability of user-friendly software is still limited, which hampers the widespread and flexible use of modern SI methods. 
 
 In this project, we focus on software for amortized Bayesian inference, which is an essential part of SI. The hallmark feature of amortized Bayesian inference is an upfront training phase (e.g., of a neural network), which is then amortized by a nearly instant fully Bayesian inference for an arbitrary number of data sets during test time. Concretely, we aim to advance the [BayesFlow research software library](../software#bayesflow) into becoming the long-term, gold-standard software for amortized Bayesian inference. 
@@ -71,8 +73,13 @@ Publications:
 - Habermann D., Schmitt M., Kühmichel L., Bulling A., Radev S. T., & Bürkner P. C. (in review). Amortized Bayesian Multilevel Models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Mishra A., Habermann D., Schmitt M., Radev S. T., & Bürkner P. C. (in review). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 
 ## Applications of Amortized Bayesian Inference {#abi-applications}
+
+![](../images/mixture_networks_forward.png){width=80% fig-align="center" fig-alt="An illustration of amortized mixture models." fig-align="left"}
 
 Recent developments in simulation-based amortized inference have ushered in new possibilities for conducting principled Bayesian analysis. The simulation-based approach unlocks the potential of complex models whose likelihoods or priors are not analytically tractable. Amortized approaches make the required computations relatively fast, thus allowing for the deployment of intricate models in scenarios that were hitherto deemed unfeasible or inconvenient. 
 Nevertheless, the novelty of this approach poses a challenge, as its widespread adoption hinges on the availability of user-friendly documentation and resources that simplify entry into the field, as well as empirical examples that validate the method’s usefulness for the practical researchers.
@@ -91,6 +98,11 @@ Funders:
 [TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funding Period: 2024 -- 2027
+
+Publications:
+
+- Kucharský Š. & Bürkner P. C. (in review). Amortized Bayesian Mixture Models. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2501.10229){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 
 ## Amortized Bayesian Inference for Multilevel Models {#amortized-mlms}
@@ -116,6 +128,9 @@ Publications:
 
 - Habermann D., Schmitt M., Kühmichel L., Bulling A., Radev S. T., & Bürkner P. C. (in review). Amortized Bayesian Multilevel Models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Mishra A., Habermann D., Schmitt M., Radev S. T., & Bürkner P. C. (in review). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Schmitt M., Ivanova D. R., Habermann D., Köthe U., Bürkner P. C., & Radev S. T. (2024). Leveraging Self-Consistency for Data-Efficient Amortized
 Bayesian Inference. *Proceedings of the International Conference on Machine Learning (ICML)*.
@@ -370,6 +385,9 @@ Publications:
 - Habermann D., Schmitt M., Kühmichel L., Bulling A., Radev S. T., & Bürkner P. C. (in review). Amortized Bayesian Multilevel Models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Mishra A., Habermann D., Schmitt M., Radev S. T., & Bürkner P. C. (in review). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Schmitt M., Pratz V., Köthe U., Bürkner P. C., & Radev S. T. (accepted). Consistency Models for Scalable and Fast Simulation-Based Inference. *Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)*.
 [Preprint](https://arxiv.org/abs/2312.05440){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -523,14 +541,16 @@ Publications:
 [Preprint](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/sims1253/implicit-priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Scholz M. & Bürkner P. C. (accepted). Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models. *Journal of Statistical Computation and Simulation*.
-[Preprint](https://arxiv.org/abs/2210.06927){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://osf.io/xgkzv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Software](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Scholz M. & Bürkner P. C. (in review). Posterior accuracy and calibration under misspecification in Bayesian generalized linear models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2311.09081){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/tmdcf/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Software](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Scholz M. & Bürkner P. C. (2025). Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models. *Journal of Statistical Computation and Simulation*. doi:10.1080/00949655.2024.2449534
+[PDF](pdf/2025__Scholz_Buerkner__Journal_of_Statistical_Computation_and_Simulation.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://www.tandfonline.com/doi/full/10.1080/00949655.2024.2449534){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2210.06927){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://osf.io/xgkzv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Bürkner P. C., Scholz M., & Radev S. T. (2023). Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy. *Statistics Surveys*.
