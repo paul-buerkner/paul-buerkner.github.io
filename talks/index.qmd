@@ -8,6 +8,13 @@ Below you can find a list of selected talks and posters of me and my group,
 along with slides, paper references, and recordings when available.
 Presenters are highlighted in **bold**.
 
+- **Bürkner P. C.** (2025). 
+Invited talk: Amortized Mixture and Multilevel Models.
+Present at [One World Approximate Bayesian Inference Seminar](https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/abcworldseminar/).
+[Slides](pdf/ABI_mixture_multilevel_models.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Paper: Mixture Models](https://arxiv.org/abs/2501.10229){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Paper: Multilevel Models](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - **Schmitt M.**, Ivanova D. R., Habermann D., Köthe U., Bürkner P. C., & Radev S. T. (2024). 
 Poster: Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference. 
 Presented at [ICML](https://icml.cc/Conferences/2024).
