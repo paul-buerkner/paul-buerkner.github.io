@@ -80,9 +80,6 @@ toc-location: right
 - Shi L., **Bürkner P. C.**, & Bulling A. (accepted). ActionDiffusion: An Action-aware Diffusion Model for Procedure Planning in Instructional Videos. *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*.
 [Preprint](https://arxiv.org/abs/2403.08591){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Dubova, M., Chandramouli, S., Gigerenzer, G., ..., Wagenmarkers E. J., **Bürkner P. C.**, & Sloman, S. (accepted). Is Occam’s razor losing its edge? New perspectives on the principle of model parsimony. *Proceedings of the National Academy of Sciences (PNAS)*.
-[Preprint](https://osf.io/preprints/metaarxiv/bs5xe){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Bagaïni A., Liu Y., Kapoor M., Son G., **Bürkner P. C.**, Tisdall L., & Mata R. (accepted). Comparing the Temporal Stability and Convergent Validity of Risk Preference Measures: A Meta-Analytic Approach. *Nature Human Behavior*.
 [Preprint](https://psyarxiv.com/d7nuj/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/5kzgd/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -95,6 +92,11 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2210.06927){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/xgkzv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Dubova, M., Chandramouli, S., Gigerenzer, G., ..., Wagenmarkers E. J., **Bürkner P. C.**, & Sloman, S. (2025). Is Occam’s razor losing its edge? New perspectives on the principle of model parsimony. *Proceedings of the National Academy of Sciences (PNAS)*. doi:10.1073/pnas.2401230121
+[PDF](pdf/2025__Dubova_et_al__PNAS.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://www.pnas.org/doi/10.1073/pnas.2401230121){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://osf.io/preprints/metaarxiv/bs5xe){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Ingram D. J., Froese G. Z. L., Carroll D., **Bürkner P. C.**, ..., Abernethy K., & Coad L. (2025). Regional patterns of wild animal hunting in African tropical forests. *Nature Sustainability*. doi:10.1038/s41893-024-01494-5
 [PDF](pdf/2025__Ingram_et_al__Nature_Sustainability.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
