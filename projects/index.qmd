@@ -47,7 +47,7 @@ Funding Period: 2024 -- 2028
 
 ## BayesFlow: Simulation Intelligence with Deep Learning {#bayesflow-software}
 
-![](../images/bayesflow_overview.png){width=80% fig-align="center" fig-alt="An illustration of amortized mixture models."}
+![](../images/bayesflow_overview.png){width=80% fig-align="left" fig-alt="An illustration of amortized mixture models."}
 
 Simulation intelligence (SI) subsumes an emerging generation of scientific methods which utilize digital simulations for emulating and understanding complex real-world systems and phenomena. Recently, neural networks and deep learning have demonstrated a great potential for accelerating and scaling up SI to previously intractable problems and data sets. However, the availability of user-friendly software is still limited, which hampers the widespread and flexible use of modern SI methods. 
 
@@ -79,7 +79,7 @@ Publications:
 
 ## Applications of Amortized Bayesian Inference {#abi-applications}
 
-![](../images/mixture_networks_forward.png){width=80% fig-align="center" fig-alt="An illustration of amortized mixture models." fig-align="left"}
+![](../images/mixture_networks_forward.png){width=80% fig-align="left" fig-alt="An illustration of amortized mixture models." fig-align="left"}
 
 Recent developments in simulation-based amortized inference have ushered in new possibilities for conducting principled Bayesian analysis. The simulation-based approach unlocks the potential of complex models whose likelihoods or priors are not analytically tractable. Amortized approaches make the required computations relatively fast, thus allowing for the deployment of intricate models in scenarios that were hitherto deemed unfeasible or inconvenient. 
 Nevertheless, the novelty of this approach poses a challenge, as its widespread adoption hinges on the availability of user-friendly documentation and resources that simplify entry into the field, as well as empirical examples that validate the method’s usefulness for the practical researchers.
@@ -281,7 +281,7 @@ Publications:
 
 ## Data-Integrated Training of Surrogate Models for Uncertainty Quantification {#uncertainty-surrogate-models}
 
-![](../images/uncertainty_prop_workflow.png){width=80% fig-alt="Surrogate uncertainty propagation workflow." fig-align="center"}
+![](../images/uncertainty_prop_workflow.png){width=80% fig-alt="Surrogate uncertainty propagation workflow." fig-align="left"}
 
 Uncertainty quantification is crucial to assess the predictive power and limitations
 of complex systems models. However, in the case of high-dimensional parameter
@@ -507,7 +507,7 @@ Publications:
 ::: {.callout-note icon=false collapse="true"}
 ## Machine Learning for Bayesian Model Building {#ml4bmb}
 
-![](../images/pad-model-taxonomy.png){width=80% fig-alt="An illustration of the PAD model taxonomy." fig-align="center"}
+![](../images/pad-model-taxonomy.png){width=80% fig-alt="An illustration of the PAD model taxonomy." fig-align="left"}
 
 The Bayesian approach to data analysis provides a consistent and flexible way to
 handle uncertainty in all observations, model parameters, and model structure
