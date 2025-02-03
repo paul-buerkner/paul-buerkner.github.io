@@ -15,6 +15,12 @@ Present at [One World Approximate Bayesian Inference Seminar](https://warwick.ac
 [Paper: Mixture Models](https://arxiv.org/abs/2501.10229){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Paper: Multilevel Models](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Schmitt M., **Pratz V.**, Köthe U., Bürkner P. C., & Radev S. T. (2024).
+Poster: Consistency Models for Scalable and Fast Simulation-Based Inference. 
+Presented at [NeurIPS](https://neurips.cc).
+[Poster](pdf/poster_consistency_models_SBI.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Paper](https://arxiv.org/abs/2312.05440){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - **Schmitt M.**, Ivanova D. R., Habermann D., Köthe U., Bürkner P. C., & Radev S. T. (2024). 
 Poster: Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference. 
 Presented at [ICML](https://icml.cc/Conferences/2024).
