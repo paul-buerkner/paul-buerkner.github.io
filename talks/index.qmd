@@ -15,6 +15,12 @@ Present at [One World Approximate Bayesian Inference Seminar](https://warwick.ac
 [Paper: Mixture Models](https://arxiv.org/abs/2501.10229){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Paper: Multilevel Models](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- **Bürkner P. C.** (2025). 
+Invited talk: The future of Bayes and brms with application in biology.
+Presented at the [Department of Biology, University of Bielefeld](https://www.uni-bielefeld.de/(en)/fakultaeten/biologie/index.xml).
+[Slides](pdf/future_of_brms.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Software](../software#brms){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Schmitt M., **Pratz V.**, Köthe U., Bürkner P. C., & Radev S. T. (2024).
 Poster: Consistency Models for Scalable and Fast Simulation-Based Inference. 
 Presented at [NeurIPS](https://neurips.cc).
