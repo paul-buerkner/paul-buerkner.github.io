@@ -62,6 +62,9 @@ toc-location: right
 [Code & Data](https://osf.io/tmdcf/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Säilynoja T., Schmitt M., **Bürkner P. C.**, & Vehtari A. (in review). Posterior SBC: Simulation-Based Calibration Checking Conditional on Data. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2502.03279){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Kołczyńska M., & **Bürkner P. C.** (in review). Does political trust strengthen democracy? *SocArXiv preprint*. 
 [Preprint](https://osf.io/preprints/socarxiv/wd5hp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/tpywu/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -332,7 +335,7 @@ Bayesian Inference. *Proceedings of the International Conference on Machine Lear
 [Preprint](https://psyarxiv.com/j5efn/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/2g76w/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Säilynoja, T., **Bürkner P. C.**, & Vehtari A. (2022). Graphical Test for Discrete Uniformity and its Applications in Goodness of Fit Evaluation and Multiple Sample Comparison. *Statistics and Computing*. doi:10.1007/s11222-022-10090-6 
+- Säilynoja T., **Bürkner P. C.**, & Vehtari A. (2022). Graphical Test for Discrete Uniformity and its Applications in Goodness of Fit Evaluation and Multiple Sample Comparison. *Statistics and Computing*. doi:10.1007/s11222-022-10090-6 
 [PDF](pdf/2022__Sailynoja_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://link.springer.com/article/10.1007/s11222-022-10090-6){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2103.10522){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
