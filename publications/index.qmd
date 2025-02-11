@@ -16,9 +16,6 @@ toc-location: right
 [Code](https://github.com/florence-bockting/prior_elicitation/tree/main/elicit/manuscript_non_parametric_joint_prior){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Data](https://osf.io/xrzh6/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Elsemüller L., Pratz V., von Krause M., Voss A., **Bürkner P. C.**, & Radev S. T. (in review). Does Unsupervised Domain Adaptation Improve the Robustness of Amortized Bayesian Inference? A Systematic Evaluation. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2502.04949){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Fazio L., Scholz M., & **Bürkner P. C.** (in review). Generative Bayesian Modeling with Implicit Priors. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/sims1253/implicit-priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -48,10 +45,6 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2412.11875){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/philippreiser/multi-data-source-bayesian-surrogate-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Säilynoja T., Schmitt M., **Bürkner P. C.**, & Vehtari A. (in review). Posterior SBC: Simulation-Based Calibration Checking Conditional on Data. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2502.03279){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/TeemuSailynoja/posterior-sbc){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Schmitt M., Radev S. T., & **Bürkner P. C.** (in review). Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2311.10671){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -68,6 +61,13 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2311.09081){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/tmdcf/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Elsemüller L., Pratz V., von Krause M., Voss A., **Bürkner P. C.**, & Radev S. T. (in review). Does Unsupervised Domain Adaptation Improve the Robustness of Amortized Bayesian Inference? A Systematic Evaluation. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2502.04949){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Säilynoja T., Schmitt M., **Bürkner P. C.**, & Vehtari A. (in review). Posterior SBC: Simulation-Based Calibration Checking Conditional on Data. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2502.03279){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/TeemuSailynoja/posterior-sbc){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Kołczyńska M., & **Bürkner P. C.** (in review). Does political trust strengthen democracy? *SocArXiv preprint*. 
 [Preprint](https://osf.io/preprints/socarxiv/wd5hp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
