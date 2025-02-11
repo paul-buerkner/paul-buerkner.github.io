@@ -73,7 +73,12 @@ toc-location: right
 [Preprint](https://osf.io/preprints/socarxiv/wd5hp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/tpywu/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Revathe T., Mundry R., Utami-Atmoko S. S., Aprilla T. U., van Noordwijk M. A., Fröhlich M., **Bürkner P. C.**, Schuppli C. (in review). Sumatran orangutan mothers differ in the extent and trajectory of their expression of maternal behaviour. *bioXiv preprint*. [Preprint](https://www.biorxiv.org/content/10.1101/2024.11.25.625129v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+- Revathe T., Mundry R., Utami-Atmoko S. S., Aprilla T. U., van Noordwijk M. A., Fröhlich M., **Bürkner P. C.**, & Schuppli C. (in review). Sumatran orangutan mothers differ in the extent and trajectory of their expression of maternal behaviour. *bioXiv preprint*. 
+[Preprint](https://www.biorxiv.org/content/10.1101/2024.11.25.625129v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Coretta, S. & **Bürkner P. C.** (in review). Bayesian beta regressions with brms in R: A tutorial for phoneticians. *OSF preprint*. 
+[Preprint](https://osf.io/f9rqg_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/stefanocoretta/beta-phon){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## Accepted
 
