@@ -37,10 +37,6 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2404.04074){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/Soham6298/DGP-LVM){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Reiser P., Aguilar J. E., Guthke A., & **Bürkner P. C.** (in review). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2312.05153){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/philippreiser/bayesian-surrogate-uncertainty-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Reiser P., **Bürkner P. C.**, & Guthke A. (in review). Bayesian Surrogate Training on Multiple Data Sources: A Hybrid Modeling Strategy. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2412.11875){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/philippreiser/multi-data-source-bayesian-surrogate-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -81,6 +77,10 @@ toc-location: right
 [Code & Data](https://github.com/stefanocoretta/beta-phon){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## Accepted
+
+- Reiser P., Aguilar J. E., Guthke A., & **Bürkner P. C.** (accepted). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. *Statistics and Computing*.
+[Preprint](https://arxiv.org/abs/2312.05153){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/philippreiser/bayesian-surrogate-uncertainty-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Schmitt M., Pratz V., Köthe U., **Bürkner P. C.**, & Radev S. T. (accepted). Consistency Models for Scalable and Fast Simulation-Based Inference. *Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)*.
 [Preprint](https://arxiv.org/abs/2312.05440){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
