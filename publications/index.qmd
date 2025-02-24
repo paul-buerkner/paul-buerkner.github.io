@@ -20,10 +20,6 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/sims1253/implicit-priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Fazio L. & **Bürkner P. C.** (in review). Gaussian distributional structural equation models: A framework for modeling latent heteroscedasticity. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2404.14124){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/bdlvm-project/gdsem-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Habermann D., Schmitt M., Kühmichel L., Bulling A., Radev S. T., & **Bürkner P. C.** (in review). Amortized Bayesian Multilevel Models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -77,6 +73,10 @@ toc-location: right
 [Code & Data](https://github.com/stefanocoretta/beta-phon){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## Accepted
+
+- Fazio L. & **Bürkner P. C.** (accepted). Gaussian distributional structural equation models: A framework for modeling latent heteroscedasticity. *Multivariate Behavioral Research*.
+[Preprint](https://arxiv.org/abs/2404.14124){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/bdlvm-project/gdsem-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Reiser P., Aguilar J. E., Guthke A., & **Bürkner P. C.** (accepted). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. *Statistics and Computing*.
 [Preprint](https://arxiv.org/abs/2312.05153){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
