@@ -85,9 +85,6 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2407.04967){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/stan-dev/posteriordb/tree/v1.0){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Shi L., **Bürkner P. C.**, & Bulling A. (accepted). ActionDiffusion: An Action-aware Diffusion Model for Procedure Planning in Instructional Videos. *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*.
-[Preprint](https://arxiv.org/abs/2403.08591){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 ## 2025
 
 - Reiser P., Aguilar J. E., Guthke A., & **Bürkner P. C.** (2025). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. *Statistics and Computing*. doi:10.1007/s11222-025-10597-8
@@ -107,6 +104,12 @@ toc-location: right
 [PDF](pdf/2025__Dubova_et_al__PNAS.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://www.pnas.org/doi/10.1073/pnas.2401230121){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://osf.io/preprints/metaarxiv/bs5xe){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Shi L., **Bürkner P. C.**, & Bulling A. (2025). ActionDiffusion: An Action-aware Diffusion Model for Procedure Planning in Instructional Videos. *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*.
+[PDF](pdf/2025__Shi_et_al__WACV.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://openaccess.thecvf.com/content/WACV2025/papers/Shi_ActionDiffusion_An_Action-Aware_Diffusion_Model_for_Procedure_Planning_in_Instructional_WACV_2025_paper.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2403.08591){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://git.hcics.simtech.uni-stuttgart.de/public-projects/ActionDiffusion_WACV2025){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Ingram D. J., Froese G. Z. L., Carroll D., **Bürkner P. C.**, ..., Abernethy K., & Coad L. (2025). Regional patterns of wild animal hunting in African tropical forests. *Nature Sustainability*. doi:10.1038/s41893-024-01494-5
 [PDF](pdf/2025__Ingram_et_al__Nature_Sustainability.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
