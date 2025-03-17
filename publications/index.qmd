@@ -7,10 +7,6 @@ toc-location: right
 
 ## In Review
 
-- Aguilar J. E. & **Bürkner P. C.** (in review). Generalized Decomposition Priors on R2. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2401.10180){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://osf.io/ns2cv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs} 
-
 - Bockting F., Radev S. T., & **Bürkner P. C.** (in review). Expert-elicitation method for non-parametric joint priors using normalizing flows. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2411.15826){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code](https://github.com/florence-bockting/prior_elicitation/tree/main/elicit/manuscript_non_parametric_joint_prior){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -73,6 +69,10 @@ toc-location: right
 [Code & Data](https://github.com/stefanocoretta/beta-phon){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## Accepted
+
+- Aguilar J. E. & **Bürkner P. C.** (accepted). Generalized Decomposition Priors on R2. *Bayesian Analysis*.
+[Preprint](https://arxiv.org/abs/2401.10180){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://osf.io/ns2cv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs} 
 
 - Fazio L. & **Bürkner P. C.** (accepted). Gaussian distributional structural equation models: A framework for modeling latent heteroscedasticity. *Multivariate Behavioral Research*.
 [Preprint](https://arxiv.org/abs/2404.14124){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
