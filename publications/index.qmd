@@ -78,9 +78,6 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2404.14124){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/bdlvm-project/gdsem-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Schmitt M., Pratz V., Köthe U., **Bürkner P. C.**, & Radev S. T. (accepted). Consistency Models for Scalable and Fast Simulation-Based Inference. *Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)*.
-[Preprint](https://arxiv.org/abs/2312.05440){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Magnusson M., Torgander J., **Bürkner P. C.**, Zhang L., Carpenter B., & Vehtari A. (accepted). posteriordb: Testing, Benchmarking and Developing Bayesian Inference Algorithms. *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
 [Preprint](https://arxiv.org/abs/2407.04967){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/stan-dev/posteriordb/tree/v1.0){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -128,6 +125,11 @@ toc-location: right
 [Journal](https://www.nature.com/articles/s41598-024-68090-7){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](http://arxiv.org/abs/2308.11672){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/florence-bockting/PriorLearning){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Schmitt M., Pratz V., Köthe U., **Bürkner P. C.**, & Radev S. T. (2024). Consistency Models for Scalable and Fast Simulation-Based Inference. *Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)*.
+[PDF](pdf/2024__Schmitt_et_al__NeurIPS.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://proceedings.neurips.cc/paper_files/paper/2024/hash/e58026e2b2929108e1bd24cbfa1c8e4b-Abstract-Conference.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2312.05440){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Schmitt M., Ivanova D. R., Habermann D., Köthe U., **Bürkner P. C.**, & Radev S. T. (2024). Leveraging Self-Consistency for Data-Efficient Amortized
 Bayesian Inference. *Proceedings of the International Conference on Machine Learning (ICML)*.
