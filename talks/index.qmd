@@ -8,33 +8,44 @@ Below you can find a list of selected talks and posters of me and my group,
 along with slides, paper references, and recordings when available.
 Presenters are highlighted in **bold**.
 
+- **Aguilar J. E.** & Bürkner P. C. (2025). 
+Contributed talk: *Generalised Decomposition Priors on R2*.
+Presented at [DAG Stat](https://dagstat2025.de/).
+[Slides](pdf/GDR2_priors.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Paper](https://arxiv.org/abs/2401.10180){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- **Jedhoff S.** & Bürkner P. C. (2025). 
+Contributed talk: *Efficient Bayesian Uncertainty Propagation*.
+Presented at [DAG Stat](https://dagstat2025.de/).
+[Slides](pdf/efficient_bayesian_uncertainty_propagation.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - **Bürkner P. C.** (2025). 
-Invited talk: Amortized Mixture and Multilevel Models.
+Invited talk: *Amortized Mixture and Multilevel Models*.
 Presented at [One World Approximate Bayesian Inference Seminar](https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/abcworldseminar/).
 [Slides](pdf/ABI_mixture_multilevel_models.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Mixture Paper](https://arxiv.org/abs/2501.10229){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Multilevel Paper](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Bürkner P. C.** (2025). 
-Invited talk: The future of Bayes and brms with application in biology.
+Invited talk: *The future of Bayes and brms with application in biology*.
 Presented at the [Department of Biology, University of Bielefeld](https://www.uni-bielefeld.de/(en)/fakultaeten/biologie/index.xml).
 [Slides](pdf/future_of_brms.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](../software#brms){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Schmitt M., **Pratz V.**, Köthe U., Bürkner P. C., & Radev S. T. (2024).
-Poster: Consistency Models for Scalable and Fast Simulation-Based Inference. 
+Poster: *Consistency Models for Scalable and Fast Simulation-Based Inference*. 
 Presented at [NeurIPS](https://neurips.cc).
 [Poster](pdf/poster_consistency_models_SBI.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Paper](https://arxiv.org/abs/2312.05440){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Schmitt M.**, Ivanova D. R., Habermann D., Köthe U., Bürkner P. C., & Radev S. T. (2024). 
-Poster: Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference. 
+Poster: *Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference*. 
 Presented at [ICML](https://icml.cc/Conferences/2024).
 [Poster](pdf/poster_self_consistency_ABI.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Paper](https://arxiv.org/abs/2310.04395){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Fazio L., Scholz M., & **Bürkner P. C.** (2024). 
-Contributed talk: Generative Bayesian Modeling with Implicit Priors. 
+Contributed talk: *Generative Bayesian Modeling with Implicit Priors*. 
 Presented at [StanCon](https://mc-stan.org/events/stancon2024/).
 [Slides](pdf/implicit_priors.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Paper](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
