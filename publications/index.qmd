@@ -74,10 +74,6 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2401.10180){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/ns2cv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs} 
 
-- Fazio L. & **Bürkner P. C.** (accepted). Gaussian distributional structural equation models: A framework for modeling latent heteroscedasticity. *Multivariate Behavioral Research*.
-[Preprint](https://arxiv.org/abs/2404.14124){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/bdlvm-project/gdsem-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Magnusson M., Torgander J., **Bürkner P. C.**, Zhang L., Carpenter B., & Vehtari A. (accepted). posteriordb: Testing, Benchmarking and Developing Bayesian Inference Algorithms. *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
 [Preprint](https://arxiv.org/abs/2407.04967){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/stan-dev/posteriordb/tree/v1.0){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -86,6 +82,12 @@ toc-location: right
 [Preprint](https://www.biorxiv.org/content/10.1101/2024.11.25.625129v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## 2025
+
+- Fazio L. & **Bürkner P. C.** (2025). Gaussian distributional structural equation models: A framework for modeling latent heteroscedasticity. *Multivariate Behavioral Research*. doi:10.1080/00273171.2025.2483252
+[PDF](pdf/2025__Fazio_Buerkner__Multivariate_Behavioral_Research.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://www.tandfonline.com/doi/full/10.1080/00273171.2025.2483252){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2404.14124){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/bdlvm-project/gdsem-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Reiser P., Aguilar J. E., Guthke A., & **Bürkner P. C.** (2025). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. *Statistics and Computing*. doi:10.1007/s11222-025-10597-8
 [PDF](pdf/2025__Reiser_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
