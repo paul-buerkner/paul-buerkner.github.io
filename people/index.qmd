@@ -21,7 +21,7 @@ toc-location: right
 
 Background: Statistics, Mathematics, and Psychology
 
-Position: Full Professor for Computational Statistics
+Position: Full Professor of Computational Statistics
 
 [Email](mailto:paul.buerkner@gmail.com){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [University Website](https://compstat.statistik.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
