@@ -81,9 +81,6 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2404.04074){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/Soham6298/DGP-LVM){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Revathe T., Mundry R., Utami-Atmoko S. S., Aprilla T. U., van Noordwijk M. A., Fröhlich M., **Bürkner P. C.**, & Schuppli C. (accepted). Sumatran orangutan mothers differ in the extent and trajectory of their expression of maternal behaviour. *Proceedings of the Royal Society B: Biological Sciences*. 
-[Preprint](https://www.biorxiv.org/content/10.1101/2024.11.25.625129v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 ## 2025
 
 - Fazio L. & **Bürkner P. C.** (2025). Gaussian distributional structural equation models: A framework for modeling latent heteroscedasticity. *Multivariate Behavioral Research*. doi:10.1080/00273171.2025.2483252
@@ -125,6 +122,11 @@ toc-location: right
 [Journal](https://www.nature.com/articles/s41562-024-02085-2){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://psyarxiv.com/d7nuj/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/5kzgd/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Revathe T., Mundry R., Utami-Atmoko S. S., Aprilla T. U., van Noordwijk M. A., Fröhlich M., **Bürkner P. C.**, & Schuppli C. (2025). Sumatran orangutan mothers differ in the extent and trajectory of their expression of maternal behaviour. *Proceedings of the Royal Society B: Biological Sciences*. doi:10.1098/rspb.2025.0443
+[PDF](pdf/2025__Revathe_et_all__Proceedings_B_Biology.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://royalsocietypublishing.org/doi/10.1098/rspb.2025.0443){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://www.biorxiv.org/content/10.1101/2024.11.25.625129v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## 2024
 
