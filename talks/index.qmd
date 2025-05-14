@@ -50,6 +50,12 @@ Presented at [StanCon](https://mc-stan.org/events/stancon2024/).
 [Slides](pdf/implicit_priors.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Paper](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- **Mukherjee S.**, Claassen M., Bürkner P. C. (2024). 
+Contributed talk: *DGP-LVM: Derivative Gaussian process latent variable models*.
+Presented at [ICSDS](https://sites.google.com/view/ims-icsds2024/).
+[Slides](pdf/derivative_gaussian_process_latent_variable_models.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Paper](https://arxiv.org/abs/2404.04074){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - **Bürkner P. C.** (2024). 
 Invited talk: *A Statistical Perspective on Simulation-Based Inference*.
 Presented at [PHYSTAT-SBI](https://indico.cern.ch/event/1355601/).
