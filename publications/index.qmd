@@ -32,6 +32,9 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2412.11875){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/philippreiser/multi-data-source-bayesian-surrogate-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Scheurer S., Reiser P., Brünnette T., Nowak W., Guthke A., & **Bürkner P. C.** (in review). Uncertainty-Aware Surrogate-based Amortized Bayesian Inference for Computationally Expensive Models. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2505.08683){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Schmitt M., Radev S. T., & **Bürkner P. C.** (in review). Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2311.10671){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
