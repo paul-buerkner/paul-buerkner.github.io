@@ -22,6 +22,10 @@ toc-location: right
 - Habermann D., Schmitt M., Kühmichel L., Bulling A., Radev S. T., & **Bürkner P. C.** (in review). Amortized Bayesian Multilevel Models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Jedhoff S., Kutabi H., Meyer A. & **Bürkner P. C.** (in review). Efficient Uncertainty Propagation in Bayesian Two-Step Procedures. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2505.10510){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/sjedhoff/efficient-2step-uncertainty-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Kucharský Š. & **Bürkner P. C.** (in review). Amortized Bayesian Mixture Models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2501.10229){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
