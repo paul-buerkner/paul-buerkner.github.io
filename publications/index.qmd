@@ -10,6 +10,10 @@ toc-location: right
 - **Bürkner P. C.**, Schmitt M., & Radev S. T. (in review). Simulations in Statistical Workflows. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2503.24011){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Aguilar J. E. & **Bürkner P. C.** (in review). Dependency-Aware Shrinkage Priors for High Dimensional Regression.  *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2505.10715){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://osf.io/fuean/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Bockting F., Radev S. T., & **Bürkner P. C.** (in review). Expert-elicitation method for non-parametric joint priors using normalizing flows. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2411.15826){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code](https://github.com/florence-bockting/prior_elicitation/tree/main/elicit/manuscript_non_parametric_joint_prior){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
