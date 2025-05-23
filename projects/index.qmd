@@ -190,7 +190,7 @@ Publications:
 [Preprint](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/sims1253/implicit-priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Fazio L. & **Bürkner P. C.** (2025). Gaussian distributional structural equation models: A framework for modeling latent heteroscedasticity. *Multivariate Behavioral Research*. doi:10.1080/00273171.2025.2483252
+- Fazio L. & Bürkner P. C. (2025). Gaussian distributional structural equation models: A framework for modeling latent heteroscedasticity. *Multivariate Behavioral Research*. doi:10.1080/00273171.2025.2483252
 [PDF](pdf/2025__Fazio_Buerkner__Multivariate_Behavioral_Research.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://www.tandfonline.com/doi/full/10.1080/00273171.2025.2483252){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2404.14124){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
