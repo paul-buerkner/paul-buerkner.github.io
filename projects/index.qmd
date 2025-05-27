@@ -110,6 +110,11 @@ Publications:
 - Kucharský Š. & Bürkner P. C. (in review). Amortized Bayesian Mixture Models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2501.10229){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Kucharský Š. & Bürkner P. C. (2025). Amortized Bayesian Cognitive Modeling with BayesFlow. *PsyArXiv preprint*. doi:10.31234/osf.io/34k6q_v1
+[Preprint](https://osf.io/preprints/psyarxiv/34k6q_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Website](https://kucharssim.github.io/bayesflow-cognitive-modeling-book/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/Kucharssim/bayesflow-cognitive-modeling-book){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 
 ## Amortized Bayesian Inference for Multilevel Models {#amortized-mlms}
 

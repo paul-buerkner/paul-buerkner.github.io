@@ -119,6 +119,11 @@ toc-location: right
 [Journal](https://www.pnas.org/doi/10.1073/pnas.2401230121){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://osf.io/preprints/metaarxiv/bs5xe){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Kucharský Š. & **Bürkner P. C.** (2025). Amortized Bayesian Cognitive Modeling with BayesFlow. *PsyArXiv preprint*. doi:10.31234/osf.io/34k6q_v1
+[Preprint](https://osf.io/preprints/psyarxiv/34k6q_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Website](https://kucharssim.github.io/bayesflow-cognitive-modeling-book/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/Kucharssim/bayesflow-cognitive-modeling-book){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Shi L., **Bürkner P. C.**, & Bulling A. (2025). ActionDiffusion: An Action-aware Diffusion Model for Procedure Planning in Instructional Videos. *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*.
 [PDF](pdf/2025__Shi_et_al__WACV.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://openaccess.thecvf.com/content/WACV2025/papers/Shi_ActionDiffusion_An_Action-Aware_Diffusion_Model_for_Procedure_Planning_in_Instructional_WACV_2025_paper.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
