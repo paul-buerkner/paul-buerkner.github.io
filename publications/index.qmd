@@ -19,7 +19,7 @@ toc-location: right
 [Code](https://github.com/florence-bockting/prior_elicitation/tree/main/elicit/manuscript_non_parametric_joint_prior){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Data](https://osf.io/xrzh6/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Fazio L., Scholz M., & **Bürkner P. C.** (in review). Generative Bayesian Modeling with Implicit Priors. *ArXiv preprint*.
+- Fazio L., Scholz M., & **Bürkner P. C.** (in review). Primed Priors for Simulation-Based Validation of Bayesian Models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/sims1253/implicit-priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -36,7 +36,7 @@ toc-location: right
 - Mishra A., Habermann D., Schmitt M., Radev S. T., & **Bürkner P. C.** (in review). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Mukherjee S., Claassen M., **Bürkner P. C.** (in review). Hilbert space methods for approximating multi-output latent variable Gaussian processes. *ArXiv preprint*.
+- Mukherjee S., Claassen M., & **Bürkner P. C.** (in review). Hilbert space methods for approximating multi-output latent variable Gaussian processes. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2505.16919){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/Soham6298/Latent-variable-HSGPs){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -85,7 +85,7 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2401.10180){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/ns2cv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs} 
 
-- Mukherjee S., Claassen M., **Bürkner P. C.** (accepted). DGP-LVM: Derivative Gaussian process latent variable models. *Statistics and Computing*.
+- Mukherjee S., Claassen M., & **Bürkner P. C.** (accepted). DGP-LVM: Derivative Gaussian process latent variable models. *Statistics and Computing*.
 [Preprint](https://arxiv.org/abs/2404.04074){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/Soham6298/DGP-LVM){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 

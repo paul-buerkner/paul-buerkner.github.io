@@ -191,7 +191,7 @@ Funding Period: 2022 -- 2025
 
 Publications:
 
-- Fazio L., Scholz M., & Bürkner P. C. (in review). Generative Bayesian Modeling with Implicit Priors. *ArXiv preprint*.
+- Fazio L., Scholz M., & Bürkner P. C. (in review). Primed Priors for Simulation-Based Validation of Bayesian Models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/sims1253/implicit-priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -286,11 +286,11 @@ Funding Period: 2022 -- 2025
 
 Publications:
 
-- Mukherjee S., Claassen M., Bürkner P. C. (in review). Hilbert space methods for approximating multi-output latent variable Gaussian processes. *ArXiv preprint*.
+- Mukherjee S., Claassen M., & Bürkner P. C. (in review). Hilbert space methods for approximating multi-output latent variable Gaussian processes. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2505.16919){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/Soham6298/Latent-variable-HSGPs){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Mukherjee S., Claassen M., Bürkner P. C. (accepted). DGP-LVM: Derivative Gaussian process latent variable model. *Statistics and Computing*.
+- Mukherjee S., Claassen M., & Bürkner P. C. (accepted). DGP-LVM: Derivative Gaussian process latent variable model. *Statistics and Computing*.
 [Preprint](https://arxiv.org/abs/2404.04074){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/Soham6298/DGP-LVM){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
