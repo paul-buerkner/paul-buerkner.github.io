@@ -19,7 +19,7 @@ toc-location: right
 [Code](https://github.com/florence-bockting/prior_elicitation/tree/main/elicit/manuscript_non_parametric_joint_prior){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Data](https://osf.io/xrzh6/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Fazio L., Scholz M., & **Bürkner P. C.** (in review). Primed Priors for Simulation-Based Validation of Bayesian Models. *ArXiv preprint*.
+- Fazio L., Scholz M., Aguilar J. E., & **Bürkner P. C.** (in review). Primed Priors for Simulation-Based Validation of Bayesian Models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/sims1253/implicit-priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 

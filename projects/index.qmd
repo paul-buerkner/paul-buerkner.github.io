@@ -191,7 +191,7 @@ Funding Period: 2022 -- 2025
 
 Publications:
 
-- Fazio L., Scholz M., & Bürkner P. C. (in review). Primed Priors for Simulation-Based Validation of Bayesian Models. *ArXiv preprint*.
+- Fazio L., Scholz M., Aguilar J. E., & Bürkner P. C. (in review). Primed Priors for Simulation-Based Validation of Bayesian Models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/sims1253/implicit-priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -511,6 +511,10 @@ Publications:
 - Aguilar J. E. & Bürkner P. C. (in review). Dependency-Aware Shrinkage Priors for High Dimensional Regression.  *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2505.10715){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/fuean/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Fazio L., Scholz M., Aguilar J. E., & Bürkner P. C. (in review). Primed Priors for Simulation-Based Validation of Bayesian Models. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/sims1253/implicit-priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Aguilar J. E. & Bürkner P. C. (accepted). Generalized Decomposition Priors on R2. *Bayesian Analysis*.
 [Preprint](https://arxiv.org/abs/2401.10180){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
