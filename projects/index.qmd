@@ -573,7 +573,7 @@ Funding Period: 2021 -- 2024
 
 Publications:
 
-- Fazio L., Scholz M., & Bürkner P. C. (in review). Generative Bayesian Modeling with Implicit Priors. *ArXiv preprint*.
+- Fazio L., Scholz M., Aguilar J. E., & Bürkner P. C. (in review). Primed Priors for Simulation-Based Validation of Bayesian Models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/sims1253/implicit-priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
