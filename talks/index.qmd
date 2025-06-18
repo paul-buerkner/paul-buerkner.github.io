@@ -8,6 +8,12 @@ Below you can find a list of selected talks and posters of me and my group,
 along with slides, paper references, and recordings when available.
 Presenters are highlighted in **bold**.
 
+- Mishra A., Habermann D., Schmitt M., Radev S. T., & **Bürkner P. C.** (2025). 
+Contributed talk: *Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data*.
+Presented at [BayesComp](https://bayescomp2025.sg/).
+[Slides](pdf/SC_loss_real_data.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Paper](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - **Aguilar J. E.** & Bürkner P. C. (2025). 
 Contributed talk: *Generalised Decomposition Priors on R2*.
 Presented at [DAG Stat](https://dagstat2025.de/).
@@ -18,6 +24,7 @@ Presented at [DAG Stat](https://dagstat2025.de/).
 Contributed talk: *Efficient Bayesian Uncertainty Propagation*.
 Presented at [DAG Stat](https://dagstat2025.de/).
 [Slides](pdf/efficient_bayesian_uncertainty_propagation.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Paper](https://arxiv.org/abs/2505.10510){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Bürkner P. C.** (2025). 
 Invited talk: *Amortized Mixture and Multilevel Models*.
