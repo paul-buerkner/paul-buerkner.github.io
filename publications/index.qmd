@@ -83,11 +83,6 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2401.10180){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/ns2cv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs} 
 
-- Bockting F., Radev S. T., & **Bürkner P. C.** (accepted). Expert-elicitation method for non-parametric joint priors using normalizing flows. *Statistics and Computing*.
-[Preprint](https://arxiv.org/abs/2411.15826){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code](https://github.com/florence-bockting/prior_elicitation/tree/main/elicit/manuscript_non_parametric_joint_prior){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Data](https://osf.io/xrzh6/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Mukherjee S., Claassen M., & **Bürkner P. C.** (accepted). DGP-LVM: Derivative Gaussian process latent variable models. *Statistics and Computing*.
 [Preprint](https://arxiv.org/abs/2404.04074){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/Soham6298/DGP-LVM){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -97,6 +92,13 @@ toc-location: right
 [Software](https://github.com/stan-dev/posteriordb/tree/v1.0){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## 2025
+
+- Bockting F., Radev S. T., & **Bürkner P. C.** (2025). Expert-elicitation method for non-parametric joint priors using normalizing flows. *Statistics and Computing*. doi:0.1007/s11222-025-10665-z
+[PDF](pdf/2025__Bockting_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://link.springer.com/article/10.1007/s11222-025-10665-z){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2411.15826){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code](https://github.com/florence-bockting/prior_elicitation/tree/main/elicit/manuscript_non_parametric_joint_prior){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Data](https://osf.io/xrzh6/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Fazio L. & **Bürkner P. C.** (2025). Gaussian distributional structural equation models: A framework for modeling latent heteroscedasticity. *Multivariate Behavioral Research*. doi:10.1080/00273171.2025.2483252
 [PDF](pdf/2025__Fazio_Buerkner__Multivariate_Behavioral_Research.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
