@@ -14,6 +14,10 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2505.10715){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/fuean/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Bockting F. & **Bürkner P. C.** (in review). elicito: A Python Package for Expert Prior Elicitation. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2506.16830){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Software](https://github.com/florence-bockting/elicito){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Fazio L., Scholz M., Aguilar J. E., & **Bürkner P. C.** (in review). Primed Priors for Simulation-Based Validation of Bayesian Models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/sims1253/implicit-priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
