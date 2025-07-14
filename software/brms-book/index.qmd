@@ -12,13 +12,13 @@ complete and readable state. Below you can download the current version:
 ## FAQ
 
 - When will be complete book be ready?
-  * I am aiming for the second half of 2025 but it may also take a bit longer.
+  * I am aiming for the first half of 2026 but it may also take a bit longer.
   
 - Will the book be freely available online?
   * Yes, I will publish an online version of the book which will be free for non-commercial use. The book will be available also in print and as an ebook published by Chapman and Hall/CRC.
   
 - How can I cite the current version of the book?
-  * Please cite it as: Bürkner P. C. (2024). The brms Book: Applied Bayesian Regression Modelling Using R and Stan (Early Draft). URL: https://paulbuerkner.com/software/brms-book
+  * Please cite it as: Bürkner P. C. (2025). The brms Book: Applied Bayesian Regression Modelling Using R and Stan (Early Draft). URL: https://paulbuerkner.com/software/brms-book
   
 - I have some ideas how to further improve the content of the book. How can I give you feedback?
   * Feedback is very welcome! Just write me an [email](mailto:paul.buerkner@gmail.com?subject=Feedback%20on%20The%20brms%20Book). In the future, I may also host the book's content on a public GitHub repo, but I haven't decided on it yet.
