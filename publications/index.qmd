@@ -10,9 +10,13 @@ toc-location: right
 - **Bürkner P. C.**, Schmitt M., & Radev S. T. (in review). Simulations in Statistical Workflows. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2503.24011){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Aguilar J. E. & **Bürkner P. C.** (in review). Dependency-Aware Shrinkage Priors for High Dimensional Regression.  *ArXiv preprint*.
+- Aguilar J. E. & **Bürkner P. C.** (in review). Dependency-Aware Shrinkage Priors for High Dimensional Regression. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2505.10715){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/fuean/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Aguilar J. E., Kohns D., Vehtari A., & **Bürkner P. C.** (in review). R2 priors for Grouped Variance Decomposition in High-dimensional Regression. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2507.11833){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/jear2412/GroupR2priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Bockting F. & **Bürkner P. C.** (in review). elicito: A Python Package for Expert Prior Elicitation. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2506.16830){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
