@@ -85,21 +85,17 @@ toc-location: right
 [Preprint](https://osf.io/f9rqg_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/stefanocoretta/beta-phon){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+<!--
 ## Accepted
-
-- Aguilar J. E. & **Bürkner P. C.** (accepted). Generalized Decomposition Priors on R2. *Bayesian Analysis*.
-[Preprint](https://arxiv.org/abs/2401.10180){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://osf.io/ns2cv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs} 
-
-- Mukherjee S., Claassen M., & **Bürkner P. C.** (accepted). DGP-LVM: Derivative Gaussian process latent variable models. *Statistics and Computing*.
-[Preprint](https://arxiv.org/abs/2404.04074){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/Soham6298/DGP-LVM){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Magnusson M., Torgander J., **Bürkner P. C.**, Zhang L., Carpenter B., & Vehtari A. (accepted). posteriordb: Testing, Benchmarking and Developing Bayesian Inference Algorithms. *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
-[Preprint](https://arxiv.org/abs/2407.04967){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Software](https://github.com/stan-dev/posteriordb/tree/v1.0){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+-->
 
 ## 2025
+
+- Aguilar J. E. & **Bürkner P. C.** (2025). Generalized Decomposition Priors on R2. *Bayesian Analysis*. doi:10.1214/25-BA1524
+[PDF](pdf/2025__Aguilar_Buerkner__Bayesian_Analysis.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Generalized-Decomposition-Priors-on-R2/10.1214/25-BA1524.full){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2401.10180){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://osf.io/ns2cv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs} 
 
 - Bockting F., Radev S. T., & **Bürkner P. C.** (2025). Expert-elicitation method for non-parametric joint priors using normalizing flows. *Statistics and Computing*. doi:0.1007/s11222-025-10665-z
 [PDF](pdf/2025__Bockting_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -114,6 +110,12 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2404.14124){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/bdlvm-project/gdsem-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Mukherjee S., Claassen M., & **Bürkner P. C.** (2025). DGP-LVM: Derivative Gaussian process latent variable models. *Statistics and Computing*. doi:10.1007/s11222-025-10644-4
+[PDF](pdf/2025__Mukherjee_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://link.springer.com/article/10.1007/s11222-025-10644-4){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2404.04074){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/Soham6298/DGP-LVM){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Reiser P., Aguilar J. E., Guthke A., & **Bürkner P. C.** (2025). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. *Statistics and Computing*. doi:10.1007/s11222-025-10597-8
 [PDF](pdf/2025__Reiser_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://link.springer.com/article/10.1007/s11222-025-10597-8){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -126,6 +128,12 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2210.06927){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/xgkzv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Magnusson M., Torgander J., **Bürkner P. C.**, Zhang L., Carpenter B., & Vehtari A. (2025). posteriordb: Testing, Benchmarking and Developing Bayesian Inference Algorithms. *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
+[PDF](pdf/2025__Magnusson_et_al__AISTATS.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://proceedings.mlr.press/v258/magnusson25a.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2407.04967){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Software](https://github.com/stan-dev/posteriordb/tree/v1.0){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Dubova, M., Chandramouli, S., Gigerenzer, G., ..., Wagenmarkers E. J., **Bürkner P. C.**, & Sloman, S. (2025). Is Occam’s razor losing its edge? New perspectives on the principle of model parsimony. *Proceedings of the National Academy of Sciences (PNAS)*. doi:10.1073/pnas.2401230121
 [PDF](pdf/2025__Dubova_et_al__PNAS.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
