@@ -182,7 +182,7 @@ toc-location: right
 - Schmitt M., Ivanova D. R., Habermann D., Köthe U., **Bürkner P. C.**, & Radev S. T. (2024). Leveraging Self-Consistency for Data-Efficient Amortized
 Bayesian Inference. *Proceedings of the International Conference on Machine Learning (ICML)*.
 [PDF](pdf/2024__Schmitt_et_al__ICML.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Conference](https://openreview.net/forum?id=uoUOz427RD){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Conference](https://proceedings.mlr.press/v235/schmitt24a.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2310.04395){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Kallioinen N., Paananen T., **Bürkner P. C.**, & Vehtari A. (2024). Detecting and diagnosing prior and likelihood sensitivity with power-scaling. *Statistics and Computing*. doi:10.1007/s11222-023-10366-5
