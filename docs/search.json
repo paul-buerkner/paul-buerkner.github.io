@@ -11,21 +11,105 @@
     "href": "people/index.html#principal-investigator",
     "title": "People",
     "section": "Principal Investigator",
-    "text": "Principal Investigator\n\n\n\n \n\n\nPaul Bürkner\n\nBackground: Statistics, Mathematics, and Psychology\nPosition: Full Professor of Computational Statistics\nEmail University Website GitHub Google Scholar Bluesky"
+    "text": "Principal Investigator\n\n\n\n \n\n\n### Paul Bürkner\nBackground: Statistics, Mathematics, and Psychology\nPosition: Full Professor of Computational Statistics\nEmail University Website GitHub Google Scholar Bluesky"
+  },
+  {
+    "objectID": "people/index.html#paul-buerkner",
+    "href": "people/index.html#paul-buerkner",
+    "title": "People",
+    "section": "### Paul Bürkner",
+    "text": "### Paul Bürkner\nBackground: Statistics, Mathematics, and Psychology\nPosition: Full Professor of Computational Statistics\nEmail University Website GitHub Google Scholar Bluesky"
   },
   {
     "objectID": "people/index.html#postdocs",
     "href": "people/index.html#postdocs",
     "title": "People",
     "section": "PostDocs",
-    "text": "PostDocs\n\n\n\n \n\n\nDaniel Habermann\n\nBackground: Computational Biology\nProject: Amortized Bayesian Inference for Multilevel Models\nEmail Personal Website GitHub\n\n\n\n\n\n\n \n\n\nŠimon Kucharský\n\nBackground: Computational Psychology\nProject: Applications of Amortized Bayesian Inference\nEmail Personal Website GitHub"
+    "text": "PostDocs\n\n\n\n \n\n\n### Daniel Habermann\nBackground: Computational Biology\nProject: Amortized Bayesian Inference for Multilevel Models\nEmail Personal Website GitHub\n\n\n\n\n\n\n \n\n\n### Šimon Kucharský\nBackground: Computational Psychology\nProject: Applications of Amortized Bayesian Inference\nEmail Personal Website GitHub"
+  },
+  {
+    "objectID": "people/index.html#daniel-habermann",
+    "href": "people/index.html#daniel-habermann",
+    "title": "People",
+    "section": "### Daniel Habermann",
+    "text": "### Daniel Habermann\nBackground: Computational Biology\nProject: Amortized Bayesian Inference for Multilevel Models\nEmail Personal Website GitHub"
+  },
+  {
+    "objectID": "people/index.html#simon-kucharsky",
+    "href": "people/index.html#simon-kucharsky",
+    "title": "People",
+    "section": "### Šimon Kucharský",
+    "text": "### Šimon Kucharský\nBackground: Computational Psychology\nProject: Applications of Amortized Bayesian Inference\nEmail Personal Website GitHub"
   },
   {
     "objectID": "people/index.html#phd-students",
     "href": "people/index.html#phd-students",
     "title": "People",
     "section": "PhD Students",
-    "text": "PhD Students\n\n\n\n \n\n\nJavier Aguilar\n\nBackground: Mathematics and Statistics\nProject: Intuitive Joint Priors for Bayesian Multilevel Models\nEmail Personal Website GitHub\n\n\n\n\n\n\n \n\n\nFlorence Bockting\n\nBackground: Cognitive Science and Psychology\nProject: Simulation-Based Prior Distributions for Bayesian Models\nEmail Personal Website GitHub\n\n\n\n\n\n\n \n\n\nLuna Fazio\n\nBackground: Biology and Statistics\nProject: Bayesian Distributional Latent Variable Models\nEmail GitHub\n\n\n\n\n\n\n \n\n\nSvenja Jedhoff\n\nBackground: Data Science\nProject: Real-Time Spatio-Temporal Data Analysis for Monitoring Logistics Networks\nCo-Supervisor: Anne Meyer\nEmail\n\n\n\n\n\n\n \n\n\nLars Kühmichel\n\nBackground: Physics and Computer Science\nProject: BayesFlow: Simulation Intelligence with Deep Learning\nCo-Supervisor: Stefan Radev\nEmail GitHub\n\n\n\n\n\n\n \n\n\nAayush Mishra\n\nBackground: Physics and Data Science\nProject: BayesFlow: Simulation Intelligence with Deep Learning\nEmail Linkedin\n\n\n\n\n\n\n \n\n\nSoham Mukherjee\n\nBackground: Statistics\nProject: Probabilistic Models for Single-Cell RNA Sequencing Data\nCo-Supervisor: Manfred Claassen\nEmail University Website Linkedin\n\n\n\n\n\n\n \n\n\nPhilipp Reiser\n\nBackground: Physics and Computer Science\nProject: Data-Integrated Training of Surrogate Models for Uncertainty Quantification\nCo-Supervisor: Anneli Guthke\nEmail University Website GitHub\n\n\n\n\n\n\n \n\n\nMarvin Schmitt\n\nBackground: Psychology and Computer Science\nProject: Meta-Uncertainty in Bayesian Model Comparison\nEmail Personal Website University Website GitHub\n\n\n\n \n\n\n\n\n\n\nAlumni\n\n\n\n\n\n\nMaximilian Scholz (2021 – 2024): PhD Student in my lab before moving to industry. Personal Website GitHub\nStefan Radev (2021 – 2023): PostDoc in my lab before becoming an assistant professor. University Website GitHub Linkedin"
+    "text": "PhD Students\n\n\n\n \n\n\n### Javier Aguilar\nBackground: Mathematics and Statistics\nProject: Intuitive Joint Priors for Bayesian Multilevel Models\nEmail Personal Website GitHub\n\n\n\n\n\n\n \n\n\n### Florence Bockting\nBackground: Cognitive Science and Psychology\nProject: Simulation-Based Prior Distributions for Bayesian Models\nEmail Personal Website GitHub\n\n\n\n\n\n\n \n\n\n### Luna Fazio\nBackground: Biology and Statistics\nProject: Bayesian Distributional Latent Variable Models\nEmail GitHub\n\n\n\n\n\n\n \n\n\n### Svenja Jedhoff\nBackground: Data Science\nProject: Real-Time Spatio-Temporal Data Analysis for Monitoring Logistics Networks\nCo-Supervisor: Anne Meyer\nEmail\n\n\n\n\n\n\n \n\n\n### Lars Kühmichel\nBackground: Physics and Computer Science\nProject: BayesFlow: Simulation Intelligence with Deep Learning\nCo-Supervisor: Stefan Radev\nEmail GitHub\n\n\n\n\n\n\n \n\n\n### Aayush Mishra\nBackground: Physics and Data Science\nProject: BayesFlow: Simulation Intelligence with Deep Learning\nEmail Linkedin\n\n\n\n\n\n\n \n\n\n### Soham Mukherjee\nBackground: Statistics\nProject: Probabilistic Models for Single-Cell RNA Sequencing Data\nCo-Supervisor: Manfred Claassen\nEmail University Website Linkedin\n\n\n\n\n\n\n \n\n\n### Philipp Reiser\nBackground: Physics and Computer Science\nProject: Data-Integrated Training of Surrogate Models for Uncertainty Quantification\nCo-Supervisor: Anneli Guthke\nEmail University Website GitHub\n\n\n\n\n\n\n \n\n\n### Marvin Schmitt\nBackground: Psychology and Computer Science\nProject: Meta-Uncertainty in Bayesian Model Comparison\nEmail Personal Website University Website GitHub\n\n\n\n \n\n\n\n\n\n\nAlumni\n\n\n\n\n\n\nMaximilian Scholz (2021 – 2024): PhD Student in my lab before moving to industry. Personal Website GitHub\nStefan Radev (2021 – 2023): PostDoc in my lab before becoming an assistant professor. University Website GitHub Linkedin"
+  },
+  {
+    "objectID": "people/index.html#javier-aguilar",
+    "href": "people/index.html#javier-aguilar",
+    "title": "People",
+    "section": "### Javier Aguilar",
+    "text": "### Javier Aguilar\nBackground: Mathematics and Statistics\nProject: Intuitive Joint Priors for Bayesian Multilevel Models\nEmail Personal Website GitHub"
+  },
+  {
+    "objectID": "people/index.html#florence-bockting",
+    "href": "people/index.html#florence-bockting",
+    "title": "People",
+    "section": "### Florence Bockting",
+    "text": "### Florence Bockting\nBackground: Cognitive Science and Psychology\nProject: Simulation-Based Prior Distributions for Bayesian Models\nEmail Personal Website GitHub"
+  },
+  {
+    "objectID": "people/index.html#luna-fazio",
+    "href": "people/index.html#luna-fazio",
+    "title": "People",
+    "section": "### Luna Fazio",
+    "text": "### Luna Fazio\nBackground: Biology and Statistics\nProject: Bayesian Distributional Latent Variable Models\nEmail GitHub"
+  },
+  {
+    "objectID": "people/index.html#svenja-jedhoff",
+    "href": "people/index.html#svenja-jedhoff",
+    "title": "People",
+    "section": "### Svenja Jedhoff",
+    "text": "### Svenja Jedhoff\nBackground: Data Science\nProject: Real-Time Spatio-Temporal Data Analysis for Monitoring Logistics Networks\nCo-Supervisor: Anne Meyer\nEmail"
+  },
+  {
+    "objectID": "people/index.html#lars-kuehmichel",
+    "href": "people/index.html#lars-kuehmichel",
+    "title": "People",
+    "section": "### Lars Kühmichel",
+    "text": "### Lars Kühmichel\nBackground: Physics and Computer Science\nProject: BayesFlow: Simulation Intelligence with Deep Learning\nCo-Supervisor: Stefan Radev\nEmail GitHub"
+  },
+  {
+    "objectID": "people/index.html#aayush-mishra",
+    "href": "people/index.html#aayush-mishra",
+    "title": "People",
+    "section": "### Aayush Mishra",
+    "text": "### Aayush Mishra\nBackground: Physics and Data Science\nProject: BayesFlow: Simulation Intelligence with Deep Learning\nEmail Linkedin"
+  },
+  {
+    "objectID": "people/index.html#soham-mukherjee",
+    "href": "people/index.html#soham-mukherjee",
+    "title": "People",
+    "section": "### Soham Mukherjee",
+    "text": "### Soham Mukherjee\nBackground: Statistics\nProject: Probabilistic Models for Single-Cell RNA Sequencing Data\nCo-Supervisor: Manfred Claassen\nEmail University Website Linkedin"
+  },
+  {
+    "objectID": "people/index.html#philipp-reiser",
+    "href": "people/index.html#philipp-reiser",
+    "title": "People",
+    "section": "### Philipp Reiser",
+    "text": "### Philipp Reiser\nBackground: Physics and Computer Science\nProject: Data-Integrated Training of Surrogate Models for Uncertainty Quantification\nCo-Supervisor: Anneli Guthke\nEmail University Website GitHub"
+  },
+  {
+    "objectID": "people/index.html#marvin-schmitt",
+    "href": "people/index.html#marvin-schmitt",
+    "title": "People",
+    "section": "### Marvin Schmitt",
+    "text": "### Marvin Schmitt\nBackground: Psychology and Computer Science\nProject: Meta-Uncertainty in Bayesian Model Comparison\nEmail Personal Website University Website GitHub"
   },
   {
     "objectID": "software/brms-book/index.html",
@@ -207,21 +291,14 @@
     "href": "publications/index.html",
     "title": "Scientific Publications",
     "section": "",
-    "text": "Bürkner P. C., Schmitt M., & Radev S. T. (in review). Simulations in Statistical Workflows. ArXiv preprint. Preprint\nAguilar J. E. & Bürkner P. C. (in review). Dependency-Aware Shrinkage Priors for High Dimensional Regression. ArXiv preprint. Preprint Code & Data\nAguilar J. E., Kohns D., Vehtari A., & Bürkner P. C. (in review). R2 priors for Grouped Variance Decomposition in High-dimensional Regression. ArXiv preprint. Preprint Code & Data\nBockting F. & Bürkner P. C. (in review). elicito: A Python Package for Expert Prior Elicitation. ArXiv preprint. Preprint Software\nFazio L., Scholz M., Aguilar J. E., & Bürkner P. C. (in review). Primed Priors for Simulation-Based Validation of Bayesian Models. ArXiv preprint. Preprint Code & Data\nHabermann D., Schmitt M., Kühmichel L., Bulling A., Radev S. T., & Bürkner P. C. (in review). Amortized Bayesian Multilevel Models. ArXiv preprint. Preprint\nJedhoff S., Kutabi H., Meyer A. & Bürkner P. C. (in review). Efficient Uncertainty Propagation in Bayesian Two-Step Procedures. ArXiv preprint. Preprint Code & Data\nKucharský Š. & Bürkner P. C. (in review). Amortized Bayesian Mixture Models. ArXiv preprint. Preprint\nMishra A., Habermann D., Schmitt M., Radev S. T., & Bürkner P. C. (in review). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. ArXiv preprint. Preprint\nMukherjee S., Claassen M., & Bürkner P. C. (in review). Hilbert space methods for approximating multi-output latent variable Gaussian processes. ArXiv preprint. Preprint Code & Data\nReiser P., Bürkner P. C., & Guthke A. (in review). Bayesian Surrogate Training on Multiple Data Sources: A Hybrid Modeling Strategy. ArXiv preprint. Preprint Code & Data\nScheurer S., Reiser P., Brünnette T., Nowak W., Guthke A., & Bürkner P. C. (in review). Uncertainty-Aware Surrogate-based Amortized Bayesian Inference for Computationally Expensive Models. ArXiv preprint. Preprint\nSchmitt M., Radev S. T., & Bürkner P. C. (in review). Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference. ArXiv preprint. Preprint\nSchmitt M., Hikida Y., Radev S. T., Sadlo F., & Bürkner P. C. (in review). The Simplex Projection: Lossless Visualization of 4D Compositional Data on a 2D Canvas. ArXiv preprint. Preprint Software Tutorial\nSchmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (in review). Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation. ArXiv preprint. Preprint Code & Data\nScholz M. & Bürkner P. C. (in review). Posterior accuracy and calibration under misspecification in Bayesian generalized linear models. ArXiv preprint. Preprint Code & Data Software\nElsemüller L., Pratz V., von Krause M., Voss A., Bürkner P. C., & Radev S. T. (in review). Does Unsupervised Domain Adaptation Improve the Robustness of Amortized Bayesian Inference? A Systematic Evaluation. ArXiv preprint. Preprint\nLi C., Vehtari A., Bürkner P. C., Radev S. T., Acerbi L., & Schmitt M. (in review). Amortized Bayesian Workflow. ArXiv preprint. Preprint\nSäilynoja T., Schmitt M., Bürkner P. C., & Vehtari A. (in review). Posterior SBC: Simulation-Based Calibration Checking Conditional on Data. ArXiv preprint. Preprint Code & Data\nKołczyńska M., & Bürkner P. C. (in review). Does political trust strengthen democracy? SocArXiv preprint. Preprint Code & Data\nCoretta, S. & Bürkner P. C. (in review). Bayesian beta regressions with brms in R: A tutorial for phoneticians. OSF preprint. Preprint Code & Data"
+    "text": "Bürkner P. C., Schmitt M., & Radev S. T. (in review). Simulations in Statistical Workflows. ArXiv preprint. Preprint\nAguilar J. E. & Bürkner P. C. (in review). Dependency-Aware Shrinkage Priors for High Dimensional Regression. ArXiv preprint. Preprint Code & Data\nAguilar J. E., Kohns D., Vehtari A., & Bürkner P. C. (in review). R2 priors for Grouped Variance Decomposition in High-dimensional Regression. ArXiv preprint. Preprint Code & Data\nBockting F. & Bürkner P. C. (in review). elicito: A Python Package for Expert Prior Elicitation. ArXiv preprint. Preprint Software\nFazio L., Scholz M., Aguilar J. E., & Bürkner P. C. (in review). Primed Priors for Simulation-Based Validation of Bayesian Models. ArXiv preprint. Preprint Code & Data\nHabermann D., Schmitt M., Kühmichel L., Bulling A., Radev S. T., & Bürkner P. C. (in review). Amortized Bayesian Multilevel Models. ArXiv preprint. Preprint\nJedhoff S., Kutabi H., Meyer A. & Bürkner P. C. (in review). Efficient Uncertainty Propagation in Bayesian Two-Step Procedures. ArXiv preprint. Preprint Code & Data\nKucharský Š. & Bürkner P. C. (in review). Amortized Bayesian Mixture Models. ArXiv preprint. Preprint\nMishra A., Habermann D., Schmitt M., Radev S. T., & Bürkner P. C. (in review). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. ArXiv preprint. Preprint\nModrák M., Stroppel S., & Bürkner P. C. (in review). Simulation-based validation of Bayes factor computation. ArXiv preprint. Preprint Code & Data\nMukherjee S., Claassen M., & Bürkner P. C. (in review). Hilbert space methods for approximating multi-output latent variable Gaussian processes. ArXiv preprint. Preprint Code & Data\nReiser P., Bürkner P. C., & Guthke A. (in review). Bayesian Surrogate Training on Multiple Data Sources: A Hybrid Modeling Strategy. ArXiv preprint. Preprint Code & Data\nScheurer S., Reiser P., Brünnette T., Nowak W., Guthke A., & Bürkner P. C. (in review). Uncertainty-Aware Surrogate-based Amortized Bayesian Inference for Computationally Expensive Models. ArXiv preprint. Preprint\nSchmitt M., Radev S. T., & Bürkner P. C. (in review). Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference. ArXiv preprint. Preprint\nSchmitt M., Hikida Y., Radev S. T., Sadlo F., & Bürkner P. C. (in review). The Simplex Projection: Lossless Visualization of 4D Compositional Data on a 2D Canvas. ArXiv preprint. Preprint Software Tutorial\nSchmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (in review). Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation. ArXiv preprint. Preprint Code & Data\nScholz M. & Bürkner P. C. (in review). Posterior accuracy and calibration under misspecification in Bayesian generalized linear models. ArXiv preprint. Preprint Code & Data Software\nElsemüller L., Pratz V., von Krause M., Voss A., Bürkner P. C., & Radev S. T. (in review). Does Unsupervised Domain Adaptation Improve the Robustness of Amortized Bayesian Inference? A Systematic Evaluation. ArXiv preprint. Preprint\nLi C., Vehtari A., Bürkner P. C., Radev S. T., Acerbi L., & Schmitt M. (in review). Amortized Bayesian Workflow. ArXiv preprint. Preprint\nSäilynoja T., Schmitt M., Bürkner P. C., & Vehtari A. (in review). Posterior SBC: Simulation-Based Calibration Checking Conditional on Data. ArXiv preprint. Preprint Code & Data\nKołczyńska M., & Bürkner P. C. (in review). Does political trust strengthen democracy? SocArXiv preprint. Preprint Code & Data\nCoretta, S. & Bürkner P. C. (in review). Bayesian beta regressions with brms in R: A tutorial for phoneticians. OSF preprint. Preprint Code & Data"
   },
   {
     "objectID": "publications/index.html#in-review",
     "href": "publications/index.html#in-review",
     "title": "Scientific Publications",
     "section": "",
-    "text": "Bürkner P. C., Schmitt M., & Radev S. T. (in review). Simulations in Statistical Workflows. ArXiv preprint. Preprint\nAguilar J. E. & Bürkner P. C. (in review). Dependency-Aware Shrinkage Priors for High Dimensional Regression. ArXiv preprint. Preprint Code & Data\nAguilar J. E., Kohns D., Vehtari A., & Bürkner P. C. (in review). R2 priors for Grouped Variance Decomposition in High-dimensional Regression. ArXiv preprint. Preprint Code & Data\nBockting F. & Bürkner P. C. (in review). elicito: A Python Package for Expert Prior Elicitation. ArXiv preprint. Preprint Software\nFazio L., Scholz M., Aguilar J. E., & Bürkner P. C. (in review). Primed Priors for Simulation-Based Validation of Bayesian Models. ArXiv preprint. Preprint Code & Data\nHabermann D., Schmitt M., Kühmichel L., Bulling A., Radev S. T., & Bürkner P. C. (in review). Amortized Bayesian Multilevel Models. ArXiv preprint. Preprint\nJedhoff S., Kutabi H., Meyer A. & Bürkner P. C. (in review). Efficient Uncertainty Propagation in Bayesian Two-Step Procedures. ArXiv preprint. Preprint Code & Data\nKucharský Š. & Bürkner P. C. (in review). Amortized Bayesian Mixture Models. ArXiv preprint. Preprint\nMishra A., Habermann D., Schmitt M., Radev S. T., & Bürkner P. C. (in review). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. ArXiv preprint. Preprint\nMukherjee S., Claassen M., & Bürkner P. C. (in review). Hilbert space methods for approximating multi-output latent variable Gaussian processes. ArXiv preprint. Preprint Code & Data\nReiser P., Bürkner P. C., & Guthke A. (in review). Bayesian Surrogate Training on Multiple Data Sources: A Hybrid Modeling Strategy. ArXiv preprint. Preprint Code & Data\nScheurer S., Reiser P., Brünnette T., Nowak W., Guthke A., & Bürkner P. C. (in review). Uncertainty-Aware Surrogate-based Amortized Bayesian Inference for Computationally Expensive Models. ArXiv preprint. Preprint\nSchmitt M., Radev S. T., & Bürkner P. C. (in review). Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference. ArXiv preprint. Preprint\nSchmitt M., Hikida Y., Radev S. T., Sadlo F., & Bürkner P. C. (in review). The Simplex Projection: Lossless Visualization of 4D Compositional Data on a 2D Canvas. ArXiv preprint. Preprint Software Tutorial\nSchmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (in review). Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation. ArXiv preprint. Preprint Code & Data\nScholz M. & Bürkner P. C. (in review). Posterior accuracy and calibration under misspecification in Bayesian generalized linear models. ArXiv preprint. Preprint Code & Data Software\nElsemüller L., Pratz V., von Krause M., Voss A., Bürkner P. C., & Radev S. T. (in review). Does Unsupervised Domain Adaptation Improve the Robustness of Amortized Bayesian Inference? A Systematic Evaluation. ArXiv preprint. Preprint\nLi C., Vehtari A., Bürkner P. C., Radev S. T., Acerbi L., & Schmitt M. (in review). Amortized Bayesian Workflow. ArXiv preprint. Preprint\nSäilynoja T., Schmitt M., Bürkner P. C., & Vehtari A. (in review). Posterior SBC: Simulation-Based Calibration Checking Conditional on Data. ArXiv preprint. Preprint Code & Data\nKołczyńska M., & Bürkner P. C. (in review). Does political trust strengthen democracy? SocArXiv preprint. Preprint Code & Data\nCoretta, S. & Bürkner P. C. (in review). Bayesian beta regressions with brms in R: A tutorial for phoneticians. OSF preprint. Preprint Code & Data"
-  },
-  {
-    "objectID": "publications/index.html#accepted",
-    "href": "publications/index.html#accepted",
-    "title": "Scientific Publications",
-    "section": "Accepted",
-    "text": "Accepted"
+    "text": "Bürkner P. C., Schmitt M., & Radev S. T. (in review). Simulations in Statistical Workflows. ArXiv preprint. Preprint\nAguilar J. E. & Bürkner P. C. (in review). Dependency-Aware Shrinkage Priors for High Dimensional Regression. ArXiv preprint. Preprint Code & Data\nAguilar J. E., Kohns D., Vehtari A., & Bürkner P. C. (in review). R2 priors for Grouped Variance Decomposition in High-dimensional Regression. ArXiv preprint. Preprint Code & Data\nBockting F. & Bürkner P. C. (in review). elicito: A Python Package for Expert Prior Elicitation. ArXiv preprint. Preprint Software\nFazio L., Scholz M., Aguilar J. E., & Bürkner P. C. (in review). Primed Priors for Simulation-Based Validation of Bayesian Models. ArXiv preprint. Preprint Code & Data\nHabermann D., Schmitt M., Kühmichel L., Bulling A., Radev S. T., & Bürkner P. C. (in review). Amortized Bayesian Multilevel Models. ArXiv preprint. Preprint\nJedhoff S., Kutabi H., Meyer A. & Bürkner P. C. (in review). Efficient Uncertainty Propagation in Bayesian Two-Step Procedures. ArXiv preprint. Preprint Code & Data\nKucharský Š. & Bürkner P. C. (in review). Amortized Bayesian Mixture Models. ArXiv preprint. Preprint\nMishra A., Habermann D., Schmitt M., Radev S. T., & Bürkner P. C. (in review). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. ArXiv preprint. Preprint\nModrák M., Stroppel S., & Bürkner P. C. (in review). Simulation-based validation of Bayes factor computation. ArXiv preprint. Preprint Code & Data\nMukherjee S., Claassen M., & Bürkner P. C. (in review). Hilbert space methods for approximating multi-output latent variable Gaussian processes. ArXiv preprint. Preprint Code & Data\nReiser P., Bürkner P. C., & Guthke A. (in review). Bayesian Surrogate Training on Multiple Data Sources: A Hybrid Modeling Strategy. ArXiv preprint. Preprint Code & Data\nScheurer S., Reiser P., Brünnette T., Nowak W., Guthke A., & Bürkner P. C. (in review). Uncertainty-Aware Surrogate-based Amortized Bayesian Inference for Computationally Expensive Models. ArXiv preprint. Preprint\nSchmitt M., Radev S. T., & Bürkner P. C. (in review). Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference. ArXiv preprint. Preprint\nSchmitt M., Hikida Y., Radev S. T., Sadlo F., & Bürkner P. C. (in review). The Simplex Projection: Lossless Visualization of 4D Compositional Data on a 2D Canvas. ArXiv preprint. Preprint Software Tutorial\nSchmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (in review). Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation. ArXiv preprint. Preprint Code & Data\nScholz M. & Bürkner P. C. (in review). Posterior accuracy and calibration under misspecification in Bayesian generalized linear models. ArXiv preprint. Preprint Code & Data Software\nElsemüller L., Pratz V., von Krause M., Voss A., Bürkner P. C., & Radev S. T. (in review). Does Unsupervised Domain Adaptation Improve the Robustness of Amortized Bayesian Inference? A Systematic Evaluation. ArXiv preprint. Preprint\nLi C., Vehtari A., Bürkner P. C., Radev S. T., Acerbi L., & Schmitt M. (in review). Amortized Bayesian Workflow. ArXiv preprint. Preprint\nSäilynoja T., Schmitt M., Bürkner P. C., & Vehtari A. (in review). Posterior SBC: Simulation-Based Calibration Checking Conditional on Data. ArXiv preprint. Preprint Code & Data\nKołczyńska M., & Bürkner P. C. (in review). Does political trust strengthen democracy? SocArXiv preprint. Preprint Code & Data\nCoretta, S. & Bürkner P. C. (in review). Bayesian beta regressions with brms in R: A tutorial for phoneticians. OSF preprint. Preprint Code & Data"
   },
   {
     "objectID": "publications/index.html#section",
