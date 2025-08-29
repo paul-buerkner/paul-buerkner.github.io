@@ -88,6 +88,10 @@ toc-location: right
 [Preprint](https://osf.io/preprints/socarxiv/wd5hp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/tpywu/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Zetsche, U., Bohländer, J., **Bürkner P. C.**, Röpke, S., Renneberg, B., & Schulze, L. (in review). Beyond feeling down: Expectations about and memories of daily affective experiences in major depression and borderline personality disorder. *PsyArXiv preprint*. 
+[Preprint](osf.io/preprints/psyarxiv/89d2f_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://osf.io/bfmtp/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Coretta, S. & **Bürkner P. C.** (in review). Bayesian beta regressions with brms in R: A tutorial for phoneticians. *OSF preprint*. 
 [Preprint](https://osf.io/f9rqg_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/stefanocoretta/beta-phon){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
