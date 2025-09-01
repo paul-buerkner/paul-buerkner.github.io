@@ -84,6 +84,10 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2502.03279){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/TeemuSailynoja/posterior-sbc){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Nalborczyk L. & **Bürkner P. C.** (in review). Precise temporal localisation of M/EEG effects with Bayesian generalised additive multilevel models. *biorXiv preprint*.
+[Preprint](https://www.biorxiv.org/content/10.1101/2025.08.29.672336v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/lnalborczyk/brms_meeg){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Kołczyńska M., & **Bürkner P. C.** (in review). Does political trust strengthen democracy? *SocArXiv preprint*. 
 [Preprint](https://osf.io/preprints/socarxiv/wd5hp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/tpywu/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
