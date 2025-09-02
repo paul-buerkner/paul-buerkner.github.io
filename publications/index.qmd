@@ -244,7 +244,8 @@ Bayesian Inference. *Proceedings of the International Conference on Machine Lear
 [Preregistration](https://osf.io/pjmvq/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/haluli/gpc_simulations){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Schmitt M., Radev S. T., & **Bürkner P. C.** (2024). Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference. *ArXiv preprint*.
+- Schmitt M., Radev S. T., & **Bürkner P. C.** (2024). Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference. *ArXiv preprint*. doi:10.48550/arXiv.2311.10671
+[PDF](pdf/2024__Schmitt_et_al__arXiv.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2311.10671){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Revathe T., Mundry R., Atmoko S. S. U., **Bürkner P. C.**, van Noordwijk M. A., & Schuppli C. (2024). Maternal behavior in Sumatran orangutans (Pongo abelii) is modulated by mother-offspring characteristics and socioecological factors. *International Journal of Primatology*. doi:10.1007/s10764-024-00435-5
