@@ -92,6 +92,9 @@ toc-location: right
 [Preprint](https://osf.io/preprints/socarxiv/wd5hp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/tpywu/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Revathe T., Weidling M. T., Utami-Atmoko S. S., Setia T. M., Razik I., van Schaik C. P., Whiten A., **Bürkner P. C.**, & Schuppli C. (in review). Eight years of social and asocial learning synergistically shape orangutan diet profiles. *biorXiv preprint*.
+[Preprint](https://www.biorxiv.org/content/10.1101/2025.08.27.672553v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Zetsche, U., Bohländer, J., **Bürkner P. C.**, Röpke, S., Renneberg, B., & Schulze, L. (in review). Beyond feeling down: Expectations about and memories of daily affective experiences in major depression and borderline personality disorder. *PsyArXiv preprint*. 
 [Preprint](osf.io/preprints/psyarxiv/89d2f_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/bfmtp/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
