@@ -7,9 +7,6 @@ toc-location: right
 
 ## In Review
 
-- **Bürkner P. C.**, Schmitt M., & Radev S. T. (in review). Simulations in Statistical Workflows. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2503.24011){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Aguilar J. E. & **Bürkner P. C.** (in review). Dependency-Aware Shrinkage Priors for High Dimensional Regression. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2505.10715){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/fuean/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -100,9 +97,10 @@ toc-location: right
 [Preprint](https://osf.io/f9rqg_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/stefanocoretta/beta-phon){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-<!--
 ## Accepted
--->
+
+- **Bürkner P. C.**, Schmitt M., & Radev S. T. (accepted). Simulations in Statistical Workflows. *Philosophical Transactions A*.
+[Preprint](https://arxiv.org/abs/2503.24011){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## 2025
 
