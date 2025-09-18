@@ -6,7 +6,7 @@ page-layout: full
 ---
 
 Here you can find an overview of my current research projects. A list
-of past research projects can be found at the bottom of this page. 
+of past research projects can be found at the [bottom of this page](#past-projects). 
 
 ## Real-Time Spatio-Temporal Data Analysis for Monitoring Logistics Networks {#abi-logistics}
 
@@ -76,11 +76,14 @@ Funding Period: 2024 -- 2027
 
 Publications:
 
+- Mishra A., Habermann D., Schmitt M., Radev S. T., & Bürkner P. C. (in review). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Habermann D., Schmitt M., Kühmichel L., Bulling A., Radev S. T., & Bürkner P. C. (in review). Amortized Bayesian Multilevel Models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Mishra A., Habermann D., Schmitt M., Radev S. T., & Bürkner P. C. (in review). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+- Kucharský Š., Mishra A., Habermann D., Radev S. T., & Bürkner P. C. (in review). Towards Trustworthy Amortized Bayesian Model Comparison. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 
 ## Applications of Amortized Bayesian Inference {#abi-applications}
@@ -109,6 +112,9 @@ Publications:
 
 - Kucharský Š. & Bürkner P. C. (in review). Amortized Bayesian Mixture Models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2501.10229){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Kucharský Š., Mishra A., Habermann D., Radev S. T., & Bürkner P. C. (in review). Towards Trustworthy Amortized Bayesian Model Comparison. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Kucharský Š. & Bürkner P. C. (2025). Amortized Bayesian Cognitive Modeling with BayesFlow. *PsyArXiv preprint*. doi:10.31234/osf.io/34k6q_v1
 [Preprint](https://osf.io/preprints/psyarxiv/34k6q_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -142,6 +148,9 @@ Publications:
 
 - Mishra A., Habermann D., Schmitt M., Radev S. T., & Bürkner P. C. (in review). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Kucharský Š., Mishra A., Habermann D., Radev S. T., & Bürkner P. C. (in review). Towards Trustworthy Amortized Bayesian Model Comparison. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Schmitt M., Ivanova D. R., Habermann D., Köthe U., Bürkner P. C., & Radev S. T. (2024). Leveraging Self-Consistency for Data-Efficient Amortized
 Bayesian Inference. *Proceedings of the International Conference on Machine Learning (ICML)*.
@@ -551,7 +560,7 @@ Publications:
 <br /> 
 <br /> 
 
-## Past Projects
+## Past Projects {#past-projects}
 
 ::: {.callout-note icon=false collapse="true"}
 ## Machine Learning for Bayesian Model Building {#ml4bmb}
