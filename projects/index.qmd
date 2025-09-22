@@ -410,23 +410,20 @@ Funding Period: 2021 -- 2025
 
 Publications: 
 
-- Schmitt M., Radev S. T., & Bürkner P. C. (in review). Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2311.10671){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Schmitt M., Hikida Y., Radev S. T., Sadlo F., & Bürkner P. C. (in review). The Simplex Projection: Lossless Visualization of 4D Compositional Data on a 2D Canvas. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2403.11141){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/marvinschmitt/ggsimplex){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Tutorial](https://www.marvinschmitt.com/blog/ggsimplex-prerelease/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Schmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (in review). Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2406.03154){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/marvinschmitt/ModelMisspecificationBF){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Habermann D., Schmitt M., Kühmichel L., Bulling A., Radev S. T., & Bürkner P. C. (in review). Amortized Bayesian Multilevel Models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Mishra A., Habermann D., Schmitt M., Radev S. T., & Bürkner P. C. (in review). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Schmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (accepted). Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation. *International Journal of Computer Vision*.
+[Preprint](https://arxiv.org/abs/2406.03154){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/marvinschmitt/ModelMisspecificationBF){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Schmitt M., Pratz V., Köthe U., Bürkner P. C., & Radev S. T. (2024). Consistency Models for Scalable and Fast Simulation-Based Inference. *Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)*.
 [PDF](pdf/2024__Schmitt_et_al__NeurIPS.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -448,6 +445,10 @@ Bayesian Inference. *Proceedings of the International Conference on Machine Lear
 [Journal](https://openreview.net/forum?id=Kxtpa9rvM0){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2310.11122){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/bayesflow-org/SA-ABI){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Schmitt M., Radev S. T., & Bürkner P. C. (2024). Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference. *ArXiv preprint*. doi:10.48550/arXiv.2311.10671
+[PDF](pdf/2024__Schmitt_et_al__arXiv.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2311.10671){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Schmitt, M., Radev, S. T., & Bürkner P. C. (2023). Meta-Uncertainty in Bayesian Model Comparison. *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
 [PDF](../publications/pdf/2023__Schmitt_et_al__AISTATS.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
