@@ -64,9 +64,6 @@ toc-location: right
 [Code & Data](https://osf.io/tmdcf/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Elsemüller L., Pratz V., von Krause M., Voss A., **Bürkner P. C.**, & Radev S. T. (in review). Does Unsupervised Domain Adaptation Improve the Robustness of Amortized Bayesian Inference? A Systematic Evaluation. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2502.04949){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Li C., Vehtari A., **Bürkner P. C.**, Radev S. T., Acerbi L., & Schmitt M. (in review). Amortized Bayesian Workflow. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2409.04332){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -101,6 +98,9 @@ toc-location: right
 - Schmitt, M., **Bürkner P. C.**, Köthe U., & Radev S. T. (accepted). Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation. *International Journal of Computer Vision*.
 [Preprint](https://arxiv.org/abs/2406.03154){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/marvinschmitt/ModelMisspecificationBF){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Elsemüller L., Pratz V., von Krause M., Voss A., **Bürkner P. C.**, & Radev S. T. (accepted). Does Unsupervised Domain Adaptation Improve the Robustness of Amortized Bayesian Inference? A Systematic Evaluation. *Transactions in Machine Learning Research*.
+[Preprint](https://arxiv.org/abs/2502.04949){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## 2025
 
