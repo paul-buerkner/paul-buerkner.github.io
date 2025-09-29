@@ -214,7 +214,7 @@ Lead author of
 
 Author of 
 
-- **elicito**: A Python package for expert prior elicitation.
+- **elicito**: A Python package for expert prior elicitation
 [GitHub](https://github.com/florence-bockting/elicito){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 - **ggsimplex**: Simplex visualizations with ggplot2 
 [GitHub](https://github.com/marvinschmitt/ggsimplex){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
