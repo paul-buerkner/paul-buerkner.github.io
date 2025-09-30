@@ -431,7 +431,7 @@
     "href": "software/index.html#other-software",
     "title": "Open Source Software",
     "section": "Other Software",
-    "text": "Other Software\nLead author of\n\nthurstonianIRT: Fit Thurstonian IRT models in R GitHub\n\nAuthor of\n\nelicito: A Python package for expert prior elicitation GitHub\nggsimplex: Simplex visualizations with ggplot2 GitHub\nbayesim: Simulations for Bayesian models GitHub\nbayeshear: Metrics for evaluating Bayesian models GitHub\nbayesfam: Custom families for brms GitHub\nbayesian: An interface from brms to tidymodels Website GitHub\n\nContributed to:\n\nemmeans: Estimating marginal means GitHub"
+    "text": "Other Software\n\nelicito: A Python package for expert prior elicitation GitHub\nemmeans: Estimating marginal means GitHub\nggsimplex: Simplex visualizations with ggplot2 GitHub\nbayesim: Simulations for Bayesian models GitHub\nbayeshear: Metrics for evaluating Bayesian models GitHub\nbayesfam: Custom families for brms GitHub\nbayesian: An interface from brms to tidymodels Website GitHub\nthurstonianIRT: Fit Thurstonian IRT models in R GitHub"
   },
   {
     "objectID": "impressum/index.html",
@@ -446,5 +446,12 @@
     "title": "Open Positions",
     "section": "",
     "text": "If you are interested in joining my lab at as a PhD student or PostDoc, please reach out to me at any point; even if there is currently no announced open position available that you think matches your profile. The same goes if you are a student looking for a student assistant position.\n\nThere are currently no officially announced open positions, but remember that you can just contact me at any point to ask for opportunities."
+  },
+  {
+    "objectID": "software/index.html#other-software-contributions",
+    "href": "software/index.html#other-software-contributions",
+    "title": "Open Source Software",
+    "section": "Other Software Contributions",
+    "text": "Other Software Contributions\n\nelicito: A Python package for expert prior elicitation GitHub\nemmeans: Estimating marginal means GitHub\nggsimplex: Simplex visualizations with ggplot2 GitHub\nbayesian: An interface from brms to tidymodels Website GitHub\nbayesim: Simulations for Bayesian models GitHub\nbayeshear: Metrics for evaluating Bayesian models GitHub\nbayesfam: Custom families for brms GitHub\nthurstonianIRT: Fit Thurstonian IRT models in R GitHub"
   }
 ]

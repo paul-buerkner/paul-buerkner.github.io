@@ -205,29 +205,22 @@ Selected References:
 [Preprint](https://arxiv.org/abs/2003.06281){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 
-## Other Software
-
-Lead author of
-
-- **thurstonianIRT**: Fit Thurstonian IRT models in R 
-[GitHub](https://github.com/paul-buerkner/thurstonianIRT){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-Author of 
+## Other Software Contributions
 
 - **elicito**: A Python package for expert prior elicitation
 [GitHub](https://github.com/florence-bockting/elicito){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+- **emmeans**: Estimating marginal means 
+[GitHub](https://github.com/rvlenth/emmeans){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 - **ggsimplex**: Simplex visualizations with ggplot2 
 [GitHub](https://github.com/marvinschmitt/ggsimplex){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+- **bayesian**: An interface from brms to tidymodels 
+[Website](https://hsbadr.github.io/bayesian/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs} [GitHub](https://github.com/hsbadr/bayesian){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 - **bayesim**: Simulations for Bayesian models 
 [GitHub](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 - **bayeshear**: Metrics for evaluating Bayesian models 
 [GitHub](https://github.com/sims1253/bayeshear){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 - **bayesfam**: Custom families for brms 
 [GitHub](https://github.com/sims1253/bayesfam){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-- **bayesian**: An interface from brms to tidymodels 
-[Website](https://hsbadr.github.io/bayesian/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs} [GitHub](https://github.com/hsbadr/bayesian){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+- **thurstonianIRT**: Fit Thurstonian IRT models in R 
+[GitHub](https://github.com/paul-buerkner/thurstonianIRT){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Contributed to:
-
-- **emmeans**: Estimating marginal means 
-[GitHub](https://github.com/rvlenth/emmeans){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
