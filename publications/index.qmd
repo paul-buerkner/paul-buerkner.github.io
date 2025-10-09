@@ -87,10 +87,6 @@ toc-location: right
 [Preprint](osf.io/preprints/psyarxiv/89d2f_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/bfmtp/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Coretta, S. & **Bürkner P. C.** (in review). Bayesian beta regressions with brms in R: A tutorial for phoneticians. *OSF preprint*. 
-[Preprint](https://osf.io/f9rqg_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/stefanocoretta/beta-phon){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 ## Accepted
 
 - **Bürkner P. C.**, Schmitt M., & Radev S. T. (accepted). Simulations in Statistical Workflows. *Philosophical Transactions A*.
@@ -105,6 +101,10 @@ toc-location: right
 
 - Kucharský Š., Mishra A., Habermann D., Radev S. T., & **Bürkner P. C.** (accepted). Towards Trustworthy Amortized Bayesian Model Comparison. *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
 [Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Coretta, S. & **Bürkner P. C.** (accepted). Bayesian beta regressions with brms in R: A tutorial for phoneticians. *Journal of Phonetics*. 
+[Preprint](https://osf.io/f9rqg_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/stefanocoretta/beta-phon){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## 2025
 
