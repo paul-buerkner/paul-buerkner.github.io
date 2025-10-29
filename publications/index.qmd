@@ -96,9 +96,6 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2406.03154){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/marvinschmitt/ModelMisspecificationBF){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Elsemüller L., Pratz V., von Krause M., Voss A., **Bürkner P. C.**, & Radev S. T. (accepted). Does Unsupervised Domain Adaptation Improve the Robustness of Amortized Bayesian Inference? A Systematic Evaluation. *Transactions in Machine Learning Research*.
-[Preprint](https://arxiv.org/abs/2502.04949){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Kucharský Š., Mishra A., Habermann D., Radev S. T., & **Bürkner P. C.** (accepted). Towards Trustworthy Amortized Bayesian Model Comparison. *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
 [Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -145,6 +142,12 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2210.06927){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/xgkzv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Elsemüller L., Pratz V., von Krause M., Voss A., **Bürkner P. C.**, & Radev S. T. (2025). Does Unsupervised Domain Adaptation Improve the Robustness of Amortized Bayesian Inference? A Systematic Evaluation. *Transactions in Machine Learning Research*.
+[PDF](pdf/2025__Elsemueller_et_al__TMLR.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://openreview.net/forum?id=ewgLuvnEw6){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2502.04949){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/bayesflow-org/NPE-UDA){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Magnusson M., Torgander J., **Bürkner P. C.**, Zhang L., Carpenter B., & Vehtari A. (2025). posteriordb: Testing, Benchmarking and Developing Bayesian Inference Algorithms. *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
 [PDF](pdf/2025__Magnusson_et_al__AISTATS.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
