@@ -84,6 +84,10 @@ toc-location: right
 [Preprint](osf.io/preprints/psyarxiv/89d2f_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/bfmtp/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Hu N., **Bürkner P. C.**, & Arvaniti A. (in review). A tutorial on Bayesian multivariate linear mixed-effect regression using brms. *PsyArXiv preprint*. 
+[Preprint](https://osf.io/preprints/psyarxiv/7xjmh_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://osf.io/2kcnu){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 ## Accepted
 
 - **Bürkner P. C.**, Schmitt M., & Radev S. T. (accepted). Simulations in Statistical Workflows. *Philosophical Transactions A*.
