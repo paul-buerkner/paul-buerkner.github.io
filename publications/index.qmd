@@ -37,6 +37,10 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2508.11814){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/martinmodrak/SBCBayesFactors/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Mukherjee S., Aguilar J. E., Zago M., Claassen M., & **Bürkner P. C.** (in review). Latent variable estimation with composite Hilbert space Gaussian processes. *ArXiv preprint*. 
+[Preprint](https://arxiv.org/abs/2510.25371){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/Soham6298/Latent-Composite-HSGPs){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Mukherjee S., Claassen M., & **Bürkner P. C.** (in review). Hilbert space methods for approximating multi-output latent variable Gaussian processes. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2505.16919){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/Soham6298/Latent-variable-HSGPs){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
