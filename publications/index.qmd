@@ -77,10 +77,6 @@ toc-location: right
 [Preprint](https://osf.io/preprints/psyarxiv/h54k8_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/giac01/8_bayes_reliability){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Kołczyńska M., & **Bürkner P. C.** (in review). Does political trust strengthen democracy? *SocArXiv preprint*. 
-[Preprint](https://osf.io/preprints/socarxiv/wd5hp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://osf.io/tpywu/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Revathe T., Weidling M. T., Utami-Atmoko S. S., Setia T. M., Razik I., van Schaik C. P., Whiten A., **Bürkner P. C.**, & Schuppli C. (in review). Eight years of social and asocial learning synergistically shape orangutan diet profiles. *biorXiv preprint*.
 [Preprint](https://www.biorxiv.org/content/10.1101/2025.08.27.672553v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -106,6 +102,10 @@ toc-location: right
 
 - Kucharský Š., Mishra A., Habermann D., Radev S. T., & **Bürkner P. C.** (accepted). Towards Trustworthy Amortized Bayesian Model Comparison. *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
 [Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Kołczyńska M., & **Bürkner P. C.** (accepted). Does political trust strengthen democracy? *International Political Science Review*. 
+[Preprint](https://osf.io/preprints/socarxiv/wd5hp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://osf.io/tpywu/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Coretta, S. & **Bürkner P. C.** (accepted). Bayesian beta regressions with brms in R: A tutorial for phoneticians. *Journal of Phonetics*. 
 [Preprint](https://osf.io/f9rqg_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
