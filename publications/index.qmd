@@ -190,7 +190,7 @@ toc-location: right
 [Journal](https://royalsocietypublishing.org/doi/10.1098/rspb.2025.0443){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://www.biorxiv.org/content/10.1101/2024.11.25.625129v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Coretta, S. & **Bürkner P. C.** (2025). Bayesian beta regressions with brms in R: A tutorial for phoneticians. *Journal of Phonetics*. 
+- Coretta, S. & **Bürkner P. C.** (2025). Bayesian beta regressions with brms in R: A tutorial for phoneticians. *Journal of Phonetics*. doi:10.1016/j.wocn.2025.101455
 [PDF](pdf/2025__Coretta_Buerkner_et_al__Journal_of_Phonetics.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://www.sciencedirect.com/science/article/pii/S009544702500066X){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://osf.io/f9rqg_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
