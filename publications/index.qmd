@@ -93,9 +93,6 @@ toc-location: right
 - **Bürkner P. C.**, Schmitt M., & Radev S. T. (accepted). Simulations in Statistical Workflows. *Philosophical Transactions A*.
 [Preprint](https://arxiv.org/abs/2503.24011){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Habermann D., Schmitt M., Kühmichel L., Bulling A., Radev S. T., & **Bürkner P. C.** (accepted). Amortized Bayesian Multilevel Models. *Bayesian Analysis*.
-[Preprint](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Schmitt, M., **Bürkner P. C.**, Köthe U., & Radev S. T. (accepted). Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation. *International Journal of Computer Vision*.
 [Preprint](https://arxiv.org/abs/2406.03154){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/marvinschmitt/ModelMisspecificationBF){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -127,6 +124,11 @@ toc-location: right
 [Journal](https://www.tandfonline.com/doi/full/10.1080/00273171.2025.2483252){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2404.14124){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/bdlvm-project/gdsem-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Habermann D., Schmitt M., Kühmichel L., Bulling A., Radev S. T., & **Bürkner P. C.** (2025). Amortized Bayesian Multilevel Models. *Bayesian Analysis*. doi:10.1214/25-BA1570
+[PDF](pdf/2025__Habermann_et_al__Bayesian_Analysis.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Amortized-Bayesian-Multilevel-Models/10.1214/25-BA1570.full){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Mukherjee S., Claassen M., & **Bürkner P. C.** (2025). DGP-LVM: Derivative Gaussian process latent variable models. *Statistics and Computing*. doi:10.1007/s11222-025-10644-4
 [PDF](pdf/2025__Mukherjee_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
