@@ -8,6 +8,12 @@ Below you can find a list of selected talks and posters of me and my group,
 along with slides, paper references, and recordings when available.
 Presenters are highlighted in **bold**.
 
+- Mishra A., Habermann D., Schmitt M., Radev S. T., & **Bürkner P. C.** (2025). 
+Invited talk: *Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data*.
+Presented at [ELLIS UnConference](https://eurips.cc/ellis/).
+[Slides](pdf/SC_loss_real_data2.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Paper](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - **Mukherjee, S.**, Claassen, M., & Bürkner, P. C. (2025). Contributed talk: *DGP-LVM: Derivative Gaussian process latent variable models*. 
 Presented at [RSS International Conference](https://rss.org.uk/training-events/conference-2025/).
 [Slides](pdf/derivative_gaussian_process_latent_variable_models2.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
