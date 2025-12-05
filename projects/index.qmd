@@ -87,7 +87,7 @@ Publications:
 [Preprint](https://arxiv.org/abs/2312.10107){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs} 
 
 - Habermann D., Schmitt M., **Kühmichel L.**, Bulling A., Radev S. T., & Bürkner P. C. (2025). Amortized Bayesian Multilevel Models. *Bayesian Analysis*. doi:10.1214/25-BA1570
-[PDF](pdf/2025__Habermann_et_al__Bayesian_Analysis.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](../publications/pdf/2025__Habermann_et_al__Bayesian_Analysis.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Amortized-Bayesian-Multilevel-Models/10.1214/25-BA1570.full){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -161,13 +161,13 @@ Publications:
 [Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Habermann D.**, Schmitt M., Kühmichel L., Bulling A., Radev S. T., & Bürkner P. C. (2025). Amortized Bayesian Multilevel Models. *Bayesian Analysis*. doi:10.1214/25-BA1570
-[PDF](pdf/2025__Habermann_et_al__Bayesian_Analysis.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](../publications/pdf/2025__Habermann_et_al__Bayesian_Analysis.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Amortized-Bayesian-Multilevel-Models/10.1214/25-BA1570.full){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Schmitt M., Ivanova D. R., **Habermann D.**, Köthe U., Bürkner P. C., & Radev S. T. (2024). Leveraging Self-Consistency for Data-Efficient Amortized
 Bayesian Inference. *Proceedings of the International Conference on Machine Learning (ICML)*.
-[PDF](pdf/2024__Schmitt_et_al__ICML.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](../publications/pdf/2024__Schmitt_et_al__ICML.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Conference](https://openreview.net/forum?id=uoUOz427RD){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2310.04395){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -218,7 +218,7 @@ Publications:
 [Code & Data](https://github.com/sims1253/implicit-priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Fazio L.** & Bürkner P. C. (2025). Gaussian distributional structural equation models: A framework for modeling latent heteroscedasticity. *Multivariate Behavioral Research*. doi:10.1080/00273171.2025.2483252
-[PDF](pdf/2025__Fazio_Buerkner__Multivariate_Behavioral_Research.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](../publications/pdf/2025__Fazio_Buerkner__Multivariate_Behavioral_Research.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://www.tandfonline.com/doi/full/10.1080/00273171.2025.2483252){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2404.14124){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/bdlvm-project/gdsem-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -263,7 +263,7 @@ Publications:
 [Software](https://github.com/florence-bockting/elicito){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Bockting F.**, Radev S. T., & Bürkner P. C. (2025). Expert-elicitation method for non-parametric joint priors using normalizing flows. *Statistics and Computing*. doi:0.1007/s11222-025-10665-z
-[PDF](pdf/2025__Bockting_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](../publications/pdf/2025__Bockting_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://link.springer.com/article/10.1007/s11222-025-10665-z){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2411.15826){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code](https://github.com/florence-bockting/prior_elicitation/tree/main/elicit/manuscript_non_parametric_joint_prior){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -322,7 +322,7 @@ Publications:
 [Code & Data](https://github.com/Soham6298/Latent-variable-HSGPs){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Mukherjee S.**, Claassen M., & Bürkner P. C. (2025). DGP-LVM: Derivative Gaussian process latent variable models. *Statistics and Computing*. doi:10.1007/s11222-025-10644-4
-[PDF](pdf/2025__Mukherjee_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](../publications/pdf/2025__Mukherjee_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://link.springer.com/article/10.1007/s11222-025-10644-4){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2404.04074){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/Soham6298/DGP-LVM){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -370,13 +370,13 @@ Publications:
 [Preprint](https://arxiv.org/abs/2505.08683){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Reiser P.**, Aguilar J. E., Guthke A., & Bürkner P. C. (2025). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. *Statistics and Computing*. doi:10.1007/s11222-025-10597-8
-[PDF](pdf/2025__Reiser_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](../publications/pdf/2025__Reiser_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://link.springer.com/article/10.1007/s11222-025-10597-8){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2312.05153){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/philippreiser/bayesian-surrogate-uncertainty-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Reiser P.**, Aguilar J. E., Guthke A., & Bürkner P. C. (2025). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. *Statistics and Computing*. doi:10.1007/s11222-025-10597-8
-[PDF](pdf/2025__Reiser_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](../publications/pdf/2025__Reiser_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://link.springer.com/article/10.1007/s11222-025-10597-8){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2312.05153){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/philippreiser/bayesian-surrogate-uncertainty-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -441,13 +441,13 @@ Publications:
 [Code & Data](https://github.com/Soham6298/Latent-Composite-HSGPs){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Aguilar J. E.** & Bürkner P. C. (2025). Generalized Decomposition Priors on R2. *Bayesian Analysis*. doi:10.1214/25-BA1524
-[PDF](pdf/2025__Aguilar_Buerkner__Bayesian_Analysis.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](../publications/pdf/2025__Aguilar_Buerkner__Bayesian_Analysis.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Generalized-Decomposition-Priors-on-R2/10.1214/25-BA1524.full){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2401.10180){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/ns2cv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs} 
 
 - Reiser P., **Aguilar J. E.**, Guthke A., & Bürkner P. C. (2025). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. *Statistics and Computing*. doi:10.1007/s11222-025-10597-8
-[PDF](pdf/2025__Reiser_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](../publications/pdf/2025__Reiser_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://link.springer.com/article/10.1007/s11222-025-10597-8){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2312.05153){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/philippreiser/bayesian-surrogate-uncertainty-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -527,17 +527,17 @@ Publications:
 [Code & Data](https://github.com/marvinschmitt/ModelMisspecificationBF){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Schmitt M.**, Pratz V., Köthe U., Bürkner P. C., & Radev S. T. (2024). Consistency Models for Scalable and Fast Simulation-Based Inference. *Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)*.
-[PDF](pdf/2024__Schmitt_et_al__NeurIPS.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](../publications/pdf/2024__Schmitt_et_al__NeurIPS.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://proceedings.neurips.cc/paper_files/paper/2024/hash/e58026e2b2929108e1bd24cbfa1c8e4b-Abstract-Conference.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2312.05440){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Schmitt M.**, Li C., Vehtari A., Acerbi L., Bürkner P. C., Radev S. T. (2024). Amortized Bayesian Workflow (Extended Abstract). *NeurIPS Workshop on Bayesian Decision-Making and Uncertainty*.
-[PDF](pdf/2024__Schmitt_et_al__NeurIPS_BDU_workshop.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](../publications/pdf/2024__Schmitt_et_al__NeurIPS_BDU_workshop.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2409.04332){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Schmitt M.**, Ivanova D. R., Habermann D., Köthe U., Bürkner P. C., & Radev S. T. (2024). Leveraging Self-Consistency for Data-Efficient Amortized
 Bayesian Inference. *Proceedings of the International Conference on Machine Learning (ICML)*.
-[PDF](pdf/2024__Schmitt_et_al__ICML.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](../publications/pdf/2024__Schmitt_et_al__ICML.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Conference](https://openreview.net/forum?id=uoUOz427RD){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2310.04395){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -548,7 +548,7 @@ Bayesian Inference. *Proceedings of the International Conference on Machine Lear
 [Code & Data](https://github.com/bayesflow-org/SA-ABI){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Schmitt M.**, Radev S. T., & Bürkner P. C. (2024). Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference. *ArXiv preprint*. doi:10.48550/arXiv.2311.10671
-[PDF](pdf/2024__Schmitt_et_al__arXiv.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](../publications/pdf/2024__Schmitt_et_al__arXiv.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2311.10671){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Schmitt M.**, Radev, S. T., & Bürkner P. C. (2023). Meta-Uncertainty in Bayesian Model Comparison. *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
@@ -629,7 +629,7 @@ Publications:
 [Software](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Scholz M.** & Bürkner P. C. (2025). Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models. *Journal of Statistical Computation and Simulation*. doi:10.1080/00949655.2024.2449534
-[PDF](pdf/2025__Scholz_Buerkner__Journal_of_Statistical_Computation_and_Simulation.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[PDF](../publications/pdf/2025__Scholz_Buerkner__Journal_of_Statistical_Computation_and_Simulation.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://www.tandfonline.com/doi/full/10.1080/00949655.2024.2449534){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2210.06927){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/xgkzv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
