@@ -50,6 +50,7 @@ Publications:
 [Preprint](https://arxiv.org/abs/2505.10510){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/sjedhoff/efficient-2step-uncertainty-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+<!-- -->
 
 ## BayesFlow: Simulation Intelligence with Deep Learning {#bayesflow-software}
 
@@ -82,9 +83,19 @@ Publications:
 - Kucharský Š., **Mishra A.**, Habermann D., Radev S. T., & Bürkner P. C. (in review). Towards Trustworthy Amortized Bayesian Model Comparison. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Habermann D., Schmitt M., **Kühmichel L.**, Bulling A., Radev S. T., & Bürkner P. C. (accepted). Amortized Bayesian Multilevel Models. *Bayesian Analysis*.
+- Müller, J., **Kühmichel, L.**, Rohbeck, M., Radev, S. T., & Köthe, U. (in review). Towards Context-Aware Domain Generalization: Understanding the Benefits and Limits of Marginal Transfer Learning. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2312.10107){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs} 
+
+- Habermann D., Schmitt M., **Kühmichel L.**, Bulling A., Radev S. T., & Bürkner P. C. (2025). Amortized Bayesian Multilevel Models. *Bayesian Analysis*. doi:10.1214/25-BA1570
+[PDF](pdf/2025__Habermann_et_al__Bayesian_Analysis.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Amortized-Bayesian-Multilevel-Models/10.1214/25-BA1570.full){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Pogorelyuk, L., Bracher, N. L., Verkleeren, A., **Kühmichel, L.**, & Radev, S. T. (2025). Stable Single-Pixel Contrastive Learning for Semantic and Geometric Tasks. *NeurIPS Workshop on Unifying Representations in Neural Models*.
+[Conference](https://openreview.net/forum?id=nzGuDABwce){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/stefanradev93/oxels){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+<!-- -->
 
 ## Applications of Amortized Bayesian Inference {#abi-applications}
 
@@ -149,7 +160,9 @@ Publications:
 - Kucharský Š., Mishra A., **Habermann D.**, Radev S. T., & Bürkner P. C. (in review). Towards Trustworthy Amortized Bayesian Model Comparison. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- **Habermann D.**, Schmitt M., Kühmichel L., Bulling A., Radev S. T., & Bürkner P. C. (accepted). Amortized Bayesian Multilevel Models. *Bayesian Analysis*.
+- **Habermann D.**, Schmitt M., Kühmichel L., Bulling A., Radev S. T., & Bürkner P. C. (2025). Amortized Bayesian Multilevel Models. *Bayesian Analysis*. doi:10.1214/25-BA1570
+[PDF](pdf/2025__Habermann_et_al__Bayesian_Analysis.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Amortized-Bayesian-Multilevel-Models/10.1214/25-BA1570.full){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Schmitt M., Ivanova D. R., **Habermann D.**, Köthe U., Bürkner P. C., & Radev S. T. (2024). Leveraging Self-Consistency for Data-Efficient Amortized
@@ -370,6 +383,90 @@ Publications:
 
 <!-- -->
 
+## Intuitive Joint Priors for Bayesian Multilevel Models {#joint-priors-mlms}
+
+![](../images/coef_r2d2_marginal.png){fig-alt="Marginal densities of the R2D2 prior's coefficients."}
+
+Regression models are ubiquitous in the quantitative sciences making up a big
+part of all statistical analysis performed on data. In the quantitative
+sciences, data often contains multilevel structure, for example, because of
+natural groupings of individuals or repeated measurement of the same
+individuals. Multilevel models (MLMs) are designed specifically to account for
+the nested structure in multilevel data and are a widely applied class of
+regression models. From a Bayesian perspective, the widespread success of MLMs
+can be explained by the fact that they impose joint priors over a set of
+parameters with shared hyper-parameters, rather than separate independent priors
+for each parameter. However, in almost all state-of-the-art approaches,
+different additive regression terms in MLMs, corresponding to different
+parameter sets, still receive mutually independent priors. As more and more
+terms are being added to the model while the number of observations remains
+constant, such models will overfit the data. This is highly problematic as it
+leads to unreliable or uninterpretable estimates, bad out-of-sample predictions,
+and inflated Type I error rates.
+
+To solve these challenges, this project aims to develop, evaluate, implement,
+and apply intuitive joint priors for Bayesian MLMs. We hypothesize that our
+developed priors will enable the reliable and interpretable estimation of much
+more complex Bayesian MLMs than was previously possible.
+
+Overarching Topics: 
+[Prior Specification](../research#prior-specification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+Project Members: [Javier Aguilar](../people#javier-aguilar){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+Funders: 
+[German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[University of Stuttgart](https://www.uni-stuttgart.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+Funding Period: 2021 -- 2025
+
+Publications:
+
+- **Aguilar J. E.** & Bürkner P. C. (in review). Dependency-Aware Shrinkage Priors for High Dimensional Regression.  *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2505.10715){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://osf.io/fuean/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- **Aguilar J. E.**, Kohns D., Vehtari A., & Bürkner P. C. (in review). R2 priors for Grouped Variance Decomposition in High-dimensional Regression. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2507.11833){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/jear2412/GroupR2priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Fazio L., Scholz M., **Aguilar J. E.**, & Bürkner P. C. (in review). Primed Priors for Simulation-Based Validation of Bayesian Models. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/sims1253/implicit-priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Mukherjee S., **Aguilar J. E.**, Zago M., Claassen M., & Bürkner P. C. (in review). Latent variable estimation with composite Hilbert space Gaussian processes. *ArXiv preprint*. 
+[Preprint](https://arxiv.org/abs/2510.25371){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/Soham6298/Latent-Composite-HSGPs){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- **Aguilar J. E.** & Bürkner P. C. (2025). Generalized Decomposition Priors on R2. *Bayesian Analysis*. doi:10.1214/25-BA1524
+[PDF](pdf/2025__Aguilar_Buerkner__Bayesian_Analysis.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Generalized-Decomposition-Priors-on-R2/10.1214/25-BA1524.full){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2401.10180){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://osf.io/ns2cv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs} 
+
+- Reiser P., **Aguilar J. E.**, Guthke A., & Bürkner P. C. (2025). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. *Statistics and Computing*. doi:10.1007/s11222-025-10597-8
+[PDF](pdf/2025__Reiser_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://link.springer.com/article/10.1007/s11222-025-10597-8){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2312.05153){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/philippreiser/bayesian-surrogate-uncertainty-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- **Aguilar J. E.** & Bürkner P. C. (2023). Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior. *Electronic Journal of Statistics*. doi:10.1214/23-EJS2136
+[PDF](../publications/pdf/2023__Aguilar_Bürkner__Electronic_Journal_of_Statistics.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://doi.org/10.1214/23-EJS2136){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2208.07132){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://osf.io/wgsth/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Talk](../talks/pdf/poster_R2D2M2_prior.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+<!-- -->
+
+<br /> 
+<br /> 
+
+## Past Projects {#past-projects}
+
+::: {.callout-note icon=false collapse="true"}
 ## Meta-Uncertainty in Bayesian Model Comparison {#mu-bmb}
 
 ![](../images/meta_uncertainty_banner.png){fig-alt="An illustration of meta-uncertainty."}
@@ -485,91 +582,9 @@ Bayesian Inference. *Proceedings of the International Conference on Machine Lear
 Software:
 
 - ggsimplex: Simplex visualizations with ggplot2 [GitHub](https://github.com/marvinschmitt/ggsimplex){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+:::
 
 <!-- -->
-
-## Intuitive Joint Priors for Bayesian Multilevel Models {#joint-priors-mlms}
-
-![](../images/coef_r2d2_marginal.png){fig-alt="Marginal densities of the R2D2 prior's coefficients."}
-
-Regression models are ubiquitous in the quantitative sciences making up a big
-part of all statistical analysis performed on data. In the quantitative
-sciences, data often contains multilevel structure, for example, because of
-natural groupings of individuals or repeated measurement of the same
-individuals. Multilevel models (MLMs) are designed specifically to account for
-the nested structure in multilevel data and are a widely applied class of
-regression models. From a Bayesian perspective, the widespread success of MLMs
-can be explained by the fact that they impose joint priors over a set of
-parameters with shared hyper-parameters, rather than separate independent priors
-for each parameter. However, in almost all state-of-the-art approaches,
-different additive regression terms in MLMs, corresponding to different
-parameter sets, still receive mutually independent priors. As more and more
-terms are being added to the model while the number of observations remains
-constant, such models will overfit the data. This is highly problematic as it
-leads to unreliable or uninterpretable estimates, bad out-of-sample predictions,
-and inflated Type I error rates.
-
-To solve these challenges, this project aims to develop, evaluate, implement,
-and apply intuitive joint priors for Bayesian MLMs. We hypothesize that our
-developed priors will enable the reliable and interpretable estimation of much
-more complex Bayesian MLMs than was previously possible.
-
-Overarching Topics: 
-[Prior Specification](../research#prior-specification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-Project Members: [Javier Aguilar](../people#javier-aguilar){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-Funders: 
-[German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[University of Stuttgart](https://www.uni-stuttgart.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-Funding Period: 2021 -- 2025
-
-Publications:
-
-- **Aguilar J. E.** & Bürkner P. C. (in review). Dependency-Aware Shrinkage Priors for High Dimensional Regression.  *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2505.10715){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://osf.io/fuean/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Aguilar J. E.**, Kohns D., Vehtari A., & Bürkner P. C. (in review). R2 priors for Grouped Variance Decomposition in High-dimensional Regression. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2507.11833){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/jear2412/GroupR2priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Fazio L., Scholz M., **Aguilar J. E.**, & Bürkner P. C. (in review). Primed Priors for Simulation-Based Validation of Bayesian Models. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/sims1253/implicit-priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Mukherjee S., **Aguilar J. E.**, Zago M., Claassen M., & Bürkner P. C. (in review). Latent variable estimation with composite Hilbert space Gaussian processes. *ArXiv preprint*. 
-[Preprint](https://arxiv.org/abs/2510.25371){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/Soham6298/Latent-Composite-HSGPs){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Aguilar J. E.** & Bürkner P. C. (2025). Generalized Decomposition Priors on R2. *Bayesian Analysis*. doi:10.1214/25-BA1524
-[PDF](pdf/2025__Aguilar_Buerkner__Bayesian_Analysis.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Generalized-Decomposition-Priors-on-R2/10.1214/25-BA1524.full){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2401.10180){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://osf.io/ns2cv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs} 
-
-- Reiser P., **Aguilar J. E.**, Guthke A., & Bürkner P. C. (2025). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. *Statistics and Computing*. doi:10.1007/s11222-025-10597-8
-[PDF](pdf/2025__Reiser_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://link.springer.com/article/10.1007/s11222-025-10597-8){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2312.05153){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/philippreiser/bayesian-surrogate-uncertainty-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Aguilar J. E.** & Bürkner P. C. (2023). Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior. *Electronic Journal of Statistics*. doi:10.1214/23-EJS2136
-[PDF](../publications/pdf/2023__Aguilar_Bürkner__Electronic_Journal_of_Statistics.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://doi.org/10.1214/23-EJS2136){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2208.07132){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://osf.io/wgsth/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Talk](../talks/pdf/poster_R2D2M2_prior.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-<!-- -->
-
-<br /> 
-<br /> 
-
-## Past Projects {#past-projects}
 
 ::: {.callout-note icon=false collapse="true"}
 ## Machine Learning for Bayesian Model Building {#ml4bmb}

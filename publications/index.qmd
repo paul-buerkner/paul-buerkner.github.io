@@ -97,9 +97,6 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2406.03154){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/marvinschmitt/ModelMisspecificationBF){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Kucharský Š., Mishra A., Habermann D., Radev S. T., & **Bürkner P. C.** (accepted). Towards Trustworthy Amortized Bayesian Model Comparison. *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
-[Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Kołczyńska M., & **Bürkner P. C.** (accepted). Does political trust strengthen democracy? *International Political Science Review*. 
 [Preprint](https://osf.io/preprints/socarxiv/wd5hp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/tpywu/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -165,6 +162,9 @@ toc-location: right
 [PDF](pdf/2025__Dubova_et_al__PNAS.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://www.pnas.org/doi/10.1073/pnas.2401230121){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://osf.io/preprints/metaarxiv/bs5xe){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Kucharský Š., Mishra A., Habermann D., Radev S. T., & **Bürkner P. C.** (2025). Towards Trustworthy Amortized Bayesian Model Comparison. *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
+[Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Kucharský Š. & **Bürkner P. C.** (2025). Amortized Bayesian Cognitive Modeling with BayesFlow. *PsyArXiv preprint*. doi:10.31234/osf.io/34k6q_v1
 [Preprint](https://osf.io/preprints/psyarxiv/34k6q_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
