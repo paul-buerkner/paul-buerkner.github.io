@@ -503,7 +503,7 @@ Overarching Topics:
 [Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Amortized Inference](../research#abi){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Project Members: [Marvin Schmitt](../people#marvin-schmitt){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+Project Members: [Marvin Schmitt](https://marvin-schmitt.com//){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funders: [Cyber Valley Research Fund](https://cyber-valley.de/en/research-fund){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -514,7 +514,7 @@ Publications:
 - **Schmitt M.**, Hikida Y., Radev S. T., Sadlo F., & Bürkner P. C. (in review). The Simplex Projection: Lossless Visualization of 4D Compositional Data on a 2D Canvas. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2403.11141){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/marvinschmitt/ggsimplex){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Tutorial](https://www.marvinschmitt.com/blog/ggsimplex-prerelease/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Tutorial](https://marvin-schmitt.com//blog/ggsimplex-prerelease/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Habermann D., **Schmitt M.**, Kühmichel L., Bulling A., Radev S. T., & Bürkner P. C. (in review). Amortized Bayesian Multilevel Models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -611,7 +611,7 @@ Overarching Topics:
 [Model Comparison](../research#model-comparison){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Project Members: Maximilian Scholz
+Project Members: [Maximilian Scholz](https://www.scholzmx.com/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funders: [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 

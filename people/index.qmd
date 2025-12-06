@@ -279,31 +279,6 @@ Co-Supervisor: [Anneli Guthke](https://www.simtech.uni-stuttgart.de/exc/people/G
 
 ---
 
-
-<!-- Marvin Schmitt -->
-
-::: {.grid}
-::: {.g-col-12 .g-col-md-3}
-<br /> 
-![](../images/marvin-schmitt.png){width=100% fig-alt="A portrait of Marvin Schmitt."}
-:::
-::: {.g-col-12 .g-col-md-9}
-Marvin Schmitt {#marvin-schmitt}
----
-
-Background: Psychology and Computer Science
-
-Project: [Meta-Uncertainty in Bayesian Model Comparison](../projects#mu-bmb)
-
-[Email](mailto:mail.marvinschmitt@gmail.com){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Personal Website](https://www.marvinschmitt.com/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[University Website](https://www.simtech.uni-stuttgart.de/exc/people/Schmitt-00009/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[GitHub](https://github.com/marvinschmitt){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-:::
-:::
-
----
-
 <br /> 
 <br /> 
 
@@ -311,11 +286,15 @@ Project: [Meta-Uncertainty in Bayesian Model Comparison](../projects#mu-bmb)
 ::: {.callout-note icon=false collapse="true"}
 ## Alumni
 
-- Maximilian Scholz (2021 -- 2024): PhD Student in my lab before moving to industry.
+- Marvin Schmitt (2021--2025): PhD Student moving to industry.
+[Personal Website](https://marvin-schmitt.com//){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[GitHub](https://github.com/marvinschmitt){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Maximilian Scholz (2021--2024): PhD Student moving to industry.
 [Personal Website](https://www.scholzmx.com/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [GitHub](https://github.com/sims1253){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Stefan Radev (2021 -- 2023): PostDoc in my lab before becoming an assistant professor.
+- Stefan Radev (2021--2023): PostDoc becoming an assistant professor.
 [University Website](https://faculty.rpi.edu/stefan-radev){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [GitHub](https://github.com/stefanradev93){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Linkedin](https://de.linkedin.com/in/stefan-radev-21b713187){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}

@@ -55,7 +55,7 @@ toc-location: right
 - Schmitt M., Hikida Y., Radev S. T., Sadlo F., & **Bürkner P. C.** (in review). The Simplex Projection: Lossless Visualization of 4D Compositional Data on a 2D Canvas. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2403.11141){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/marvinschmitt/ggsimplex){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Tutorial](https://www.marvinschmitt.com/blog/ggsimplex-prerelease/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Tutorial](https://marvin-schmitt.com//blog/ggsimplex-prerelease/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Scholz M. & **Bürkner P. C.** (in review). Posterior accuracy and calibration under misspecification in Bayesian generalized linear models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2311.09081){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
