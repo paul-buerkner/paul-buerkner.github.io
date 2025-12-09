@@ -254,6 +254,31 @@ Co-Supervisor: [Manfred Claassen](https://claassenlab.github.io/people/manfred-c
 
 ---
 
+<!-- Hans Olischlaeger -->
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+<br /> 
+![](../images/hans-olischlaeger.png){width=100% fig-alt="A portrait of Hans Olischläger."}
+:::
+::: {.g-col-12 .g-col-md-9}
+Hans Olischläger {#hans-olischlaeger}
+---
+
+Background: Physics
+
+<!--
+Project: [TODO](../projects#TODO)
+-->
+
+[Email](mailto:hans.olischlaeger@tu-dortmund.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[GitHub](https://github.com/han-ol){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Bluesky](https://bsky.app/profile/han-ol.bsky.social){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+:::
+:::
+
+---
+
 <!-- Philipp Reiser -->
 
 ::: {.grid}
