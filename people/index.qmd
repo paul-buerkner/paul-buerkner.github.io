@@ -286,16 +286,15 @@ Co-Supervisor: [Anneli Guthke](https://www.simtech.uni-stuttgart.de/exc/people/G
 ::: {.callout-note icon=false collapse="true"}
 ## Alumni
 
-- Marvin Schmitt (2021--2025): PhD Student moving to industry.
-[Personal Website](https://marvin-schmitt.com//){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[GitHub](https://github.com/marvinschmitt){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+- Marvin Schmitt (2021--2025).
+[Website](https://marvin-schmitt.com//){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Project](../projects#mu-bmb){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Maximilian Scholz (2021--2024): PhD Student moving to industry.
-[Personal Website](https://www.scholzmx.com/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[GitHub](https://github.com/sims1253){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+- Maximilian Scholz (2021--2024).
+[Website](https://www.scholzmx.com/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Project](../projects#ml4bmb){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Stefan Radev (2021--2023): PostDoc becoming an assistant professor.
-[University Website](https://faculty.rpi.edu/stefan-radev){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[GitHub](https://github.com/stefanradev93){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+- Stefan Radev (2021--2023).
+[Website](https://faculty.rpi.edu/stefan-radev){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Linkedin](https://de.linkedin.com/in/stefan-radev-21b713187){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 :::
