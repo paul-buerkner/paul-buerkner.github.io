@@ -155,73 +155,6 @@ Forecasting with Bayesian models is becoming more popular. Some forecasting appl
 5. Analyze and discuss results.
 :::
 
-
-::: {.callout-note icon=false collapse="true"}
-## Amortized hierarchical mixture models
-
-**Supervision**:
-[Šimon Kucharský](../people#simon-kucharsky){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Daniel Habermann](../people#daniel-habermann){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-**Projects**: 
-
-[Applications of Amortized Bayesian Inference](../projects#abi-applications){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Amortized Bayesian Inference for Multilevel Models](../projects#amortized-mlms){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-**Important references**:
-
-- [JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models](https://arxiv.org/abs/2302.09125) (and related BayesFlow articles)
-- [Finite Mixture Models](https://doi.org/10.1146/annurev-statistics-031017-100325) (or any other literature on mixture models)
-- [Bayesian Hierarchical Models](https://jamanetwork.com/journals/jama/article-abstract/2718053) (or any hierarchical models literature)
-
-**Tools**: Python, Stan
-
-**Problem description**: 
-BayesFlow was recently expanded to handle two level hierarchical models (for details, talk to Daniel) and is being expanded to be able to make inferences for mixture models (for details, talk to Simon). The idea for this project is to combine the two approaches and investigate how to implement amortized inference for hierarchical mixture models with BayesFlow.
-
-**Project structure**:
-
-1. Review relevant concepts and literature.
-2. Get familiarized with BayesFlow and the current implementation of hierarchical and mixture models.
-3. Implement a basic hierarchical mixture model with BayesFlow as a proof of concept.
-4. Validate the model.
-5. Analyze and discuss results.
-:::
-
-
-::: {.callout-note icon=false collapse="true"}
-## Stable diffusion for BayesFlow
-
-**Supervision**: 
-[Lars Kühmichel](../people#lars-kuehmichel){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-**Project**: 
-[BayesFlow: Simulation Intelligence with Deep Learning](../projects#bayesflow-software){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-**Tools**: Python, Keras3
-
-**Relevant Literature**:
-
-- [Denoising Diffusion](https://arxiv.org/abs/2006.11239)
-- [Stable Diffusion](https://arxiv.org/abs/2112.10752)
-- [BayesFlow](https://arxiv.org/abs/2306.16015)
-
-**Problem Description**:
-BayesFlow is a Python library for simulation-based amortized Bayesian inference
-with neural networks. It aims to provide users with a rich collection of neural
-network architectures. Diffusion Models are a modern and powerful type of
-generative neural network that particularly excel at creating high-quality
-samples, even for complex, high-dimensional distributions.
-
-**Project structure**:
-
-- Literature search on amortized Bayesian inference and Diffusion Models
-- Draft your own first implementation of Stable Diffusion
-- Use your implementation to reproduce a generative deep learning paper
-- Port your implementation into BayesFlow
-- Use your ported implementation to reproduce an amortized Bayesian inference paper
-:::
-
 ::: {.callout-note icon=false collapse="true"}
 ## Joint prior distributions for hierarchical phylogenetic models
 
@@ -273,6 +206,33 @@ for such priors, which we will discuss with you upon starting your thesis.
  - Characterize the shrinkage on strong signals
  - Carry out simulations
  - Analyse and discuss the results
+:::
+
+::: {.callout-note icon=false collapse="true"}
+## Multilevel Bayesian modelling of spatio-temporal M/EEG data
+
+**Supervision**: 
+[Paul Bürkner](../people#paul-buerkner){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+**Collaborator**:
+[Ladislas Nalborczyk](https://lnalborczyk.github.io/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+**Relevant literature**: 
+
+- Nalborczyk, L. & Bürkner, P. (2025). Precise temporal localisation of M/EEG effects with Bayesian generalised additive multilevel models. *bioRxiv preprint*.
+- Wood, S. N. (2017). Generalized Additive Models: An Introduction with R (2nd edition).
+
+**Tools**: R, Python, Stan
+
+**Problem description**: Recent work has shown that Bayesian Generalised Additive Multilevel Models (BGAMMs) provide a powerful and principled alternative to cluster-based permutation tests for analysing M/EEG data, as they naturally account for temporal dependencies, yield smooth time courses of effects, and allow both participant- and group-level inference. The goal of this internship is to extend this modelling framework to the spatiotemporal domain by incorporating sensor-level structure (e.g., adjacency matrices, spatial bases, covariance kernels) into the multilevel Bayesian model. A central challenge is to design a method that remains computationally efficient, scalable to high-dimensional M/EEG datasets, and compatible with practical workflows in MNE-Python and R. The student will work on model development, simulation studies, and empirical applications (all in R) using empirical M/EEG datasets.
+
+**Project structure**: 
+
+- Reviewing statistical approaches for modelling temporal and spatial dependencies in M/EEG data
+- Developing a computationally-efficient spatiotemporal Bayesian GAMM (e.g., tensor-product smooths, sparse or low-rank spatial bases, adjacency-informed priors) in R
+- Running extensive simulation studies to assess recoverability, speed, and accuracy
+- Applying the model to empirical M/EEG data and comparing it with classical permutation-based statistics
+- Writing the thesis and documenting the modelling framework in the neurogam package (https://lnalborczyk.github.io/neurogam/)
 :::
 
 
