@@ -80,7 +80,10 @@ Publications:
 - **Mishra A.**, Habermann D., Schmitt M., Radev S. T., & Bürkner P. C. (in review). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Kucharský Š., **Mishra A.**, Habermann D., Radev S. T., & Bürkner P. C. (in review). Towards Trustworthy Amortized Bayesian Model Comparison. *ArXiv preprint*.
+- Kucharský Š., **Mishra A.**, Habermann D., Radev S. T., & Bürkner P. C. (in review). Improving the Accuracy of Amortized Model Comparison with Self-Consistency. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2512.14308){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Kucharský Š., **Mishra A.**, Habermann D., Radev S. T., & Bürkner P. C. (2025). Towards Trustworthy Amortized Bayesian Model Comparison. *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
 [Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Müller, J., **Kühmichel, L.**, Rohbeck, M., Radev, S. T., & Köthe, U. (in review). Towards Context-Aware Domain Generalization: Understanding the Benefits and Limits of Marginal Transfer Learning. *ArXiv preprint*.
@@ -124,7 +127,10 @@ Publications:
 - **Kucharský Š.** & Bürkner P. C. (in review). Amortized Bayesian Mixture Models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2501.10229){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- **Kucharský Š.**, Mishra A., Habermann D., Radev S. T., & Bürkner P. C. (in review). Towards Trustworthy Amortized Bayesian Model Comparison. *ArXiv preprint*.
+- **Kucharský Š.**, Mishra A., Habermann D., Radev S. T., & Bürkner P. C. (in review). Improving the Accuracy of Amortized Model Comparison with Self-Consistency. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2512.14308){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- **Kucharský Š.**, Mishra A., Habermann D., Radev S. T., & Bürkner P. C. (2025). Towards Trustworthy Amortized Bayesian Model Comparison. *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
 [Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Kucharský Š.** & Bürkner P. C. (2025). Amortized Bayesian Cognitive Modeling with BayesFlow. *PsyArXiv preprint*. doi:10.31234/osf.io/34k6q_v1
