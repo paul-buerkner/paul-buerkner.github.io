@@ -756,7 +756,7 @@ Bayesian Inference. *Proceedings of the International Conference on Machine Lear
 [Preprint](https://psyarxiv.com/fmtkj/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/nmp6x/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Beisemann M., Forthmann B., **Bürkner P. C.**, & Holling H. (2019). Psychometric Evaluation of an Alternate Scoring for the Remote Associates Test. *The Journal of Creative Behavior*.
+- Beisemann M., Forthmann B., **Bürkner P. C.**, & Holling H. (2019). Psychometric evaluation of an alternate scoring for the remote associates test. *The Journal of Creative Behavior*.
 [PDF](pdf/2019__Beisemann_et_al__The_Journal_of_Creative_Behavior.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Journal](https://onlinelibrary.wiley.com/doi/abs/10.1002/jocb.394){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
