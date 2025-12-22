@@ -167,6 +167,7 @@ toc-location: right
 [Preprint](https://osf.io/preprints/metaarxiv/bs5xe){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Kucharský Š., Mishra A., Habermann D., Radev S. T., & **Bürkner P. C.** (2025). Towards Trustworthy Amortized Bayesian Model Comparison. *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
+[PDF](pdf/2025__Kucharsky_et_al__NeurIPS_Workshop_Reliable_ML.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Kucharský Š. & **Bürkner P. C.** (2025). Amortized Bayesian Cognitive Modeling with BayesFlow. *PsyArXiv preprint*. doi:10.31234/osf.io/34k6q_v1
