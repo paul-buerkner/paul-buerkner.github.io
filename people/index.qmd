@@ -279,31 +279,6 @@ Project: [TODO](../projects#TODO)
 
 ---
 
-<!-- Philipp Reiser -->
-
-::: {.grid}
-::: {.g-col-12 .g-col-md-3}
-<br /> 
-![](../images/philipp-reiser.png){width=100% fig-alt="A portrait of Philipp Reiser."}
-:::
-::: {.g-col-12 .g-col-md-9}
-Philipp Reiser {#philipp-reiser}
----
-
-Background: Physics and Computer Science
-
-Project: [Data-Integrated Training of Surrogate Models for Uncertainty Quantification](../projects#uncertainty-surrogate-models)
-
-Co-Supervisor: [Anneli Guthke](https://www.simtech.uni-stuttgart.de/exc/people/Guthke/)
-
-[Email](mailto:philipp-luca.reiser@simtech.uni-stuttgart.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[University Website](https://www.simtech.uni-stuttgart.de/exc/people/Reiser-00005/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[GitHub](https://github.com/philippreiser){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-:::
-:::
-
----
-
 <br /> 
 <br /> 
 
@@ -311,8 +286,12 @@ Co-Supervisor: [Anneli Guthke](https://www.simtech.uni-stuttgart.de/exc/people/G
 ::: {.callout-note icon=false collapse="true"}
 ## Alumni
 
+- Philipp Reiser (2022--2025). 
+[LinkedIn](https://de.linkedin.com/in/philipp-reiser-a33163165){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Project](../projects#uncertainty-surrogate-models){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Marvin Schmitt (2021--2025).
-[Website](https://marvin-schmitt.com//){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Website](https://marvin-schmitt.com/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Project](../projects#mu-bmb){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Maximilian Scholz (2021--2024).
@@ -321,5 +300,5 @@ Co-Supervisor: [Anneli Guthke](https://www.simtech.uni-stuttgart.de/exc/people/G
 
 - Stefan Radev (2021--2023).
 [Website](https://faculty.rpi.edu/stefan-radev){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Linkedin](https://de.linkedin.com/in/stefan-radev-21b713187){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[LinkedIn](https://de.linkedin.com/in/stefan-radev-21b713187){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 :::
