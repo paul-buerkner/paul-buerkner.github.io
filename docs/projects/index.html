@@ -365,6 +365,27 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <!-- -->
 </section>
+<section id="semi-supervised-learning-for-robust-amortized-bayesian-inference" class="level2">
+<h2 class="anchored" data-anchor-id="semi-supervised-learning-for-robust-amortized-bayesian-inference">Semi-Supervised Learning for Robust Amortized Bayesian Inference</h2>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="../images/self_consistency_posterior_contour.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:100.0%" alt="An illustration of amortized mixture models."></p>
+</figure>
+</div>
+<p>Amortized Bayesian inference (ABI) with neural networks can solve probabilistic inverse problems orders of magnitude faster than classical methods. However, ABI is not yet sufficiently robust for widespread and safe application. When performing inference on observations outside the scope of the simulated training data, posterior approximations are likely to become highly biased, which cannot be adequately corrected just by additional simulations.</p>
+<p>In this project, we work on semi-supervised approaches that enable training not only on labeled simulated data generated from the model, but also on data originating from any source, including real-world data. We hypothesize that such approaches can strongly increase estimation accuracy and robustness especially for real-world data outside of the immediate simulation scope.</p>
+<p>Overarching Topics: <a href="../research#abi" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Amortized Inference</a> <a href="../research#uncertainty-quantification" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Uncertainty Quantification</a></p>
+<p>Project Members: <a href="../people#aayush-mishra" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Aayush Mishra</a></p>
+<p>Funders: <a href="https://www.tu-dortmund.de/en/" class="btn btn-outline-primary btn-page-header btn-xs" role="button">TU Dortmund University</a></p>
+<p>Funding Period: 2024 – 2027</p>
+<p>Publications:</p>
+<ul>
+<li><p><strong>Mishra A.</strong>, Habermann D., Schmitt M., Radev S. T., &amp; Bürkner P. C. (in review). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. <em>ArXiv preprint</em>. <a href="https://arxiv.org/abs/2501.13483" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Preprint</a></p></li>
+<li><p>Kucharský Š., <strong>Mishra A.</strong>, Habermann D., Radev S. T., &amp; Bürkner P. C. (in review). Improving the Accuracy of Amortized Model Comparison with Self-Consistency. <em>ArXiv preprint</em>. <a href="https://arxiv.org/abs/2512.14308" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Preprint</a></p></li>
+<li><p>Kucharský Š., <strong>Mishra A.</strong>, Habermann D., Radev S. T., &amp; Bürkner P. C. (2025). Towards Trustworthy Amortized Bayesian Model Comparison. <em>NeurIPS Workshop on Reliable Machine Learning from Unreliable Data</em>. <a href="pdf/2025__Kucharsky_et_al__NeurIPS_Workshop_Reliable_ML.pdf" class="btn btn-outline-primary btn-page-header btn-xs" role="button">PDF</a> <a href="https://arxiv.org/abs/2508.20614" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Preprint</a></p></li>
+</ul>
+<!-- -->
+</section>
 <section id="bayesflow-software" class="level2">
 <h2 class="anchored" data-anchor-id="bayesflow-software">BayesFlow: Simulation Intelligence with Deep Learning</h2>
 <div class="quarto-figure quarto-figure-left">
@@ -375,14 +396,11 @@ ul.task-list li input[type="checkbox"] {
 <p>Simulation intelligence (SI) subsumes an emerging generation of scientific methods which utilize digital simulations for emulating and understanding complex real-world systems and phenomena. Recently, neural networks and deep learning have demonstrated a great potential for accelerating and scaling up SI to previously intractable problems and data sets. However, the availability of user-friendly software is still limited, which hampers the widespread and flexible use of modern SI methods.</p>
 <p>In this project, we focus on software for amortized Bayesian inference, which is an essential part of SI. The hallmark feature of amortized Bayesian inference is an upfront training phase (e.g., of a neural network), which is then amortized by a nearly instant fully Bayesian inference for an arbitrary number of data sets during test time. Concretely, we aim to advance the <a href="../software#bayesflow">BayesFlow research software library</a> into becoming the long-term, gold-standard software for amortized Bayesian inference.</p>
 <p>Overarching Topics: <a href="../research#abi" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Amortized Inference</a> <a href="../research#machine-workflow" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Machine-Assisted Workflows</a> <a href="../research#uncertainty-quantification" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Uncertainty Quantification</a></p>
-<p>Project Members: <a href="../people#lars-kuehmichel" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Lars Kühmichel</a> <a href="../people#aayush-mishra" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Aayush Mishra</a></p>
-<p>Funders: <a href="https://www.dfg.de/en/index.jsp" class="btn btn-outline-primary btn-page-header btn-xs" role="button">German Research Foundation (DFG)</a> <a href="https://www.tu-dortmund.de/en/" class="btn btn-outline-primary btn-page-header btn-xs" role="button">TU Dortmund University</a></p>
+<p>Project Members: <a href="../people#lars-kuehmichel" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Lars Kühmichel</a></p>
+<p>Funders: <a href="https://www.dfg.de/en/index.jsp" class="btn btn-outline-primary btn-page-header btn-xs" role="button">German Research Foundation (DFG)</a></p>
 <p>Funding Period: 2024 – 2027</p>
 <p>Publications:</p>
 <ul>
-<li><p><strong>Mishra A.</strong>, Habermann D., Schmitt M., Radev S. T., &amp; Bürkner P. C. (in review). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. <em>ArXiv preprint</em>. <a href="https://arxiv.org/abs/2501.13483" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Preprint</a></p></li>
-<li><p>Kucharský Š., <strong>Mishra A.</strong>, Habermann D., Radev S. T., &amp; Bürkner P. C. (in review). Improving the Accuracy of Amortized Model Comparison with Self-Consistency. <em>ArXiv preprint</em>. <a href="https://arxiv.org/abs/2512.14308" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Preprint</a></p></li>
-<li><p>Kucharský Š., <strong>Mishra A.</strong>, Habermann D., Radev S. T., &amp; Bürkner P. C. (2025). Towards Trustworthy Amortized Bayesian Model Comparison. <em>NeurIPS Workshop on Reliable Machine Learning from Unreliable Data</em>. <a href="pdf/2025__Kucharsky_et_al__NeurIPS_Workshop_Reliable_ML.pdf" class="btn btn-outline-primary btn-page-header btn-xs" role="button">PDF</a> <a href="https://arxiv.org/abs/2508.20614" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Preprint</a></p></li>
 <li><p>Müller, J., <strong>Kühmichel, L.</strong>, Rohbeck, M., Radev, S. T., &amp; Köthe, U. (in review). Towards Context-Aware Domain Generalization: Understanding the Benefits and Limits of Marginal Transfer Learning. <em>ArXiv preprint</em>. <a href="https://arxiv.org/abs/2312.10107" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Preprint</a></p></li>
 <li><p>Habermann D., Schmitt M., <strong>Kühmichel L.</strong>, Bulling A., Radev S. T., &amp; Bürkner P. C. (2025). Amortized Bayesian Multilevel Models. <em>Bayesian Analysis</em>. doi:10.1214/25-BA1570 <a href="../publications/pdf/2025__Habermann_et_al__Bayesian_Analysis.pdf" class="btn btn-outline-primary btn-page-header btn-xs" role="button">PDF</a> <a href="https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Amortized-Bayesian-Multilevel-Models/10.1214/25-BA1570.full" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Journal</a> <a href="https://arxiv.org/abs/2408.13230" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Preprint</a></p></li>
 <li><p>Pogorelyuk, L., Bracher, N. L., Verkleeren, A., <strong>Kühmichel, L.</strong>, &amp; Radev, S. T. (2025). Stable Single-Pixel Contrastive Learning for Semantic and Geometric Tasks. <em>NeurIPS Workshop on Unifying Representations in Neural Models</em>. <a href="https://openreview.net/forum?id=nzGuDABwce" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Conference</a> <a href="https://github.com/stefanradev93/oxels" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Code &amp; Data</a></p></li>
@@ -494,29 +512,6 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <!-- -->
 </section>
-<section id="uncertainty-surrogate-models" class="level2">
-<h2 class="anchored" data-anchor-id="uncertainty-surrogate-models">Data-Integrated Training of Surrogate Models for Uncertainty Quantification</h2>
-<div class="quarto-figure quarto-figure-left">
-<figure class="figure">
-<p><img src="../images/uncertainty_prop_workflow.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:80.0%" alt="Surrogate uncertainty propagation workflow."></p>
-</figure>
-</div>
-<p>Uncertainty quantification is crucial to assess the predictive power and limitations of complex systems models. However, in the case of high-dimensional parameter spaces and/or complex functional relationships, physics-based simulation models are often computationally too demanding for rigorous Bayesian uncertainty quantification. Surrogate models allow for such analyses with much lower effort. They are typically trained such that they fit the simulation reference best.</p>
-<p>What is left unexplored is the possibility of surrogate models to actually fit observed data better than the reference model. This phenomenon occurs when structural misspecification of the physics-constrained reference model limits its performance, but at the same time, the more flexible data-driven surrogate model can better capture the relation of output and input data. Such situations offer huge potential for diagnostic evaluation of the modelling approach toward deeper system understanding and model improvement.</p>
-<p>We aim at developing (1) a weighted data-integrated surrogate training approach for improved predictive performance, (2) a diagnostic approach for structural error detection in the reference model, and (3) an uncertainty propagation analysis that accounts for the approximation error introduced by the use of surrogates.</p>
-<p>Overarching Topics: <a href="../research#uncertainty-quantification" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Uncertainty Quantification</a></p>
-<p>Project Members: <a href="../people#philipp-reiser" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Philipp Reiser</a></p>
-<p>Co-Supervisors: <a href="https://www.simtech.uni-stuttgart.de/exc/people/Guthke/" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Anneli Guthke</a></p>
-<p>Funders: <a href="https://www.simtech.uni-stuttgart.de/" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Cluster of Excellence SimTech</a></p>
-<p>Funding Period: 2022 – 2025</p>
-<p>Publications:</p>
-<ul>
-<li><p>Scheurer S., <strong>Reiser P.</strong>, Brünnette T., Nowak W., Guthke A., &amp; Bürkner P. C. (in review). Uncertainty-Aware Surrogate-based Amortized Bayesian Inference for Computationally Expensive Models. <em>ArXiv preprint</em>. <a href="https://arxiv.org/abs/2505.08683" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Preprint</a></p></li>
-<li><p><strong>Reiser P.</strong>, Aguilar J. E., Guthke A., &amp; Bürkner P. C. (2025). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. <em>Statistics and Computing</em>. doi:10.1007/s11222-025-10597-8 <a href="../publications/pdf/2025__Reiser_et_al__Statistics_and_Computing.pdf" class="btn btn-outline-primary btn-page-header btn-xs" role="button">PDF</a> <a href="https://link.springer.com/article/10.1007/s11222-025-10597-8" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Journal</a> <a href="https://arxiv.org/abs/2312.05153" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Preprint</a> <a href="https://github.com/philippreiser/bayesian-surrogate-uncertainty-paper" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Code &amp; Data</a></p></li>
-<li><p><strong>Reiser P.</strong>, Aguilar J. E., Guthke A., &amp; Bürkner P. C. (2025). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. <em>Statistics and Computing</em>. doi:10.1007/s11222-025-10597-8 <a href="../publications/pdf/2025__Reiser_et_al__Statistics_and_Computing.pdf" class="btn btn-outline-primary btn-page-header btn-xs" role="button">PDF</a> <a href="https://link.springer.com/article/10.1007/s11222-025-10597-8" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Journal</a> <a href="https://arxiv.org/abs/2312.05153" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Preprint</a> <a href="https://github.com/philippreiser/bayesian-surrogate-uncertainty-paper" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Code &amp; Data</a></p></li>
-</ul>
-<!-- -->
-</section>
 <section id="joint-priors-mlms" class="level2">
 <h2 class="anchored" data-anchor-id="joint-priors-mlms">Intuitive Joint Priors for Bayesian Multilevel Models</h2>
 <p><img src="../images/coef_r2d2_marginal.png" class="img-fluid" alt="Marginal densities of the R2D2 prior's coefficients."></p>
@@ -547,11 +542,46 @@ ul.task-list li input[type="checkbox"] {
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Meta-Uncertainty in Bayesian Model Comparison
+Data-Integrated Training of Surrogate Models for Uncertainty Quantification
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="../images/uncertainty_prop_workflow.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:80.0%" alt="Surrogate uncertainty propagation workflow."></p>
+</figure>
+</div>
+<p>Uncertainty quantification is crucial to assess the predictive power and limitations of complex systems models. However, in the case of high-dimensional parameter spaces and/or complex functional relationships, physics-based simulation models are often computationally too demanding for rigorous Bayesian uncertainty quantification. Surrogate models allow for such analyses with much lower effort. They are typically trained such that they fit the simulation reference best.</p>
+<p>What is left unexplored is the possibility of surrogate models to actually fit observed data better than the reference model. This phenomenon occurs when structural misspecification of the physics-constrained reference model limits its performance, but at the same time, the more flexible data-driven surrogate model can better capture the relation of output and input data. Such situations offer huge potential for diagnostic evaluation of the modelling approach toward deeper system understanding and model improvement.</p>
+<p>We aim at developing (1) a weighted data-integrated surrogate training approach for improved predictive performance, (2) a diagnostic approach for structural error detection in the reference model, and (3) an uncertainty propagation analysis that accounts for the approximation error introduced by the use of surrogates.</p>
+<p>Overarching Topics: <a href="../research#uncertainty-quantification" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Uncertainty Quantification</a></p>
+<p>Project Members: <a href="../people#philipp-reiser" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Philipp Reiser</a></p>
+<p>Co-Supervisors: <a href="https://www.simtech.uni-stuttgart.de/exc/people/Guthke/" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Anneli Guthke</a></p>
+<p>Funders: <a href="https://www.simtech.uni-stuttgart.de/" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Cluster of Excellence SimTech</a></p>
+<p>Funding Period: 2022 – 2025</p>
+<p>Publications:</p>
+<ul>
+<li><p>Scheurer S., <strong>Reiser P.</strong>, Brünnette T., Nowak W., Guthke A., &amp; Bürkner P. C. (in review). Uncertainty-Aware Surrogate-based Amortized Bayesian Inference for Computationally Expensive Models. <em>ArXiv preprint</em>. <a href="https://arxiv.org/abs/2505.08683" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Preprint</a></p></li>
+<li><p><strong>Reiser P.</strong>, Bürkner P. C., &amp; Guthke A. (in review). Bayesian Surrogate Training on Multiple Data Sources: A Hybrid Modeling Strategy. <em>ArXiv preprint</em>. <a href="https://arxiv.org/abs/2412.11875" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Preprint</a> <a href="https://github.com/philippreiser/multi-data-source-bayesian-surrogate-paper" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Code &amp; Data</a></p></li>
+<li><p><strong>Reiser P.</strong>, Aguilar J. E., Guthke A., &amp; Bürkner P. C. (2025). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. <em>Statistics and Computing</em>. doi:10.1007/s11222-025-10597-8 <a href="../publications/pdf/2025__Reiser_et_al__Statistics_and_Computing.pdf" class="btn btn-outline-primary btn-page-header btn-xs" role="button">PDF</a> <a href="https://link.springer.com/article/10.1007/s11222-025-10597-8" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Journal</a> <a href="https://arxiv.org/abs/2312.05153" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Preprint</a> <a href="https://github.com/philippreiser/bayesian-surrogate-uncertainty-paper" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Code &amp; Data</a></p></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Meta-Uncertainty in Bayesian Model Comparison
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p><img src="../images/meta_uncertainty_banner.png" class="img-fluid" alt="An illustration of meta-uncertainty."></p>
 <p>What we can learn from a single data set in experiments and observational studies is always limited, and we are inevitably left with some remaining uncertainty. It is of utmost importance to take this uncertainty into account when drawing conclusions if we want to make real scientific progress. Formalizing and quantifying uncertainty is thus at the heart of statistical methods aiming to obtain insights from data.</p>
@@ -586,7 +616,7 @@ Meta-Uncertainty in Bayesian Model Comparison
 </div>
 <!-- -->
 <div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -595,7 +625,7 @@ Machine Learning for Bayesian Model Building
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
