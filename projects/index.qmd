@@ -475,7 +475,7 @@ that accounts for the approximation error introduced by the use of surrogates.
 Overarching Topics: 
 [Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Project Members: [Philipp Reiser](../people#philipp-reiser){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+Project Members: [Philipp Reiser](https://de.linkedin.com/in/philipp-reiser-a33163165){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Co-Supervisors: [Anneli Guthke](https://www.simtech.uni-stuttgart.de/exc/people/Guthke/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
