@@ -184,7 +184,9 @@ Overarching Topics:
 
 Project Members: [Daniel Habermann](../people#daniel-habermann){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Funders: [German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+Funders: 
+[German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funding Period: 2023 -- 2026
 
