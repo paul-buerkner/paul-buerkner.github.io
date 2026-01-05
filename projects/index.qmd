@@ -293,7 +293,8 @@ Overarching Topics:
 
 Project Members: [Florence Bockting](../people#florence-bockting){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Funders: [TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+Funders: 
+[TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funding Period: 2022 -- 2025
