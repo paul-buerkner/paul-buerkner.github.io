@@ -48,7 +48,11 @@ Funding Period: 2024 -- 2028
 
 Publications:
 
-- **Jedhoff S.**, Kutabi H., Meyer A. & Bürkner P. C. (in review). Efficient Uncertainty Propagation in Bayesian Two-Step Procedures. *ArXiv preprint*.
+- **Jedhoff S.**, Semenova E., Raulo A., Meyer A., & Bürkner P. C. (in review). From Mice to Trains: Amortized Bayesian Inference on Graph Data.  *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2601.02241){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/sjedhoff/ABI-graph-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- **Jedhoff S.**, Kutabi H., Meyer A., & Bürkner P. C. (in review). Efficient Uncertainty Propagation in Bayesian Two-Step Procedures. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2505.10510){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/sjedhoff/efficient-2step-uncertainty-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
