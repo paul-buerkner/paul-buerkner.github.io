@@ -75,10 +75,6 @@ toc-location: right
 - Li C., Vehtari A., **Bürkner P. C.**, Radev S. T., Acerbi L., & Schmitt M. (in review). Amortized Bayesian Workflow. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2409.04332){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Säilynoja T., Schmitt M., **Bürkner P. C.**, & Vehtari A. (in review). Posterior SBC: Simulation-Based Calibration Checking Conditional on Data. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2502.03279){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/TeemuSailynoja/posterior-sbc){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Nalborczyk L. & **Bürkner P. C.** (in review). Precise temporal localisation of M/EEG effects with Bayesian generalised additive multilevel models. *biorXiv preprint*.
 [Preprint](https://www.biorxiv.org/content/10.1101/2025.08.29.672336v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/lnalborczyk/brms_meeg){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -106,6 +102,10 @@ toc-location: right
 - Schmitt, M., **Bürkner P. C.**, Köthe U., & Radev S. T. (accepted). Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation. *International Journal of Computer Vision*.
 [Preprint](https://arxiv.org/abs/2406.03154){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/marvinschmitt/ModelMisspecificationBF){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Säilynoja T., Schmitt M., **Bürkner P. C.**, & Vehtari A. (accepted). Posterior SBC: Simulation-Based Calibration Checking Conditional on Data. *Statistics and Computing*.
+[Preprint](https://arxiv.org/abs/2502.03279){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/TeemuSailynoja/posterior-sbc){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Kołczyńska M., & **Bürkner P. C.** (accepted). Does political trust strengthen democracy? *International Political Science Review*. 
 [Preprint](https://osf.io/preprints/socarxiv/wd5hp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
