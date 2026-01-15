@@ -279,6 +279,29 @@ Project: [TODO](../projects#TODO)
 
 ---
 
+<!-- Yiming Zang -->
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+<br /> 
+![](../images/yiming-zang.png){width=100% fig-alt="A portrait of Yiming Zang."}
+:::
+::: {.g-col-12 .g-col-md-9}
+Yiming Zang {#yiming-zang}
+---
+
+Background: Mathematics and Data Science
+
+<!--
+Project: [TODO](../projects#TODO)
+-->
+
+[Email](mailto:yiming.zang@tu-dortmund.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+:::
+:::
+
+---
+
 <br /> 
 <br /> 
 
