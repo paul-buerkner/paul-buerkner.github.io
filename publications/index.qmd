@@ -59,9 +59,6 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2412.11875){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/philippreiser/multi-data-source-bayesian-surrogate-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Scheurer S., Reiser P., Brünnette T., Nowak W., Guthke A., & **Bürkner P. C.** (in review). Uncertainty-Aware Surrogate-based Amortized Bayesian Inference for Computationally Expensive Models. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2505.08683){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Schmitt M., Hikida Y., Radev S. T., Sadlo F., & **Bürkner P. C.** (in review). The Simplex Projection: Lossless Visualization of 4D Compositional Data on a 2D Canvas. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2403.11141){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/marvinschmitt/ggsimplex){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -98,6 +95,9 @@ toc-location: right
 
 - **Bürkner P. C.**, Schmitt M., & Radev S. T. (accepted). Simulations in Statistical Workflows. *Philosophical Transactions A*.
 [Preprint](https://arxiv.org/abs/2503.24011){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Scheurer S., Reiser P., Brünnette T., Nowak W., Guthke A., & **Bürkner P. C.** (accepted). Uncertainty-Aware Surrogate-based Amortized Bayesian Inference for Computationally Expensive Models. *Transactions in Machine Learning Research*.
+[Preprint](https://arxiv.org/abs/2505.08683){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Schmitt, M., **Bürkner P. C.**, Köthe U., & Radev S. T. (accepted). Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation. *International Journal of Computer Vision*.
 [Preprint](https://arxiv.org/abs/2406.03154){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
