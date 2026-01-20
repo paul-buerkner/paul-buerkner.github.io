@@ -501,8 +501,11 @@ Publications:
 [Preprint](https://arxiv.org/abs/2412.11875){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/philippreiser/multi-data-source-bayesian-surrogate-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Scheurer S., **Reiser P.**, Brünnette T., Nowak W., Guthke A., & Bürkner P. C. (accepted). Uncertainty-Aware Surrogate-based Amortized Bayesian Inference for Computationally Expensive Models. *Transactions in Machine Learning Research*.
+- Scheurer S., **Reiser P.**, Brünnette T., Nowak W., Guthke A., & Bürkner P. C. (2026). Uncertainty-Aware Surrogate-based Amortized Bayesian Inference for Computationally Expensive Models. *Transactions in Machine Learning Research*.
+[PDF](../publications/pdf/2026__Scheurer_et_al__TMLR.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://openreview.net/forum?id=aVSoQXbfy1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2505.08683){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/LS3-university-of-stuttgart/ua-sabi-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Reiser P.**, Aguilar J. E., Guthke A., & Bürkner P. C. (2025). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. *Statistics and Computing*. doi:10.1007/s11222-025-10597-8
 [PDF](../publications/pdf/2025__Reiser_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
