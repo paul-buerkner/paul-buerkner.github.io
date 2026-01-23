@@ -55,8 +55,8 @@ list of resources and references.
 
 Current projects:
 
-- [Real-Time Spatio-Temporal Data Analysis for Monitoring Logistics Networks](../projects/#abi-logistics)
-- [Semi-Supervised Learning for Robust Amortized Bayesian Inference](../projects/#semi-supervised-abi)
+- [Real-Time Spatio-Temporal Data Analysis for Monitoring Logistics Networks](../projects#abi-logistics)
+- [Semi-Supervised Learning for Robust Amortized Bayesian Inference](../projects#semi-supervised-abi)
 - [BayesFlow: Simulation Intelligence with Deep Learning](../projects#bayesflow-software)
 - [Amortized Bayesian Inference for Multilevel Models](../projects#amortized-mlms)
 - [Applications of Amortized Bayesian Inference](../projects#abi-applications)
