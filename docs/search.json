@@ -46,7 +46,7 @@
     "href": "people/index.html#phd-students",
     "title": "People",
     "section": "PhD Students",
-    "text": "PhD Students\n\n\n\n \n\n\nJavier Aguilar\nBackground: Mathematics and Statistics\nProject: Intuitive Joint Priors for Bayesian Multilevel Models\nEmail Personal Website GitHub\n\n\n\n\n\n\n \n\n\nFlorence Bockting\nBackground: Cognitive Science and Psychology\nProject: Simulation-Based Prior Distributions for Bayesian Models\nEmail Personal Website GitHub\n\n\n\n\n\n\n \n\n\nLuna Fazio\nBackground: Biology and Statistics\nProject: Bayesian Distributional Latent Variable Models\nEmail GitHub\n\n\n\n\n\n\n \n\n\nSvenja Jedhoff\nBackground: Data Science\nProject: Real-Time Spatio-Temporal Data Analysis for Monitoring Logistics Networks\nCo-Supervisor: Anne Meyer\nEmail\n\n\n\n\n\n\n \n\n\nLars Kühmichel\nBackground: Physics and Computer Science\nProject: BayesFlow: Simulation Intelligence with Deep Learning\nCo-Supervisor: Stefan Radev\nEmail GitHub\n\n\n\n\n\n\n \n\n\nAayush Mishra\nBackground: Physics and Data Science\nProject: BayesFlow: Simulation Intelligence with Deep Learning\nEmail Linkedin\n\n\n\n\n\n\n \n\n\nSoham Mukherjee\nBackground: Statistics\nProject: Probabilistic Models for Single-Cell RNA Sequencing Data\nCo-Supervisor: Manfred Claassen\nEmail University Website Linkedin\n\n\n\n\n\n\n \n\n\nHans Olischläger\nBackground: Physics\n\nEmail GitHub Bluesky\n\n\n\n\n\n\n \n\n\nYiming Zang\nBackground: Mathematics and Data Science\n\nEmail\n\n\n\n \n\n\n\n\n\n\nAlumni\n\n\n\n\n\n\nPhilipp Reiser (2022–2025). LinkedIn Project\nMarvin Schmitt (2021–2025). Website Project\nMaximilian Scholz (2021–2024). Website Project\nStefan Radev (2021–2023). Website LinkedIn"
+    "text": "PhD Students\n\n\n\n \n\n\nJavier Aguilar\nBackground: Mathematics and Statistics\nProject: Intuitive Joint Priors for Bayesian Multilevel Models\nEmail Personal Website GitHub\n\n\n\n\n\n\n \n\n\nFlorence Bockting\nBackground: Cognitive Science and Psychology\nProject: Simulation-Based Prior Distributions for Bayesian Models\nEmail Personal Website GitHub\n\n\n\n\n\n\n \n\n\nLuna Fazio\nBackground: Biology and Statistics\nProject: Bayesian Distributional Latent Variable Models\nEmail GitHub\n\n\n\n\n\n\n \n\n\nSvenja Jedhoff\nBackground: Data Science\nProject: Real-Time Spatio-Temporal Data Analysis for Monitoring Logistics Networks\nCo-Supervisor: Anne Meyer\nEmail\n\n\n\n\n\n\n \n\n\nLars Kühmichel\nBackground: Physics and Computer Science\nProject: BayesFlow: Simulation Intelligence with Deep Learning\nCo-Supervisor: Stefan Radev\nEmail GitHub\n\n\n\n\n\n\n \n\n\nAayush Mishra\nBackground: Physics and Data Science\nProject: Semi-Supervised Learning for Robust Amortized Bayesian Inference\nEmail Linkedin\n\n\n\n\n\n\n \n\n\nSoham Mukherjee\nBackground: Statistics\nProject: Probabilistic Models for Single-Cell RNA Sequencing Data\nCo-Supervisor: Manfred Claassen\nEmail University Website Linkedin\n\n\n\n\n\n\n \n\n\nHans Olischläger\nBackground: Physics\n\nEmail GitHub Bluesky\n\n\n\n\n\n\n \n\n\nYiming Zang\nBackground: Mathematics and Data Science\n\nEmail\n\n\n\n \n\n\n\n\n\n\nAlumni\n\n\n\n\n\n\nPhilipp Reiser (2022–2025). LinkedIn Project\nMarvin Schmitt (2021–2025). Website Project\nMaximilian Scholz (2021–2024). Website Project\nStefan Radev (2021–2023). Website LinkedIn"
   },
   {
     "objectID": "people/index.html#javier-aguilar",
@@ -88,7 +88,7 @@
     "href": "people/index.html#aayush-mishra",
     "title": "People",
     "section": "Aayush Mishra",
-    "text": "Aayush Mishra\nBackground: Physics and Data Science\nProject: BayesFlow: Simulation Intelligence with Deep Learning\nEmail Linkedin"
+    "text": "Aayush Mishra\nBackground: Physics and Data Science\nProject: Semi-Supervised Learning for Robust Amortized Bayesian Inference\nEmail Linkedin"
   },
   {
     "objectID": "people/index.html#soham-mukherjee",
@@ -103,6 +103,13 @@
     "title": "People",
     "section": "Hans Olischläger",
     "text": "Hans Olischläger\nBackground: Physics\n\nEmail GitHub Bluesky"
+  },
+  {
+    "objectID": "people/index.html#yiming-zang",
+    "href": "people/index.html#yiming-zang",
+    "title": "People",
+    "section": "Yiming Zang",
+    "text": "Yiming Zang\nBackground: Mathematics and Data Science\n\nEmail"
   },
   {
     "objectID": "software/brms-book/index.html",
@@ -238,18 +245,18 @@
     "text": "Uncertainty Quantification\nIn experiments and observational studies, scientists gather data to learn more about the world. However, what we can learn from a single data set is always limited, and we are inevitably left with some remaining uncertainty. It is of high importance to take this uncertainty into account when drawing conclusions if we want to make real scientific progress. Formalizing and quantifying uncertainty is thus at the heart of statistical methods aiming to obtain insights from data. In my lab, all projects, in one way or the other, deal with uncertainty quantification and propagation, primarily through sampling-based methods."
   },
   {
+    "objectID": "research/index.html#abi",
+    "href": "research/index.html#abi",
+    "title": "Research",
+    "section": "Amortized Inference",
+    "text": "Amortized Inference\nMost Bayesian inference algorithms have to be re-run from scratch for every new dataset or change in prior assumptions, with every run requiring considerable time and computational resources. As a result, Bayesian inference is usually infeasible in situations that require a lot of model re-fits or when results need to be available in real-time. The new field of Amortized Bayesian inference (ABI) offers a path towards solving these challenges. In a nutshell, ABI consists of (1) a training phase where neural networks distill relevant information from any probabilistic model and (2) an inference phase where the networks infer the hidden parameters of the model in real time for any new query. Currently, existing ABI methods only work reliably for relatively simple models and there remain several open challenges regarding the accuracy, scalability, and robustness of these methods; challenges that my lab aims to address in the upcoming years. In the process, we will also bridge the gap between simulation-based and likelihood-based Bayesian inference, thus maximizing the information usable during both training and inference. If you want to learn more about the field of amortized inference, please check out our curated awesome-amortized-inference list of resources and references.\nCurrent projects:\n\nReal-Time Spatio-Temporal Data Analysis for Monitoring Logistics Networks\nSemi-Supervised Learning for Robust Amortized Bayesian Inference\nBayesFlow: Simulation Intelligence with Deep Learning\nAmortized Bayesian Inference for Multilevel Models\nApplications of Amortized Bayesian Inference"
+  },
+  {
     "objectID": "research/index.html#prior-specification",
     "href": "research/index.html#prior-specification",
     "title": "Research",
     "section": "Prior Specification",
     "text": "Prior Specification\nSpecification of prior distributions for a Bayesian model is a central part of the Bayesian workflow for data analysis, but it is often difficult even for statistical experts. Prior elicitation transforms domain knowledge of various kinds into well-defined prior distributions, and offers a solution to the prior specification problem, in principle. In practice, however, we are still far from having usable prior elicitation tools that could significantly influence the way we build probabilistic models especially for high-dimensional problems. We are approaching this challenge from two perspectives, (a) by developing intuitive joint prior distributions that yield sensible prior predictions even in high-dimensional spaces and (b) by building prior elicitation tools that transform expert knowledge in the data space into prior distributions on the model parameters that are consistent with that knowledge while satisfying additional probabilistic constraints.\nCurrent projects:\n\nSimulation-Based Prior Distributions\nIntuitive Joint Priors for Bayesian Multilevel Models"
-  },
-  {
-    "objectID": "research/index.html#abi",
-    "href": "research/index.html#abi",
-    "title": "Research",
-    "section": "Amortized Inference",
-    "text": "Amortized Inference\nMost Bayesian inference algorithms have to be re-run from scratch for every new dataset or change in prior assumptions, with every run requiring considerable time and computational resources. As a result, Bayesian inference is usually infeasible in situations that require a lot of model re-fits or when results need to be available in real-time. The new field of Amortized Bayesian inference (ABI) offers a path towards solving these challenges. In a nutshell, ABI consists of (1) a training phase where neural networks distill relevant information from any probabilistic model and (2) an inference phase where the networks infer the hidden parameters of the model in real time for any new query. Currently, existing ABI methods only work reliably for relatively simple models and there remain several open challenges regarding the accuracy, scalability, and robustness of these methods; challenges that my lab aims to address in the upcoming years. In the process, we will also bridge the gap between simulation-based and likelihood-based Bayesian inference, thus maximizing the information usable during both training and inference. If you want to learn more about the field of amortized inference, please check out our curated awesome-amortized-inference list of resources and references.\nCurrent projects:\n\nBayesFlow: Simulation Intelligence with Deep Learning\nAmortized Bayesian Inference for Multilevel Models\nApplications of Amortized Bayesian Inference\nSimulation-Based Prior Distributions\nMeta-Uncertainty in Bayesian Model Comparison"
   },
   {
     "objectID": "research/index.html#lvm",
@@ -263,14 +270,14 @@
     "href": "research/index.html#model-comparison",
     "title": "Research",
     "section": "Model Comparison",
-    "text": "Model Comparison\nNumerous research questions in basic science are concerned with comparing multiple scientific theories to understand which of them is more likely to be true, or at least closer to the truth. To compare these theories, scientists translate them into statistical models and then investigate how well the models’ predictions match the gathered real-world data. Even if the goal is purely predictive, model comparison is very important for predictive model selection or averaging. In my lab, we are exploring Bayesian model comparison approaches from both theory-driven and predictive perspectives and even seek to find ways to combine both perspectives.\nCurrent projects:\n\nMeta-Uncertainty in Bayesian Model Comparison\nMachine Learning for Bayesian Model Building"
+    "text": "Model Comparison\nNumerous research questions in basic science are concerned with comparing multiple scientific theories to understand which of them is more likely to be true, or at least closer to the truth. To compare these theories, scientists translate them into statistical models and then investigate how well the models’ predictions match the gathered real-world data. Even if the goal is purely predictive, model comparison is very important for predictive model selection or averaging. In my lab, we are exploring Bayesian model comparison approaches from both theory-driven and predictive perspectives and even seek to find ways to combine both perspectives.\nCurrent projects:\n\nSemi-Supervised Learning for Robust Amortized Bayesian Inference\nApplications of Amortized Bayesian Inference"
   },
   {
     "objectID": "research/index.html#machine-workflow",
     "href": "research/index.html#machine-workflow",
     "title": "Research",
     "section": "Machine-Assisted Workflows",
-    "text": "Machine-Assisted Workflows\nBuilding Bayesian models in a principled way remains a highly complex task requiring a lot of expertise and cognitive resources. Ideally, subject matter experts do not have to solve everything by themselves but have statisticians or data scientists by their side to assist them. Of course, the latter are not always available for every data-analysis project. As a remedy we are developing machine-assisted workflows for building interpretable, robust, and well-predicting Bayesian models. This first requires more research on the theoretical foundations of Bayesian model building. With this in hand, machines will be trained to provide automatic model evaluation and modeling recommendations that guide the user through the model building process. While leaving the modeling choices up to the user, the machine subsequently learns from the user’s decisions to improve its recommendations on the fly.\nCurrent projects:\n\nMachine Learning for Bayesian Model Building\nBayesFlow: Simulation Intelligence with Deep Learning\nBayesian Distributional Latent Variable Models"
+    "text": "Machine-Assisted Workflows\nBuilding Bayesian models in a principled way remains a highly complex task requiring a lot of expertise and cognitive resources. Ideally, subject matter experts do not have to solve everything by themselves but have statisticians or data scientists by their side to assist them. Of course, the latter are not always available for every data-analysis project. As a remedy we are developing machine-assisted workflows for building interpretable, robust, and well-predicting Bayesian models. This first requires more research on the theoretical foundations of Bayesian model building. With this in hand, machines will be trained to provide automatic model evaluation and modeling recommendations that guide the user through the model building process. While leaving the modeling choices up to the user, the machine subsequently learns from the user’s decisions to improve its recommendations on the fly.\nCurrent projects:\n\nBayesFlow: Simulation Intelligence with Deep Learning\nBayesian Distributional Latent Variable Models"
   },
   {
     "objectID": "publications/index.html",
@@ -371,6 +378,13 @@
     "text": "2016\n\nBürkner P. C., Doebler P., & Holling H. (2016). Optimal design of the Wilcoxon-Mann-Whitney-test. Biometrical Journal. doi:10.1002/bimj.201600022 PDF Journal Preprint\nBenda N., Bürkner P. C., Freise F., Holling H., & Schwabe R. (2016). Adaptive Designs for Quantal Dose-Response Experiments with False Answers. Journal of Statistical Theory and Practice. doi:10.1080/15598608.2016.1213209 PDF Journal"
   },
   {
+    "objectID": "publications/index.html#section-11",
+    "href": "publications/index.html#section-11",
+    "title": "Scientific Publications",
+    "section": "2014",
+    "text": "2014\n\nBürkner P. C. & Doebler P. (2014). Testing for Publication Bias in Diagnostic Meta-Analysis: A Simulation Study. Statistics in Medicine. doi:10.1002/sim.6177 PDF Journal Preprint"
+  },
+  {
     "objectID": "theses/index.html",
     "href": "theses/index.html",
     "title": "Thesis Topics",
@@ -432,19 +446,5 @@
     "title": "Open Positions",
     "section": "",
     "text": "If you are interested in joining my lab at as a PhD student or PostDoc, please reach out to me at any point; even if there is currently no announced open position available that you think matches your profile. The same goes if you are a student looking for a student assistant position.\n\nThere are currently no officially announced open positions, but remember that you can just contact me at any point to ask for opportunities."
-  },
-  {
-    "objectID": "people/index.html#yiming-zang",
-    "href": "people/index.html#yiming-zang",
-    "title": "People",
-    "section": "Yiming Zang",
-    "text": "Yiming Zang\nBackground: Mathematics and Data Science\n\nEmail"
-  },
-  {
-    "objectID": "publications/index.html#section-11",
-    "href": "publications/index.html#section-11",
-    "title": "Scientific Publications",
-    "section": "2014",
-    "text": "2014\n\nBürkner P. C. & Doebler P. (2014). Testing for Publication Bias in Diagnostic Meta-Analysis: A Simulation Study. Statistics in Medicine. doi:10.1002/sim.6177 PDF Journal Preprint"
   }
 ]

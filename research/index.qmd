@@ -31,27 +31,6 @@ insights from data. In my lab, all projects, in one way or the other, deal with
 uncertainty quantification and propagation, primarily through sampling-based
 methods.
 
-## Prior Specification {#prior-specification}
-
-Specification of prior distributions for a Bayesian model is a central part of
-the Bayesian workflow for data analysis, but it is often difficult even for
-statistical experts. Prior elicitation transforms domain knowledge of various
-kinds into well-defined prior distributions, and offers a solution to the prior
-specification problem, in principle. In practice, however, we are still far from
-having usable prior elicitation tools that could significantly influence the way
-we build probabilistic models especially for high-dimensional problems. We are
-approaching this challenge from two perspectives, (a) by developing intuitive
-joint prior distributions that yield sensible prior predictions even in
-high-dimensional spaces and (b) by building prior elicitation tools that
-transform expert knowledge in the data space into prior distributions on the
-model parameters that are consistent with that knowledge while satisfying
-additional probabilistic constraints.
-
-Current projects:
-
-- [Simulation-Based Prior Distributions](../projects#sbpriors)
-- [Intuitive Joint Priors for Bayesian Multilevel Models](../projects#joint-priors-mlms)
-
 
 ## Amortized Inference {#abi}
 
@@ -76,11 +55,34 @@ list of resources and references.
 
 Current projects:
 
+- [Real-Time Spatio-Temporal Data Analysis for Monitoring Logistics Networks](../projects/#abi-logistics)
+- [Semi-Supervised Learning for Robust Amortized Bayesian Inference](../projects/#semi-supervised-abi)
 - [BayesFlow: Simulation Intelligence with Deep Learning](../projects#bayesflow-software)
 - [Amortized Bayesian Inference for Multilevel Models](../projects#amortized-mlms)
 - [Applications of Amortized Bayesian Inference](../projects#abi-applications)
+
+
+## Prior Specification {#prior-specification}
+
+Specification of prior distributions for a Bayesian model is a central part of
+the Bayesian workflow for data analysis, but it is often difficult even for
+statistical experts. Prior elicitation transforms domain knowledge of various
+kinds into well-defined prior distributions, and offers a solution to the prior
+specification problem, in principle. In practice, however, we are still far from
+having usable prior elicitation tools that could significantly influence the way
+we build probabilistic models especially for high-dimensional problems. We are
+approaching this challenge from two perspectives, (a) by developing intuitive
+joint prior distributions that yield sensible prior predictions even in
+high-dimensional spaces and (b) by building prior elicitation tools that
+transform expert knowledge in the data space into prior distributions on the
+model parameters that are consistent with that knowledge while satisfying
+additional probabilistic constraints.
+
+Current projects:
+
 - [Simulation-Based Prior Distributions](../projects#sbpriors)
-- [Meta-Uncertainty in Bayesian Model Comparison](../projects#mu-bmb)
+- [Intuitive Joint Priors for Bayesian Multilevel Models](../projects#joint-priors-mlms)
+
 
 ## Latent Variable Modeling {#lvm}
 
@@ -122,8 +124,8 @@ combine both perspectives.
 
 Current projects:
 
-- [Meta-Uncertainty in Bayesian Model Comparison](../projects#mu-bmb)
-- [Machine Learning for Bayesian Model Building](../projects#ml4bmb)
+- [Semi-Supervised Learning for Robust Amortized Bayesian Inference](../projects/semi-supervised-abi)
+- [Applications of Amortized Bayesian Inference](../projects#abi-applications)
 
 
 ## Machine-Assisted Workflows {#machine-workflow}
@@ -143,6 +145,5 @@ from the user's decisions to improve its recommendations on the fly.
 
 Current projects:
 
-- [Machine Learning for Bayesian Model Building](../projects#ml4bmb)
 - [BayesFlow: Simulation Intelligence with Deep Learning](../projects#bayesflow-software)
 - [Bayesian Distributional Latent Variable Models](../projects#bdlvms)

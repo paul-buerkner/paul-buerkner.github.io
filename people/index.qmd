@@ -220,7 +220,7 @@ Aayush Mishra {#aayush-mishra}
 
 Background: Physics and Data Science
 
-Project: [BayesFlow: Simulation Intelligence with Deep Learning](../projects#bayesflow-software)
+Project: [Semi-Supervised Learning for Robust Amortized Bayesian Inference](../projects#semi-supervised-abi)
 
 [Email](mailto:aayush.mishra@tu-dortmund.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Linkedin](https://www.linkedin.com/in/aayush-mishra-64a4a11b9/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
