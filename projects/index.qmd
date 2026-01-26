@@ -80,16 +80,11 @@ Funding Period: 2024 -- 2027
 
 Publications:
 
-- Kucharský Š., **Mishra A.**, Habermann D., Radev S. T., & Bürkner P. C. (in review). Improving the Accuracy of Amortized Model Comparison with Self-Consistency. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2512.14308){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+- Kucharský Š., **Mishra A.**, Habermann D., Radev S. T., & Bürkner P. C. (in review). Improving the Accuracy of Amortized Model Comparison with Self-Consistency. *ArXiv preprint*. Short version accepted at *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
+[Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Mishra A.**, Habermann D., Schmitt M., Radev S. T., & Bürkner P. C. (accepted). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *International Conference on Learning Representations (ICLR)*.
 [Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Kucharský Š., **Mishra A.**, Habermann D., Radev S. T., & Bürkner P. C. (2025). Towards Trustworthy Amortized Bayesian Model Comparison. *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
-[PDF](pdf/2025__Kucharsky_et_al__NeurIPS_Workshop_Reliable_ML.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 
 <!-- -->
 
@@ -160,11 +155,7 @@ Publications:
 - **Kucharský Š.** & Bürkner P. C. (in review). Amortized Bayesian Mixture Models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2501.10229){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- **Kucharský Š.**, Mishra A., Habermann D., Radev S. T., & Bürkner P. C. (in review). Improving the Accuracy of Amortized Model Comparison with Self-Consistency. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2512.14308){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Kucharský Š.**, Mishra A., Habermann D., Radev S. T., & Bürkner P. C. (2025). Towards Trustworthy Amortized Bayesian Model Comparison. *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
-[PDF](pdf/2025__Kucharsky_et_al__NeurIPS_Workshop_Reliable_ML.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+- **Kucharský Š.**, Mishra A., Habermann D., Radev S. T., & Bürkner P. C. (in review). Improving the Accuracy of Amortized Model Comparison with Self-Consistency. *ArXiv preprint*. Short version accepted at *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
 [Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Kucharský Š.** & Bürkner P. C. (2025). Amortized Bayesian Cognitive Modeling with BayesFlow. *PsyArXiv preprint*. doi:10.31234/osf.io/34k6q_v1
@@ -196,14 +187,10 @@ Funding Period: 2023 -- 2026
 
 Publications:
 
-- Mishra A., **Habermann D.**, Schmitt M., Radev S. T., & Bürkner P. C. (in review). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *ArXiv preprint*.
+- Mishra A., **Habermann D.**, Schmitt M., Radev S. T., & Bürkner P. C. (accepted). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *International Conference on Learning Representations (ICLR)*.
 [Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Kucharský Š., Mishra A., **Habermann D.**, Radev S. T., & Bürkner P. C. (in review). Improving the Accuracy of Amortized Model Comparison with Self-Consistency. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2512.14308){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Kucharský Š., Mishra A., **Habermann D.**, Radev S. T., & Bürkner P. C. (2025). Towards Trustworthy Amortized Bayesian Model Comparison. *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
-[PDF](pdf/2025__Kucharsky_et_al__NeurIPS_Workshop_Reliable_ML.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+- Kucharský Š., Mishra A., **Habermann D.**, Radev S. T., & Bürkner P. C. (in review). Improving the Accuracy of Amortized Model Comparison with Self-Consistency. *ArXiv preprint*. Short version accepted at *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
 [Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Habermann D.**, Schmitt M., Kühmichel L., Bulling A., Radev S. T., & Bürkner P. C. (2025). Amortized Bayesian Multilevel Models. *Bayesian Analysis*. doi:10.1214/25-BA1570
@@ -569,7 +556,7 @@ Publications:
 - Habermann D., **Schmitt M.**, Kühmichel L., Bulling A., Radev S. T., & Bürkner P. C. (in review). Amortized Bayesian Multilevel Models. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Mishra A., Habermann D., **Schmitt M.**, Radev S. T., & Bürkner P. C. (in review). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *ArXiv preprint*.
+- Mishra A., Habermann D., **Schmitt M.**, Radev S. T., & Bürkner P. C. (accepted). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *International Conference on Learning Representations (ICLR)*.
 [Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Schmitt M.**, Bürkner P. C., Köthe U., & Radev S. T. (accepted). Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation. *International Journal of Computer Vision*.
