@@ -40,9 +40,6 @@ toc-location: right
 - Bracher N., Kühmichel L., Ivanova D. R., Intes X., **Bürkner P. C.**, & Radev S. T. (in review). JADAI: Jointly Amortizing Adaptive Design and Bayesian Inference. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2512.22999){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Mishra A., Habermann D., Schmitt M., Radev S. T., & **Bürkner P. C.** (in review). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Modrák M., Stroppel S., & **Bürkner P. C.** (in review). Simulation-based validation of Bayes factor computation. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2508.11814){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/martinmodrak/SBCBayesFactors/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -91,6 +88,9 @@ toc-location: right
 
 - **Bürkner P. C.**, Schmitt M., & Radev S. T. (accepted). Simulations in Statistical Workflows. *Philosophical Transactions A*.
 [Preprint](https://arxiv.org/abs/2503.24011){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Mishra A., Habermann D., Schmitt M., Radev S. T., & **Bürkner P. C.** (accepted). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *International Conference on Learning Representations (ICLR)*.
+[Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Schmitt, M., **Bürkner P. C.**, Köthe U., & Radev S. T. (accepted). Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation. *International Journal of Computer Vision*.
 [Preprint](https://arxiv.org/abs/2406.03154){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}

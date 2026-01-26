@@ -58,7 +58,7 @@ Publications:
 
 <!-- -->
 
-## Semi-Supervised Learning for Robust Amortized Bayesian Inference
+## Semi-Supervised Learning for Robust Amortized Bayesian Inference {#semi-supervised-abi}
 
 ![](../images/self_consistency_posterior_contour.png){width=100% fig-align="left" fig-alt="Results obtained from semi-supervised ABI training."}
 
@@ -80,11 +80,11 @@ Funding Period: 2024 -- 2027
 
 Publications:
 
-- **Mishra A.**, Habermann D., Schmitt M., Radev S. T., & Bürkner P. C. (in review). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Kucharský Š., **Mishra A.**, Habermann D., Radev S. T., & Bürkner P. C. (in review). Improving the Accuracy of Amortized Model Comparison with Self-Consistency. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2512.14308){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- **Mishra A.**, Habermann D., Schmitt M., Radev S. T., & Bürkner P. C. (accepted). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *International Conference on Learning Representations (ICLR)*.
+[Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Kucharský Š., **Mishra A.**, Habermann D., Radev S. T., & Bürkner P. C. (2025). Towards Trustworthy Amortized Bayesian Model Comparison. *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
 [PDF](pdf/2025__Kucharsky_et_al__NeurIPS_Workshop_Reliable_ML.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
