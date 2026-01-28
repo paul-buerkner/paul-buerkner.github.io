@@ -60,7 +60,7 @@ Publications:
 
 ## Semi-Supervised Learning for Robust Amortized Bayesian Inference {#semi-supervised-abi}
 
-![](../images/self_consistency_posterior_contour.png){width=100% fig-align="left" fig-alt="Results obtained from semi-supervised ABI training."}
+![](../images/self_consistency_workflow.png){width=80% fig-align="left" fig-alt="Results obtained from semi-supervised ABI training."}
 
 Amortized Bayesian inference (ABI) with neural networks can solve probabilistic inverse problems orders of magnitude faster than classical methods. However, ABI is not yet sufficiently robust for widespread and safe application. When performing inference on observations outside the scope of the simulated training data, posterior approximations are likely to become highly biased, which cannot be adequately corrected just by additional simulations.
 
