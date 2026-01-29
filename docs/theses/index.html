@@ -356,11 +356,46 @@ ul.task-list li input[type="checkbox"] {
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-The influence of base distributions in normalizing flows on method performance
+Estimating Morphological Parameters of Galaxies with Amortized Bayesian Inference
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><strong>Supervision</strong>: <a href="../people#aayush-mishra" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Aayush Mishra</a></p>
+<p><strong>Project</strong>: <a href="../projects#semi-supervised-abi" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Semi-Supervised Learning for Robust Amortized Bayesian Inference</a></p>
+<p><strong>Relevant literature</strong>:</p>
+<ul>
+<li>Ghosh, A., et al.&nbsp;(2022). GaMPEN: a machine-learning framework for estimating Bayesian posteriors of galaxy morphological parameters. <em>The Astrophysical Journal</em>.</li>
+<li>Ghosh, A., et al.&nbsp;(2023). Morphological Parameters and Associated Uncertainties for 8 Million Galaxies in the Hyper Suprime-Cam Wide Survey. <em>The Astrophysical Journal</em>.</li>
+<li>Cranmer, K., Brehmer J., &amp; Louppe G. (2020). The frontier of simulation-based inference. <em>Proceedings of the National Academy of Sciences</em>.</li>
+<li>Radev, S. T., et al.&nbsp;(2020). BayesFlow: Learning complex stochastic models with invertible neural networks. <em>IEEE Transactions on Neural Networks and Learning Systems</em>.</li>
+<li>Radev, S. T., et al.&nbsp;(2023). JANA: Jointly amortized neural approximation of complex Bayesian models. <em>Uncertainty in Artificial Intelligence</em>.</li>
+</ul>
+<p><strong>Tools</strong>: Python, BayesFlow</p>
+<p><strong>Problem description</strong>: Estimating the morphology of galaxies at different redshifts is crucial to understand galaxy formation and evolution. Traditional methods of morphology estimation such as visual classification and template fitting are not scalable to large data volumes from modern surveys and telescopes such as James Webb and The Vera Rubin observatory. Deep learning-based approaches have so far focused on morphology classification and not estimating the posterior distribution of the parameters. While Bayesian ML approaches using Monte Carlo dropout have been applied to overcome this research gap, these methods do not fully leverage modern generative neural posterior estimation and amortized Bayesian inference techniques.</p>
+<p><strong>Project structure</strong>:</p>
+<ul>
+<li>Literature review of existing studies on galaxy morphology and ABI</li>
+<li>Design and optimize a forward simulation pipeline capable of generating realistic galaxy images across a range of redshifts, morphologies, and observing conditions. The pipeline will incorporate instrument-specific effects (e.g., PSF, noise characteristics, pixel scale) for multiple telescopes and bands, enabling controlled generation of labeled training data for amortized inference</li>
+<li>Acquire real galaxy imaging data and associated redshift information from public archives, including JWST datasets. Data preprocessing and cross-matching with redshift catalogs will be performed to ensure consistency with the simulated training data</li>
+<li>Train flow-based neural posterior estimation models to learn the conditional posterior distribution of galaxy morphological parameters given imaging data</li>
+<li>Perform inference on real images and benchmark against existing methods</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+The influence of base distributions in normalizing flows on method performance
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p><strong>Supervision</strong>: <a href="../people#florence-bockting" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Florence Bockting</a></p>
 <p><strong>Project</strong>: <a href="../projects#sbpriors" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Simulation-Based Prior Distributions for Bayesian Models</a></p>
@@ -382,7 +417,7 @@ The influence of base distributions in normalizing flows on method performance
 </div>
 </div>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -391,7 +426,7 @@ Implementation of normalizing flows in Stan
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p><strong>Supervision</strong>: <a href="../people#florence-bockting" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Florence Bockting</a></p>
 <p><strong>Project</strong>: <a href="../projects#sbpriors" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Simulation-Based Prior Distributions for Bayesian Models</a></p>
@@ -412,7 +447,7 @@ Implementation of normalizing flows in Stan
 </div>
 </div>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -421,7 +456,7 @@ Variational methods for structural equation models
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p><strong>Supervision</strong>: <a href="../people#luna-fazio" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Luna Fazio</a></p>
 <p><strong>Project</strong>: <a href="../projects#bdlvms" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Bayesian Distributional Latent Variable Models</a></p>
@@ -444,7 +479,7 @@ Variational methods for structural equation models
 </div>
 </div>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -453,7 +488,7 @@ Lagged modeling using composite Gaussian processes
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div id="callout-5" class="callout-5-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p><strong>Supervision</strong>: <a href="../people#soham-mukherjee" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Soham Mukherjee</a></p>
 <p><strong>Project</strong>: <a href="../projects#scrna-models" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Probabilistic Models for Single-Cell RNA Sequencing Data</a></p>
@@ -475,7 +510,7 @@ Lagged modeling using composite Gaussian processes
 </div>
 </div>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -484,7 +519,7 @@ Amortized forecasting models
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-5" class="callout-5-contents callout-collapse collapse">
+<div id="callout-6" class="callout-6-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p><strong>Supervision</strong>: <a href="../people#simon-kucharsky" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Šimon Kucharský</a></p>
 <p><strong>Project</strong>: <a href="../projects#abi-applications" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Applications of Amortized Bayesian Inference</a></p>
@@ -507,7 +542,7 @@ Amortized forecasting models
 </div>
 </div>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-7-contents" aria-controls="callout-7" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -516,7 +551,7 @@ Joint prior distributions for hierarchical phylogenetic models
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-6" class="callout-6-contents callout-collapse collapse">
+<div id="callout-7" class="callout-7-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p><strong>Supervision</strong>: <a href="../people#paul-buerkner" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Paul Bürkner</a></p>
 <p><strong>Relevant literature</strong>:</p>
@@ -536,7 +571,7 @@ Joint prior distributions for hierarchical phylogenetic models
 </div>
 </div>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-7-contents" aria-controls="callout-7" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-8-contents" aria-controls="callout-8" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -545,7 +580,7 @@ Impact of shrinkage priors on strong signals
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-7" class="callout-7-contents callout-collapse collapse">
+<div id="callout-8" class="callout-8-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p><strong>Supervision</strong>: <a href="../people#javier-aguilar" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Javier Enrique Aguilar</a></p>
 <p><strong>Project</strong>: <a href="../projects#joint-priors-mlms" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Intuitive Joint Priors for Bayesian Multilevel Models</a></p>
@@ -566,7 +601,7 @@ Impact of shrinkage priors on strong signals
 </div>
 </div>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-8-contents" aria-controls="callout-8" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-9-contents" aria-controls="callout-9" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -575,7 +610,7 @@ Multilevel Bayesian modelling of spatio-temporal M/EEG data
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-8" class="callout-8-contents callout-collapse collapse">
+<div id="callout-9" class="callout-9-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p><strong>Supervision</strong>: <a href="../people#paul-buerkner" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Paul Bürkner</a></p>
 <p><strong>Collaborator</strong>: <a href="https://lnalborczyk.github.io/" class="btn btn-outline-primary btn-page-header btn-xs" role="button">Ladislas Nalborczyk</a></p>

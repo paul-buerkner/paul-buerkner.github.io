@@ -17,6 +17,38 @@ but you still want to write your thesis with us, please contact me directly. We 
 open for your own ideas should they be something we can properly supervise.
 
 ::: {.callout-note icon=false collapse="true"}
+## Estimating Morphological Parameters of Galaxies with Amortized Bayesian Inference
+
+**Supervision**: 
+[Aayush Mishra](../people#aayush-mishra){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+**Project**: [Semi-Supervised Learning for Robust Amortized Bayesian Inference](../projects#semi-supervised-abi){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+**Relevant literature**: 
+
+- Ghosh, A., et al. (2022). GaMPEN: a machine-learning framework for estimating Bayesian posteriors of galaxy morphological parameters. *The Astrophysical Journal*.
+- Ghosh, A., et al. (2023). Morphological Parameters and Associated Uncertainties for 8 Million Galaxies in the Hyper Suprime-Cam Wide Survey. *The Astrophysical Journal*.
+- Cranmer, K., Brehmer J., & Louppe G. (2020). The frontier of simulation-based inference. *Proceedings of the National Academy of Sciences*.
+- Radev, S. T., et al. (2020). BayesFlow: Learning complex stochastic models with invertible neural networks. *IEEE Transactions on Neural Networks and Learning Systems*.
+- Radev, S. T., et al. (2023). JANA: Jointly amortized neural approximation of complex Bayesian models. *Uncertainty in Artificial Intelligence*.
+
+
+**Tools**: Python, BayesFlow
+
+**Problem description**:
+Estimating the morphology of galaxies at different redshifts is crucial to understand galaxy formation and evolution. Traditional methods of morphology estimation such as visual classification and template fitting are not scalable to large data volumes from modern surveys and telescopes such as James Webb and The Vera Rubin observatory. Deep learning-based approaches have so far focused on morphology classification and not estimating the posterior distribution of the parameters. While Bayesian ML approaches using Monte Carlo dropout have been applied to overcome this research gap, these methods do not fully leverage modern generative neural posterior estimation and amortized Bayesian inference techniques.
+
+**Project structure**: 
+
+- Literature review of existing studies on galaxy morphology and ABI
+- Design and optimize a forward simulation pipeline capable of generating realistic galaxy images across a range of redshifts, morphologies, and observing conditions. The pipeline will incorporate instrument-specific effects (e.g., PSF, noise characteristics, pixel scale) for multiple telescopes and bands, enabling controlled generation of labeled training data for amortized inference
+- Acquire real galaxy imaging data and associated redshift information from public archives, including JWST datasets. Data preprocessing and cross-matching with redshift catalogs will be performed to ensure consistency with the simulated training data
+- Train flow-based neural posterior estimation models to learn the conditional posterior distribution of galaxy morphological parameters given imaging data
+- Perform inference on real images and benchmark against existing methods
+
+:::
+
+::: {.callout-note icon=false collapse="true"}
 ## The influence of base distributions in normalizing flows on method performance
 
 **Supervision**: [Florence Bockting](../people#florence-bockting){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
