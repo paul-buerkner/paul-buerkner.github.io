@@ -85,6 +85,7 @@ Publications:
 
 - **Mishra A.**, Habermann D., Schmitt M., Radev S. T., & Bürkner P. C. (accepted). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *International Conference on Learning Representations (ICLR)*.
 [Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](http://github.com/bayesflow-org/self-consistency-real){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 <!-- -->
 
@@ -189,6 +190,7 @@ Publications:
 
 - Mishra A., **Habermann D.**, Schmitt M., Radev S. T., & Bürkner P. C. (accepted). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *International Conference on Learning Representations (ICLR)*.
 [Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](http://github.com/bayesflow-org/self-consistency-real){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Kucharský Š., Mishra A., **Habermann D.**, Radev S. T., & Bürkner P. C. (in review). Improving the Accuracy of Amortized Model Comparison with Self-Consistency. *ArXiv preprint*. Short version accepted at *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
 [Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -558,6 +560,7 @@ Publications:
 
 - Mishra A., Habermann D., **Schmitt M.**, Radev S. T., & Bürkner P. C. (accepted). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *International Conference on Learning Representations (ICLR)*.
 [Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](http://github.com/bayesflow-org/self-consistency-real){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Schmitt M.**, Bürkner P. C., Köthe U., & Radev S. T. (accepted). Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation. *International Journal of Computer Vision*.
 [Preprint](https://arxiv.org/abs/2406.03154){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
