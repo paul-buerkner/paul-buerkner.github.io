@@ -105,10 +105,6 @@ toc-location: right
 [Preprint](osf.io/preprints/psyarxiv/89d2f_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/bfmtp/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Kołczyńska M., & **Bürkner P. C.** (accepted). Does political trust strengthen democracy? *International Political Science Review*. 
-[Preprint](https://osf.io/preprints/socarxiv/wd5hp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://osf.io/tpywu/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 ## 2026
 
 - Scheurer S., Reiser P., Brünnette T., Nowak W., Guthke A., & **Bürkner P. C.** (2026). Uncertainty-Aware Surrogate-based Amortized Bayesian Inference for Computationally Expensive Models. *Transactions in Machine Learning Research*.
@@ -116,6 +112,12 @@ toc-location: right
 [Journal](https://openreview.net/forum?id=aVSoQXbfy1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2505.08683){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/LS3-university-of-stuttgart/ua-sabi-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Kołczyńska M., & **Bürkner P. C.** (2026). Does political trust strengthen democracy? *International Political Science Review*. doi:10.1177/01925121251405191
+[PDF](pdf/2026__Kolczynska_Buerkner__International_Political_Science_Review.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://doi.org/10.1177/01925121251405191){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://osf.io/preprints/socarxiv/wd5hp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://osf.io/tpywu/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 ## 2025
 
