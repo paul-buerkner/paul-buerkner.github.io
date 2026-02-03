@@ -97,10 +97,6 @@ toc-location: right
 [Preprint](https://arxiv.org/abs/2406.03154){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/marvinschmitt/ModelMisspecificationBF){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Säilynoja T., Schmitt M., **Bürkner P. C.**, & Vehtari A. (accepted). Posterior SBC: Simulation-Based Calibration Checking Conditional on Data. *Statistics and Computing*.
-[Preprint](https://arxiv.org/abs/2502.03279){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/TeemuSailynoja/posterior-sbc){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Zetsche, U., Bohländer, J., **Bürkner P. C.**, Röpke, S., Renneberg, B., & Schulze, L. (accepted). Beyond feeling down: Expectations about and memories of daily affective experiences in major depression and borderline personality disorder. *Clinical Psychological Science*. 
 [Preprint](osf.io/preprints/psyarxiv/89d2f_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://osf.io/bfmtp/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -112,6 +108,12 @@ toc-location: right
 [Journal](https://openreview.net/forum?id=aVSoQXbfy1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Preprint](https://arxiv.org/abs/2505.08683){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/LS3-university-of-stuttgart/ua-sabi-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Säilynoja T., Schmitt M., **Bürkner P. C.**, & Vehtari A. (2026). Posterior SBC: Simulation-Based Calibration Checking Conditional on Data. *Statistics and Computing*.
+[PDF](pdf/2026__Sailynoja_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Journal](https://link.springer.com/article/10.1007/s11222-026-10825-9){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Preprint](https://arxiv.org/abs/2502.03279){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code & Data](https://github.com/TeemuSailynoja/posterior-sbc){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Kołczyńska M., & **Bürkner P. C.** (2026). Does political trust strengthen democracy? *International Political Science Review*. doi:10.1177/01925121251405191
 [PDF](pdf/2026__Kolczynska_Buerkner__International_Political_Science_Review.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
