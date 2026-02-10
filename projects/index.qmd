@@ -56,6 +56,11 @@ Publications:
 [Preprint](https://arxiv.org/abs/2505.10510){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/sjedhoff/efficient-2step-uncertainty-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Kühmichel L., Huang J. M., Pratz V., Arruda J., Olischläger H., Habermann D., Kucharský Š., Elsemüller L., Mishra A., Bracher N., **Jedhoff S.**, Schmitt M., Bürkner P. C., & Radev S. T. (in review). BayesFlow 2.0: Multi-Backend Amortized Bayesian Inference in Python. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2602.07098){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Software](https://bayesflow.org/main/index.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code](https://github.com/bayesflow-org/bf2-paper-case-study){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 <!-- -->
 
 ## Semi-Supervised Learning for Robust Amortized Bayesian Inference {#semi-supervised-abi}
@@ -82,6 +87,11 @@ Publications:
 
 - Kucharský Š., **Mishra A.**, Habermann D., Radev S. T., & Bürkner P. C. (in review). Improving the Accuracy of Amortized Model Comparison with Self-Consistency. *ArXiv preprint*. Short version accepted at *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
 [Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Kühmichel L., Huang J. M., Pratz V., Arruda J., Olischläger H., Habermann D., Kucharský Š., Elsemüller L., **Mishra A.**, Bracher N., Jedhoff S., Schmitt M., Bürkner P. C., & Radev S. T. (in review). BayesFlow 2.0: Multi-Backend Amortized Bayesian Inference in Python. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2602.07098){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Software](https://bayesflow.org/main/index.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code](https://github.com/bayesflow-org/bf2-paper-case-study){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Mishra A.**, Habermann D., Schmitt M., Radev S. T., & Bürkner P. C. (accepted). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *International Conference on Learning Representations (ICLR)*.
 [Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -111,6 +121,11 @@ Funders:
 Funding Period: 2024 -- 2027
 
 Publications:
+
+- **Kühmichel L.**, Huang J. M., Pratz V., Arruda J., Olischläger H., Habermann D., Kucharský Š., Elsemüller L., Mishra A., Bracher N., Jedhoff S., Schmitt M., Bürkner P. C., & Radev S. T. (in review). BayesFlow 2.0: Multi-Backend Amortized Bayesian Inference in Python. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2602.07098){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Software](https://bayesflow.org/main/index.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code](https://github.com/bayesflow-org/bf2-paper-case-study){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Bracher N., **Kühmichel L.**, Ivanova D. R., Intes X., Bürkner P. C., & Radev S. T. (in review). JADAI: Jointly Amortizing Adaptive Design and Bayesian Inference. *ArXiv preprint*.
 [Preprint](https://arxiv.org/abs/2512.22999){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -159,6 +174,11 @@ Publications:
 - **Kucharský Š.**, Mishra A., Habermann D., Radev S. T., & Bürkner P. C. (in review). Improving the Accuracy of Amortized Model Comparison with Self-Consistency. *ArXiv preprint*. Short version accepted at *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
 [Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- Kühmichel L., Huang J. M., Pratz V., Arruda J., Olischläger H., Habermann D., **Kucharský Š.**, Elsemüller L., Mishra A., Bracher N., Jedhoff S., Schmitt M., Bürkner P. C., & Radev S. T. (in review). BayesFlow 2.0: Multi-Backend Amortized Bayesian Inference in Python. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2602.07098){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Software](https://bayesflow.org/main/index.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code](https://github.com/bayesflow-org/bf2-paper-case-study){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - **Kucharský Š.** & Bürkner P. C. (2025). Amortized Bayesian Cognitive Modeling with BayesFlow. *PsyArXiv preprint*. doi:10.31234/osf.io/34k6q_v1
 [Preprint](https://osf.io/preprints/psyarxiv/34k6q_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Website](https://kucharssim.github.io/bayesflow-cognitive-modeling-book/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -188,12 +208,17 @@ Funding Period: 2023 -- 2026
 
 Publications:
 
+- Kucharský Š., Mishra A., **Habermann D.**, Radev S. T., & Bürkner P. C. (in review). Improving the Accuracy of Amortized Model Comparison with Self-Consistency. *ArXiv preprint*. Short version accepted at *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
+[Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Kühmichel L., Huang J. M., Pratz V., Arruda J., Olischläger H., **Habermann D.**, Kucharský Š., Elsemüller L., Mishra A., Bracher N., Jedhoff S., Schmitt M., Bürkner P. C., & Radev S. T. (in review). BayesFlow 2.0: Multi-Backend Amortized Bayesian Inference in Python. *ArXiv preprint*.
+[Preprint](https://arxiv.org/abs/2602.07098){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Software](https://bayesflow.org/main/index.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Code](https://github.com/bayesflow-org/bf2-paper-case-study){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Mishra A., **Habermann D.**, Schmitt M., Radev S. T., & Bürkner P. C. (accepted). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *International Conference on Learning Representations (ICLR)*.
 [Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](http://github.com/bayesflow-org/self-consistency-real){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Kucharský Š., Mishra A., **Habermann D.**, Radev S. T., & Bürkner P. C. (in review). Improving the Accuracy of Amortized Model Comparison with Self-Consistency. *ArXiv preprint*. Short version accepted at *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
-[Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Habermann D.**, Schmitt M., Kühmichel L., Bulling A., Radev S. T., & Bürkner P. C. (2025). Amortized Bayesian Multilevel Models. *Bayesian Analysis*. doi:10.1214/25-BA1570
 [PDF](../publications/pdf/2025__Habermann_et_al__Bayesian_Analysis.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
