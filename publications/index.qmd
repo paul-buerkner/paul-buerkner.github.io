@@ -71,9 +71,6 @@ toc-location: right
 [Code & Data](https://osf.io/tmdcf/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Software](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- Li C., Vehtari A., **Bürkner P. C.**, Radev S. T., Acerbi L., & Schmitt M. (in review). Amortized Bayesian Workflow. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2409.04332){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
 - Nalborczyk L. & **Bürkner P. C.** (in review). Precise temporal localisation of M/EEG effects with Bayesian generalised additive multilevel models. *biorXiv preprint*.
 [Preprint](https://www.biorxiv.org/content/10.1101/2025.08.29.672336v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/lnalborczyk/brms_meeg){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -101,6 +98,9 @@ toc-location: right
 - Schmitt, M., **Bürkner P. C.**, Köthe U., & Radev S. T. (accepted). Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation. *International Journal of Computer Vision*.
 [Preprint](https://arxiv.org/abs/2406.03154){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Code & Data](https://github.com/marvinschmitt/ModelMisspecificationBF){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Li C., Vehtari A., **Bürkner P. C.**, Radev S. T., Acerbi L., & Schmitt M. (accepted). Amortized Bayesian Workflow. *Transactions in Machine Learning Research*. Short version accepted at *NeurIPS Workshop on Bayesian Decision-Making and Uncertainty*.
+[Preprint](https://arxiv.org/abs/2409.04332){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Zetsche, U., Bohländer, J., **Bürkner P. C.**, Röpke, S., Renneberg, B., & Schulze, L. (accepted). Beyond feeling down: Expectations about and memories of daily affective experiences in major depression and borderline personality disorder. *Clinical Psychological Science*. 
 [Preprint](osf.io/preprints/psyarxiv/89d2f_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
