@@ -57,7 +57,7 @@ Current projects:
 
 - [Real-Time Spatio-Temporal Data Analysis for Monitoring Logistics Networks](../projects#abi-logistics)
 - [Semi-Supervised Learning for Robust Amortized Bayesian Inference](../projects#semi-supervised-abi)
-- [BayesFlow: Simulation Intelligence with Deep Learning](../projects#bayesflow-software)
+- [BayesFlow: Simulation Intelligence with Deep Learning](../projects#bayesflow-sim-intelligence)
 - [Amortized Bayesian Inference for Multilevel Models](../projects#amortized-mlms)
 - [Applications of Amortized Bayesian Inference](../projects#abi-applications)
 
@@ -145,5 +145,5 @@ from the user's decisions to improve its recommendations on the fly.
 
 Current projects:
 
-- [BayesFlow: Simulation Intelligence with Deep Learning](../projects#bayesflow-software)
+- [BayesFlow: Simulation Intelligence with Deep Learning](../projects#bayesflow-sim-intelligence)
 - [Bayesian Distributional Latent Variable Models](../projects#bdlvms)

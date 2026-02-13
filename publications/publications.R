@@ -1,50 +1,75 @@
-render_publications <- function(year = NULL, project = NULL, bold_author = "Bürkner, P. C.") {
+render_publications <- function(year = NULL, author = "Bürkner, P. C.", bold_author = author,
+                                status = NULL, project = NULL) {
   # Read BibTeX file
-  pubs <- suppressMessages(suppressWarnings(bib2df::bib2df("publications.bib")))
+  pubs <- suppressMessages(suppressWarnings(
+    bib2df::bib2df("../publications/publications.bib")
+  ))
+
+  if (!is.null(status)) {
+    pubs <- pubs[pubs$STATUS %in% status, ]
+  }
 
   if (!is.null(year)) {
     pubs <- pubs[pubs$YEAR %in% year, ]
+    # status overwrites year
+    pubs <- pubs[is.na(pubs$STATUS) | pubs$STATUS %in% "published", ]
   }
 
-  for (i in 1:nrow(pubs)) {
+  if (!is.null(author)) {
+    sel <- sapply(pubs$AUTHOR, function(authors) any(authors %in% author))
+    pubs <- pubs[sel, ]
+  }
+
+  if (!is.null(project)) {
+    projects <- strsplit(pubs$PROJECTS, ",")
+    projects <- lapply(projects, trimws)
+    sel <- sapply(projects, function(ps) any(ps %in% project))
+    pubs <- pubs[sel, ]
+  }
+
+  for (i in seq_len(nrow(pubs))) {
     pub <- pubs[i, ]
     
-    # Format citation (customize as needed)
+    # Format citation
     authors <- paste(pub$AUTHOR[[1]], collapse = ", ")
-    # Bold your name
-    authors <- gsub(bold_author, paste0("**", bold_author, "**"), authors)
-    
-    citation <- sprintf("- %s (%s). %s. *%s*.",
-                      authors, pub$YEAR, pub$TITLE, pub$JOURNAL)
+
+    # Bold name
+    if (!is.null(bold_author)) {
+      authors <- gsub(bold_author, paste0("**", bold_author, "**"), authors)
+    }
+
+    # display "in review" and "accepted" status
+    year <- if (!anyNA(pub$STATUS)) pub$STATUS else pub$YEAR
+
+    citation <- sprintf("- %s (%s). %s. *%s*.", authors, year, pub$TITLE, pub$JOURNAL)
+
+    if (!anyNA(pub$NOTE)) {
+      citation <- paste0(citation, " ", pub$NOTE, ".")
+    }
     
     # Add DOI only if present
-    if (!is.na(pub$DOI)) {
+    if (!anyNA(pub$DOI)) {
       citation <- paste0(citation, " doi:", pub$DOI)
     }
     
     cat(citation, "\n")
     
     # Add buttons
-    if (!anyNA(pub$PDFLINK)) {
-      cat(sprintf("[PDF](%s){.btn .btn-outline-primary .btn role=\"button\" .btn-page-header .btn-xs}\n", pub$PDFLINK))
-    }
-    if (!anyNA(pub$JOURNALLINK)) {
-      cat(sprintf("[Journal](%s){.btn .btn-outline-primary .btn role=\"button\" .btn-page-header .btn-xs}\n", pub$JOURNALLINK))
-    }
-    if (!anyNA(pub$PREPRINTLINK)) {
-      cat(sprintf("[Preprint](%s){.btn .btn-outline-primary .btn role=\"button\" .btn-page-header .btn-xs}\n", pub$PREPRINTLINK))
-    }
-    if (!anyNA(pub$SOFTWARELINK)) {
-      cat(sprintf("[Software](%s){.btn .btn-outline-primary .btn role=\"button\" .btn-page-header .btn-xs}\n", pub$SOFTWARELINK))
-    }
-    if (!anyNA(pub$CODEDATALINK)) {
-      cat(sprintf("[Code & Data](%s){.btn .btn-outline-primary .btn role=\"button\" .btn-page-header .btn-xs}\n", pub$CODEDATALINK))
-    }
-    if (!anyNA(pub$CODELINK)) {
-      cat(sprintf("[Code](%s){.btn .btn-outline-primary .btn role=\"button\" .btn-page-header .btn-xs}\n", pub$CODELINK))
-    }
-    if (!anyNA(pub$DATALINK)) {
-      cat(sprintf("[Data](%s){.btn .btn-outline-primary .btn role=\"button\" .btn-page-header .btn-xs}\n", pub$DATALINK))
+    links <- c(
+      "PDF", "JOURNAL", "CONFERENCE", "PREPRINT", "WEBSITE", 
+      "SOFTWARE", "CODEDATA", "CODE", "DATA", "TALK"
+    )
+    links <- paste0(links, "LINK")
+    names <- c(
+      "PDF", "Journal", "Conference", "Preprint", "Website", 
+      "Software", "Code & Data", "Code", "Data", "Talk"
+    )
+    stopifnot(length(links) == length(names))
+    for (i in seq_along(links)) {
+      if (!anyNA(pub[[links[i]]])) {
+        cat(sprintf(paste0("[", names[i], "](%s){.btn .btn-outline-primary .btn role=\"button\" .btn-page-header .btn-xs}\n"), 
+        pub[[links[i]]]))
+      }
     }
 
     # Generate clean BibTeX entry
@@ -57,7 +82,7 @@ render_publications <- function(year = NULL, project = NULL, bold_author = "Bür
                             pub$YEAR)
     
     # Add DOI only if present
-    if (!is.na(pub$DOI)) {
+    if (!anyNA(pub$DOI)) {
       bibtex_entry <- paste0(bibtex_entry, sprintf(",\n\tdoi = {%s}", pub$DOI))
     }
 
@@ -74,4 +99,6 @@ render_publications <- function(year = NULL, project = NULL, bold_author = "Bür
     
     cat("\n\n")
   }
+
+  return(invisible(NULL))
 }

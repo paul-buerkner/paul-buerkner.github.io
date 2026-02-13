@@ -3,7 +3,15 @@ title: Open Source Software
 excerpt: "Open source software contributions"
 toc-location: right
 page-layout: full
+format:
+  html:
+    include-after-body: ../publications/copy_bibtex.js
 ---
+
+```{r}
+#| echo: false
+source("../publications/publications.R")
+```
 
 In addition to doing research and managing a lab, I am deeply involved in 
 open source software development. While I mostly program in R myself,
@@ -51,20 +59,11 @@ cross-validation, and Bayes factors.
 
 Selected References:
 
-- Bürkner P. C. (2021). Bayesian Item Response Modelling in R with brms and Stan. *Journal of Statistical Software*. doi:10.18637/jss.v100.i05
-[PDF](pdf/2021__Bürkner__Journal_of_Statistical_Software.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://www.jstatsoft.org/article/view/v100i05){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/1905.09501){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Bürkner P. C. (2018). Advanced Bayesian Multilevel Modeling with the R Package brms. *The R Journal*. doi:10.32614/RJ-2018-017
-[PDF](pdf/2018__Bürkner__R_Journal.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://journal.r-project.org/archive/2018/RJ-2018-017/index.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/1705.11123){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Bürkner P. C. (2017). brms: An R Package for Bayesian Multilevel Models using Stan. *Journal of Statistical Software*. doi:10.18637/jss.v080.i01
-[PDF](pdf/2017__Bürkner__Journal_of_Statistical_Software.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://www.jstatsoft.org/article/view/v080i01){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
+```{r}
+#| echo: false
+#| output: asis
+render_publications(project = "software-brms", author = NULL)
+```
 
 ## Stan {#stan}
 
@@ -105,12 +104,11 @@ help support Stan.
 
 Selected References:
 
-- Stan Development Team (current year). Stan Modeling Language Users Guide and Reference  Manual (current version).
-[Website](https://mc-stan.org){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Manual](https://mc-stan.org/users/documentation/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Carpenter B., Gelman A., Hoffman M. D., Lee D., Goodrich B., Betancourt M., Brubaker M., Guo J., Li P., and Riddell A. (2017). Stan: A probabilistic programming language. *Journal of Statistical Software*. doi:10.18637/jss.v076.i01
-[Journal](https://www.jstatsoft.org/article/view/v076i01){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+```{r}
+#| echo: false
+#| output: asis
+render_publications(project = "software-stan", author = NULL)
+```
 
 ### Stan-related libraries
 
@@ -180,29 +178,11 @@ within the next couple of years.
 
 Selected References: 
 
-- Radev S. T., Schmitt M., Schumacher L., Elsemüller L., Pratz V., Schälte Y., Köthe U., & Bürkner P. C. (2023). BayesFlow: Amortized Bayesian Workflows With Neural Networks. *Journal of Open Source Software*. doi:10.21105/joss.05702
-[PDF](pdf/2023__Radev_et_al__JOSS.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://joss.theoj.org/papers/10.21105/joss.05702){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2306.16015){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Radev S. T., Schmitt M., Pratz V., Picchini U., Köthe U., & Bürkner P. C. (2023). JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models. *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*.
-[PDF](pdf/2023__Radev_et_al__UAI.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Conference](https://proceedings.mlr.press/v216/radev23a.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2302.09125){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Schmitt, M., Bürkner P. C., Köthe U., & Radev S. T. (2023). Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks. *Proceedings of the German Conference on Pattern Recognition (GCPR)*. doi:10.1007/978-3-031-54605-1_35
-[PDF](pdf/2023__Schmitt_et_al__GCPR.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Conference](https://link.springer.com/chapter/10.1007/978-3-031-54605-1_35){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2112.08866){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Radev S. T., D'Alessandro M., Mertens U. K., Voss A., Köthe U., & Bürkner P. C. (2021). Amortized Bayesian Model Comparison with Evidental Deep Learning. *IEEE Transactions on Neural Networks and Learning Systems*. doi:10.1109/TNNLS.2021.3124052
-[PDF](pdf/2021__Radev_et_al__IEEE_Transactions_in_Neural_Networks_and_Learning_Systems.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://ieeexplore.ieee.org/document/9612724){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2004.10629){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Radev, S. T., Mertens, U. K., Voss, A., Ardizzone, L., & Köthe, U. (2020). BayesFlow: Learning complex stochastic models with invertible neural networks. *IEEE Transactions on Neural Networks and Learning Systems*. doi:10.1109/TNNLS.2020.3042395
-[Journal](https://ieeexplore.ieee.org/document/9298920){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2003.06281){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+```{r}
+#| echo: false
+#| output: asis
+render_publications(project = "software-bayesflow", author = NULL)
+```
 
 
 ## Other Software Contributions

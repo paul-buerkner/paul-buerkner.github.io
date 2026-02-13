@@ -3,7 +3,15 @@ title: Research Projects
 excerpt: "An overview of my research projects"
 toc-location: right
 page-layout: full
+format:
+  html:
+    include-after-body: ../publications/copy_bibtex.js
 ---
+
+```{r}
+#| echo: false
+source("../publications/publications.R")
+```
 
 Here you can find an overview of my current research projects. A list
 of past research projects can be found at the [bottom of this page](#past-projects). 
@@ -48,18 +56,11 @@ Funding Period: 2024 -- 2028
 
 Publications:
 
-- **Jedhoff S.**, Semenova E., Raulo A., Meyer A., & Bürkner P. C. (in review). From Mice to Trains: Amortized Bayesian Inference on Graph Data.  *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2601.02241){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/sjedhoff/ABI-graph-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Jedhoff S.**, Kutabi H., Meyer A., & Bürkner P. C. (in review). Efficient Uncertainty Propagation in Bayesian Two-Step Procedures. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2505.10510){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/sjedhoff/efficient-2step-uncertainty-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Kühmichel L., Huang J. M., Pratz V., Arruda J., Olischläger H., Habermann D., Kucharský Š., Elsemüller L., Mishra A., Bracher N., **Jedhoff S.**, Schmitt M., Bürkner P. C., & Radev S. T. (in review). BayesFlow 2.0: Multi-Backend Amortized Bayesian Inference in Python. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2602.07098){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Software](https://bayesflow.org/main/index.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code](https://github.com/bayesflow-org/bf2-paper-case-study){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+```{r}
+#| echo: false
+#| output: asis
+render_publications(project = "abi-logistics", author = "Jedhoff, S.")
+```
 
 <!-- -->
 
@@ -85,21 +86,15 @@ Funding Period: 2024 -- 2027
 
 Publications:
 
-- Kucharský Š., **Mishra A.**, Habermann D., Radev S. T., & Bürkner P. C. (in review). Improving the Accuracy of Amortized Model Comparison with Self-Consistency. *ArXiv preprint*. Short version accepted at *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
-[Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Kühmichel L., Huang J. M., Pratz V., Arruda J., Olischläger H., Habermann D., Kucharský Š., Elsemüller L., **Mishra A.**, Bracher N., Jedhoff S., Schmitt M., Bürkner P. C., & Radev S. T. (in review). BayesFlow 2.0: Multi-Backend Amortized Bayesian Inference in Python. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2602.07098){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Software](https://bayesflow.org/main/index.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code](https://github.com/bayesflow-org/bf2-paper-case-study){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Mishra A.**, Habermann D., Schmitt M., Radev S. T., & Bürkner P. C. (accepted). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *International Conference on Learning Representations (ICLR)*.
-[Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](http://github.com/bayesflow-org/self-consistency-real){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+```{r}
+#| echo: false
+#| output: asis
+render_publications(project = "semi-supervised-abi", author = "Mishra, A.")
+```
 
 <!-- -->
 
-## BayesFlow: Simulation Intelligence with Deep Learning {#bayesflow-software}
+## BayesFlow: Simulation Intelligence with Deep Learning {#bayesflow-sim-intelligence}
 
 ![](../images/bayesflow_overview.png){width=80% fig-align="left" fig-alt="An illustration of the Bayesflow framework."}
 
@@ -122,25 +117,11 @@ Funding Period: 2024 -- 2027
 
 Publications:
 
-- **Kühmichel L.**, Huang J. M., Pratz V., Arruda J., Olischläger H., Habermann D., Kucharský Š., Elsemüller L., Mishra A., Bracher N., Jedhoff S., Schmitt M., Bürkner P. C., & Radev S. T. (in review). BayesFlow 2.0: Multi-Backend Amortized Bayesian Inference in Python. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2602.07098){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Software](https://bayesflow.org/main/index.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code](https://github.com/bayesflow-org/bf2-paper-case-study){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Bracher N., **Kühmichel L.**, Ivanova D. R., Intes X., Bürkner P. C., & Radev S. T. (in review). JADAI: Jointly Amortizing Adaptive Design and Bayesian Inference. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2512.22999){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Müller, J., **Kühmichel, L.**, Rohbeck, M., Radev, S. T., & Köthe, U. (in review). Towards Context-Aware Domain Generalization: Understanding the Benefits and Limits of Marginal Transfer Learning. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2312.10107){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs} 
-
-- Habermann D., Schmitt M., **Kühmichel L.**, Bulling A., Radev S. T., & Bürkner P. C. (2025). Amortized Bayesian Multilevel Models. *Bayesian Analysis*. doi:10.1214/25-BA1570
-[PDF](../publications/pdf/2025__Habermann_et_al__Bayesian_Analysis.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Amortized-Bayesian-Multilevel-Models/10.1214/25-BA1570.full){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Pogorelyuk, L., Bracher, N. L., Verkleeren, A., **Kühmichel, L.**, & Radev, S. T. (2025). Stable Single-Pixel Contrastive Learning for Semantic and Geometric Tasks. *NeurIPS Workshop on Unifying Representations in Neural Models*.
-[Conference](https://openreview.net/forum?id=nzGuDABwce){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/stefanradev93/oxels){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+```{r}
+#| echo: false
+#| output: asis
+render_publications(project = "bayesflow-sim-intelligence", author = "Kühmichel, L.")
+```
 
 <!-- -->
 
@@ -168,22 +149,13 @@ Funding Period: 2024 -- 2027
 
 Publications:
 
-- **Kucharský Š.** & Bürkner P. C. (in review). Amortized Bayesian Mixture Models. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2501.10229){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+```{r}
+#| echo: false
+#| output: asis
+render_publications(project = "abi-applications", author = "Kucharský, Š.")
+```
 
-- **Kucharský Š.**, Mishra A., Habermann D., Radev S. T., & Bürkner P. C. (in review). Improving the Accuracy of Amortized Model Comparison with Self-Consistency. *ArXiv preprint*. Short version accepted at *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
-[Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Kühmichel L., Huang J. M., Pratz V., Arruda J., Olischläger H., Habermann D., **Kucharský Š.**, Elsemüller L., Mishra A., Bracher N., Jedhoff S., Schmitt M., Bürkner P. C., & Radev S. T. (in review). BayesFlow 2.0: Multi-Backend Amortized Bayesian Inference in Python. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2602.07098){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Software](https://bayesflow.org/main/index.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code](https://github.com/bayesflow-org/bf2-paper-case-study){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Kucharský Š.** & Bürkner P. C. (2025). Amortized Bayesian Cognitive Modeling with BayesFlow. *PsyArXiv preprint*. doi:10.31234/osf.io/34k6q_v1
-[Preprint](https://osf.io/preprints/psyarxiv/34k6q_v1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Website](https://kucharssim.github.io/bayesflow-cognitive-modeling-book/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/Kucharssim/bayesflow-cognitive-modeling-book){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
+<!-- -->
 
 ## Amortized Bayesian Inference for Multilevel Models {#amortized-mlms}
 
@@ -208,28 +180,11 @@ Funding Period: 2023 -- 2026
 
 Publications:
 
-- Kucharský Š., Mishra A., **Habermann D.**, Radev S. T., & Bürkner P. C. (in review). Improving the Accuracy of Amortized Model Comparison with Self-Consistency. *ArXiv preprint*. Short version accepted at *NeurIPS Workshop on Reliable Machine Learning from Unreliable Data*.
-[Preprint](https://arxiv.org/abs/2508.20614){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Kühmichel L., Huang J. M., Pratz V., Arruda J., Olischläger H., **Habermann D.**, Kucharský Š., Elsemüller L., Mishra A., Bracher N., Jedhoff S., Schmitt M., Bürkner P. C., & Radev S. T. (in review). BayesFlow 2.0: Multi-Backend Amortized Bayesian Inference in Python. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2602.07098){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Software](https://bayesflow.org/main/index.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code](https://github.com/bayesflow-org/bf2-paper-case-study){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Mishra A., **Habermann D.**, Schmitt M., Radev S. T., & Bürkner P. C. (accepted). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *International Conference on Learning Representations (ICLR)*.
-[Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](http://github.com/bayesflow-org/self-consistency-real){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Habermann D.**, Schmitt M., Kühmichel L., Bulling A., Radev S. T., & Bürkner P. C. (2025). Amortized Bayesian Multilevel Models. *Bayesian Analysis*. doi:10.1214/25-BA1570
-[PDF](../publications/pdf/2025__Habermann_et_al__Bayesian_Analysis.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Amortized-Bayesian-Multilevel-Models/10.1214/25-BA1570.full){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Schmitt M., Ivanova D. R., **Habermann D.**, Köthe U., Bürkner P. C., & Radev S. T. (2024). Leveraging Self-Consistency for Data-Efficient Amortized
-Bayesian Inference. *Proceedings of the International Conference on Machine Learning (ICML)*.
-[PDF](../publications/pdf/2024__Schmitt_et_al__ICML.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Conference](https://openreview.net/forum?id=uoUOz427RD){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2310.04395){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+```{r}
+#| echo: false
+#| output: asis
+render_publications(project = "amortized-mlms", author = "Habermann, D.")
+```
 
 <!-- -->
 
@@ -273,15 +228,11 @@ Funding Period: 2022 -- 2025
 
 Publications:
 
-- **Fazio L.**, Scholz M., Aguilar J. E., & Bürkner P. C. (in review). Primed Priors for Simulation-Based Validation of Bayesian Models. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/sims1253/implicit-priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Fazio L.** & Bürkner P. C. (2025). Gaussian distributional structural equation models: A framework for modeling latent heteroscedasticity. *Multivariate Behavioral Research*. doi:10.1080/00273171.2025.2483252
-[PDF](../publications/pdf/2025__Fazio_Buerkner__Multivariate_Behavioral_Research.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://www.tandfonline.com/doi/full/10.1080/00273171.2025.2483252){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2404.14124){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/bdlvm-project/gdsem-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+```{r}
+#| echo: false
+#| output: asis
+render_publications(project = "bdlvms", author = "Fazio, L.")
+```
 
 <!-- -->
 
@@ -319,22 +270,11 @@ Funding Period: 2022 -- 2025
 
 Publications: 
 
-- **Bockting F.** & Bürkner P. C. (in review). elicito: A Python Package for Expert Prior Elicitation. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2506.16830){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Software](https://github.com/florence-bockting/elicito){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Bockting F.**, Radev S. T., & Bürkner P. C. (2025). Expert-elicitation method for non-parametric joint priors using normalizing flows. *Statistics and Computing*. doi:0.1007/s11222-025-10665-z
-[PDF](../publications/pdf/2025__Bockting_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://link.springer.com/article/10.1007/s11222-025-10665-z){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2411.15826){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code](https://github.com/florence-bockting/prior_elicitation/tree/main/elicit/manuscript_non_parametric_joint_prior){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Data](https://osf.io/xrzh6/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Bockting F.**, Radev S. T., & Bürkner P. C. (2024). Simulation-Based Prior Knowledge Elicitation for Parametric Bayesian Models. *Scientific Reports*. doi:10.1038/s41598-024-68090-7
-[PDF](../publications/pdf/2024__Bockting_et_al__Scientific_Reports.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://www.nature.com/articles/s41598-024-68090-7){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](http://arxiv.org/abs/2308.11672){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/florence-bockting/PriorLearning){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+```{r}
+#| echo: false
+#| output: asis
+render_publications(project = "sbpriors", author = "Bockting, F.")
+```
 
 <!-- -->
 
@@ -374,19 +314,11 @@ Funding Period: 2022 -- 2025
 
 Publications:
 
-- **Mukherjee S.**, Aguilar J. E., Zago M., Claassen M., & Bürkner P. C. (in review). Latent variable estimation with composite Hilbert space Gaussian processes. *ArXiv preprint*. 
-[Preprint](https://arxiv.org/abs/2510.25371){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/Soham6298/Latent-Composite-HSGPs){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Mukherjee S.**, Claassen M., & Bürkner P. C. (in review). Hilbert space methods for approximating multi-output latent variable Gaussian processes. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2505.16919){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/Soham6298/Latent-variable-HSGPs){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Mukherjee S.**, Claassen M., & Bürkner P. C. (2025). DGP-LVM: Derivative Gaussian process latent variable models. *Statistics and Computing*. doi:10.1007/s11222-025-10644-4
-[PDF](../publications/pdf/2025__Mukherjee_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://link.springer.com/article/10.1007/s11222-025-10644-4){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2404.04074){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/Soham6298/DGP-LVM){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+```{r}
+#| echo: false
+#| output: asis
+render_publications(project = "scrna-models", author = "Mukherjee, S.")
+```
 
 <!-- -->
 
@@ -431,40 +363,11 @@ Funding Period: 2021 -- 2025
 
 Publications:
 
-- **Aguilar J. E.** & Bürkner P. C. (in review). Dependency-Aware Shrinkage Priors for High Dimensional Regression.  *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2505.10715){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://osf.io/fuean/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Aguilar J. E.**, Kohns D., Vehtari A., & Bürkner P. C. (in review). R2 priors for Grouped Variance Decomposition in High-dimensional Regression. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2507.11833){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/jear2412/GroupR2priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Fazio L., Scholz M., **Aguilar J. E.**, & Bürkner P. C. (in review). Primed Priors for Simulation-Based Validation of Bayesian Models. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/sims1253/implicit-priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Mukherjee S., **Aguilar J. E.**, Zago M., Claassen M., & Bürkner P. C. (in review). Latent variable estimation with composite Hilbert space Gaussian processes. *ArXiv preprint*. 
-[Preprint](https://arxiv.org/abs/2510.25371){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/Soham6298/Latent-Composite-HSGPs){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Aguilar J. E.** & Bürkner P. C. (2025). Generalized Decomposition Priors on R2. *Bayesian Analysis*. doi:10.1214/25-BA1524
-[PDF](../publications/pdf/2025__Aguilar_Buerkner__Bayesian_Analysis.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Generalized-Decomposition-Priors-on-R2/10.1214/25-BA1524.full){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2401.10180){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://osf.io/ns2cv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs} 
-
-- Reiser P., **Aguilar J. E.**, Guthke A., & Bürkner P. C. (2025). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. *Statistics and Computing*. doi:10.1007/s11222-025-10597-8
-[PDF](../publications/pdf/2025__Reiser_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://link.springer.com/article/10.1007/s11222-025-10597-8){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2312.05153){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/philippreiser/bayesian-surrogate-uncertainty-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Aguilar J. E.** & Bürkner P. C. (2023). Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior. *Electronic Journal of Statistics*. doi:10.1214/23-EJS2136
-[PDF](../publications/pdf/2023__Aguilar_Bürkner__Electronic_Journal_of_Statistics.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://doi.org/10.1214/23-EJS2136){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2208.07132){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://osf.io/wgsth/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Talk](../talks/pdf/poster_R2D2M2_prior.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+```{r}
+#| echo: false
+#| output: asis
+render_publications(project = "joint-priors-mlms", author = "Aguilar, J. E.")
+```
 
 <!-- -->
 
@@ -511,27 +414,18 @@ Funding Period: 2022 -- 2025
 
 Publications: 
 
-- **Reiser P.**, Bürkner P. C., & Guthke A. (in review). Bayesian Surrogate Training on Multiple Data Sources: A Hybrid Modeling Strategy. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2412.11875){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/philippreiser/multi-data-source-bayesian-surrogate-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+```{r}
+#| echo: false
+#| output: asis
+render_publications(project = "uncertainty-surrogate-models", author = "Reiser, P.")
+```
 
-- Scheurer S., **Reiser P.**, Brünnette T., Nowak W., Guthke A., & Bürkner P. C. (2026). Uncertainty-Aware Surrogate-based Amortized Bayesian Inference for Computationally Expensive Models. *Transactions in Machine Learning Research*.
-[PDF](../publications/pdf/2026__Scheurer_et_al__TMLR.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://openreview.net/forum?id=aVSoQXbfy1){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2505.08683){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/LS3-university-of-stuttgart/ua-sabi-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Reiser P.**, Aguilar J. E., Guthke A., & Bürkner P. C. (2025). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. *Statistics and Computing*. doi:10.1007/s11222-025-10597-8
-[PDF](../publications/pdf/2025__Reiser_et_al__Statistics_and_Computing.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://link.springer.com/article/10.1007/s11222-025-10597-8){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2312.05153){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/philippreiser/bayesian-surrogate-uncertainty-paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 :::
 
 <!-- -->
 
 ::: {.callout-note icon=false collapse="true"}
-## Meta-Uncertainty in Bayesian Model Comparison {#mu-bmb}
+## Meta-Uncertainty in Bayesian Model Comparison {#mu-bmc}
 
 ![](../images/meta_uncertainty_banner.png){fig-alt="An illustration of meta-uncertainty."}
 
@@ -575,75 +469,11 @@ Funding Period: 2021 -- 2025
 
 Publications: 
 
-- **Schmitt M.**, Hikida Y., Radev S. T., Sadlo F., & Bürkner P. C. (in review). The Simplex Projection: Lossless Visualization of 4D Compositional Data on a 2D Canvas. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2403.11141){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Software](https://github.com/marvinschmitt/ggsimplex){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Tutorial](https://marvin-schmitt.com//blog/ggsimplex-prerelease/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Mishra A., Habermann D., **Schmitt M.**, Radev S. T., & Bürkner P. C. (accepted). Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data. *International Conference on Learning Representations (ICLR)*.
-[Preprint](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](http://github.com/bayesflow-org/self-consistency-real){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Li C., Vehtari A., Bürkner P. C., Radev S. T., Acerbi L., & **Schmitt M.** (accepted). Amortized Bayesian Workflow. *Transactions in Machine Learning Research*. Short version accepted at *NeurIPS Workshop on Bayesian Decision-Making and Uncertainty*.
-[Preprint](https://arxiv.org/abs/2409.04332){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Schmitt M.**, Bürkner P. C., Köthe U., & Radev S. T. (accepted). Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation. *International Journal of Computer Vision*.
-[Preprint](https://arxiv.org/abs/2406.03154){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/marvinschmitt/ModelMisspecificationBF){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Habermann D., **Schmitt M.**, Kühmichel L., Bulling A., Radev S. T., & Bürkner P. C. (2025). Amortized Bayesian Multilevel Models. *Bayesian Analysis*. doi:10.1214/25-BA1570
-[PDF](pdf/2025__Habermann_et_al__Bayesian_Analysis.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Amortized-Bayesian-Multilevel-Models/10.1214/25-BA1570.full){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2408.13230){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Schmitt M.**, Pratz V., Köthe U., Bürkner P. C., & Radev S. T. (2024). Consistency Models for Scalable and Fast Simulation-Based Inference. *Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)*.
-[PDF](../publications/pdf/2024__Schmitt_et_al__NeurIPS.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://proceedings.neurips.cc/paper_files/paper/2024/hash/e58026e2b2929108e1bd24cbfa1c8e4b-Abstract-Conference.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2312.05440){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Schmitt M.**, Ivanova D. R., Habermann D., Köthe U., Bürkner P. C., & Radev S. T. (2024). Leveraging Self-Consistency for Data-Efficient Amortized
-Bayesian Inference. *Proceedings of the International Conference on Machine Learning (ICML)*.
-[PDF](../publications/pdf/2024__Schmitt_et_al__ICML.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Conference](https://openreview.net/forum?id=uoUOz427RD){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2310.04395){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Elsemüller L., Olischläger H., **Schmitt M.**, Bürkner P. C., Köthe U., & Radev S. T. (2024). Sensitivity-Aware Amortized Bayesian Inference. *Transactions in Machine Learning Research*.
-[PDF](../publications/pdf/2024__Elsemueller_et_al__TMLR.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://openreview.net/forum?id=Kxtpa9rvM0){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2310.11122){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/bayesflow-org/SA-ABI){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Schmitt M.**, Radev S. T., & Bürkner P. C. (2024). Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference. *ArXiv preprint*. doi:10.48550/arXiv.2311.10671
-[PDF](../publications/pdf/2024__Schmitt_et_al__arXiv.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2311.10671){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Schmitt M.**, Radev, S. T., & Bürkner P. C. (2023). Meta-Uncertainty in Bayesian Model Comparison. *Artificial Intelligence and Statistics (AISTATS) Conference Proceedings*.
-[PDF](../publications/pdf/2023__Schmitt_et_al__AISTATS.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Conference](https://proceedings.mlr.press/v206/schmitt23a.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](http://arxiv.org/abs/2210.07278){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/marvinschmitt/MetaUncertaintyPaper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Talk](../talks/pdf/poster_meta_uncertainty.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Schmitt M.**, Bürkner P. C., Köthe U., & Radev S. T. (2023). Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks. *Proceedings of the German Conference on Pattern Recognition (GCPR)*. doi:10.1007/978-3-031-54605-1_35
-[PDF](../publications/pdf/2023__Schmitt_et_al__GCPR.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Conference](https://link.springer.com/chapter/10.1007/978-3-031-54605-1_35){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2112.08866){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/marvinschmitt/ModelMisspecificationBF){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Talk](../talks/pdf/detecting_MMS_bayesflow.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Poster](../talks/pdf/poster_detecting_MMS_bayesflow.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Radev S. T., **Schmitt M.**, Pratz V., Picchini U., Köthe U., & Bürkner P. C. (2023). JANA: Jointly Amortized Neural Approximation of Complex Bayesian Models. *Uncertainty in Artificial Intelligence (UAI) Conference Proceedings*.
-[PDF](../publications/pdf/2023__Radev_et_al__UAI.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Conference](https://proceedings.mlr.press/v216/radev23a.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2302.09125){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/bayesflow-org/JANA-Paper){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Talk](../talks/pdf/glimpse_amortized_bayesian_inference.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Radev S. T., **Schmitt M.**, Schumacher L., Elsemüller L., Pratz V., Schälte Y., Köthe U., & Bürkner P. C. (2023). BayesFlow: Amortized Bayesian Workflows With Neural Networks. *Journal of Open Source Software*. doi:10.21105/joss.05702
-[PDF](../publications/pdf/2023__Radev_et_al__JOSS.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://joss.theoj.org/papers/10.21105/joss.05702){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2306.16015){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Software](../software#bayesflow){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+```{r}
+#| echo: false
+#| output: asis
+render_publications(project = "mu-bmc", author = "Schmitt, M.")
+```
 
 Software:
 
@@ -685,27 +515,11 @@ Funding Period: 2021 -- 2024
 
 Publications:
 
-- Fazio L., **Scholz M.**, Aguilar J. E., & Bürkner P. C. (in review). Primed Priors for Simulation-Based Validation of Bayesian Models. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2408.06504){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://github.com/sims1253/implicit-priors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Scholz M.** & Bürkner P. C. (in review). Posterior accuracy and calibration under misspecification in Bayesian generalized linear models. *ArXiv preprint*.
-[Preprint](https://arxiv.org/abs/2311.09081){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://osf.io/tmdcf/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Software](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- **Scholz M.** & Bürkner P. C. (2025). Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models. *Journal of Statistical Computation and Simulation*. doi:10.1080/00949655.2024.2449534
-[PDF](../publications/pdf/2025__Scholz_Buerkner__Journal_of_Statistical_Computation_and_Simulation.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://www.tandfonline.com/doi/full/10.1080/00949655.2024.2449534){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](https://arxiv.org/abs/2210.06927){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Code & Data](https://osf.io/xgkzv/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Software](https://github.com/sims1253/bayesim){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-- Bürkner P. C., **Scholz M.**, & Radev S. T. (2023). Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy. *Statistics Surveys*.
-doi:10.1214/23-SS145
-[PDF](../publications/pdf/2023__Bürkner_et_al__Statistics_Surveys.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Journal](https://doi.org/10.1214/23-SS145){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Preprint](http://arxiv.org/abs/2209.02439){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+```{r}
+#| echo: false
+#| output: asis
+render_publications(project = "ml4bmb", author = "Scholz, M.")
+```
 
 Software:
 

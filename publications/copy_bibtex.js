@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       navigator.clipboard.writeText(formatted).then(() => {
         const original = this.textContent;
-        this.textContent = "✓ Copied";
+        this.textContent = "Copied!";
         setTimeout(() => {
           this.textContent = original;
         }, 1200);
