@@ -6,9 +6,6 @@ render_publications <- function(year = NULL, project = NULL, bold_author = "Bür
     pubs <- pubs[pubs$YEAR %in% year, ]
   }
 
-  # Sort by year (descending)
-  # pubs <- pubs[order(-pubs$YEAR), ]
-
   for (i in 1:nrow(pubs)) {
     pub <- pubs[i, ]
     
@@ -65,13 +62,16 @@ render_publications <- function(year = NULL, project = NULL, bold_author = "Bür
     }
 
     bibtex_entry <- paste0(bibtex_entry, "\n}")
-      
+
     # Escape the BibTeX for HTML
-    bibtex_escaped <- gsub("<", "&lt;", bibtex_entry)
-    bibtex_escaped <- gsub(">", "&gt;", bibtex_escaped)
+    bibtex_entry <- gsub("\n", "&#10;", bibtex_entry, fixed = TRUE)
+    bibtex_entry <- htmltools::htmlEscape(bibtex_entry)  
+   
+    cat(sprintf(
+      '[BibTeX]{.btn .btn-outline-primary .btn-xs data-bibtex="%s" role="button"}\n',
+      bibtex_entry
+    ))
     
-    # Add collapsible BibTeX button - content breaks to new line when open
-    cat(sprintf('<details style="display: inline-block;"><summary class="btn btn-outline-primary btn-page-header btn-xs" style="cursor: pointer;">BibTeX</summary><pre style="margin-top: 10px; margin-bottom: 20px;"><code>%s</code></pre></details>', bibtex_escaped))
     cat("\n\n")
   }
 }
