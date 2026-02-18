@@ -55,13 +55,19 @@ render_publications <- function(year = NULL, author = "Bürkner, P. C.", bold_au
     cat(citation, "\n")
     
     # Add buttons
+    # handle PDF separately from other buttons to add the correct local paths
+    if (!anyNA(pub$PDFNAME)) {
+      cat(sprintf("[PDF](%s){.btn .btn-outline-primary .btn role=\"button\" .btn-page-header .btn-xs}\n", 
+      paste0("../publications/pdf/", pub$PDFNAME)))
+    }
+    # all other buttons use standard urls
     links <- c(
-      "PDF", "JOURNAL", "CONFERENCE", "PREPRINT", "WEBSITE", 
+      "JOURNAL", "CONFERENCE", "PREPRINT", "WEBSITE", 
       "SOFTWARE", "CODEDATA", "CODE", "DATA", "TALK"
     )
     links <- paste0(links, "LINK")
     names <- c(
-      "PDF", "Journal", "Conference", "Preprint", "Website", 
+      "Journal", "Conference", "Preprint", "Website", 
       "Software", "Code & Data", "Code", "Data", "Talk"
     )
     stopifnot(length(links) == length(names))
