@@ -55,7 +55,7 @@ website:
       #   aria-label: mastodon
       #   href: https://fosstodon.org/@paul_buerkner
   page-footer: 
-    left: "Copyright 2025, Paul Bürkner" 
+    left: "Copyright 2026, Paul Bürkner" 
     right: 
       - text: Impressum
         href: impressum/index.qmd
