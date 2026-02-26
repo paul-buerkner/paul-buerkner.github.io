@@ -12,7 +12,7 @@ complete and readable state. Below you can download the current version:
 ## FAQ
 
 - When will be complete book be ready?
-  * I am aiming for the first half of 2026 but it may also take a bit longer.
+  * I am aiming for the first half of 2027.
   
 - Will the book be freely available online?
   * Yes, I will publish an online version of the book which will be free for non-commercial use. The book will be available also in print and as an ebook published by Chapman and Hall/CRC.
