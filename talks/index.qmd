@@ -8,6 +8,11 @@ Below you can find a list of selected talks and posters of me and my group,
 along with slides, paper references, and recordings when available.
 Presenters are highlighted in **bold**.
 
+- **Bürkner P. C.** (2026). 
+Invited talk: *Bayes in the Age of Machine Learning*.
+Presented at [QUAMU Conference](https://www.uni-bielefeld.de/forschung/profil/fokusbereiche/quamu/).
+[Slides](pdf/bayes_in_the_age_of_machine_learning.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Mishra A., Habermann D., Schmitt M., Radev S. T., & **Bürkner P. C.** (2025). 
 Invited talk: *Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data*.
 Presented at [ELLIS UnConference](https://eurips.cc/ellis/).
