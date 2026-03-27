@@ -30,9 +30,11 @@ render_publications <- function(year = NULL, author = "Bürkner, P. C.", bold_au
 
   if (sort) {
     year_factor <- factor(ifelse(!is.na(pubs$STATUS), pubs$STATUS, pubs$YEAR))
-    levels(year_factor) <- union(c("in review", "accepted"), levels(year_factor))
-    first_authors <- sapply(pubs$AUTHOR, function(a) a[1])
-    pubs <- pubs[order(year_factor, first_authors, decreasing = TRUE), ]
+    year_levels <- union(c("in review", "accepted"), sort(levels(year_factor), decreasing = TRUE))
+    year_factor <- factor(year_factor, levels = year_levels)
+    first_authors <- factor(sapply(pubs$AUTHOR, function(a) a[1]))
+    first_authors <- as.numeric(first_authors)
+    pubs <- pubs[order(year_factor, first_authors), ]
   }
 
   for (i in seq_len(nrow(pubs))) {
