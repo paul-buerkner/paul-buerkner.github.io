@@ -1,5 +1,5 @@
 render_publications <- function(year = NULL, author = "Bürkner, P. C.", bold_author = author,
-                                status = NULL, project = NULL) {
+                                status = NULL, project = NULL, sort = TRUE) {
   # Read BibTeX file
   pubs <- suppressMessages(suppressWarnings(
     bib2df::bib2df("../publications/publications.bib")
@@ -25,6 +25,14 @@ render_publications <- function(year = NULL, author = "Bürkner, P. C.", bold_au
     projects <- lapply(projects, trimws)
     sel <- sapply(projects, function(ps) any(ps %in% project))
     pubs <- pubs[sel, ]
+  }
+
+
+  if (sort) {
+    year_factor <- factor(ifelse(!is.na(pubs$STATUS), pubs$STATUS, pubs$YEAR))
+    levels(year_factor) <- union(c("in review", "accepted"), levels(year_factor))
+    first_authors <- sapply(pubs$AUTHOR, function(a) a[1])
+    pubs <- pubs[order(year_factor, first_authors, decreasing = TRUE), ]
   }
 
   for (i in seq_len(nrow(pubs))) {
