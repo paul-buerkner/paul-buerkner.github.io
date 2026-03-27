@@ -9,6 +9,11 @@ along with slides, paper references, and recordings when available.
 Presenters are highlighted in **bold**.
 
 - **Bürkner P. C.** (2026). 
+Invited talk: *Bayesian multilevel modeling of phenotypic plasticity*.
+Presented at [Workshop on variation in the analysis of phenotypic plasticity]().
+[Slides](pdf/bayesian_models_phenotypic_plasticity.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- **Bürkner P. C.** (2026). 
 Invited talk: *Bayes in the Age of Machine Learning*.
 Presented at [QUAMU Conference](https://www.uni-bielefeld.de/forschung/profil/fokusbereiche/quamu/).
 [Slides](pdf/bayes_in_the_age_of_machine_learning.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
