@@ -9,6 +9,11 @@ along with slides, paper references, and recordings when available.
 Presenters are highlighted in **bold**.
 
 - **Bürkner P. C.** (2026). 
+Keynote: *Amortized Bayesian Inference for Multilevel Models*.
+Presented at [Multilevel Conference](https://multilevel.fss.uu.nl/).
+[Slides](pdf/ABI_multilevel_models.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- **Bürkner P. C.** (2026). 
 Invited talk: *Bayesian multilevel modeling of phenotypic plasticity*.
 Presented at [Workshop on variation in the analysis of phenotypic plasticity]().
 [Slides](pdf/bayesian_models_phenotypic_plasticity.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
