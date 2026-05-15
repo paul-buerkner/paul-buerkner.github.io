@@ -42,7 +42,7 @@ Overarching Topics:
 
 Project Members: 
 [Yiming Zang](../people#yiming-zang){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Holger Olischläger](../people#holger-olischlaeger){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Hans Olischläger](../people#Hans-olischlaeger){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funders: 
 [MERCUR Foundation](https://www.uaruhr.de/en/research/research-support/mercur-project-funding/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
