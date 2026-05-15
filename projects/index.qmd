@@ -16,6 +16,50 @@ source("../publications/publications.R")
 Here you can find an overview of my current research projects. A list
 of past research projects can be found at the [bottom of this page](#past-projects). 
 
+## Deep Bayes in Biomedicine {#deep-bayes-biomed}
+
+Progress in biomedical research is limited by three challenges: (1) the systems we study, like
+the immune system or the brain, are complex and variable; (2) experiments often have small
+sample sizes because of ethical or cost constraints; and (3) the effects we look for are often
+small, comparable to normal biological variation.
+
+Bayesian statistics is a powerful approach for tackling such problems, allowing inclusion
+of prior knowledge and principled uncertainty quantification. This makes conclusions more
+reliable and reproducible. However, Bayesian inference is computationally far more expensive
+than conventional data analyses, limiting its practicality for modern biomedical experiments.
+
+Amortized Bayesian Inference (ABI), an approach based on deep learning, removes this
+barrier. By “learning” in advance how to perform Bayesian inference, ABI can analyze new
+datasets almost instantly. It matches or exceeds the speed of conventional methods while
+retaining the full advantages of Bayesian inference. This project applies ABI to challenging
+biomedical workflows in immunology and neuroscience, where current tools fall short. By
+combining expertise from biomedicine, deep learning, and statistics, we make ABI easier to
+use and adapt, enabling researchers to gain biomedical insights faster and more reliably.
+
+Overarching Topics: 
+[Amortized Inference](../research#abi){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+Project Members: 
+[Yiming Zang](../people#yiming-zang){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Holger Olischläger](../people#holger-olischlaeger){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+Funders: 
+[MERCUR Foundation](https://www.uaruhr.de/en/research/research-support/mercur-project-funding/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+Funding Period: 2026 -- 2029
+
+Publications:
+
+```{r}
+#| echo: false
+#| output: asis
+render_publications(project = "deep-bayes-biomed", author = c("Zang, Y.", "Olischläger, H."))
+```
+
+<!-- -->
+
 ## Real-Time Spatio-Temporal Data Analysis for Monitoring Logistics Networks {#abi-logistics}
 
 ![](../images/ABI_graph_data.png){width=100% fig-align="left" fig-alt="An illustration of amortized Bayesian inference for graph data."}
@@ -188,6 +232,57 @@ render_publications(project = "amortized-mlms", author = "Habermann, D.")
 
 <!-- -->
 
+<br /> 
+<br /> 
+
+## Past Projects {#past-projects}
+
+::: {.callout-note icon=false collapse="true"}
+## Simulation-Based Prior Distributions for Bayesian Models {#sbpriors}
+
+![](../images/simulation-based-priors.png){fig-alt="An illustration of the simulation-based prior workflow." fig-align="left"}
+
+Data-driven statistical modeling plays a crucial role in almost all quantitative
+sciences. Despite continuous increases in the amount of available data, the
+addition of further information sources, such as expert knowledge, often remains
+an irreplaceable part of setting up high-fidelity models. Grounded in
+probability theory, Bayesian statistics provides a principled approach to
+including expert knowledge in the form of prior distributions, a process called
+prior elicitation. However, prior elicitation for high-dimensional Bayesian
+models is infeasible with existing methods due to practical and computational
+challenges. With the goal of solving these challenges, we propose to develop
+simulation-based priors for high-dimensional Bayesian models that allow to
+incorporate prior information elicited on any model-implied quantities. We
+expect the developed methods to have a major impact on all fields applying
+probabilistic modeling by making the use of expert knowledge practical, robust,
+and computationally feasible.
+
+Overarching Topics: 
+[Prior Specification](../research#prior-specification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Amortized Inference](../research#abi){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+Project Members: [Florence Bockting](https://florence-bockting.github.io){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+Funders: 
+[TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+Funding Period: 2022 -- 2025
+
+Publications: 
+
+```{r}
+#| echo: false
+#| output: asis
+render_publications(project = "sbpriors", author = "Bockting, F.")
+```
+
+:::
+
+<!-- -->
+
+::: {.callout-note icon=false collapse="true"}
 ## Bayesian Distributional Latent Variable Models {#bdlvms}
 
 ![](../images/distributional_SEMs.png){fig-alt="An illustration of distributional SEMs." fig-align="left"}
@@ -218,7 +313,7 @@ Overarching Topics:
 [Machine-Assisted Workflows](../research#machine-workflow){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Project Members: [Luna Fazio](../people#luna-fazio){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+Project Members: [Luna Fazio](https://lunafazio.github.io){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funders: 
 [German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -234,50 +329,11 @@ Publications:
 render_publications(project = "bdlvms", author = "Fazio, L.")
 ```
 
-<!-- -->
-
-## Simulation-Based Prior Distributions for Bayesian Models {#sbpriors}
-
-![](../images/simulation-based-priors.png){fig-alt="An illustration of the simulation-based prior workflow." fig-align="left"}
-
-Data-driven statistical modeling plays a crucial role in almost all quantitative
-sciences. Despite continuous increases in the amount of available data, the
-addition of further information sources, such as expert knowledge, often remains
-an irreplaceable part of setting up high-fidelity models. Grounded in
-probability theory, Bayesian statistics provides a principled approach to
-including expert knowledge in the form of prior distributions, a process called
-prior elicitation. However, prior elicitation for high-dimensional Bayesian
-models is infeasible with existing methods due to practical and computational
-challenges. With the goal of solving these challenges, we propose to develop
-simulation-based priors for high-dimensional Bayesian models that allow to
-incorporate prior information elicited on any model-implied quantities. We
-expect the developed methods to have a major impact on all fields applying
-probabilistic modeling by making the use of expert knowledge practical, robust,
-and computationally feasible.
-
-Overarching Topics: 
-[Prior Specification](../research#prior-specification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Amortized Inference](../research#abi){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-Project Members: [Florence Bockting](../people#florence-bockting){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-Funders: 
-[TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-Funding Period: 2022 -- 2025
-
-Publications: 
-
-```{r}
-#| echo: false
-#| output: asis
-render_publications(project = "sbpriors", author = "Bockting, F.")
-```
+:::
 
 <!-- -->
 
+::: {.callout-note icon=false collapse="true"}
 ## Probabilistic Models for Single-Cell RNA Sequencing Data {#scrna-models}
 
 ![](../images/latent-derivative-gps.png){fig-alt="An illustration of our latent derivative Gaussian process framework." fig-align="left"}
@@ -302,7 +358,7 @@ Overarching Topics:
 [Latent Variable Modeling](../research#lvm){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Project Members: [Soham Mukherjee](../people#soham-mukherjee){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+Project Members: [Soham Mukherjee](https://www.linkedin.com/in/soham-mukherjee-33a397146){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Co-Supervisors: [Manfred Claassen](https://claassenlab.github.io/people/manfred-claassen/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
@@ -320,61 +376,9 @@ Publications:
 render_publications(project = "scrna-models", author = "Mukherjee, S.")
 ```
 
-<!-- -->
-
-## Intuitive Joint Priors for Bayesian Multilevel Models {#joint-priors-mlms}
-
-![](../images/coef_r2d2_marginal.png){fig-alt="Marginal densities of the R2D2 prior's coefficients."}
-
-Regression models are ubiquitous in the quantitative sciences making up a big
-part of all statistical analysis performed on data. In the quantitative
-sciences, data often contains multilevel structure, for example, because of
-natural groupings of individuals or repeated measurement of the same
-individuals. Multilevel models (MLMs) are designed specifically to account for
-the nested structure in multilevel data and are a widely applied class of
-regression models. From a Bayesian perspective, the widespread success of MLMs
-can be explained by the fact that they impose joint priors over a set of
-parameters with shared hyper-parameters, rather than separate independent priors
-for each parameter. However, in almost all state-of-the-art approaches,
-different additive regression terms in MLMs, corresponding to different
-parameter sets, still receive mutually independent priors. As more and more
-terms are being added to the model while the number of observations remains
-constant, such models will overfit the data. This is highly problematic as it
-leads to unreliable or uninterpretable estimates, bad out-of-sample predictions,
-and inflated Type I error rates.
-
-To solve these challenges, this project aims to develop, evaluate, implement,
-and apply intuitive joint priors for Bayesian MLMs. We hypothesize that our
-developed priors will enable the reliable and interpretable estimation of much
-more complex Bayesian MLMs than was previously possible.
-
-Overarching Topics: 
-[Prior Specification](../research#prior-specification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-Project Members: [Javier Aguilar](../people#javier-aguilar){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-Funders: 
-[German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[University of Stuttgart](https://www.uni-stuttgart.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-
-Funding Period: 2021 -- 2025
-
-Publications:
-
-```{r}
-#| echo: false
-#| output: asis
-render_publications(project = "joint-priors-mlms", author = "Aguilar, J. E.")
-```
+:::
 
 <!-- -->
-
-<br /> 
-<br /> 
-
-## Past Projects {#past-projects}
 
 ::: {.callout-note icon=false collapse="true"}
 ## Data-Integrated Training of Surrogate Models for Uncertainty Quantification {#uncertainty-surrogate-models}
@@ -478,6 +482,58 @@ render_publications(project = "mu-bmc", author = "Schmitt, M.")
 Software:
 
 - ggsimplex: Simplex visualizations with ggplot2 [GitHub](https://github.com/marvinschmitt/ggsimplex){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+:::
+
+<!-- -->
+
+::: {.callout-note icon=false collapse="true"}
+## Intuitive Joint Priors for Bayesian Multilevel Models {#joint-priors-mlms}
+
+![](../images/coef_r2d2_marginal.png){fig-alt="Marginal densities of the R2D2 prior's coefficients."}
+
+Regression models are ubiquitous in the quantitative sciences making up a big
+part of all statistical analysis performed on data. In the quantitative
+sciences, data often contains multilevel structure, for example, because of
+natural groupings of individuals or repeated measurement of the same
+individuals. Multilevel models (MLMs) are designed specifically to account for
+the nested structure in multilevel data and are a widely applied class of
+regression models. From a Bayesian perspective, the widespread success of MLMs
+can be explained by the fact that they impose joint priors over a set of
+parameters with shared hyper-parameters, rather than separate independent priors
+for each parameter. However, in almost all state-of-the-art approaches,
+different additive regression terms in MLMs, corresponding to different
+parameter sets, still receive mutually independent priors. As more and more
+terms are being added to the model while the number of observations remains
+constant, such models will overfit the data. This is highly problematic as it
+leads to unreliable or uninterpretable estimates, bad out-of-sample predictions,
+and inflated Type I error rates.
+
+To solve these challenges, this project aims to develop, evaluate, implement,
+and apply intuitive joint priors for Bayesian MLMs. We hypothesize that our
+developed priors will enable the reliable and interpretable estimation of much
+more complex Bayesian MLMs than was previously possible.
+
+Overarching Topics: 
+[Prior Specification](../research#prior-specification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+Project Members: [Javier Aguilar](https://jear2412.github.io){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+Funders: 
+[German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[University of Stuttgart](https://www.uni-stuttgart.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+Funding Period: 2021 -- 2026
+
+Publications:
+
+```{r}
+#| echo: false
+#| output: asis
+render_publications(project = "joint-priors-mlms", author = "Aguilar, J. E.")
+```
+
 :::
 
 <!-- -->

@@ -91,74 +91,6 @@ Project: [Applications of Amortized Bayesian Inference ](../projects#abi-applica
 
 ## PhD Students
 
-<!-- Javier Aguilar -->
-
-::: {.grid}
-::: {.g-col-12 .g-col-md-3}
-<br /> 
-![](../images/javier-aguilar.png){width=100% fig-alt="A portrait of Javier Aguilar."}
-:::
-::: {.g-col-12 .g-col-md-9}
-Javier Aguilar {#javier-aguilar}
----
-
-Background: Mathematics and Statistics
-
-Project: [Intuitive Joint Priors for Bayesian Multilevel Models](../projects#joint-priors-mlms)
-
-[Email](mailto:javier.aguilarr@icloud.com){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Personal Website](https://jear2412.github.io){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[GitHub](https://github.com/jear2412){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-:::
-:::
-
----
-
-<!-- Florence Bockting -->
-
-::: {.grid}
-::: {.g-col-12 .g-col-md-3}
-<br /> 
-![](../images/florence-bockting.png){width=100% fig-alt="A portrait of Florence Bockting."}
-:::
-::: {.g-col-12 .g-col-md-9}
-Florence Bockting {#florence-bockting}
----
-
-Background: Cognitive Science and Psychology
-
-Project: [Simulation-Based Prior Distributions for Bayesian Models](../projects#sbpriors)
-
-[Email](mailto:florence.bockting@tu-dortmund.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Personal Website](https://florence-bockting.github.io){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[GitHub](https://github.com/florence-bockting){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-:::
-:::
-
----
-
-<!-- Luna Fazio -->
-
-::: {.grid}
-::: {.g-col-12 .g-col-md-3}
-<br /> 
-![](../images/luna-fazio.png){width=100% fig-alt="A portrait of Luna Fazio."}
-:::
-::: {.g-col-12 .g-col-md-9}
-Luna Fazio {#luna-fazio}
----
-
-Background: Biology and Statistics
-
-Project: [Bayesian Distributional Latent Variable Models](../projects#bdlvms)
-
-[Email](mailto:bmfaziol@gmail.com){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[GitHub](https://github.com/lunafazio){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-:::
-:::
-
----
-
 <!-- Svenja Jedhoff -->
 
 ::: {.grid}
@@ -229,31 +161,6 @@ Project: [Semi-Supervised Learning for Robust Amortized Bayesian Inference](../p
 
 ---
 
-<!-- Soham Mukherjee -->
-
-::: {.grid}
-::: {.g-col-12 .g-col-md-3}
-<br /> 
-![](../images/soham-mukherjee.png){width=100% fig-alt="A portrait of Soham Mukherjee."}
-:::
-::: {.g-col-12 .g-col-md-9}
-Soham Mukherjee {#soham-mukherjee}
----
-
-Background: Statistics
-
-Project: [Probabilistic Models for Single-Cell RNA Sequencing Data](../projects#scrna-models)
-
-Co-Supervisor: [Manfred Claassen](https://claassenlab.github.io/people/manfred-claassen/)
-
-[Email](mailto:soham.mukherjee@tu-dortmund.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[University Website](https://claassenlab.github.io/people/soham-mukherjee/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Linkedin](https://www.linkedin.com/in/soham-mukherjee-33a397146){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-:::
-:::
-
----
-
 <!-- Hans Olischlaeger -->
 
 ::: {.grid}
@@ -267,9 +174,7 @@ Hans Olischläger {#hans-olischlaeger}
 
 Background: Physics
 
-<!--
-Project: [TODO](../projects#TODO)
--->
+Project: [Deep Bayes in Biomedicine](../projects#deep-bayes-biomed)
 
 [Email](mailto:hans.olischlaeger@tu-dortmund.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [GitHub](https://github.com/han-ol){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -292,9 +197,7 @@ Yiming Zang {#yiming-zang}
 
 Background: Mathematics and Data Science
 
-<!--
-Project: [TODO](../projects#TODO)
--->
+Project: [Deep Bayes in Biomedicine](../projects#deep-bayes-biomed)
 
 [Email](mailto:yiming.zang@tu-dortmund.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 :::
@@ -308,6 +211,22 @@ Project: [TODO](../projects#TODO)
 
 ::: {.callout-note icon=false collapse="true"}
 ## Alumni
+
+- Javier Aguilar (2021--2026).
+[Website](https://jear2412.github.io){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Project](../projects#joint-priors-mlms){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Florence Bockting (2022--2025). 
+[Website](https://florence-bockting.github.io){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Project](../projects#sbpriors){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Luna Fazio (2022--2025).
+[Website](https://lunafazio.github.io){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Project](../projects#bdlvms){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+- Soham Mukherjee (2022--2025).
+[Linkedin](https://www.linkedin.com/in/soham-mukherjee-33a397146){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Project](../projects#scrna-models){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - Philipp Reiser (2022--2025). 
 [LinkedIn](https://de.linkedin.com/in/philipp-reiser-a33163165){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}

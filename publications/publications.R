@@ -45,7 +45,9 @@ render_publications <- function(year = NULL, author = "Bürkner, P. C.", bold_au
 
     # Bold name
     if (!is.null(bold_author)) {
-      authors <- gsub(bold_author, paste0("**", bold_author, "**"), authors)
+      for (ba in bold_author) {
+        authors <- gsub(ba, paste0("**", ba, "**"), authors)
+      }
     }
 
     # display "in review" and "accepted" status
