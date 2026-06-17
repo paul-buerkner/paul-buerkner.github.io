@@ -23,6 +23,11 @@ Invited talk: *Bayes in the Age of Machine Learning*.
 Presented at [QUAMU Conference](https://www.uni-bielefeld.de/forschung/profil/fokusbereiche/quamu/).
 [Slides](pdf/bayes_in_the_age_of_machine_learning.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- **Olischläger H.**, Radev S. T., & Bürkner P. C. (2026).
+Poster: *A plugin ecosystem of benchmarks for simulation-based inference*.
+Presented at [Workshop on Open Challenges in Simulation-Based Inference](https://events.hifis.net/event/3955/abstracts/).
+[Poster](pdf/abibench_poster.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - **Mishra A.**, Habermann D., Schmitt M., Radev S. T., & Bürkner P. C. (2026). 
 Poster: *Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data*.
 Presented at [International Conference on Learning Representations (ICLR)](https://iclr.cc/).
