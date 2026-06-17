@@ -23,13 +23,20 @@ Invited talk: *Bayes in the Age of Machine Learning*.
 Presented at [QUAMU Conference](https://www.uni-bielefeld.de/forschung/profil/fokusbereiche/quamu/).
 [Slides](pdf/bayes_in_the_age_of_machine_learning.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- **Mishra A.**, Habermann D., Schmitt M., Radev S. T., & Bürkner P. C. (2026). 
+Poster: *Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data*.
+Presented at [International Conference on Learning Representations (ICLR)](https://iclr.cc/).
+[Poster](pdf/ICLR_SC_ABI_poster.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Paper](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - Mishra A., Habermann D., Schmitt M., Radev S. T., & **Bürkner P. C.** (2025). 
 Invited talk: *Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data*.
 Presented at [ELLIS UnConference](https://eurips.cc/ellis/).
 [Slides](pdf/SC_loss_real_data2.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Paper](https://arxiv.org/abs/2501.13483){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-- **Jedhoff S.** & Bürkner P. C. (2025). Poster: *From Mice to Trains:
+- **Jedhoff S.** & Bürkner P. C. (2025). 
+Poster: *From Mice to Trains:
 Amortized Bayesian Inference on Graph Data*.
 Presented at [ELLIS UnConference](https://eurips.cc/ellis/).
 [Poster](pdf/poster_graph_ABI.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
