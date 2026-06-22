@@ -74,12 +74,12 @@ render_publications <- function(year = NULL, author = "Bürkner, P. C.", bold_au
     }
     # all other buttons use standard urls
     links <- c(
-      "JOURNAL", "CONFERENCE", "PREPRINT", "WEBSITE", 
+      "JOURNAL", "CONFERENCE", "PUBLISHER", "PREPRINT", "WEBSITE", 
       "SOFTWARE", "CODEDATA", "CODE", "DATA", "TALK"
     )
     links <- paste0(links, "LINK")
     names <- c(
-      "Journal", "Conference", "Preprint", "Website", 
+      "Journal", "Conference", "Publisher", "Preprint", "Website", 
       "Software", "Code & Data", "Code", "Data", "Talk"
     )
     stopifnot(length(links) == length(names))
