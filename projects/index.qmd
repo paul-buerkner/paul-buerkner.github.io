@@ -165,7 +165,7 @@ Publications:
 ```{r}
 #| echo: false
 #| output: asis
-render_publications(project = "bayesflow-sim-intelligence", author = "Kühmichel, L.")
+render_publications(project = "bayesflow-sim-intelligence", author = c("Kühmichel, L.", "Olischläger, H."))
 ```
 
 <!-- -->
