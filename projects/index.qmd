@@ -54,7 +54,7 @@ Publications:
 ```{r}
 #| echo: false
 #| output: asis
-render_publications(project = "deep-bayes-biomed", author = c("Zang, Y.", "Olischläger, H."))
+# render_publications(project = "deep-bayes-biomed", author = c("Zang, Y."))
 ```
 
 <!-- -->
