@@ -42,7 +42,6 @@ Overarching Topics:
 
 Project Members: 
 [Yiming Zang](../people#yiming-zang){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
-[Hans Olischläger](../people#Hans-olischlaeger){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funders: 
 [MERCUR Foundation](https://www.uaruhr.de/en/research/research-support/mercur-project-funding/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
@@ -153,11 +152,13 @@ Overarching Topics:
 
 Project Members: 
 [Lars Kühmichel](../people#lars-kuehmichel){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Hans Olischläger](../people#Hans-olischlaeger){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 Funders: 
 [German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[TU Dortmund University](https://www.tu-dortmund.de/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
-Funding Period: 2024 -- 2027
+Funding Period: 2024 -- 2028
 
 Publications:
 

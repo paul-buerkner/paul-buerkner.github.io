@@ -174,7 +174,7 @@ Hans Olischläger {#hans-olischlaeger}
 
 Background: Physics
 
-Project: [Deep Bayes in Biomedicine](../projects#deep-bayes-biomed)
+Project: [BayesFlow: Simulation Intelligence with Deep Learning](../projects#bayesflow-sim-intelligence)
 
 [Email](mailto:hans.olischlaeger@tu-dortmund.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [GitHub](https://github.com/han-ol){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
