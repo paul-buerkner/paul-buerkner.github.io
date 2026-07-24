@@ -23,6 +23,11 @@ Invited talk: *Bayes in the Age of Machine Learning*.
 Presented at [QUAMU Conference](https://www.uni-bielefeld.de/forschung/profil/fokusbereiche/quamu/).
 [Slides](pdf/bayes_in_the_age_of_machine_learning.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
+- **Jedhoff S.**, Riha A. E., Bürkner P. C., & Vehtari A. (2026).
+Poster: *Approximating Bayesian leave-one-group-out cross-validation*.
+Presented at [Cambridge Ellis Unit Summer School on Probabilistic Machine Learning](https://www.ellis.eng.cam.ac.uk/summer-school/).
+[Poster](pdf/LOGO_CV_poster.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - **Olischläger H.**, Radev S. T., & Bürkner P. C. (2026).
 Poster: *A plugin ecosystem of benchmarks for simulation-based inference*.
 Presented at [Workshop on Open Challenges in Simulation-Based Inference](https://events.hifis.net/event/3955/abstracts/).
@@ -45,6 +50,7 @@ Poster: *From Mice to Trains:
 Amortized Bayesian Inference on Graph Data*.
 Presented at [ELLIS UnConference](https://eurips.cc/ellis/).
 [Poster](pdf/poster_graph_ABI.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Paper](https://arxiv.org/abs/2601.02241){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
 - **Mukherjee, S.**, Claassen, M., & Bürkner, P. C. (2025). Contributed talk: *DGP-LVM: Derivative Gaussian process latent variable models*. 
 Presented at [RSS International Conference](https://rss.org.uk/training-events/conference-2025/).
