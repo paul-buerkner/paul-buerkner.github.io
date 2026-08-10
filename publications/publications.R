@@ -85,8 +85,10 @@ render_publications <- function(year = NULL, author = "Bürkner, P. C.", bold_au
     stopifnot(length(links) == length(names))
     for (i in seq_along(links)) {
       if (!anyNA(pub[[links[i]]])) {
-        cat(sprintf(paste0("[", names[i], "](%s){.btn .btn-outline-primary .btn role=\"button\" .btn-page-header .btn-xs}\n"), 
-        pub[[links[i]]]))
+        # bib2df may accidentally add spaces in urls around = for example
+        url <- gsub(" ", "", pub[[links[i]]], fixed = TRUE)
+        cat(sprintf("[%s](%s){.btn .btn-outline-primary .btn role=\"button\" .btn-page-header .btn-xs}\n", 
+          names[i], url))
       }
     }
 
