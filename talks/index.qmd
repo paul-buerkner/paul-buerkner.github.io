@@ -9,7 +9,7 @@ along with slides, paper references, and recordings when available.
 Presenters are highlighted in **bold**.
 
 - Fazio L. & **Bürkner P. C.** (2026). 
-Keynote: *Bayesian Distributional Structural Equation Modeling*.
+Contributed talk: *Bayesian Distributional Structural Equation Modeling*.
 Presented at [StanCon](https://www.stancon2026.org/).
 [Slides](pdf/distributional_SEM.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 
