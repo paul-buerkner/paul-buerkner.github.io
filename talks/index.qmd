@@ -8,6 +8,11 @@ Below you can find a list of selected talks and posters of me and my group,
 along with slides, paper references, and recordings when available.
 Presenters are highlighted in **bold**.
 
+- Fazio L. & **Bürkner P. C.** (2026). 
+Keynote: *Bayesian Distributional Structural Equation Modeling*.
+Presented at [StanCon](https://www.stancon2026.org/).
+[Slides](pdf/distributional_SEM.pdf){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
 - **Bürkner P. C.** (2026). 
 Keynote: *Amortized Bayesian Inference for Multilevel Models*.
 Presented at [Multilevel Conference](https://multilevel.fss.uu.nl/).
