@@ -53,6 +53,8 @@ Background: Computational Biology
 
 Project: [Amortized Bayesian Inference for Multilevel Models](../projects#amortized-mlms) 
 
+Co-Supervisor: [Martin Modrák](https://www.martinmodrak.cz/)
+
 [Email](mailto:daniel.habermann@tu-dortmund.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [Personal Website](https://daniel-habermann.de){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
 [GitHub](https://github.com/daniel-habermann){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
