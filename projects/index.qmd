@@ -16,6 +16,44 @@ source("../publications/publications.R")
 Here you can find an overview of my current research projects. A list
 of past research projects can be found at the [bottom of this page](#past-projects). 
 
+## grammo: A grammar of probabilistic models {#grammo}
+
+This project aims to design and implement grammo: a novel mid-level grammar 
+for expressing Bayesian statistical models. Grammo will provide substantially more flexibility, 
+reusability and transparency than state-of-the-art high-level statistical packages while staying much more
+concise and accessible than low-level probabilistic programming languages. Beyond theoretical
+analysis of its properties, the usability of grammo will be evaluated with human users.
+We will then develop new methods for automatic and computer-assisted analysis, manipulation
+and debugging of probabilistic programs, using grammo as a testbed. Further, grammo will
+allow us to research several classes of complex models that are currently rarely used due to
+difficulties in their specification. This includes various forms of joint models combining multiple
+data-generating mechanisms in a single model with shared parameters as well as time-to-event
+models and non-standard structural equation models. We will then develop workflows and
+supporting tools for those models including prior choice, model validation and selection.
+
+Overarching Topics: 
+[Machine-Assisted Workflows](../research#machine-workflow){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Uncertainty Quantification](../research#uncertainty-quantification){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+Project Members: 
+[Daniel Habermann](../people#daniel-habermann){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+Funders: 
+[German Research Foundation (DFG)](https://www.dfg.de/en/index.jsp){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+[Czech Science Foundation (GACR)](https://gacr.cz/en/){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+Funding Period: 2026 -- 2029
+
+<!-- Publications: -->
+
+```{r}
+#| echo: false
+#| output: asis
+# render_publications(project = "grammo", author = c("Habermann, D."))
+```
+
+<!-- -->
+
 ## Deep Bayes in Biomedicine {#deep-bayes-biomed}
 
 Progress in biomedical research is limited by three challenges: (1) the systems we study, like
@@ -49,7 +87,7 @@ Funders:
 
 Funding Period: 2026 -- 2029
 
-Publications:
+<!-- Publications: -->
 
 ```{r}
 #| echo: false
@@ -202,6 +240,12 @@ render_publications(project = "abi-applications", author = "Kucharský, Š.")
 
 <!-- -->
 
+<br /> 
+<br /> 
+
+## Past Projects {#past-projects}
+
+::: {.callout-note icon=false collapse="true"}
 ## Amortized Bayesian Inference for Multilevel Models {#amortized-mlms}
 
 ![](../images/mlm_overview.png){fig-alt="An illustration of amortized multilevel models." fig-align="left"}
@@ -231,12 +275,9 @@ Publications:
 render_publications(project = "amortized-mlms", author = "Habermann, D.")
 ```
 
+:::
+
 <!-- -->
-
-<br /> 
-<br /> 
-
-## Past Projects {#past-projects}
 
 ::: {.callout-note icon=false collapse="true"}
 ## Simulation-Based Prior Distributions for Bayesian Models {#sbpriors}
