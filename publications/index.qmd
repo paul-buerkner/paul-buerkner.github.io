@@ -21,13 +21,15 @@ source("publications.R")
 render_publications(status = "in review")
 ```
 
+<!--
 ## Accepted
 
 ```{r}
 #| echo: false
 #| output: asis
-render_publications(status = "accepted")
+# render_publications(status = "accepted")
 ```
+-->
 
 ## 2026
 
