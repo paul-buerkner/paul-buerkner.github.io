@@ -44,15 +44,14 @@ Funders:
 
 Funding Period: 2026 -- 2029
 
-<!-- Publications: -->
+Publications:
 
 ```{r}
 #| echo: false
 #| output: asis
-# render_publications(project = "grammo", author = c("Habermann, D."))
+render_publications(project = "grammo", author = c("Habermann, D."))
 ```
 
-<!-- -->
 
 ## Deep Bayes in Biomedicine {#deep-bayes-biomed}
 
